@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "e9d07277c1fb03e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c44eec0efa5cc4ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "755630d902789c37",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Eldoria - Time Line.canvas",
+                "viewState": {
+                  "x": 3670,
+                  "y": 1780.961764705882,
+                  "zoom": -3.8606123172407423
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d802772905a31372",
+    "type": "split",
+    "children": [
+      {
+        "id": "48e653ab8f902d93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9f80785f8c79d87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26e4dd79afcbf082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c64e07bd51dcfed0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22f80f522ec77fbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "dca481d992f048c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dce01f9de39d0d1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eldoria - Time Line.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9169a5ccf312c19f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eldoria - Time Line.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2454637b69a647c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19a4014841c8e683",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Eldoria - Time Line.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "755630d902789c37",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md"
+  ]
+}
