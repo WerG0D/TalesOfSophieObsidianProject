@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"8b36fe595465ece9","x":-580,"y":-320,"width":380,"height":300,"type":"text","text":"## Mecanicas de sanidade\n\n * Player começa com 100 de sanidade \n\t * Sanidade reduz conforme o player tem encontro com coisas bizarras, ou coisas relacionadas ao mar. Ter partes do corpo desmembradas também reduz a sanidade\n\t * Sanidade chegar a 0, o jogo finaliza com um bad ending "},
+		{"id":"8971499ad867571a","x":-545,"y":60,"width":310,"height":208,"type":"file","file":"Pasted image 20240504144225.png"},
+		{"id":"ca538ee31df0cf0c","x":-100,"y":-320,"width":300,"height":120,"type":"text","text":"## Mecanicas de combate"},
+		{"id":"17e8c08be902bc4b","x":260,"y":-132,"width":274,"height":400,"type":"file","file":"Pasted image 20240504145227.png"},
+		{"id":"67787a60e5481587","x":260,"y":-320,"width":274,"height":120,"type":"text","text":"# Recursos e sobrevivencia"},
+		{"id":"766169947e6a2c9f","x":-545,"y":360,"width":310,"height":260,"type":"text","text":"# Elementos de mapa\n\n"},
+		{"id":"2cda70e5ce3a9be4","x":-100,"y":-132,"width":300,"height":438,"type":"text","text":"## Mecanicas de desmembramento \n\n* Cada parte do corpo do personagem possui uma hurtbox, com hp definido. \n\t* O hp de um membro chegar a 0, o membro será removido, alterando métodos e sprites do player\n\t"}
+	],
+	"edges":[
+		{"id":"5bd5326f9f65c8fa","fromNode":"8b36fe595465ece9","fromSide":"bottom","toNode":"8971499ad867571a","toSide":"top"},
+		{"id":"7b5c6b914574f60a","fromNode":"8b36fe595465ece9","fromSide":"right","toNode":"2cda70e5ce3a9be4","toSide":"left"},
+		{"id":"9eaa6050079ea547","fromNode":"2cda70e5ce3a9be4","fromSide":"right","toNode":"17e8c08be902bc4b","toSide":"left"}
+	]
+}

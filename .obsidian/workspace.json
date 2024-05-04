@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Eldoria - Time Line.canvas",
+                "file": "Workflow.canvas",
                 "viewState": {
-                  "x": 3670,
-                  "y": 1780.961764705882,
-                  "zoom": -3.8606123172407423
+                  "x": 99.17181203023858,
+                  "y": 250.23700191860314,
+                  "zoom": -0.6666666666666667
                 }
               }
             }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Elementos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eldoria - Time Line.canvas",
+                "file": "Workflow.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eldoria - Time Line.canvas",
+                "file": "Workflow.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eldoria - Time Line.canvas"
+                "file": "Workflow.canvas"
               }
             }
           }
@@ -151,6 +152,10 @@
   },
   "active": "755630d902789c37",
   "lastOpenFiles": [
+    "Pasted image 20240504145227.png",
+    "Pasted image 20240504144225.png",
+    "Eldoria - Time Line.canvas",
+    "Workflow.canvas",
     "conflict-files-obsidian-git.md"
   ]
 }
