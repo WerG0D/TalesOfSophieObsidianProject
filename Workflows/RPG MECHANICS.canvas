@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"df1eb4a8d5f0df49","x":-640,"y":-660,"width":300,"height":580,"type":"text","text":"# Base status\n\n* Hp: Hitpoints.\n* FORÇA: Define o dano tamanho do inventário\n* AGILIDADE: Define a velocidade de movimento e tamanho do pulo\n* HUMANIDADE: Começa em 100, serve para adicionar um cap na quantidade de próteses que o personagem pode carregar\n* SANIDADE : O atributo de sanidade\n* CARISMA: Ajuda na possibilidade de conseguir diálogos únicos e melhores preços na loja\n* FÉ: Rege a quantidade de mana e o dano das magias"},
+		{"id":"199cea58ad4f4d5d","x":-300,"y":-660,"width":300,"height":180,"type":"text","text":"# Dice rolls\n\nAdicionar sistema de rolagem de dados, para incorporar o elemento de sorte no jogo.\n\n"}
+	],
+	"edges":[]
+}

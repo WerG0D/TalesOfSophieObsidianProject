@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "c44eec0efa5cc4ef",
+        "id": "87267c7070df05eb",
         "type": "tabs",
         "children": [
           {
-            "id": "755630d902789c37",
+            "id": "b241eeddccd688f9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Workflow.canvas",
+                "file": "Workflows/Combat Mechanics.canvas",
                 "viewState": {
-                  "x": 99.17181203023858,
-                  "y": 250.23700191860314,
-                  "zoom": -0.6666666666666667
+                  "x": -727.5,
+                  "y": 20,
+                  "zoom": -0.19339472464198007
+                }
+              }
+            }
+          },
+          {
+            "id": "d07e135e8eb584c7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Workflows/Core Mechanics.canvas",
+                "viewState": {
+                  "x": 400,
+                  "y": 100.00000000000004,
+                  "zoom": -0.12278201804316953
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Elementos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,12 +84,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22f80f522ec77fbe",
@@ -89,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow.canvas",
+                "file": "Workflows/Core Mechanics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workflow.canvas",
+                "file": "Workflows/Core Mechanics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workflow.canvas"
+                "file": "Workflows/Core Mechanics.canvas"
               }
             }
           }
@@ -150,12 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "755630d902789c37",
+  "active": "d07e135e8eb584c7",
   "lastOpenFiles": [
-    "Pasted image 20240504145227.png",
-    "Pasted image 20240504144225.png",
-    "Eldoria - Time Line.canvas",
-    "Workflow.canvas",
+    "Workflows/Combat Mechanics.canvas",
+    "Workflows/RPG MECHANICS.canvas",
+    "Workflows/Core Mechanics.canvas",
+    "Workflows",
+    "Images/Pasted image 20240504145227.png",
+    "Images/Pasted image 20240504144225.png",
+    "Eldoria/Eldoria - Time Line.canvas",
     "conflict-files-obsidian-git.md"
   ]
 }
