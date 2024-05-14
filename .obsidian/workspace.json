@@ -15,7 +15,7 @@
               "state": {
                 "file": "Workflows/RPG MECHANICS.canvas",
                 "viewState": {
-                  "x": -320,
+                  "x": -300,
                   "y": -370,
                   "zoom": 0
                 }
@@ -30,14 +30,15 @@
               "state": {
                 "file": "Workflows/Core Mechanics.canvas",
                 "viewState": {
-                  "x": 400,
-                  "y": 100.00000000000004,
-                  "zoom": -0.12278201804316953
+                  "x": 251.31062303523157,
+                  "y": 483.79484782765644,
+                  "zoom": 0.21055131529016385
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflows/RPG MECHANICS.canvas",
+                "file": "Workflows/Core Mechanics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workflows/RPG MECHANICS.canvas",
+                "file": "Workflows/Core Mechanics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workflows/RPG MECHANICS.canvas"
+                "file": "Workflows/Core Mechanics.canvas"
               }
             }
           }
@@ -164,12 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b241eeddccd688f9",
+  "active": "d07e135e8eb584c7",
   "lastOpenFiles": [
-    "Workflows/Platform mechanics.canvas",
     "Workflows/RPG MECHANICS.canvas",
-    "Workflows/Combat Mechanics.canvas",
     "Workflows/Core Mechanics.canvas",
+    "Workflows/Combat Mechanics.canvas",
+    "Workflows/Platform mechanics.canvas",
     "Workflows",
     "Images/Pasted image 20240504145227.png",
     "Images/Pasted image 20240504144225.png",
