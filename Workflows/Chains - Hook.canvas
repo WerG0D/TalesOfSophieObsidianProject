@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ea1ba15d0d19c150","x":-700,"y":-380,"width":320,"height":220,"type":"text","text":"# Locomoção pelo cenário\nO hook pode ser usado para se locomover no cenário, podendo grudar em quase todos os tiles com física, e puxar "},
+		{"id":"ecc1d2274a36505b","x":-360,"y":-400,"width":340,"height":280,"type":"text","text":"# Puxar objetos / Se arremessar \n\n> botão de hook()\n> Esperar Input\n> Input de puxar: puxa o objeto\n> Input de se arremessar: se arremessa em direção ao objeto\n> Se nada for inputado: swing()"}
+	],
+	"edges":[]
+}
