@@ -4,6 +4,7 @@ Radilhantes podem ser encontrados em vários locais da [[Árvore Anciã]], mas e
 
 Radilhantes são em geral, estudantes de magia que aprenderam a manipular a energia vital da Árvore para o bem estar deles, modificando partes da estrutura da Árvore conforme for necessário. Eles também se consideram os guardiões da Árvore, não deixando ninguém mal intencionado subir.
 
+Radilhantes respondem diretamente ao governo de Thalassar, seja o governo antigo ou ao novo governo regente pós Éter, servindo como cobradores de impostos das outras tribos. 
 ## História de criação:
 
 O primeiro Radilhante foi Agnar Zucker, um discípulo e amigo de [[Aerion, o Soberano dos Céus]]. Ao concluir seu treinamento em magia, Aerion destinou Agnar ao pé da Árvore, para defender as raízes e estudar mais a essência da árvore. Agnar obedeceu fielmente a tarefa, passando o dever de defender a Árvore a seus filhos e filhas
@@ -13,7 +14,7 @@ Um dia, Agnar estava visitando [[As raizes profundas]], quando se deparou com a 
 
 ## Estrutura Política:
 
-Os Radilhantes são governados por um Conselho dos Arcanos, composto por mestres mágicos e estudiosos que lideram a comunidade em busca de conhecimento e sabedoria. O líder do conselho, conhecido como o Arcano Supremo, é responsável por orientar a tribo em assuntos mágicos e tomar decisões importantes em nome do povo.
+Os Radilhantes são governados por um Conselho dos Arcanos, composto por mestres mágicos e estudiosos que lideram a comunidade em busca de conhecimento e sabedoria. O líder do conselho, conhecido como o Arquimago, é responsável por orientar a tribo em assuntos mágicos e tomar decisões importantes em nome do povo.
 
 ## Cultura:
 

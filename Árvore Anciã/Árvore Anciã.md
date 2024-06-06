@@ -14,4 +14,5 @@ A árvore anciã é tão grande que habita diversos povos em seu corpo, sendo el
 
 Ao ver a Árvore anciã de longe, a primeira coisa a se notar é o gigantesco reino de Thalassar se estendendo por sua copa. 
 
+
 #ancienttree #eldoria #game-history #tales-of-sophie 
