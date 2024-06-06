@@ -4,4 +4,4 @@ Eles tinham um sistema de comunicação baseado em figuras geométricas e ideogr
 
 Esse reino era tecnologicamente avançado, sendo capaz de criar armas e equipamentos utilizando uma fusão de magia e ciência. 
 
-Um exemplo seria as asas de Lemnet, um equipamento capaz de fornecer voo ao portador.
+Um exemplo seria as asas de Lemnet, um equipamento capaz de fornecer voo ao portador, simulando o voo de aves. 
