@@ -1,6 +1,8 @@
 
 #### Resumo:
 Semideuses são humanos ascendidos a divindade por terem chamado atenção dos deuses do [[Panteão]] de Eldoria, recebendo a oportunidade de fazer a [[A jornada dos imortais]], consumindo partes do corpo dos deuses e adquirindo porcentagens do poder deles. 
+
+Semideuses podem fornecer 
 #### Semideuses do Mar:
 Geralmente, todos os semideuses do mar são humanos de alinhamento caótico mal, sendo responsáveis por tragédias ao longo da historia de Eldoria. Todos os semideuses que ascenderam a posição impressionaram [[Oathwert, O profundo]] de alguma maneira, sendo por astúcia ou atos de crueldade.
 
