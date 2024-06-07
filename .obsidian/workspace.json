@@ -8,26 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d07e135e8eb584c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RPG/Poder Hereditário/Cracanos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "175ffe6a26f302bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Personagens/Semideuses/Semideuses.md",
-                "mode": "source",
-                "source": false
+                "file": "Tales of Sophie/Design TODO.canvas",
+                "viewState": {
+                  "x": 697.5850256851254,
+                  "y": -106.22642127879584,
+                  "zoom": 0.06968877945031421
+                }
               }
             }
           },
@@ -37,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Semideuses/Terron, o Terror das profundezas..md",
+                "file": "Árvore Anciã/Thalassar/A revolta dos desesperados.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "22f80f522ec77fbe",
@@ -109,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Poder Hereditário/Cracanos.md",
+                "file": "Tales of Sophie/Design TODO.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Poder Hereditário/Cracanos.md",
+                "file": "Tales of Sophie/Design TODO.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Poder Hereditário/Cracanos.md"
+                "file": "Tales of Sophie/Design TODO.canvas"
               }
             }
           }
@@ -170,45 +162,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d07e135e8eb584c7",
+  "active": "175ffe6a26f302bc",
   "lastOpenFiles": [
+    "Tales of Sophie/Core Mechanics.canvas",
+    "Árvore Anciã/Thalassar/Thalassar - Visão Geral.canvas",
+    "Árvore Anciã/Thalassar/A revolta dos desesperados.md",
+    "Árvore Anciã/Thalassar/Thalassar.md",
+    "Personagens/Semideuses/Terron, o Terror das profundezas..md",
+    "Personagens/Semideuses/Semideuses.md",
+    "Árvore Anciã/Eldorsap.md",
+    "Árvore Anciã/Árvore Anciã.md",
+    "Árvore Anciã/Árvore Anciã - Visão Geral.canvas",
+    "Árvore Anciã/A jornada dos imortais.md",
+    "Árvore Anciã/Os Sussurradores/Os Raios de Sol.md",
+    "Árvore Anciã/Os Sussurradores/As raizes profundas.md",
+    "Árvore Anciã/Os Sussurradores/Os Sussurradores.md",
+    "Árvore Anciã/Os Radilhantes/Os Radilhantes.md",
+    "Árvore Anciã/Os Cracanos/Os Cracanos.md",
+    "Eldoria/Eldoria - Visão Geral.canvas",
+    "Eldoria/Eldoria - Time Line.canvas",
+    "Tales of Sophie/Chains - Hook.canvas",
+    "Tales of Sophie/Design TODO.canvas",
+    "Tales of Sophie/Tales of Sophie - Game History.md",
+    "RPG/Poder Hereditário/Cracanos.md",
+    "RPG/Poder Hereditário",
     "RPG/Classes/Magos.md",
     "RPG/Classes/Guerreiro.md",
-    "RPG/Poder Hereditário/Cracanos.md",
-    "RPG/Classes/Guerreiro",
-    "Personagens/Lord Bardolph Festejador.md",
-    "Personagens/Kael, O Sussurro.md",
-    "Panteão/A Guerra dos Divinos.md",
-    "Árvore Anciã/Os Radilhantes/Os Radilhantes.md",
-    "Árvore Anciã/A jornada dos imortais.md",
-    "RPG/Poder Hereditário/Cracanos",
-    "RPG/Poder Hereditário",
-    "RPG/Classes/Mago",
-    "RPG/Untitled.md",
     "RPG/Classes",
-    "RPG",
-    "Eldoria/Eldoria - Time Line.canvas",
-    "Árvore Anciã/Árvore Anciã.md",
+    "RPG/Tales Of Sophie RPG; Basic Rules/Untitled.canvas",
     "Árvore Anciã/Politica das tribos.md",
-    "Personagens/Semideuses/Semideuses.md",
     "RPG/Tales Of Sophie RPG; Professor Lemiux's Compendium of Aberrations and Monstrous Creatures",
     "RPG/Tales Of Sophie RPG; Eldoria Scenario",
     "RPG/Tales Of Sophie RPG; Basic Rules",
     "RPG",
+    "Personagens/Lord Bardolph Festejador.md",
     "Personagens/Lord Valerian, o Dourado.md",
     "Personagens/Nyx, o primeiro sacrificio.md",
     "Personagens/Professor Lemiux.md",
-    "Personagens/Semideuses/Terron, o Terror das profundezas..md",
     "Personagens/Semideuses/Solara, a Guardiã da Luz.md",
     "Personagens/Semideuses/Skylar, o Alado.md",
     "Eldoria/Primeiro reino humano/O reino primordial.md",
     "Personagens/Semideuses/Radagarst, o sombrio.md",
-    "Personagens/Semideuses/Maris, o Arquimago.md",
-    "Personagens/Semideuses/Lyra, a Cometa.md",
-    "Personagens/Semideuses/Corvin, o Caído..md",
-    "Personagens/Semideuses/Aerion, o Soberano dos Céus.md",
-    "Panteão/Aerathys, a antiga.md",
-    "Eldoria/O Pecado Capital.md",
     "Images/1a87890f43807829f2768e9fdd847176.jpg",
     "Workflows/RPG Mechanics.canvas",
     "Images/defa7fa5cb16db367d4aaefb20e08cd1.jpg",
@@ -220,9 +214,7 @@
     "Images/b9f3df8d49b6a1f54a7180a5e7ca1a66.jpg",
     "Images/a95c5211e9209b841d47df70e2ea4880.jpg",
     "Images/722009211399c570ff25fb66f2e85db4.jpg",
-    "Workflows/Chains - Hook.canvas",
-    "Workflows/Core Mechanics.canvas",
-    "Workflows/Combat Mechanics.canvas",
-    "Workflows/Platform mechanics.canvas"
+    "Tales of Sophie/Combat Mechanics.canvas",
+    "Workflows"
   ]
 }
