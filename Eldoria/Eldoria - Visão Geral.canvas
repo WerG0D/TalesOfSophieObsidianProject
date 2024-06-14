@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ef87c2cb48a88c2c","x":-720,"y":-390,"width":375,"height":280,"type":"text","text":"Mundo pós diluvio\n\nO continente de Eldoria, no período atual, se recupera de um diluvio que cobriu 80% da superfície da terra por alguns séculos. \n\nÉ comum ver construções assoladas por intemperismo oceânico (Lodo, rachaduras, algas secas, Corais mortos)  \n\n"},
+		{"id":"88b52d3a047e2c36","x":-742,"y":-50,"width":420,"height":280,"type":"text","text":"Vasto continente com inúmeros mistérios \n\nDevido ao diluvio, civilizações inteiras se apagaram, deixando apenas suas construções e alguns resquícios de sua existência.\n\nPoucas explicações são dadas sobre o acontecimento que assolou o mundo ou sobre como ele funciona, buscando remeter um ar de mistério em seus cenários."},
+		{"id":"8fdeccc1e82b1a64","x":-260,"y":-50,"width":340,"height":280,"type":"text","text":"Magia: Magia de natureza caótica e de natureza tecnológica \n\nO cenário possui magia em seu cerne completo, estando presente em várias partes do cotidiano.\n\nMuitas vezes essa magia é unida com tecnologia, possibilitando a existência de inúmeros artefatos mágicos "},
+		{"id":"7b3129433be4d740","x":160,"y":-330,"width":600,"height":440,"type":"text","text":"Sistema de reencarnação em seres biológicos ou não\n\nEm Eldoria, não existe vida pós a morte, por mais que seus habitantes não tenham essa informação. \n\nNa verdade, após morrer, todos reencarnam em algum objeto ou ser ao redor do mundo. \n\nEfetivamente, tudo possui consciência em Eldoria, desde animais até pedras. \n\nAlgumas vezes, se a determinação da alma da pessoa for forte, ou se ela se sentir presa por algum motivo em seu corpo anterior, o corpo atual pode adquirir algumas características do seu antigo corpo, por exemplo, pedras com silhuetas de rostos humanos esculpidos, ou nuvens que sempre se mantém em formato de baleias."},
+		{"id":"81b78e6768c09f0b","x":-230,"y":-355,"width":280,"height":210,"type":"text","text":"Temáticas focadas em Talassofobia \n\nO cenário tem o objetivo de trazer uma experiência de horror psicológico trazendo o oceano como foco do medo "}
+	],
+	"edges":[
+		{"id":"ef60618c1d3c757f","fromNode":"ef87c2cb48a88c2c","fromSide":"right","toNode":"81b78e6768c09f0b","toSide":"left"},
+		{"id":"78b6983ca633d610","fromNode":"ef87c2cb48a88c2c","fromSide":"bottom","toNode":"88b52d3a047e2c36","toSide":"top"},
+		{"id":"7f15d2bbde7aafdf","fromNode":"88b52d3a047e2c36","fromSide":"right","toNode":"8fdeccc1e82b1a64","toSide":"left"},
+		{"id":"28a23d0786e2783f","fromNode":"8fdeccc1e82b1a64","fromSide":"right","toNode":"7b3129433be4d740","toSide":"left"}
+	]
+}

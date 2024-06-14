@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"6ecff9c52128c1ac","type":"file","file":"Árvore Anciã/Árvore Anciã.md","x":-760,"y":-560,"width":520,"height":740},
+		{"id":"4ba11c8719d6c7bd","type":"text","text":"# Os Radilhantes\n## Resumo\n\nRadilhantes podem ser encontrados em vários locais da [[Árvore Anciã]], mas eles ficam sobretudo no pé da Árvore, próximos ao solo. É normalmente a primeira tribo que se tem contato ao chegar na Árvore. \n\nRadilhantes são em geral, estudantes de magia que aprenderam a manipular a energia vital da Árvore para o bem estar deles, modificando partes da estrutura da Árvore conforme for necessário. Eles também se consideram os guardiões da Árvore, não deixando ninguém mal intencionado subir.\n\nRadilhantes respondem diretamente ao governo de Thalassar, seja o governo antigo ou ao novo governo regente pós Éter, servindo como cobradores de impostos das outras tribos. ","x":720,"y":-45,"width":700,"height":450},
+		{"id":"316f960afefbb451","type":"text","text":"# Os Cracanos\n\n## Resumo\n\nOs Cracanos são uma tribo que habita nas Cracas que se encontram no casco da [[Árvore Anciã]].\n\nAs cracas gigantes que usam de moradia já morreram a séculos, mas continuam lá, como memória do tempo. \n\nSem duvidas, os Cracanos são um povo lembrados pela resiliência e capacidade de sobrevivência, sendo um povo que se mantém recluso do restante da árvore.\n\nVolta e meia, os Cracanos executam excursões ao continente de Eldoria, para procurar por artefatos mágicos antigos nas ruínas restantes após o  [[O Pecado Capital]]\n\nEles são de longe e a tribo mais \"Esquisita\" da árvore, possuindo um nível tecnológico dificil de definir. Enquanto ainda usam tochas e lanças, eles possuem artefatos semelhantes a armas de pólvora, obtidos em uma ruína. ","x":720,"y":-560,"width":700,"height":490},
+		{"id":"c007c9d26c03856b","type":"text","text":"# Os Sussurradores\n### Resumo:\n\nA tribo dos Sussurradores é um povo que habita dentro de cavernas na [[Árvore Anciã]]. O povo vive uma cultura relativamente tribal, com uma politica simples mas efetiva. Eles vivem em prol da seiva da árvore anciã, conhecida com Eldorsap.  Pode-se encontrar Sussurradores por todo o perimetro da árvore, normalmente escondidos, já que não gostam de contato com outras tribos. Os Sussuradores são divididos em clãs: As Estrelas Cadentes, As Ráizes Profundas, Os Raios de Sol.\n\n","x":-100,"y":-190,"width":520,"height":345},
+		{"id":"d656d9fea8eec25d","type":"text","text":"# Tribos da Árvore Anciã \n\nA Árvore anciã possui diversas tribos e povos que vivem ao decorrer de sua extensão. Muitas dessas tribos se encontram em guerras constantes e não se entendem muito bem, sendo cada uma única em sua forma de pensar. \n\n","x":-20,"y":-560,"width":360,"height":280},
+		{"id":"fbfff80eaa88833a","x":180,"y":260,"width":520,"height":340,"type":"file","file":"Árvore Anciã/Os Sussurradores/Os Raios de Sol.md"},
+		{"id":"06bacd51b65aee95","x":-400,"y":260,"width":540,"height":340,"type":"file","file":"Árvore Anciã/Os Sussurradores/As raizes profundas.md"},
+		{"id":"ef8b2f2e132ff4d5","x":-760,"y":260,"width":340,"height":340,"type":"file","file":"Árvore Anciã/Os Sussurradores/As Estrelas Cadentes.md"}
+	],
+	"edges":[
+		{"id":"d352fcd2357adbd6","fromNode":"6ecff9c52128c1ac","fromSide":"right","toNode":"d656d9fea8eec25d","toSide":"left"},
+		{"id":"b2d49bd16cafd1bd","fromNode":"d656d9fea8eec25d","fromSide":"right","toNode":"316f960afefbb451","toSide":"left"},
+		{"id":"284b459f635a17fc","fromNode":"d656d9fea8eec25d","fromSide":"right","toNode":"4ba11c8719d6c7bd","toSide":"left"},
+		{"id":"e217149eaec4551a","fromNode":"d656d9fea8eec25d","fromSide":"bottom","toNode":"c007c9d26c03856b","toSide":"top"},
+		{"id":"8aa82f445e40d249","fromNode":"c007c9d26c03856b","fromSide":"bottom","toNode":"ef8b2f2e132ff4d5","toSide":"top"},
+		{"id":"18381344f3ac25f6","fromNode":"c007c9d26c03856b","fromSide":"bottom","toNode":"06bacd51b65aee95","toSide":"top"},
+		{"id":"2af194e4ed1c1718","fromNode":"c007c9d26c03856b","fromSide":"bottom","toNode":"fbfff80eaa88833a","toSide":"top"}
+	]
+}
