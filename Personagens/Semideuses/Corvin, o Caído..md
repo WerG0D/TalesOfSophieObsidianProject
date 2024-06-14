@@ -1,7 +1,7 @@
 
 ### História:
 
-Corvin era um capitão valente do exército do rei de [[Thalassar]], conhecido por sua coragem em proteger seu reino e seu povo dos inimigos internos e externos. Ele foi abençoado por Aerathys por sua lealdade e dedicação em defender os ideais de justiça e liberdade, se tornando um [[Semideuses]] após concluir [[A jornada dos imortais]] e ingerir uma farpa da parte mais resistente da casca da Árvore. Hoje, porém, ele sucumbiu ao uso do [[Éter Dourado]]. Sua divindade não impede o desgaste pelo uso do éter, sua mente foi completamente corrompida, a beira da loucura. 
+Corvin era um capitão valente do exército do rei de [[Árvore Anciã/Thalassar/Thalassar]], conhecido por sua coragem em proteger seu reino e seu povo dos inimigos internos e externos. Ele foi abençoado por Aerathys por sua lealdade e dedicação em defender os ideais de justiça e liberdade, se tornando um [[Semideuses]] após concluir [[A jornada dos imortais]] e ingerir uma farpa da parte mais resistente da casca da Árvore. Hoje, porém, ele sucumbiu ao uso do [[Éter Dourado]]. Sua divindade não impede o desgaste pelo uso do éter, sua mente foi completamente corrompida, a beira da loucura. 
 ### Aparência:
 
 Corvin tem uma aparência marcial e imponente, porém age como se estivesse cansado e abatido, seus olhos emanam um brilho dourado, típico do uso do éter. Com armaduras ornamentadas ele carrega as marcas de batalhas passadas em seu corpo, testemunhas de sua bravura e tenacidade.

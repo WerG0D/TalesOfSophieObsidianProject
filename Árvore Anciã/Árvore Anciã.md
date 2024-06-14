@@ -7,7 +7,7 @@ foram parar pedaços de ruínas antigas levadas pelo mar.
 
 A árvore anciã é tão grande que habita diversos povos em seu corpo, sendo eles:
 
-- Thalassar, O Reino das alturas [[Thalassar]]
+- Thalassar, O Reino das alturas [[Árvore Anciã/Thalassar/Thalassar]]
 - Os sussurradores [[Os Sussurradores]]
 - Os Radilhantes [[Os Radilhantes]]
 - Os Cracanos [[Os Cracanos]]

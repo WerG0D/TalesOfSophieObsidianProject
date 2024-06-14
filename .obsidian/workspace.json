@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d07e135e8eb584c7",
+            "id": "d7440330bbe2ddc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Poder Hereditário/Cracanos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "175ffe6a26f302bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personagens/Semideuses/Semideuses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de25f0fff95d5496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personagens/Semideuses/Terron, o Terror das profundezas..md",
+                "file": "RPG/Atributos.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Poder Hereditário/Cracanos.md",
+                "file": "RPG/Atributos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Poder Hereditário/Cracanos.md",
+                "file": "RPG/Atributos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Poder Hereditário/Cracanos.md"
+                "file": "RPG/Atributos.md"
               }
             }
           }
@@ -170,10 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d07e135e8eb584c7",
+  "active": "d7440330bbe2ddc4",
   "lastOpenFiles": [
-    "RPG/Classes/Magos.md",
-    "RPG/Classes/Guerreiro.md",
+    "RPG/Classes/Feiticeiro.md",
+    "RPG/Classes/Soldado.md",
+    "RPG/Classes/Pirata.md",
+    "RPG/Classes/Inumano.md",
+    "RPG/Classes/Bruxo.md",
+    "RPG/Atributos.md",
+    "RPG/Perícias.md",
+    "Personagens/Semideuses/Semideuses.md",
+    "RPG/Classes/Atirador.md",
+    "RPG/Poder Hereditário/Thalassar.md",
+    "RPG/Poder Hereditário/Sussuradores.md",
+    "RPG/Poder Hereditário/Radilhantes.md",
     "RPG/Poder Hereditário/Cracanos.md",
     "RPG/Classes/Guerreiro",
     "Personagens/Lord Bardolph Festejador.md",
@@ -184,13 +170,11 @@
     "RPG/Poder Hereditário/Cracanos",
     "RPG/Poder Hereditário",
     "RPG/Classes/Mago",
-    "RPG/Untitled.md",
     "RPG/Classes",
     "RPG",
     "Eldoria/Eldoria - Time Line.canvas",
     "Árvore Anciã/Árvore Anciã.md",
     "Árvore Anciã/Politica das tribos.md",
-    "Personagens/Semideuses/Semideuses.md",
     "RPG/Tales Of Sophie RPG; Professor Lemiux's Compendium of Aberrations and Monstrous Creatures",
     "RPG/Tales Of Sophie RPG; Eldoria Scenario",
     "RPG/Tales Of Sophie RPG; Basic Rules",
@@ -201,14 +185,6 @@
     "Personagens/Semideuses/Terron, o Terror das profundezas..md",
     "Personagens/Semideuses/Solara, a Guardiã da Luz.md",
     "Personagens/Semideuses/Skylar, o Alado.md",
-    "Eldoria/Primeiro reino humano/O reino primordial.md",
-    "Personagens/Semideuses/Radagarst, o sombrio.md",
-    "Personagens/Semideuses/Maris, o Arquimago.md",
-    "Personagens/Semideuses/Lyra, a Cometa.md",
-    "Personagens/Semideuses/Corvin, o Caído..md",
-    "Personagens/Semideuses/Aerion, o Soberano dos Céus.md",
-    "Panteão/Aerathys, a antiga.md",
-    "Eldoria/O Pecado Capital.md",
     "Images/1a87890f43807829f2768e9fdd847176.jpg",
     "Workflows/RPG Mechanics.canvas",
     "Images/defa7fa5cb16db367d4aaefb20e08cd1.jpg",

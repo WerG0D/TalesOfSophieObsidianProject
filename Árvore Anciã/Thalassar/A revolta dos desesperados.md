@@ -1,4 +1,4 @@
-Durante o reinado de Doug Abdul, O povo de [[Thalassar]] começou a se fartar dos malefícios causados pela evolução da sociedade. O trabalho era abusivo, e a jornada de trabalho era tão árdua que muitos esqueciam como era antes da evolução tecnológica e da mineração. 
+Durante o reinado de Doug Abdul, O povo de [[Árvore Anciã/Thalassar/Thalassar]] começou a se fartar dos malefícios causados pela evolução da sociedade. O trabalho era abusivo, e a jornada de trabalho era tão árdua que muitos esqueciam como era antes da evolução tecnológica e da mineração. 
 
 Os habitantes de Thalassar todos os dias perdiam horas de vida a troco de moedas, para poder comprar água e comida. Depois de alguns anos dessa maneira, o povo se cansou. Não fazia sentido perder a liberdade por alguns trocados.
 

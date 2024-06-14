@@ -1,0 +1,2 @@
+Enganação
+Intimidação

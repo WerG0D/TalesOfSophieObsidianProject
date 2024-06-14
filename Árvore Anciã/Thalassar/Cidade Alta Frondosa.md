@@ -1,4 +1,4 @@
-Sendo a capital do reino de [[Thalassar]], a cidade de Alta Frondosa é onde os maiores acontecimentos do reino ocorrem. Atualmente, a cidade está completamente corrompida pelo [[Éter Dourado]].
+Sendo a capital do reino de [[Árvore Anciã/Thalassar/Thalassar]], a cidade de Alta Frondosa é onde os maiores acontecimentos do reino ocorrem. Atualmente, a cidade está completamente corrompida pelo [[Éter Dourado]].
 
 ### Localização e Ambiente:
 

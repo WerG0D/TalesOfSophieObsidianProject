@@ -1,6 +1,7 @@
 
 Obs: Ainda preciso alterar a descrição, formatar como tá escrito e fazer os status das skills.
 
+Habilidade com cajados.
 Level 1: Você aprendeu a conjurar as magias conhecidas de sua tribo chamadas de Magias Krandarel:
 
 - Glifo Mágico Krandarel: Pode conjurar glifos mágicos no ar, podendo lança-los como projéteis ou deixá-los em um local como armadilha. Ao serem ativados os glifos dão 2 x Int como dano.
@@ -19,7 +20,7 @@ Level 3: Você aprendeu mais algumas magias de sua tribo:
 
 - Miráster: Conjura 1d3 magia(s) das Magias Krandarel, escolhe a magia aleatoriamente.
 
-- Mão Fantasma: Conjura uma mão de energia. Ela pode voar e tem capacidade de levar até 5 quilos consigo, mas não serve para atacar.
+- Mão Aquática: Conjura uma mão de água. Ela pode voar e tem capacidade de levar até 5 quilos consigo, mas não serve para atacar.
 
 - Flutuar: Pode fazer um alvo flutuar, o peso máximo é definido pelos pontos em Intelecto.
 
@@ -29,7 +30,7 @@ Level 4: Você está aprendendo antigas magias que nem mesmo alguns experientes 
 
 - Arrebatamento Krandarel: Conjure uma bola de energia e lance ela a um alvo. A cada Arrebatamento Krandarel que o alvo recebe de dano, o dano do seguinte aumenta com o valor de dano de uma bola de energia. Acumula esse efeito até 4 vezes.
 
-- Ilusão Krandarel: Conjura um holograma seu para confundir quem o esteja vendo.
+- Ilusão Fria de Krandarel: Conjura uma imagem sua de gotículas de água para confundir quem o esteja vendo.
 
 - Defesa Krandarel: Conjura uma armadura energética sobre você que reduz o próximo dano recebido pela metade.
 
@@ -41,7 +42,7 @@ Level 5: Você agora é capaz de entender mais a magias de seus ancestrais. Melh
 
 - Miráster: Conjura 1d3 + 1 magia(s) das Magias Krandarel, pode escolher a magia.
 
-- Ilusão Krandarel: Conjura um clone seu para confundir quem o esteja vendo o clone é capaz de usar armas, mas não pode falar, nem conjurar magias.
+- Ilusão Viva de Krandarel: Conjura um clone de água seu para confundir quem o esteja vendo o clone é capaz de usar armas, mas não pode falar, nem conjurar magias.
 
 - Recarga: Depois de um turno recupere 1d6 + 4 slots de magia. Perde o turno que conjurar recarga.
 
