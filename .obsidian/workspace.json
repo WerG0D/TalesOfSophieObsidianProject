@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Atributos.md",
+                "file": "RPG/Classes Novas/Pirata.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Atributos.md",
+                "file": "RPG/Classes Novas/Pirata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Atributos.md",
+                "file": "RPG/Classes Novas/Pirata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Atributos.md"
+                "file": "RPG/Classes Novas/Pirata.md"
               }
             }
           }
@@ -148,6 +148,33 @@
   },
   "active": "d7440330bbe2ddc4",
   "lastOpenFiles": [
+    "RPG/Raça/Fada.md",
+    "RPG/Raça/Inumano.md",
+    "RPG/Raça/Humano.md",
+    "RPG/Classes Novas/Bruxo.md",
+    "RPG/Raça",
+    "RPG/Classes Novas/Guerreiro.md",
+    "RPG/Classes Novas/Xamã.md",
+    "RPG/Classes Novas/Pirata.md",
+    "RPG/Classes Novas/Pesquisador.md",
+    "RPG/Erudição.md",
+    "RPG/Classes Novas",
+    "RPG/Atributos Antigos.md",
+    "RPG/Classes Antigas/Monge.md",
+    "RPG/Classes Antigas/Soldado.md",
+    "RPG/Classes Antigas/Technomancer.md",
+    "RPG/Classes Antigas/Inumano.md",
+    "RPG/Classes Antigas/Xamã.md",
+    "RPG/Classes/Xamã Profano.md",
+    "RPG/Classes Antigas/Bruxo.md",
+    "RPG/Classes Antigas/Atirador.md",
+    "RPG/Classes Antigas/Pirata.md",
+    "RPG/Classes Antigas/Mago de Sangue.md",
+    "RPG/Classes Antigas/Mago de Ossos.md",
+    "RPG/Poder Hereditário/Radilhantes.md",
+    "RPG/Poder Hereditário/Cracanos.md",
+    "RPG/Poder Hereditário/Sussuradores.md",
+    "RPG/Poder Hereditário/Thalassar.md",
     "Images/Weapons/fdc8522cf65ffc75d414110079d59272.jpg",
     "Images/Weapons/f2b4ec6911660c6d050495b01752735e.jpg",
     "Images/Weapons/e3ed29cbc19f6cd14b1a320f15382a01.jpg",
@@ -158,44 +185,17 @@
     "Images/Weapons/d486b2e5cb9c676e2814b59c6f624e60.jpg",
     "Images/Weapons/cf0746e2ad7e34c9b78a3af0c5b090f7.jpg",
     "Images/Weapons/c35cee4509daa3d7d1d7ece056030421.jpg",
-    "Images/Weapons/b9f3df8d49b6a1f54a7180a5e7ca1a66.jpg",
     "Images/Weapons",
     "Images/Places",
     "Images/Misc",
     "Images/Filhos do céu",
     "Eldoria/Eldoria - Visão Geral.canvas",
-    "RPG/Classes/Feiticeiro.md",
-    "RPG/Classes/Soldado.md",
-    "RPG/Classes/Pirata.md",
-    "RPG/Classes/Inumano.md",
-    "RPG/Classes/Bruxo.md",
-    "RPG/Atributos.md",
-    "RPG/Perícias.md",
     "Personagens/Semideuses/Semideuses.md",
-    "RPG/Classes/Atirador.md",
-    "RPG/Poder Hereditário/Thalassar.md",
-    "RPG/Poder Hereditário/Sussuradores.md",
-    "RPG/Poder Hereditário/Radilhantes.md",
-    "RPG/Poder Hereditário/Cracanos.md",
     "RPG/Classes/Guerreiro",
-    "Personagens/Lord Bardolph Festejador.md",
-    "Personagens/Kael, O Sussurro.md",
-    "Panteão/A Guerra dos Divinos.md",
-    "Árvore Anciã/Os Radilhantes/Os Radilhantes.md",
-    "Árvore Anciã/A jornada dos imortais.md",
     "RPG/Poder Hereditário/Cracanos",
     "RPG/Poder Hereditário",
     "RPG/Classes/Mago",
-    "RPG/Classes",
-    "RPG",
     "Eldoria/Eldoria - Time Line.canvas",
-    "Árvore Anciã/Árvore Anciã.md",
-    "Árvore Anciã/Politica das tribos.md",
-    "Personagens/Lord Valerian, o Dourado.md",
-    "Personagens/Nyx, o primeiro sacrificio.md",
-    "Personagens/Professor Lemiux.md",
-    "Personagens/Semideuses/Terron, o Terror das profundezas..md",
-    "Personagens/Semideuses/Solara, a Guardiã da Luz.md",
     "Workflows/RPG Mechanics.canvas",
     "Workflows/Chains - Hook.canvas",
     "Workflows/Core Mechanics.canvas",
