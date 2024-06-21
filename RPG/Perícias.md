@@ -1,0 +1,6 @@
+Biologia
+Metalurgia
+Acrobacia
+Resiliência
+Corrida
+Empata

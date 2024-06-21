@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Classes Novas/Pirata.md",
+                "file": "RPG/Classes Novas/Xamã.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Classes Novas/Pirata.md",
+                "file": "RPG/Classes Novas/Xamã.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Classes Novas/Pirata.md",
+                "file": "RPG/Classes Novas/Xamã.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Classes Novas/Pirata.md"
+                "file": "RPG/Classes Novas/Xamã.md"
               }
             }
           }
@@ -148,20 +148,22 @@
   },
   "active": "d7440330bbe2ddc4",
   "lastOpenFiles": [
-    "RPG/Raça/Fada.md",
+    "RPG/Classes Novas/Bruxo.md",
+    "RPG/Classes Novas/Clandestino.md",
+    "RPG/Atributos Antigos.md",
+    "RPG/Atributos Novos.md",
+    "RPG/Classes Novas/Xamã.md",
     "RPG/Raça/Inumano.md",
     "RPG/Raça/Humano.md",
-    "RPG/Classes Novas/Bruxo.md",
-    "RPG/Raça",
-    "RPG/Classes Novas/Guerreiro.md",
-    "RPG/Classes Novas/Xamã.md",
-    "RPG/Classes Novas/Pirata.md",
+    "RPG/Raça/Fada.md",
     "RPG/Classes Novas/Pesquisador.md",
-    "RPG/Erudição.md",
-    "RPG/Classes Novas",
-    "RPG/Atributos Antigos.md",
-    "RPG/Classes Antigas/Monge.md",
+    "RPG/Classes Novas/Guerreiro.md",
+    "RPG/Perícias.md",
     "RPG/Classes Antigas/Soldado.md",
+    "RPG/Erudição.md",
+    "RPG/Raça",
+    "RPG/Classes Novas",
+    "RPG/Classes Antigas/Monge.md",
     "RPG/Classes Antigas/Technomancer.md",
     "RPG/Classes Antigas/Inumano.md",
     "RPG/Classes Antigas/Xamã.md",
@@ -174,7 +176,6 @@
     "RPG/Poder Hereditário/Radilhantes.md",
     "RPG/Poder Hereditário/Cracanos.md",
     "RPG/Poder Hereditário/Sussuradores.md",
-    "RPG/Poder Hereditário/Thalassar.md",
     "Images/Weapons/fdc8522cf65ffc75d414110079d59272.jpg",
     "Images/Weapons/f2b4ec6911660c6d050495b01752735e.jpg",
     "Images/Weapons/e3ed29cbc19f6cd14b1a320f15382a01.jpg",
@@ -190,7 +191,6 @@
     "Images/Misc",
     "Images/Filhos do céu",
     "Eldoria/Eldoria - Visão Geral.canvas",
-    "Personagens/Semideuses/Semideuses.md",
     "RPG/Classes/Guerreiro",
     "RPG/Poder Hereditário/Cracanos",
     "RPG/Poder Hereditário",

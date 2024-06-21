@@ -1,0 +1,2 @@
+Moderação
+Fada que usam de seus poderes da árvore. Quando usa muita Magia Proibida se torna Xamã Profano ganhando a Marca Maldita e sendo caçado agora por monstros e anjos. Além disso suas Magia passam a ter chance de falhar.
