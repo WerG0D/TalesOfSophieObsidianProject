@@ -1,39 +1,50 @@
 {
   "main": {
-    "id": "2814190bb2cee52c",
+    "id": "e9d07277c1fb03e3",
     "type": "split",
     "children": [
       {
-        "id": "f62b49ee888faea1",
+        "id": "87267c7070df05eb",
         "type": "tabs",
         "children": [
           {
-            "id": "255b011ae5c75943",
+            "id": "175ffe6a26f302bc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Misc/7e759a0b98f54de25ee346baa9f10565.jpg"
+              }
+            }
+          },
+          {
+            "id": "de25f0fff95d5496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Classes Novas/Pesquisador.md",
+                "file": "Personagens/Semideuses/Maris, o Arquimago.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "36a0bebfc0e85c49",
+    "id": "d802772905a31372",
     "type": "split",
     "children": [
       {
-        "id": "a247ebb300283cc5",
+        "id": "48e653ab8f902d93",
         "type": "tabs",
         "children": [
           {
-            "id": "eb45bebb065f2252",
+            "id": "e9f80785f8c79d87",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +54,7 @@
             }
           },
           {
-            "id": "7f7ffacc4683a7cb",
+            "id": "26e4dd79afcbf082",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +69,7 @@
             }
           },
           {
-            "id": "94a458dad600889a",
+            "id": "c64e07bd51dcfed0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +83,20 @@
     "width": 300
   },
   "right": {
-    "id": "6f070939e06f5422",
+    "id": "22f80f522ec77fbe",
     "type": "split",
     "children": [
       {
-        "id": "1afc5e64103cf2b5",
+        "id": "dca481d992f048c0",
         "type": "tabs",
         "children": [
           {
-            "id": "45223a2ba365987d",
+            "id": "dce01f9de39d0d1e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Classes Novas/Pesquisador.md",
+                "file": "Personagens/Semideuses/Maris, o Arquimago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +108,19 @@
             }
           },
           {
-            "id": "6d43e0329c7bcdd3",
+            "id": "9169a5ccf312c19f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Classes Novas/Pesquisador.md",
+                "file": "Personagens/Semideuses/Maris, o Arquimago.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3308b4a7c90d2bba",
+            "id": "a2454637b69a647c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +131,12 @@
             }
           },
           {
-            "id": "a677048dff929db3",
+            "id": "19a4014841c8e683",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Classes Novas/Pesquisador.md"
+                "file": "Personagens/Semideuses/Maris, o Arquimago.md"
               }
             }
           }
@@ -146,21 +157,63 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "255b011ae5c75943",
+  "active": "de25f0fff95d5496",
   "lastOpenFiles": [
-    "RPG/Classes Novas/Guerreiro.md",
-    "RPG/Classes Novas/Clandestino.md",
-    "RPG/Classes Novas/Bruxo.md",
-    "RPG/Atributos Novos.md",
-    "RPG/Atributos Antigos.md",
-    "RPG/Classes Novas/Pesquisador.md",
-    "RPG/Classes Novas/Xamã.md",
+    "Tales of Sophie/Mechanics/RPG MECHANICS.canvas",
+    "Tales of Sophie/Mechanics/Weather System.canvas",
+    "Tales of Sophie/Mechanics/Combat Mechanics.canvas",
+    "Tales of Sophie/Mechanics/Core Mechanics.canvas",
+    "Tales of Sophie/Mechanics/Chains - Hook.canvas",
+    "Tales of Sophie/Mechanics",
+    "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
+    "Tales of Sophie/Level & Map Design",
+    "Tales of Sophie/Game Acts/Game Acts.md",
+    "Tales of Sophie/Game Acts",
+    "Images/Game Map/Radilhantes Path.png",
+    "Images/Game Map",
     "RPG/Perícias.md",
-    "RPG/Raça/Fada.md",
+    "RPG/Classes Novas/Clandestino.md",
+    "RPG/Atributos Novos.md",
+    "Tales of Sophie/Weather System.canvas",
+    "Tales of Sophie/RPG MECHANICS.canvas",
+    "Tales of Sophie/Design TODO.canvas",
+    "Tales of Sophie/Core Mechanics.canvas",
+    "Tales of Sophie/Combat Mechanics.canvas",
+    "Personagens/Semideuses/Maris, o Arquimago.md",
+    "RPG/Classes Antigas/Technomancer.md",
+    "RPG/Classes Antigas/Pirata.md",
+    "RPG/Classes Antigas/Monge.md",
+    "RPG/Classes Antigas/Mago de Sangue.md",
+    "RPG/Classes Antigas/Mago de Ossos.md",
+    "RPG/Classes Antigas/Inumano.md",
+    "RPG/Classes Antigas/Bruxo.md",
+    "RPG/Classes Antigas/Atirador.md",
+    "RPG/Classes Novas/Xamã.md",
+    "RPG/Classes Novas/Pirata.md",
+    "RPG/Classes Novas/Pesquisador.md",
+    "RPG/Classes Novas/Guerreiro.md",
+    "RPG/Classes Novas/Bruxo.md",
     "RPG/Raça/Inumano.md",
     "RPG/Raça/Humano.md",
-    "Tales of Sophie/Weather System.canvas",
-    "Tales of Sophie/Core Mechanics.canvas",
-    "Tales of Sophie/Chains - Hook.canvas"
+    "RPG/Raça/Fada.md",
+    "RPG/Erudição.md",
+    "RPG/Atributos Antigos.md",
+    "Images/Nova pasta",
+    "Árvore Anciã/Thalassar/A revolta dos desesperados.md",
+    "Tales of Sophie/Level & Map Design/Untitled.md",
+    "RPG/Raça",
+    "RPG/Classes Novas",
+    "RPG/Classes Antigas",
+    "Images/Filhos do céu/8e98e5c49004a98f599d98e0b1cb1769.jpg",
+    "Images/Filhos do céu/ac9cf693115c873055218a886f4e1348.jpg",
+    "Images/Filhos do céu/c67fbbeeb292bc0a7f797c3708c09fc5.jpg",
+    "Images/Filhos do céu/4c9e6fb554c8168764254cda2da35500.jpg",
+    "Images/Filhos do céu/cc326d3bd4ebefa7b04aad147dafdfa7.jpg",
+    "Images/Filhos do céu/38835a970aacec71b1452ab8a6ecde4d.jpg",
+    "Images/Filhos do céu/bc573c10618beeb9ad5dd17df4cd532f.jpg",
+    "Images/Filhos do céu/e2dbbdfa3455f04c7f920fc325814081.jpg",
+    "Images/Filhos do céu/eb894766ebbb0564f6b55aa554cbd46e.jpg",
+    "Images/Filhos do céu",
+    "Images/Misc"
   ]
 }
