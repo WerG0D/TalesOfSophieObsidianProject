@@ -1,11 +1,23 @@
 {
 	"nodes":[
-		{"id":"176f3b29173f9056","x":-760,"y":340,"width":180,"height":60,"type":"text","text":"Ráiz da Árvore"},
-		{"id":"b14cf6a2761e4fd9","x":-760,"y":240,"width":180,"height":60,"type":"text","text":"Cracas"},
-		{"id":"12515aebd60fcd2c","x":-760,"y":140,"width":180,"height":60,"type":"text","text":"Copa 1 "},
-		{"id":"87351acf36e5fd6a","x":-760,"y":40,"width":180,"height":60,"type":"text","text":"Copa 2"},
-		{"id":"763ec56a743022e2","x":-760,"y":-60,"width":180,"height":60,"type":"text","text":"Copa 3"},
-		{"id":"28fc295900e786e3","x":-760,"y":-160,"width":180,"height":60,"type":"text","text":"Thalassar "}
+		{"id":"b14cf6a2761e4fd9","type":"text","text":"Cracas","x":-760,"y":240,"width":180,"height":60},
+		{"id":"12515aebd60fcd2c","type":"text","text":"Copa 1 ","x":-760,"y":140,"width":180,"height":60},
+		{"id":"87351acf36e5fd6a","type":"text","text":"Copa 2","x":-760,"y":40,"width":180,"height":60},
+		{"id":"763ec56a743022e2","type":"text","text":"Copa 3","x":-760,"y":-60,"width":180,"height":60},
+		{"id":"28fc295900e786e3","type":"text","text":"Thalassar ","x":-760,"y":-160,"width":180,"height":60},
+		{"id":"db4097c5ebbe4d78","x":-760,"y":320,"width":180,"height":60,"type":"text","text":"Base da Árvore"},
+		{"id":"176f3b29173f9056","type":"text","text":"Ráiz da Árvore","x":-760,"y":400,"width":180,"height":60},
+		{"id":"a0aae85edaa1c433","type":"file","file":"Images/Game Map/Radilhantes Path.png","x":-440,"y":150,"width":218,"height":400},
+		{"id":"26612544fca3fcb6","type":"text","text":"### Room 1\n\nEntrada para a Árvore Anciã\nBackground padrão Árvore\nDois guardas radilhantes fazendo triagem. \nTenda para triagem, dialogo com NPC Radilhante pedindo para o jogador se dirigir até a Zona 20 para falar com o   ","x":-140,"y":150,"width":320,"height":220},
+		{"id":"c5072140d63fbd53","type":"text","text":"### Room 2\n\nCaminho para Area 0\nCaminho para Area 3\nBackground padrão\n\n ","x":-140,"y":400,"width":320,"height":160},
+		{"id":"c2787dbce9d79ac1","type":"file","file":"Images/Game Map/Area1/area1_room1.png","x":240,"y":160,"width":400,"height":200},
+		{"id":"7e37ad9b043f1784","x":240,"y":380,"width":400,"height":200,"type":"file","file":"Images/Game Map/Area1/area1_room2.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9c1bed6527a0a099","fromNode":"a0aae85edaa1c433","fromSide":"right","toNode":"26612544fca3fcb6","toSide":"left"},
+		{"id":"c724e55cc1b8d05a","fromNode":"26612544fca3fcb6","fromSide":"right","toNode":"c2787dbce9d79ac1","toSide":"left"},
+		{"id":"b205f0237ff2f229","fromNode":"c5072140d63fbd53","fromSide":"right","toNode":"7e37ad9b043f1784","toSide":"left"},
+		{"id":"0a8a0ce9ee04f788","fromNode":"a0aae85edaa1c433","fromSide":"right","toNode":"c5072140d63fbd53","toSide":"left"},
+		{"id":"5e4c86319bb8b57b","fromNode":"db4097c5ebbe4d78","fromSide":"right","toNode":"a0aae85edaa1c433","toSide":"left"}
+	]
 }

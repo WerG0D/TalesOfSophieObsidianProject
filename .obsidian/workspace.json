@@ -21,16 +21,34 @@
             "id": "de25f0fff95d5496",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Personagens/Semideuses/Maris, o Arquimago.md",
-                "mode": "source",
-                "source": false
+                "file": "Tales of Sophie/Mechanics/Weather System.canvas",
+                "viewState": {
+                  "x": -257.5,
+                  "y": 28.0326776649747,
+                  "zoom": -0.5956030139076459
+                }
+              }
+            }
+          },
+          {
+            "id": "339055c0c02fab18",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
+                "viewState": {
+                  "x": 1.2620447898546843,
+                  "y": 1091.9966780714585,
+                  "zoom": 1.1102230246251565e-16
+                }
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Semideuses/Maris, o Arquimago.md",
+                "file": "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Semideuses/Maris, o Arquimago.md",
+                "file": "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Semideuses/Maris, o Arquimago.md"
+                "file": "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas"
               }
             }
           }
@@ -157,10 +175,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de25f0fff95d5496",
+  "active": "339055c0c02fab18",
   "lastOpenFiles": [
-    "Tales of Sophie/Mechanics/RPG MECHANICS.canvas",
+    "Images/Game Map/Area1/area1_room2.png",
+    "Images/Game Map/Area1/area1_room1.png",
+    "Images/Game Map/Area1/Radilhantes Path.png",
+    "Images/Game Map/Area1",
+    "Images/Game Map/Nova pasta",
+    "Images/Game Map/area1_room1.png",
+    "Images/Game Map/sophie_movement_behavior.png",
+    "Images/Game Map/Radilhantes Path.png",
     "Tales of Sophie/Mechanics/Weather System.canvas",
+    "Images/Misc/7e759a0b98f54de25ee346baa9f10565.jpg",
+    "Personagens/Semideuses/Maris, o Arquimago.md",
+    "Tales of Sophie/Mechanics/RPG MECHANICS.canvas",
     "Tales of Sophie/Mechanics/Combat Mechanics.canvas",
     "Tales of Sophie/Mechanics/Core Mechanics.canvas",
     "Tales of Sophie/Mechanics/Chains - Hook.canvas",
@@ -169,7 +197,6 @@
     "Tales of Sophie/Level & Map Design",
     "Tales of Sophie/Game Acts/Game Acts.md",
     "Tales of Sophie/Game Acts",
-    "Images/Game Map/Radilhantes Path.png",
     "Images/Game Map",
     "RPG/Perícias.md",
     "RPG/Classes Novas/Clandestino.md",
@@ -178,8 +205,6 @@
     "Tales of Sophie/RPG MECHANICS.canvas",
     "Tales of Sophie/Design TODO.canvas",
     "Tales of Sophie/Core Mechanics.canvas",
-    "Tales of Sophie/Combat Mechanics.canvas",
-    "Personagens/Semideuses/Maris, o Arquimago.md",
     "RPG/Classes Antigas/Technomancer.md",
     "RPG/Classes Antigas/Pirata.md",
     "RPG/Classes Antigas/Monge.md",
@@ -207,13 +232,6 @@
     "Images/Filhos do céu/8e98e5c49004a98f599d98e0b1cb1769.jpg",
     "Images/Filhos do céu/ac9cf693115c873055218a886f4e1348.jpg",
     "Images/Filhos do céu/c67fbbeeb292bc0a7f797c3708c09fc5.jpg",
-    "Images/Filhos do céu/4c9e6fb554c8168764254cda2da35500.jpg",
-    "Images/Filhos do céu/cc326d3bd4ebefa7b04aad147dafdfa7.jpg",
-    "Images/Filhos do céu/38835a970aacec71b1452ab8a6ecde4d.jpg",
-    "Images/Filhos do céu/bc573c10618beeb9ad5dd17df4cd532f.jpg",
-    "Images/Filhos do céu/e2dbbdfa3455f04c7f920fc325814081.jpg",
-    "Images/Filhos do céu/eb894766ebbb0564f6b55aa554cbd46e.jpg",
-    "Images/Filhos do céu",
-    "Images/Misc"
+    "Images/Filhos do céu/4c9e6fb554c8168764254cda2da35500.jpg"
   ]
 }
