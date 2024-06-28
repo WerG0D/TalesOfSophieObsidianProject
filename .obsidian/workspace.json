@@ -8,27 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "175ffe6a26f302bc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Misc/7e759a0b98f54de25ee346baa9f10565.jpg"
-              }
-            }
-          },
-          {
             "id": "de25f0fff95d5496",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Tales of Sophie/Mechanics/Weather System.canvas",
-                "viewState": {
-                  "x": -257.5,
-                  "y": 28.0326776649747,
-                  "zoom": -0.5956030139076459
-                }
+                "file": "Panteão/O sacrifício do herdeiro do mar.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -36,19 +23,13 @@
             "id": "339055c0c02fab18",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
-                "viewState": {
-                  "x": 1.2620447898546843,
-                  "y": 1091.9966780714585,
-                  "zoom": 1.1102230246251565e-16
-                }
+                "file": "Images/Game Map/sophie_movement_behavior.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
     "id": "22f80f522ec77fbe",
@@ -114,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
+                "file": "Panteão/O sacrifício do herdeiro do mar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
+                "file": "Panteão/O sacrifício do herdeiro do mar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas"
+                "file": "Panteão/O sacrifício do herdeiro do mar.md"
               }
             }
           }
@@ -175,29 +156,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "339055c0c02fab18",
+  "active": "de25f0fff95d5496",
   "lastOpenFiles": [
-    "Images/Game Map/Area1/area1_room2.png",
-    "Images/Game Map/Area1/area1_room1.png",
-    "Images/Game Map/Area1/Radilhantes Path.png",
-    "Images/Game Map/Area1",
-    "Images/Game Map/Nova pasta",
-    "Images/Game Map/area1_room1.png",
-    "Images/Game Map/sophie_movement_behavior.png",
-    "Images/Game Map/Radilhantes Path.png",
+    "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
+    "Images/Game Map/Area1/Rooms/area1_room10.png",
+    "Images/Game Map/Area1/PSD/room 10.psd.crswap",
+    "Images/Game Map/Area1/PSD/room 10.psd",
+    "Images/Game Map/Area1/PSD/room 9.psd.crswap",
+    "Images/Game Map/Area1/Rooms/area1_room 8.png",
+    "Images/Game Map/Area1/Rooms/area1_room 9.png",
+    "Images/Game Map/Area1/PSD/room 9.psd",
+    "Images/Game Map/Area1/Rooms/area1_room2.png",
+    "Images/Game Map/Area1/Rooms/area1_room1.png",
+    "Images/Game Map/Area1/Rooms/area1_room 5.png",
+    "Images/Game Map/Area1/Rooms/area1_room 4.png",
+    "Images/Game Map/Area1/Rooms",
+    "Images/Game Map/Area1/Nova pasta",
+    "Images/Game Map/Area1/area1_room 5.png",
+    "Images/Game Map/Area1/PSD/room 5.psd.crswap",
+    "Images/Game Map/Area1/PSD/room 5.psd",
+    "Images/Game Map/Area1/area1_room 4.png",
+    "Images/Game Map/Area1/AreaExamples/DALL·E 2024-06-27 08.49.22 - A medieval 2D scene resembling a large library. The interior is vast, with wooden walls and floors. There are staircases and platforms made from wood.webp",
+    "Images/Game Map/Area1/AreaExamples",
+    "Images/Game Map/Area1/PSD/room 4.psd.crswap",
+    "Tales of Sophie/Game Acts/Act 1.md",
+    "Tales of Sophie/Game Acts/Act 2.md",
+    "Tales of Sophie/Game Acts/Game Acts.md",
     "Tales of Sophie/Mechanics/Weather System.canvas",
-    "Images/Misc/7e759a0b98f54de25ee346baa9f10565.jpg",
     "Personagens/Semideuses/Maris, o Arquimago.md",
     "Tales of Sophie/Mechanics/RPG MECHANICS.canvas",
     "Tales of Sophie/Mechanics/Combat Mechanics.canvas",
     "Tales of Sophie/Mechanics/Core Mechanics.canvas",
     "Tales of Sophie/Mechanics/Chains - Hook.canvas",
-    "Tales of Sophie/Mechanics",
-    "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
-    "Tales of Sophie/Level & Map Design",
-    "Tales of Sophie/Game Acts/Game Acts.md",
-    "Tales of Sophie/Game Acts",
-    "Images/Game Map",
     "RPG/Perícias.md",
     "RPG/Classes Novas/Clandestino.md",
     "RPG/Atributos Novos.md",
@@ -222,16 +212,6 @@
     "RPG/Raça/Humano.md",
     "RPG/Raça/Fada.md",
     "RPG/Erudição.md",
-    "RPG/Atributos Antigos.md",
-    "Images/Nova pasta",
-    "Árvore Anciã/Thalassar/A revolta dos desesperados.md",
-    "Tales of Sophie/Level & Map Design/Untitled.md",
-    "RPG/Raça",
-    "RPG/Classes Novas",
-    "RPG/Classes Antigas",
-    "Images/Filhos do céu/8e98e5c49004a98f599d98e0b1cb1769.jpg",
-    "Images/Filhos do céu/ac9cf693115c873055218a886f4e1348.jpg",
-    "Images/Filhos do céu/c67fbbeeb292bc0a7f797c3708c09fc5.jpg",
-    "Images/Filhos do céu/4c9e6fb554c8168764254cda2da35500.jpg"
+    "RPG/Atributos Antigos.md"
   ]
 }
