@@ -1,2 +1,3 @@
-
 Ganhar habilidades a medida que consome monstros.
+- **Devorar**: Recebe a habilidade de devorar outras criaturas depois de mortas. Recupera 4d8 de vida perdida. Caso o alvo seja um monstro você faz um rolagem de 1d20 + Nível (classe), caso o resultado seja 12 ou superior você adquire uma habilidade da criatura. Para cada criatura consumida o nível de dificuldade aumenta +2. Não pode tentar consumir o mesmo espécie de criatura 2x para tentar ganhar suas habilidades, independente se passou ou não no teste anteriormente.
+- **Involução**: Pode fazer uma rolagem de 1d20 + Nível(classe), caso tire o resultado 15 ou superior pode regurgitar a evolução de um monstro que você tenha consumido, diminuindo a dificuldade de Devorar em -2. Não pode tentar regurgitar a mesma criatura 2x para perder suas habilidades, independente se passou ou não no teste.
