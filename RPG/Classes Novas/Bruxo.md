@@ -90,6 +90,9 @@ Escolha entre os Onis, Calamidades ou os Malditos:
     - **Roxo, a Tentação:** Você tem 1/2 de chance de enfeitiçar alvos adicionais (a até 6m) com seus ataques e habilidades, fazendo com eles que ataquem um aliados deles no próximo turno. 
     - **Amarelo, a Desistência:** Você rouba 1 de Reação de todos os indivíduos a até 10m de você (Você recebe até no máximo +6 de Reação com essa skill).
     - **Branco, a Enganação:** Você pode trocar de lugar com alvos de uma área de 6m livremente (Pode fazer isso em turno inimigos). Pode fazer isso uma vez por turno.
-    - **Preto, o Caos:** Você cria portais no campo de batalha, então pode escolher um alvo a cada 2 turnos no seu campo de visão, e fazer o portal suga-lo e assim o enviando para outra dimensão por 2 turnos. Ao voltar ele recebe 2d8 de dano e retorna com amedrontado e com paralisia.
+    - **Preto, o Caos:** Você cria portais no campo de batalha, então pode escolher um alvo a  cada 2 turnos no seu campo de visão, e fazer o portal suga-lo e assim o enviando para outra dimensão por 2 turnos. Ao voltar ele recebe 2d8 de dano e retorna com amedrontado e com paralisia.
     - **Verde, a Alma:** O avatar drena vida de todos indivíduos a até 4m, causando a eles 1d10 +  6 de dano e recuperando esse valor de vida por cada alvo, e também recupera vida dos alvos de seus ataques, curando você em metade do dano causado.
-	
+
+### ***Calamidades:***
+
+### ***Malditos:***
