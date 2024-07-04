@@ -6,7 +6,7 @@ Dado de vida é um 1d12.
 	
 - [ ] Disparo Longínquo: Aumenta o alcance dos seus tiros, permitindo atacar inimigos a até 50 metros sem penalidades.
 	
-- [ ] Recarga Rápida: Recarrega sua besta ou arco e recupera 1d4 + 2 munições. Perde o turno ao utilizar esta habilidade.
+- [ ] Recarga Rápida: Recarrega sua besta ou arco e recupera 1d4 + 2 munições. Perde o turno ao utilizar esta habilidade. Aumenta para 1d8 + 3 no Level 5.
 
 - #### Level 2: Aprimorando suas habilidades de tiro:
 
@@ -20,23 +20,23 @@ Dado de vida é um 1d12.
 
 - [ ] Chuva: Dispara rapidamente 1d8 disparos simultaneamente, atingindo alvos escolhidos aleatoriamente. Pode errar os disparos.
 	
-- [ ] Posicionamento Tático: Permite movimentar-se rapidamente no campo de batalha para obter a melhor posição de tiro, recebendo dano adicional nos próximos ataques naquela posição. A distância percorrida depende da sua Coordenação.
+- [ ] Posicionamento Tático: Permite movimentar-se rapidamente no campo de batalha para obter a melhor posição de tiro, recebendo 1d6 de dano adicional nos próximos ataques naquela posição. Recebe proficiência em Corrida e a  distância percorrida depende da sua Corrida.
 	
-- [ ] Disparos Penetrante: Dispara um projétil que atravessa múltiplos alvos em linha reta, causando dano a todos no caminho.
+- [ ] Disparos Penetrante: Dispara um projétil que atravessa múltiplos alvos em linha reta, causando o dano a todos no caminho.
 
 - #### Level 4: Aprendendo técnicas secretas para aprimorar suas habilidades:
 
-- [ ] Tiro Explosivo: Dispara um projétil explosivo que causa dano em área ao impactar.
+- [ ] Tiro Explosivo: Dispara um projétil explosivo que causa 2d8 + Reação de dano em uma área de 6m ao impactar. Pode critar.
 	
-- [ ] Camuflagem Natural: Oculta-se no ambiente, aumentando a evasão e dificultando a detecção pelos inimigos.
+- [ ] Camuflagem Natural: Oculta-se no ambiente, aumentando a Reação em 2 e dificultando a detecção pelos inimigos.
 	
-- [ ] Escudo de Flechas: Dispara uma barreira de flechas ao seu redor, acertando quaisquer alvos a 10 metros de distância e impedindo que inimigos acertados avancem por 1 turno.
+- [ ] Escudo de Flechas: Dispara uma barreira de tiros ao seu redor, acertando quaisquer alvos a 10 metros de distância e impedindo que inimigos acertados avancem por 1 turno.
 
 - #### Level 5: Compreensão aprimorada das técnicas ancestrais e melhoria das habilidades:
 
 - [ ] Tiro de Precisão: Aumenta consideravelmente o alcance dos seus tiros, permitindo atacar inimigos a até 60 metros sem penalidades.
 	
-- [ ] Recarga Expedita: Recarrega sua besta ou arco e recupera 1d8 + 3 munições após um turno. Perde o turno ao utilizar esta habilidade.
+- [ ] Lenda do Disparo: Recebe +1d4 em testes para Atacar a longa distância e para Esquivar de disparos. 
 
 - #### Level 6:
 
@@ -49,9 +49,9 @@ Dado de vida é um 1d12.
 ### Guerreiro:
 - #### Level 1: O Começo de uma Jornada de Aço: Você aprendeu as técnicas fundamentais de combate corpo a corpo com armas brancas, essenciais para sobreviver e prosperar no campo de batalha.
 
-- **Golpe Devastador:** "Desencadeie a fúria do aço." Executa um ataque poderoso causando dano igual ao dobro da sua Força. Com a sua Força acima de 17 esse golpe é devastador contra inimigos mais fracos (menos de 10 força), podendo abatê-los com um único golpe.
+- **Golpe Devastador:** "Desencadeie a fúria do aço." Executa um ataque poderoso causando dano adicional igual ao dobro da sua Força. Com a sua Força acima de 17 esse golpe é devastador contra inimigos mais fracos (menos de 10 força), podendo abatê-los com um único golpe.
     
-- **Defesa Resiliente:** "A força reside na defesa." Aumenta sua defesa baseando em sua constituição, reduzindo o dano recebido em pontos por dois turnos. Caso sua Constituição seja acima de 17 dobre o dano reduzido.
+- **Defesa Resiliente:** "A força reside na defesa." Aumenta sua defesa baseando em sua constituição, reduzindo o dano recebido em 2d8 por dois turnos. Caso sua Defesa seja acima de 17 dobre o dano reduzido.
     
 - **Investida Impetuosa:** "Avance com a força de um trovão." Realiza uma investida rápida com sua arma, atingindo um inimigo e causando dano baseado na sua Força. A investida pode empurrar o inimigo, desestabilizando suas defesas.
 
@@ -61,19 +61,19 @@ Dado de vida é um 1d12.
     
 - **Resistência Inabalável:** "Nada pode derrubar um guerreiro determinado." Durante o combate você se anima e assim aumenta sua vitalidade, permitindo que você recupere alguns pontos de vida, baseando na Constituição, por turno, durante três turnos.
     
-- **Ataque Preciso:** "Encontre a falha na armadura." Aumenta sua precisão de ataque, ignorando alguns pontos de armadura do inimigo no próximo golpe.
+- **Ataque Preciso:** "Encontre a falha na armadura." Aumenta sua precisão de ataque em +2, ignorando 2 pontos de armadura do inimigo no próximo golpe.
 
 #### Level 3: Mestre das Armas Brancas: Você aprendeu técnicas avançadas que lhe permitem manipular suas armas com maestria, tornando-se uma força temida no campo de batalha.
 
-- **Tornado de Lâminas:** "Seja o vento da destruição." Realiza um ataque giratório com sua arma, atingindo todos os inimigos em um raio de 3 metros e causando dano baseado na sua Força a cada um. Caso sua Força seja 19 ou mais, rode duas vezes.
+- **Tornado de Lâminas:** "Seja o vento da destruição." Realiza um ataque giratório com sua arma, atingindo todos os inimigos em um raio de 3 metros e causando dano adicional baseado na sua Força a cada um. Caso sua Força seja 19 ou mais, rode duas vezes.
     
-- **Muralha de Aço:** "A defesa impenetrável." Entra em postura defensiva e levanta um escudo (ou usa sua arma defensivamente) para criar uma barreira que aumenta sua defesa por dois turnos. Atacar cancela a postura.
+- **Muralha de Aço:** "A defesa impenetrável." Entra em postura defensiva e levanta um escudo (ou usa sua arma defensivamente) para criar uma barreira que aumenta sua defesa em +8 por dois turnos. Atacar cancela a postura.
     
-- **Golpe Perfurante:** "Atravessar qualquer defesa." Realiza um ataque concentrado que ignora completamente a armadura do alvo, causando dano igual ao dobro da sua Força.
+- **Golpe Perfurante:** "Atravessar qualquer defesa." Realiza um ataque concentrado que ignora completamente a armadura do alvo, causando dano adicional igual ao dobro da sua Força.
 
 #### Level 4: Técnicas Secretas dos Veteranos: Você começa a aprender técnicas secretas que são transmitidas apenas aos soldados mais experientes, aprimorando ainda mais suas habilidades de combate.
 
-- **Fúria do Guerreiro:** "Liberte a fúria interior." Entra em um estado de fúria que aumenta seu dano por três turnos. Durante esse estado, você não sente dor, mas também não pode usar habilidades defensivas.
+- **Fúria do Guerreiro:** "Liberte a fúria interior." Entra em um estado de fúria que aumenta seu dano em 2d8 por três turnos. Durante esse estado, você não sente dor, mas também não pode usar habilidades defensivas.
     
 - **Investida Devastadora:** "A investida que quebra muralhas." Realiza uma investida com força total, causando dano e empurrando o inimigo para trás, desestabilizando sua formação.
     
@@ -81,9 +81,9 @@ Dado de vida é um 1d12.
 
 #### Level 5: O Guerreiro Imbatível: Você alcançou um nível de maestria em combate que poucos podem igualar. Suas habilidades são refinadas ao ponto da perfeição.
 
-- **Corte Rápido:** Pode realizar um ataque adicional por turno, com a segunda ação de ataque causando 100% do dano total da primeira.
+- **Corte Rápido:** Agora seu ataque adicional causa 100% do dano.
     
-- **Resistência Inabalável:** Aumenta sua resistência física, permitindo que você recupere mais pontos de vida, baseando na Constituição, por turno durante três turnos. 
+- **Resistência Inabalável:** Aumenta sua resistência física, permitindo que você recupere 2d4 + metade da sua Força como pontos de vida, por turno, durante três turnos. 
 	
 - **Invencível:** Tem vantagem em testes de Força e Constituição.
 
@@ -91,4 +91,4 @@ Dado de vida é um 1d12.
 
 - **Dança da Morte:** "Seja a dança entre a vida e a morte." Realiza uma série de ataques rápidos e letais, atingindo até cinco inimigos próximos. Em cada ataque os críticos são alcançados em 9 ~ 10.
     
-- **Golpe Final:** "O fim de todos os combates." Concentra toda a sua força em um único golpe devastador, causando o quádruplo da sua Força em dano. Este ataque ignora todas as formas de defesa, mas requer um turno completo de preparação e deixa você vulnerável no próximo turno.
+- **Golpe Final:** "O fim de todos os combates." Concentra toda a sua força em um único golpe devastador, causando o quádruplo da sua Força em dano adicional. Este ataque ignora todas as formas de defesa, mas requer um turno completo de preparação e deixa você vulnerável no próximo turno.
