@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Classes Novas/Bruxo.md",
+                "file": "RPG/Ancestralidades/Thalassano.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Classes Novas/Bruxo.md",
+                "file": "RPG/Ancestralidades/Thalassano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Classes Novas/Bruxo.md",
+                "file": "RPG/Ancestralidades/Thalassano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Classes Novas/Bruxo.md"
+                "file": "RPG/Ancestralidades/Thalassano.md"
               }
             }
           }
@@ -161,14 +161,15 @@
   },
   "active": "3c112498bce7f981",
   "lastOpenFiles": [
-    "RPG/Ficha de personagem.md",
-    "RPG/Ancestralidades/Thalassano.md",
     "RPG/Ancestralidades/Sussurrador.md",
     "RPG/Ancestralidades/Radilhante.md",
+    "RPG/Perícias.md",
     "RPG/Ancestralidades/Cracano.md",
+    "RPG/Classes Novas/Bruxo.md",
+    "RPG/Ficha de personagem.md",
+    "RPG/Ancestralidades/Thalassano.md",
     "RPG/Ancestralidades",
     "RPG/Classes Antigas/Monge.md",
-    "RPG/Classes Novas/Bruxo.md",
     "RPG/Classes Novas/Clandestino.md",
     "RPG/Classes Novas/Pesquisador de Batalha.md",
     "RPG/Classes Novas/Soldado.md",
@@ -177,7 +178,6 @@
     "RPG/Raça/Inumano.md",
     "RPG/Raça/Humano.md",
     "RPG/Sistema.md",
-    "RPG/Perícias.md",
     "RPG/Itens.md",
     "RPG/Atributos Novos.md",
     "Images/Filhos do céu/cc326d3bd4ebefa7b04aad147dafdfa7.jpg",

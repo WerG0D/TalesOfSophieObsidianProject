@@ -5,7 +5,7 @@ Comece com ✹10 (Florim Áureos)
 
 Raíz profunda:
 Escalar: Força
-Adestrar Animais
+Adestrar Animais: Influencia 
 Comece com ✹10 (Florim Áureos)
 
 Estrela Cadente:
