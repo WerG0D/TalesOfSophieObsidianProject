@@ -16,9 +16,3 @@ Prestidigitação: Reação
 Resiliência: Força
 Saltar: Força
 Sobrevivência: Erudição
-
-Reação: 5
-Força: 3
-Erudição: 3
-Influencia: 4
-Astúcia: 3
