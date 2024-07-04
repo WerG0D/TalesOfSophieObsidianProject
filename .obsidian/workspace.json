@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Perícias.md",
+                "file": "RPG/Sistema.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Perícias.md",
+                "file": "RPG/Sistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Perícias.md",
+                "file": "RPG/Sistema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Perícias.md"
+                "file": "RPG/Sistema.md"
               }
             }
           }
@@ -161,17 +161,18 @@
   },
   "active": "3c112498bce7f981",
   "lastOpenFiles": [
+    "RPG/Perícias.md",
+    "RPG/Classes Novas/Clandestino.md",
+    "RPG/Sistema.md",
+    "RPG/Itens.md",
     "RPG/Atributos Novos.md",
+    "RPG/Raça/Fada.md",
+    "RPG/Raça/Inumano.md",
+    "RPG/Raça/Humano.md",
     "RPG/Classes Novas/Pesquisador de Batalha.md",
     "RPG/Classes Novas/Xamã.md",
     "RPG/Classes Novas/Soldado.md",
-    "RPG/Perícias.md",
-    "RPG/Itens.md",
     "RPG/Classes Novas/Bruxo.md",
-    "RPG/Classes Novas/Clandestino.md",
-    "RPG/Raça/Humano.md",
-    "RPG/Raça/Inumano.md",
-    "RPG/Raça/Fada.md",
     "RPG/Classes Antigas/Monge.md",
     "Images/Filhos do céu/cc326d3bd4ebefa7b04aad147dafdfa7.jpg",
     "Images/Filhos do céu/bc573c10618beeb9ad5dd17df4cd532f.jpg",
@@ -212,7 +213,6 @@
     "RPG/Classes Antigas/Pirata.md",
     "RPG/Classes Antigas/Soldado.md",
     "RPG/Classes Antigas/Mago de Ossos.md",
-    "RPG/Classes Antigas/Inumano.md",
     "Tales of Sophie/Weather System.canvas",
     "Tales of Sophie/Core Mechanics.canvas",
     "Tales of Sophie/Chains - Hook.canvas"

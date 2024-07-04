@@ -1,3 +1,5 @@
+Todas as classes começam com 2 proficiências da sua escolha.
+
 Acrobacia: Reação
 Adestrar Animais: Influência
 Atuação: Influência
