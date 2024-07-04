@@ -1,7 +1,7 @@
-
+Dado de vida é um 1d8.
 ### Pirata:
 **Level 1:**
-- **Sangue e Bebida**: Ao consumir bebida ou comida, você restaura sua vida até a metade se estiver abaixo dela. Se sua Resiliência for 17 ou mais, você também reduz o dano recebido nos próximos 2 turnos pela metade. Essa habilidade reflete seu vigor e a capacidade de continuar lutando mesmo em situações adversas.
+- **Sangue e Bebida**: Ao consumir bebida ou comida, você restaura sua vida até a metade se estiver abaixo dela. Se sua Força for 17 ou mais, você também reduz o dano recebido nos próximos 2 turnos pela metade. Essa habilidade reflete seu vigor e a capacidade de continuar lutando mesmo em situações adversas.
     
 - **Andar na Prancha**: Avance com uma série de 1d3 + 3 ataques rápidos que empurram o inimigo. Se todos os ataques acertarem, o oponente é derrubado no chão. Essa técnica mostra sua habilidade em combate corpo a corpo, combinando agilidade e força para desestabilizar adversários.
     
@@ -11,7 +11,7 @@
     
 
 **Level 2:**
-- **Chuva de Balas**: Realize 1d3 + 3 disparos que atingem aleatoriamente inimigos à vista. Um único inimigo pode ser alvejado por no máximo 50% dos tiros. Se sua Destreza for 17 ou mais, dobre a quantidade de disparos, transformando a área em um campo de tiro mortal.
+- **Chuva de Balas**: Realize 1d3 + 3 disparos que atingem aleatoriamente inimigos à vista. Um único inimigo pode ser alvejado por no máximo 50% dos tiros. Se sua Reação for 17 ou mais, dobre a quantidade de disparos, transformando a área em um campo de tiro mortal.
     
 - **Sequestro Relâmpago**: Usando uma corda, tente capturar um inimigo, deixando-o preso por 3 turnos ou até receber dano. Esta habilidade estratégica permite neutralizar ameaças temporariamente, garantindo vantagem para você e seus aliados.
     

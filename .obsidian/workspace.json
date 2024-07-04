@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Classes Novas/Pesquisador.md",
+                "file": "RPG/Classes Novas/Pesquisador de Batalha.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Raça/Fada.md",
+                "file": "RPG/Classes Novas/Bruxo.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Raça/Fada.md",
+                "file": "RPG/Classes Novas/Bruxo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Raça/Fada.md",
+                "file": "RPG/Classes Novas/Bruxo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Raça/Fada.md"
+                "file": "RPG/Classes Novas/Bruxo.md"
               }
             }
           }
@@ -161,6 +161,33 @@
   },
   "active": "3c112498bce7f981",
   "lastOpenFiles": [
+    "RPG/Classes Novas/Clandestino.md",
+    "RPG/Classes Novas/Bruxo.md",
+    "RPG/Classes Novas/Xamã.md",
+    "RPG/Classes Novas/Soldado.md",
+    "RPG/Classes Novas/Pesquisador de Batalha.md",
+    "RPG/Raça/Humano.md",
+    "RPG/Raça/Inumano.md",
+    "RPG/Raça/Fada.md",
+    "RPG/Itens.md",
+    "RPG/Atributos Novos.md",
+    "RPG/Classes Antigas/Monge.md",
+    "RPG/Perícias.md",
+    "Images/Filhos do céu/cc326d3bd4ebefa7b04aad147dafdfa7.jpg",
+    "Images/Filhos do céu/bc573c10618beeb9ad5dd17df4cd532f.jpg",
+    "Images/Filhos do céu/2be7f59214051c6fe6854058bc1748ea.jpg",
+    "Images/Filhos do céu/4c9e6fb554c8168764254cda2da35500.jpg",
+    "Images/Filhos do céu/8e98e5c49004a98f599d98e0b1cb1769.jpg",
+    "Images/Filhos do céu/ac9cf693115c873055218a886f4e1348.jpg",
+    "Images/Game Map/sophie_movement_behavior.png",
+    "Images/Game Map/Area1/Radilhantes Path.png",
+    "Images/Game Map/Area1/Rooms/area1_room10.png",
+    "Images/Game Map/Area1/Rooms/area1_room2.png",
+    "Panteão/Aerathys, a antiga.md",
+    "Panteão/O sacrifício do herdeiro do mar.md",
+    "Panteão/Oathwert, O profundo.md",
+    "Panteão/Panteão.md",
+    "RPG/Classes Antigas/Xamã.md",
     "Tales of Sophie/Mechanics/RPG MECHANICS.canvas",
     "Tales of Sophie/Mechanics/Weather System.canvas",
     "Tales of Sophie/Mechanics/Core Mechanics.canvas",
@@ -172,34 +199,13 @@
     "Tales of Sophie/Game Acts/Act 2.md",
     "Tales of Sophie/Game Acts/Act 1.md",
     "Tales of Sophie/Game Acts",
-    "Images/Game Map/sophie_movement_behavior.png",
-    "Images/Game Map/Area1/Rooms/area1_room2.png",
-    "Images/Game Map/Area1/Rooms/area1_room10.png",
-    "Images/Game Map/Area1/Rooms/area1_room1.png",
-    "Images/Game Map/Area1/Rooms/area1_room 8.png",
-    "Images/Game Map/Area1/Rooms/area1_room 5.png",
-    "Images/Game Map/Area1/Rooms/area1_room 4.png",
     "Images/Game Map/Area1/Rooms",
-    "Images/Game Map/Area1/Radilhantes Path.png",
     "Images/Game Map/Area1/PSD/room 9.psd",
     "Images/Game Map/Area1/PSD/room 5.psd",
     "Images/Game Map/Area1/PSD/room 4.psd",
     "Images/Game Map/Area1/PSD/room 10.psd",
-    "Images/Game Map/Area1/AreaExamples/sexo.webp",
     "Images/Game Map/Area1/PSD",
     "Images/Game Map/Area1/AreaExamples",
-    "RPG/Classes Novas/Xamã.md",
-    "RPG/Raça/Inumano.md",
-    "RPG/Atributos Novos.md",
-    "RPG/Classes Novas/Clandestino.md",
-    "RPG/Classes Novas/Soldado.md",
-    "RPG/Classes Antigas/Xamã.md",
-    "RPG/Classes Novas/Bruxo.md",
-    "RPG/Classes Novas/Pesquisador.md",
-    "RPG/Classes Antigas/Monge.md",
-    "RPG/Raça/Fada.md",
-    "RPG/Raça/Humano.md",
-    "RPG/Perícias.md",
     "RPG/Atributos Antigos.md",
     "RPG/Classes Antigas/Technomancer.md",
     "RPG/Classes Antigas/Bruxo.md",
@@ -207,7 +213,6 @@
     "RPG/Classes Antigas/Soldado.md",
     "RPG/Classes Antigas/Mago de Ossos.md",
     "RPG/Classes Antigas/Inumano.md",
-    "RPG/Classes Antigas/Atirador.md",
     "Tales of Sophie/Weather System.canvas",
     "Tales of Sophie/Core Mechanics.canvas",
     "Tales of Sophie/Chains - Hook.canvas"

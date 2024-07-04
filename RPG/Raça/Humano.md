@@ -1,1 +1,1 @@
-Podem usar Mecarnes e Mestrelas
+Podem usar Mecarnes e Mestrelas.

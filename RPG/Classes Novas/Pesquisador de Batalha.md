@@ -1,3 +1,4 @@
+Dado de vida é 1d6.
 Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas você não. Sua sede por conhecimento é tão grande quanto seu desejo por aventuras e batalhas.
 
 #### **Level 1:** _Inovação nas Fronteiras_: Crie dispositivos únicos.
@@ -6,12 +7,12 @@ Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas
     
 - **Remendo de Batalha**: Utilize seus conhecimentos para reparar armaduras, melhorando temporariamente a resistência dos seus aliados. Eles ganham +1 de defesa por uma batalha, garantindo proteção extra em momentos críticos.
     
-- **Criar**: Escolha, você pode ter a capacidade criar Mestrelas ou Mecarnes. Esses itens tem raridade comum no level 1, raro no level 3, épico no level 5 e lendário no level 6. Você ao criar um item deve ter materiais suficientes, deve rolar um dado de dias para criar também e a chance de sucesso, caso ela caia em 1 ~ 4 você falha, caso caia caia em 20 você cria um item de 1 nível de raridade superior.
+- **Criar**: Escolha, você pode ter a capacidade criar Mestrelas ou Mecarnes. Esses itens tem raridade comum no level 1, raro no level 3, épico no level 5 e lendário no level 6. Você ao criar um item deve ter materiais suficientes, deve rolar um dado de dias para criar também e a chance de sucesso, caso ela caia em 1 ~ 4 você falha, caso caia caia em 20 você cria um item de 1 nível de raridade superior. O período de criação é de 1d4 dias.
 #### **Level 2:**
 
 _Estratégia e Preparo_: Coordene suas táticas com precisão.
 
-- **Mente Calculista**: Substitua a Velocidade pelo Intelecto para determinar a iniciativa. Sua mente afiada garante que você e seus aliados estejam sempre um passo à frente, prontos para reagir antes dos inimigos.
+- **Mente Calculista**: Substitua a Reação pela Astúcia para determinar a iniciativa. Sua mente afiada garante que você e seus aliados estejam sempre um passo à frente, prontos para reagir antes dos inimigos.
     
 - **Táticas de Campo**: Planeje com seus aliados uma estratégia de batalha. Escolha entre abordagens ofensivas, defensivas, focadas ou de recuo, conferindo bônus significativos. Cada escolha altera drasticamente o fluxo da batalha, adaptando suas táticas às necessidades do momento.
 	- **Ofensivo**: _Fúria Coordenada_ - Aliados causam 1d6 de dano adicional.
@@ -28,7 +29,7 @@ _Assistência Avançada_: Ofereça suporte especializado.
 
 - **Impulso Ofensivo**: Aumente o potencial de ataque de um aliado, concedendo 1d6 de dano adicional. Com sua assistência, o aliado se torna uma força implacável no campo de batalha, capaz de virar a maré com golpes poderosos.
     
-- **Escudo de Conhecimento**: Reforce a defesa de um aliado, adicionando +2 à sua proteção. Seu suporte estratégico não apenas fortalece, mas também inspira confiança, permitindo que seus aliados enfrentem ataques inimigos com mais segurança.
+- **Escudo de Conhecimento**: Reforce a defesa de um aliado, adicionando +2 à sua Defesa. Seu suporte estratégico não apenas fortalece, mas também inspira confiança, permitindo que seus aliados enfrentem ataques inimigos com mais segurança.
     
 
 #### **Level 4:**
@@ -46,7 +47,7 @@ _Conhecimento Amplo_: Utilize seu vasto aprendizado.
 
 - **Forja do Mestre**: Crie aprimoramentos para armas ou armaduras, melhorando seu desempenho. Esses upgrades não só aumentam a eficácia, mas também adicionam características únicas que podem ser decisivas em combate.
     
-- **Embate Mental**: Use sua inteligência para confundir um inimigo com menor Intelecto, reduzindo sua Velocidade em 2. Essa tática deixa o adversário desorientado, permitindo que seus aliados tirem vantagem de sua lentidão.
+- **Embate Mental**: Use sua inteligência para confundir um inimigo com menor Intelecto, reduzindo sua Reação em 2. Essa tática deixa o adversário desorientado, permitindo que seus aliados tirem vantagem de sua lentidão.
     
 
 #### **Level 6:**

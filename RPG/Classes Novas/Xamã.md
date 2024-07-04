@@ -3,10 +3,6 @@ Fada que usam de seus poderes da árvore. Quando usa muita Magia Proibida se tor
 **Level 1:** Você foi escolhido pela Árvore Anciã, agora como seu escolhido você recebeu algumas habilidades:
 - **Localização Terrena:** Pode usar de plantas ao redor para tentar encontrar inimigos próximos em um raio de 10 metros.
 	
-- **Conexão Espiritual:** Consegue ver ouvir a voz da Árvore Anciã, além de espíritos que as vezes você pode se comunicar. Mas nem sempre, no entanto, eles são amigáveis e comunicar-se pode resultar em um combate.
-	
-- **Combatente Guardião**: Imbui suas armas com energia da Árvore e causa dano adicional com igual ao seu Nível(Fada), pode atacar duas vezes por turno.
-	
 - **Magias Antigas**: Pode conjurar as seguintes magias graças aos poderes da árvore:
 	- Eclipse Sombrio: Conjura em suas mãos um vórtex negro que cresce até 2m e o lança a um alvo, ele dura 3 turnos e causa 2d8 de dano por turno. Além disso, alvos próximos a ele passam a ser atraídos para o centro, devem fazer um teste de Reação de dificuldade 10 + Erudição, caso passem eles escapam do vórtex.
 	- Teleporte: Teleporta a até 10m de distância.
