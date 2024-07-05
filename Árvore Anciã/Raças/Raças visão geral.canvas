@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"9eb08d59b31f05e6","x":-680,"y":-700,"width":400,"height":400,"type":"file","file":"Árvore Anciã/Raças/Fadas.md"},
+		{"id":"26592c4249f57e0d","x":240,"y":-700,"width":400,"height":400,"type":"file","file":"Árvore Anciã/Raças/Inumanos.md"},
+		{"id":"3dd93477966e0629","x":-220,"y":-700,"width":400,"height":400,"type":"file","file":"Árvore Anciã/Raças/Humanos.md"},
+		{"id":"534bbafd7bc163f1","x":-440,"y":-240,"width":400,"height":400,"type":"file","file":"Árvore Anciã/Raças/Filhos do Mar.md"},
+		{"id":"0017b1d200ceb61e","x":20,"y":-240,"width":400,"height":400,"type":"file","file":"Árvore Anciã/Raças/Filhos do Céu.md"}
+	],
+	"edges":[]
+}

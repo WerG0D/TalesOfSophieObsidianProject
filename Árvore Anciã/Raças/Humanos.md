@@ -1,0 +1,1 @@
+Em diversos tamanhos e formatos, os humanos dominam a Árvore Anciã como a raça mais comum e numerosa, talentosos e de excelente adaptação, eles são a raça predominante. 
