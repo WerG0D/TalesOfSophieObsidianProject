@@ -40,8 +40,8 @@
 --------------------------------
 
 
-Rifles: Tem 8 munições no geral. Tem desvantagens em inimigos a menos de 20m.
-Pistolas: Tem 6 munições cada. Tem desvantagem em inimigos a mais de 20.
+Rifles: Tem 8 munições no geral. Tem desvantagens em inimigos a menos de 20m e acima de 40m. Ignora 12 de Defesa do alvo.
+Pistolas: Tem 6 munições cada. Tem desvantagem em inimigos a mais de 20m. Ignora 8 de Defesa do Alvo.
 Pistolas e Adagas: Permitem que você ataque novamente com ação bônus. Ataques duplos com essa arma permitem você atacar 3x no turno, não 4.
 ### Conjunto 1: Monstros Oceânicos
 
@@ -50,7 +50,7 @@ Pistolas e Adagas: Permitem que você ataque novamente com ação bônus. Ataque
 - **Espada: Lâmina do Marisco**
     - Uma espada simples feita de conchas e coral. Oferece um dano moderado e um pequeno bônus contra criaturas aquáticas. Causa 1d6 + Força de dano.
 - **Rifle: Rifle de Sargaço**
-    - Um rifle rústico com alga marinha enredada. Tem um alcance limitado e causa dano moderado. Causa 1d8 de dano.
+    - Um rifle rústico com alga marinha enredada. Tem um alcance limitado e  causa dano moderado. Causa 1d8 de dano.
 - **Pistola: Pistola de Coral**
     - Uma pistola leve feita de coral. Causa dano básico e é eficaz contra inimigos aquáticos menores. Causa 1d4 de dano.
 - **Adaga: Adaga de Peixe-Serra**
@@ -114,3 +114,15 @@ Pistolas e Adagas: Permitem que você ataque novamente com ação bônus. Ataque
 - **Adaga: Adaga do Arcanjo**
     - Adaga que brilha com luz divina, oferecendo dano significativo e chance de cura ao usuário.
 
+----------------------
+------------------------------
+
+### MUNIÇÕES:
+
+**Rifles:**
+- Munição Comum: Causa 8 de dano adicional.
+- Munição Reforçada: Causa 12 de dano adicional.
+
+**Pistolas:**
+- Munição Comum: Causa 4 de dano adicional.
+- Munição Reforçada: Causa 8 de dano adicional.

@@ -2,7 +2,7 @@ Dado de vida é um 1d12.
 ### ATIRADOR:
 - #### Level 1: Você dominou as técnicas básicas de tiro:
 
-- [ ] Precisão Mortal: Capacidade de lançar um projétil com precisão devastadora, causando dano adicional baseado na Reação. Quanto maior a distância, maior a precisão e o dano.
+- [ ] Precisão Mortal: Capacidade de lançar um projétil com precisão devastadora, causando dano adicional baseado na Reação. Quanto maior a distância, maior o dano aumentando em 1 a cada 10m.
 	
 - [ ] Disparo Longínquo: Aumenta o alcance dos seus tiros, permitindo atacar inimigos a até 50 metros sem penalidades.
 	

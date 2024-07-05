@@ -9,7 +9,7 @@
 
 **Esquiva e Ataque:** 1d10 + Reação. Caso o golpe acerte reduza o dano que o alvo recebe igual a metade da Defesa dele caso o mesmo tenha tentado esquivar.
 
-**Defender:** Não esquiva, mas utiliza 100% da Defesa para reduzir o dano.
+**Defender:** Não esquiva, mas utiliza 100% da Defesa para reduzir o dano. Caso defenda 100% recebe no mínimo 1 de dano.
 
 **Falha e Sucesso Crítico:** 1 e 10, respectivamente, no 1d10.
 
