@@ -1,3 +1,4 @@
+
 ### Conjunto 1: Monstros Oceânicos
 
 #### Nível Comum:
@@ -39,6 +40,9 @@
 --------------------------------
 
 
+Rifles: Tem 8 munições no geral. Tem desvantagens em inimigos a menos de 20m.
+Pistolas: Tem 6 munições cada. Tem desvantagem em inimigos a mais de 20.
+Pistolas e Adagas: Permitem que você ataque novamente com ação bônus. Ataques duplos com essa arma permitem você atacar 3x no turno, não 4.
 ### Conjunto 1: Monstros Oceânicos
 
 #### Nível Comum:

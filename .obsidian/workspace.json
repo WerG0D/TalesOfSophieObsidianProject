@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Ancestralidades/Thalassano.md",
+                "file": "RPG/Classes Novas/Xamã.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Ancestralidades/Thalassano.md",
+                "file": "RPG/Classes Novas/Xamã.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Ancestralidades/Thalassano.md",
+                "file": "RPG/Classes Novas/Xamã.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Ancestralidades/Thalassano.md"
+                "file": "RPG/Classes Novas/Xamã.md"
               }
             }
           }
@@ -161,25 +161,25 @@
   },
   "active": "3c112498bce7f981",
   "lastOpenFiles": [
+    "RPG/Classes Novas/Soldado.md",
+    "RPG/Classes Novas/Pesquisador de Batalha.md",
+    "RPG/Itens.md",
+    "RPG/Classes Novas/Clandestino.md",
+    "RPG/Atributos Novos.md",
+    "RPG/Classes Novas/Bruxo.md",
+    "RPG/Ancestralidades/Thalassano.md",
     "RPG/Ancestralidades/Sussurrador.md",
     "RPG/Ancestralidades/Radilhante.md",
-    "RPG/Perícias.md",
     "RPG/Ancestralidades/Cracano.md",
-    "RPG/Classes Novas/Bruxo.md",
+    "RPG/Perícias.md",
     "RPG/Ficha de personagem.md",
-    "RPG/Ancestralidades/Thalassano.md",
     "RPG/Ancestralidades",
     "RPG/Classes Antigas/Monge.md",
-    "RPG/Classes Novas/Clandestino.md",
-    "RPG/Classes Novas/Pesquisador de Batalha.md",
-    "RPG/Classes Novas/Soldado.md",
     "RPG/Classes Novas/Xamã.md",
     "RPG/Raça/Fada.md",
     "RPG/Raça/Inumano.md",
     "RPG/Raça/Humano.md",
     "RPG/Sistema.md",
-    "RPG/Itens.md",
-    "RPG/Atributos Novos.md",
     "Images/Filhos do céu/cc326d3bd4ebefa7b04aad147dafdfa7.jpg",
     "Images/Filhos do céu/bc573c10618beeb9ad5dd17df4cd532f.jpg",
     "Images/Filhos do céu/2be7f59214051c6fe6854058bc1748ea.jpg",

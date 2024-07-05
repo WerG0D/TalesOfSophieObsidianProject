@@ -21,17 +21,17 @@ Dado de vida é um 1d8.
     
 
 **Level 3:**
-- **Aleijar**: Role 1d20 e ataque, caso dê um crítico, acerte automaticamente e determine uma lesão específica (olhos, ouvidos, pernas, braços ou boca). O alvo deve passar em um teste de Constituição para evitar a incapacidade temporária. Com Destreza 17 ou mais, o crítico é estendido para 17-20, aumentando suas chances de infligir danos debilitantes.
+- **Aleijar**: Role 1d10 e ataque, caso dê um crítico, acerte automaticamente e determine uma lesão específica (olhos, ouvidos, pernas, braços ou boca). O alvo deve passar em um teste de Constituição para evitar a incapacidade temporária. Com Reação 17 ou mais, o crítico é estendido para 9-10, aumentando suas chances de infligir danos debilitantes.
     
-- **Bala na Testa**: Atire com precisão mortal em um alvo; quanto menor a distância, maior o dano. Se sua Destreza for 17 ou mais, faça dois disparos. Essa habilidade demonstra seu talento em tiro, focando em pontos vitais para maximizar o impacto.
+- **Bala na Testa**: Atire com precisão mortal em um alvo; quanto menor a distância, maior o dano. Se sua Reação for 17 ou mais, faça dois disparos. Essa habilidade demonstra seu talento em tiro, focando em pontos vitais para maximizar o impacto.
     
-- **Êxtase da Batalha**: Se sua vida cair a 0 ou menos devido a uma lesão não fatal, retorne à batalha instantaneamente, recuperando pontos de vida igual à sua Resiliência. Essa habilidade reflete seu espírito indomável, permitindo continuar lutando quando outros desistiriam.
+- **Êxtase da Batalha**: Se sua vida cair a 0 ou menos devido a uma lesão não fatal, retorne à batalha instantaneamente, recuperando pontos de vida igual à sua Força. Essa habilidade reflete seu espírito indomável, permitindo continuar lutando quando outros desistiriam.
     
 
 **Level 4:**
 - **Deleite Perigoso**: Torne-se resistente a venenos. Caso tenha proficiência em Resiliência, torne-se imune. Essa resistência aprimorada mostra sua capacidade de lidar com adversidades químicas, garantindo que venenos não atrapalhem sua eficácia em combate.
     
-- **Mordida da Serpente**: Envenene sua espada, causando dano adicional por 3 turnos. Ao atingir o inimigo, há uma chance de paralisá-lo após 1 turno por 1d3 turnos. Esta habilidade simboliza sua letalidade e estratégia em combate, utilizando venenos para incapacitar o inimigo.
+- **Mordida da Serpente**: Envenene sua espada, causando 2d4 de dano adicional por 3 turnos. Ao atingir o inimigo, há uma chance de paralisá-lo após 1 turno por 1d3 turnos. Esta habilidade simboliza sua letalidade e estratégia em combate, utilizando venenos para incapacitar o inimigo.
     
 - **Fuga**: Após atacar, use sua movimentação novamente, permitindo reposicionar-se rapidamente. Esta habilidade tática demonstra sua agilidade e adaptabilidade, permitindo esquivar-se de perigos e preparar o próximo ataque.
     
@@ -44,11 +44,11 @@ Dado de vida é um 1d8.
 
 **Level 6:**
 Escolha um entre as 3 armas seguintes:
-- **Profundeza Gélida**: Ataque oponentes com dano gélido, causando dano adicional por segundo nos próximos turnos. Sua conexão com o frio profundo torna você uma ameaça contínua no campo de batalha, prejudicando a resistência dos inimigos.
+- **Profundeza Gélida**: Ataque oponentes com uma espada que dá 2d8 + Força de dano gélido, caso acerte começa congelar seu inimigo por dentro, causando 2d8 de dano adicional por turno nos 3 próximos turnos. Sua conexão com o frio profundo torna você uma ameaça contínua no campo de batalha, prejudicando a resistência dos inimigos. Pode congelar fontes de água próximas a vontade.
     
-- **Mão do Kraken**: Utilize um dispositivo em forma de luva que libera um tentáculo comprido. Pode ser usado como chicote ou corda, permitindo ataques engenhosos e controle do campo de batalha, exemplificando sua versatilidade e criatividade.
+- **Mão do Kraken**: Utilize um dispositivo em forma de luva que libera um tentáculo comprido. Pode ser usado como chicote causando 1d10 + Força de dano ou uma corda mega-resistente, permitindo ataques engenhosos e controle do campo de batalha, exemplificando sua versatilidade e criatividade.
     
-- **Irmãs do Inferno**: Empunhe dois revólveres flamejantes que queimam onde atingem. Esses revólveres simbolizam seu poder destrutivo, deixando um rastro de chamas e caos no rastro de seus disparos.
+- **Irmãs do Inferno**: Empunhe dois revólveres flamejantes que queimam onde atingem. Esses revólveres simbolizam seu poder destrutivo, deixando um rastro de chamas e caos no rastro de seus disparos. Eles causam 1d8 + 10 de dano por disparo. Tem munição infinita.
 
 ### Assassino:
 **Nível 1**:
