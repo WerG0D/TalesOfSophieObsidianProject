@@ -1,4 +1,5 @@
 Moderação e Reação
+### Monge:
 #### Nível 1: Habilidades Iniciais de Monge
 
 **Golpe Desarmado Aprimorado:** _"A perfeição do corpo como arma."_  
@@ -55,3 +56,8 @@ Você ganha resistência a danos de todos os tipos enquanto estiver meditando ou
 
 **Fúria Controlada:** _"A energia interior liberada com precisão mortal."_  
 Você pode usar sua ação para entrar em um estado de fúria controlada. Durante esse estado, seus ataques desarmados causam dano adicional baseado em seu modificador de Reação. Esta habilidade dura 6 turnos e você pode usá-la uma vez por descanso longo.
+
+
+### Samurai:
+
+### Dançarino:

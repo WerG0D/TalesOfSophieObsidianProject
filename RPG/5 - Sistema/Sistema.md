@@ -27,6 +27,3 @@
 - 9: Boca totalmente destruída. Fica mudo.
 - 10: Perdeu um pé. Perde 1 de reação e tem desvantagem em Corrida.
 - Caso não tenha caído no 1 ~ 3 você cai inconsciente. O número que caiu da tabela também se torna um extensão de MORTE para sua próxima rolagem da Tabela da Morte.
-
-
-
