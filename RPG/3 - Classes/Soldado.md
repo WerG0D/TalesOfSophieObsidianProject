@@ -49,7 +49,7 @@ Dado de vida é um 1d12.
 ### Guerreiro:
 - #### Level 1: O Começo de uma Jornada de Aço: Você aprendeu as técnicas fundamentais de combate corpo a corpo com armas brancas, essenciais para sobreviver e prosperar no campo de batalha.
 
-- **Golpe Devastador:** "Desencadeie a fúria do aço." Executa um ataque poderoso causando dano adicional igual ao dobro da sua Força. Com a sua Força acima de 17 esse golpe é devastador contra inimigos mais fracos (menos de 10 força), podendo abatê-los com um único golpe.
+- **Golpe Devastador:** "Desencadeie a fúria do aço." Executa um ataque poderoso causando dano adicional igual ao dobro da sua Força. Com a sua Força acima de 17 esse golpe é devastador contra inimigos mais fracos (menos de 10 força), podendo abatê-los com um único golpe. Até 3 vezes por combate.
     
 - **Defesa Resiliente:** "A força reside na defesa." Aumenta sua defesa reduzindo o dano recebido em 2d8 por dois turnos. Caso sua Defesa seja acima de 17 dobre o dano reduzido. Uma vez por combate.
     
