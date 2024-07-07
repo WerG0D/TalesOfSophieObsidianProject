@@ -54,6 +54,8 @@ Dado de vida é um 1d12.
 - **Defesa Resiliente:** "A força reside na defesa." Aumenta sua defesa reduzindo o dano recebido em 2d8 por dois turnos. Caso sua Defesa seja acima de 17 dobre o dano reduzido.
     
 - **Investida Impetuosa:** "Avance com a força de um trovão." Realiza uma investida rápida com sua arma, atingindo um inimigo e causando dano igual 2x na sua Força. A investida pode empurrar o inimigo, desestabilizando suas defesas.
+	
+- **Treinamento Pesado**: Aumenta sua força, defesa e reação em 2.
 
 #### Level 2: Refinando a Arte do Combate: Seu treinamento contínuo lhe permite aperfeiçoar suas técnicas de combate, aumentando tanto sua eficácia ofensiva quanto defensiva.
 
@@ -86,6 +88,8 @@ Dado de vida é um 1d12.
 - **Resistência Inabalável, Aprimorada:** Agora aumenta sua resistência física, permitindo que você recupere sua Força como pontos de vida, por turno, durante três turnos. 
 	
 - **Invencível:** Tem vantagem em testes de Força e Constituição.
+	
+- **Treinamento Reforçado**: Aumenta sua força e reação em 1.
 
 #### Level 6: A Lenda do Campo de Batalha: No auge de suas habilidades, você se torna uma lenda viva no campo de batalha, capaz de realizar feitos que desafiam a imaginação.
 

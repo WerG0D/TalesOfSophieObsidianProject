@@ -12,7 +12,11 @@
 #### Nível Épico:
 
 - **Armadura: Escamas de Sereia**
-    - Armadura brilhante feita de escamas de sereia, proporcionando alta defesa mágica e física, além de aumentar a resistência à água. Cada peça do set concede:  4 Defesa e 20 Vida. Set completo: 20 Defesa e 100 Vida.
+    - Armadura brilhante feita de escamas de sereia, proporcionando alta defesa mágica e física, além de aumentar a resistência à água. Cada peça do set concede:  2 Defesa e 20 Vida. Set completo: 8 Defesa e 100 Vida.
 
+#### Nível Lendário:
+
+- **Armadura: Escamas de Dragão Oceânico**
+    - Armadura brilhante, proporcionando alta defesa mágica e física, além de aumentar a resistência à água. Cada peça do set concede:  2 Defesa e 35 Vida. Set completo: 10 Defesa e 150 Vida.
 
 

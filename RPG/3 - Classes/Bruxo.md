@@ -6,7 +6,7 @@ Escolha entre os Onis, Calamidades ou os Malditos:
 
 #### *Level 1:* Você descendeu de um dos 7 Demônios, 7 Cores ou 7 Pecados. Escolha qual dos 7 você descendeu: _Vermelho, a Ira; Azul, a Morte; Roxo, a Tentação; Amarelo, a Desistência; Branco, a Enganação; Preto, o Caos; ou Verde, a Alma_, algumas habilidades suas irão mudar com base nisso:
 
-- **Sobre Inumano:** Recebe +1 ponto em Reação e Força.
+- **Sobre Inumano:** Recebe +1 ponto em Reação e Força. Seus ataques causam 1d8 de dano adicional.
     
 - **Cores:** Você entende melhor sua hereditariedades, seus ataques e habilidades reluzem em cor:
     - **Vermelho, a Ira:** Pode invocar armas de energia vermelha. Elas causam dano igual a 2 x Força.
@@ -75,18 +75,18 @@ Escolha entre os Onis, Calamidades ou os Malditos:
 #### **Level 5:**
 - **Exterminação Infernal, Aniquilar:** Você pode conjurar uma enorme _Bola de Fogo_ uma vez por batalha, ela causa dano a todos alvos, sendo 8d6 + 20 de dano em uma área 10 metros de diâmetro e mais 4d4 + 8 de dano por turno durante 5 turnos.
     - **Vermelho, a Ira:** A _Bola de Fogo_ causa dano adicional de 2d8, além disso caso entre na área você recebe 1d8 de dano adicional em seus ataques (ainda recebe dano da queimação).
-    - **Azul, a Morte:** A _Bola de Fogo_ se torna uma _Bola de Gelo_, causando dano de gelo e reduzindo a Reação dos alvos em 3.
+    - **Azul, a Morte:** A _Bola de Fogo_ se torna uma _Bola de Gelo_, causando dano de gelo e reduzindo a Reação dos alvos em 3. Alvos mortos retornam como zumbis sob seu comando.
     - **Roxo, a Tentação:** A _Bola de Fogo_ enfeitiça os alvos atingidos, fazendo eles perderem o próximo turno.
     - **Amarelo, a Desistência:** A _Bola de Fogo_ faz com que os alvos não possam se mover por 2 turnos.
     - **Branco, a Enganação:** A _Bola de Fogo_ trocar os equipamentos entre os alvos.
     - **Preto, o Caos:** A _Bola de Fogo_ recebe um efeito de dano aleatório (fogo, gelo, veneno, etc.) adicional, causando mais 3d8 de dano e mais 1d4 de dano por turno.
     - **Verde, a Alma:** A _Bola de Fogo_ drena vida dos alvos, curando você em metade do dano causado a todos os alvos.
 	
-- **Manifestação Demoníaca:** Você pode invocar um pequeno demônio uma vez por batalha. O avatar luta ao seu lado por 8 turnos e segue suas ordens. O avatar causa 2d8 + Força de dano com seus ataques, o dado de vida é 1d6, além disso tem os atributos iguais a metade do seus. Quando esse demônio morre ele explode causando dano em uma área de 6m igual ao dobro da sua Influência.
+- **Manifestação Demoníaca:** Você pode invocar um pequeno demônio uma vez por batalha. O avatar luta ao seu lado por 8 turnos e segue suas ordens. O avatar causa 2d8 + Influência de dano com seus ataques, ele tem 60 de vida, além disso tem os atributos iguais a metade do seus. Ele também tem habilidades das criaturas que você consumiu. Quando esse demônio morre ele explode causando dano em uma área de 6m igual ao dobro da sua Influência.
 #### **Level 6:**
 - **Transformação Demoníaca:** Você vira um demônio completo por 6 turnos, aumentando sua Força e Defesa em 2. Nesta forma, você ganha asas, aumentando sua velocidade de voo para 12 metros e causando 1d8 + 6 de dano extra com ataques corpo a corpo. Dura 1 minuto e pode ser usada uma vez por descanso longo. Ao fazer essa transformação você deve fazer um teste de Inalterabilidade, caso tire um erro crítico ou falhe você não ira controlar seu corpo, mas sim o Oni que você descende que vai controlar. Caso esteja com o Oni Preto e seu Dado Caos caia em reconjurar essa habilidade ao invés disso use conjura um pequeno demônio de Manifestação Demoníaca:
     - **Vermelho, a Ira:** Você causa dano de fogo adicional (2d8 + 8) com seus ataques e habilidades e eles causam explosões no alvos.
-    - **Azul, a Morte:** Seus ataques e habilidades ignoram a Defesa do alvo e atingem diretamente em sua Vida. Além disso, caso mortos-vivos convocados durante a transformação demoníaca te seguem até os pontos de vida deles zerar.
+    - **Azul, a Morte:** Seus ataques e habilidades ignoram a Defesa do alvo e atingem diretamente em sua Vida. Além disso, caso tenha mortos-vivos convocados durante a transformação demoníaca eles vão te seguir até os pontos de vida deles zerarem.
     - **Roxo, a Tentação:** Você tem 1/2 de chance de enfeitiçar alvos adicionais (a até 6m) com seus ataques e habilidades, fazendo com eles que ataquem um aliados deles no próximo turno. 
     - **Amarelo, a Desistência:** Você rouba 1 de Reação de todos os indivíduos a até 10m de você (Você recebe até no máximo +6 de Reação com essa skill).
     - **Branco, a Enganação:** Você pode trocar de lugar com alvos de uma área de 6m livremente (Pode fazer isso em turno inimigos). Pode fazer isso uma vez por turno.
