@@ -3,7 +3,7 @@
 #### Nível Comum:
 
 - **Armadura: Escamas do Peixe**
-    - Armadura leve feita de escamas de peixes, proporciona uma proteção básica contra ataques físicos. Cada peça do set concede:  1 Defesa e 10 Vida. Set completo: 4 Defesa e 40 Vida.
+    - Armadura leve feita de escamas de peixes, proporciona uma proteção básica contra ataques físicos. Cada peça do set concede:  1 Defesa e 8 Vida. Set completo: 4 Defesa e 32 Vida.
 #### Nível Raro:
 
 - **Armadura: Couraça do Tartaruga**
