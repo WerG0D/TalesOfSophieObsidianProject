@@ -17,7 +17,7 @@ Escolha entre os Onis, Calamidades ou os Malditos:
     - **Branco, a Enganação:** Após acertar um ataque você marca o alvo por 2 turnos, pode trocar de lugar com ele dentro desse tempo.
     - **Verde, a Alma:** Seus ataques causam 1d4 + 4 de dano adicional e recuperam sua vida nessa mesma quantidade.
 	
-- **Raio Destruidor:** Pode canalizar uma esfera de energia em suas mãos e lançar um raio através dela durante 3 turnos, ele causa 2d8 de dano por turno.
+- **Raio Destruidor:** Pode canalizar uma esfera de energia em suas mãos e lançar um raio através dela durante 3 turnos, ele causa 2d8 de dano por turno e ignora Defesa do alvo.
     - **Vermelho, a Ira:** O raio causa dano de fogo adicional de 1d8.
     - **Azul, a Morte:** Caso o raio reduza o inimigo a 0 de vida, ele retorna como um morto-vivo por 3 turnos ao seu comando.
     - **Roxo, a Tentação:** O raio tem 20% de chance de enfeitiçar o alvo por 1 turno.
