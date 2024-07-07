@@ -24,6 +24,6 @@
 
 #### Épicos:
 -  **Rifle: Rifle de Tridente**
-    - Rifle poderoso com três canos, oferecendo grande dano e possibilidade de disparos múltiplos. Causa 1d12 + 6,  além de ter 4 cargas adicionais..
+    - Rifle poderoso com três canos, oferecendo grande dano e possibilidade de disparos múltiplos. Causa 2d10 + 12,  além de ter 4 cargas adicionais..
 - **Pistola: Pistola de Sereia**
-    - Pistola mágica que dispara projéteis encantados, causando dano mágico e físico significativo. Causa 1d6 físico + 1d4 mágico,  além de 1/4 de chance de sangramento (causando 1d4 de dano durante 3 turnos).
+    - Pistola mágica que dispara projéteis encantados, causando dano mágico e físico significativo. Causa 2d6 físico + 2d6 mágico,  além de 1/4 de chance de sangramento (causando 1d4 de dano durante 3 turnos).

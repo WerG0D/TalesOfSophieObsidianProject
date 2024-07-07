@@ -53,13 +53,13 @@ Dado de vida é um 1d12.
     
 - **Defesa Resiliente:** "A força reside na defesa." Aumenta sua defesa reduzindo o dano recebido em 2d8 por dois turnos. Caso sua Defesa seja acima de 17 dobre o dano reduzido. Uma vez por combate.
     
-- **Investida Impetuosa:** "Avance com a força de um trovão." Realiza uma investida rápida com sua arma, atingindo um inimigo e causando dano igual 3x na sua Força. A investida pode empurrar o inimigo por 3m, desestabilizando suas defesas em -2.
+- **Investida Impetuosa:** "Avance com a força de um trovão." Realiza uma investida rápida com sua arma, atingindo um inimigo e causando dano igual 2 x Sua Força. A investida pode empurrar o inimigo por 3m, desestabilizando suas defesas em -2. Pode usar 3x por combate.
 	
 - **Treinamento Pesado**: Aumenta sua força, defesa e reação em 2.
 
 #### Level 2: Refinando a Arte do Combate: Seu treinamento contínuo lhe permite aperfeiçoar suas técnicas de combate, aumentando tanto sua eficácia ofensiva quanto defensiva.
 
-- **Corte Rápido:** "A velocidade da lâmina é letal." Pode realizar um ataque adicional por turno, com a segunda ação de ataque causando 50% do dano total da primeira.
+- **Corte Rápido:** "A velocidade da lâmina é letal." Pode realizar um ataque adicional por turno, com a segunda ação de ataque causando 100% do dano total da primeira.
     
 - **Resistência Inabalável:** "Nada pode derrubar um guerreiro determinado." Durante o combate você se anima e assim aumenta sua vitalidade, permitindo que você recupere pontos de vida igual a metade da sua Força, por turno, durante três turnos.
     
@@ -77,13 +77,13 @@ Dado de vida é um 1d12.
 
 - **Fúria do Guerreiro:** "Liberte a fúria interior." Entra em um estado de fúria que aumenta seu dano em 2d8 por três turnos. Durante esse estado, você não sente dor, mas também não pode usar habilidades defensivas.
     
-- **Investida Devastadora:** "A investida que quebra muralhas." Realiza uma investida com força total, causando dano e empurrando até 3 inimigo 3m para trás, desestabilizando sua formação.
+- **Investida Devastadora:** "A investida que quebra muralhas." Realiza uma investida com força total, causando 3d6 + Força de dano e empurrando até 3 inimigo 6m para trás, desestabilizando sua formação.
     
 - **Colosso Imparável:** "Torne-se a muralha intransponível." Você se anima com a batalha ao ponto de se tornar imune a todos os efeitos de controle de multidão durante 2 turnos.
 
 #### Level 5: O Guerreiro Imbatível: Você alcançou um nível de maestria em combate que poucos podem igualar. Suas habilidades são refinadas ao ponto da perfeição.
 
-- **Corte Rápido, Aprimorado:** Agora seu ataque adicional causa 100% do dano.
+- **Corte Rápido, Aprimorado:** Agora seu ataque adicional causa 150% do dano.
     
 - **Resistência Inabalável, Aprimorada:** Agora aumenta sua resistência física, permitindo que você recupere sua Força como pontos de vida, por turno, durante três turnos. 
 	
