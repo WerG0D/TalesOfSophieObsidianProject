@@ -51,7 +51,7 @@ Dado de vida é um 1d12.
 
 - **Golpe Devastador:** "Desencadeie a fúria do aço." Executa um ataque poderoso causando dano adicional igual ao dobro da sua Força. Com a sua Força acima de 17 esse golpe é devastador contra inimigos mais fracos (menos de 10 força), podendo abatê-los com um único golpe.
     
-- **Defesa Resiliente:** "A força reside na defesa." Aumenta sua defesa reduzindo o dano recebido em 2d8 por dois turnos. Caso sua Defesa seja acima de 17 dobre o dano reduzido.
+- **Defesa Resiliente:** "A força reside na defesa." Aumenta sua defesa reduzindo o dano recebido em 2d8 por dois turnos. Caso sua Defesa seja acima de 17 dobre o dano reduzido. Uma vez por combate.
     
 - **Investida Impetuosa:** "Avance com a força de um trovão." Realiza uma investida rápida com sua arma, atingindo um inimigo e causando dano igual 3x na sua Força. A investida pode empurrar o inimigo por 3m, desestabilizando suas defesas em -2.
 	
