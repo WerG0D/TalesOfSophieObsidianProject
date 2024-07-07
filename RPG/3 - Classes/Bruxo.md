@@ -45,7 +45,7 @@ Escolha entre os Onis, Calamidades ou os Malditos:
     
 
 #### **Level 3:**
-- **Aura de Corrupção:** Emite uma aura que causa deterioração nos seres vivos ao redor (raio de 5m), diminuindo sua Defesa e Inalterabilidade gradualmente por 5 turnos (reduz 1 ponto de ambos por turno).
+- **Aura de Corrupção:** Emite uma aura que causa deterioração nos seres vivos ao redor (raio de 20m), diminuindo sua Defesa e Inalterabilidade gradualmente por 5 turnos (reduz 1 ponto de ambos por turno).
     
     - **Vermelho, a Ira:** Além da deterioração, causa 2d6 de dano de fogo por turno.
     - **Azul, a Morte:** Além da deterioração, caso algum alvo morra na área ele retorna como um morto-vivo sob seu comando por 3 turnos.
@@ -75,7 +75,7 @@ Escolha entre os Onis, Calamidades ou os Malditos:
 #### **Level 5:**
 - **Exterminação Infernal, Aniquilar:** Você pode conjurar uma enorme _Bola de Fogo_ uma vez por batalha, ela causa dano a todos alvos, sendo 8d6 + 20 de dano em uma área 10 metros de diâmetro e mais 4d4 + 8 de dano por turno durante 5 turnos.
     - **Vermelho, a Ira:** A _Bola de Fogo_ causa dano adicional de 2d8, além disso caso entre na área você recebe 1d8 de dano adicional em seus ataques (ainda recebe dano da queimação).
-    - **Azul, a Morte:** A _Bola de Fogo_ se torna uma _Bola de Gelo_, causando dano de gelo e reduzindo a Reação dos alvos em 3. Alvos mortos retornam como zumbis sob seu comando.
+    - **Azul, a Morte:** A _Bola de Fogo_ se torna uma _Bola da Morte_, causando dano na própria vitalidade ignorando a Defesa. Alvos mortos retornam como zumbis sob seu comando.
     - **Roxo, a Tentação:** A _Bola de Fogo_ enfeitiça os alvos atingidos, fazendo eles perderem o próximo turno.
     - **Amarelo, a Desistência:** A _Bola de Fogo_ faz com que os alvos não possam se mover por 2 turnos.
     - **Branco, a Enganação:** A _Bola de Fogo_ trocar os equipamentos entre os alvos.

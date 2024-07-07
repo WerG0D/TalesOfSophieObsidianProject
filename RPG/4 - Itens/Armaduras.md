@@ -7,7 +7,7 @@
 #### Nível Raro:
 
 - **Armadura: Couraça do Tartaruga**
-    - Armadura feita de carapaça de tartaruga gigante. Proporciona maior defesa física e uma pequena resistência à água. Cada peça do set concede: 2 Defesa e 15 Vida.  Set completo: 8 Defesa e 60 Vida.
+    - Armadura feita de carapaça de tartaruga gigante. Proporciona maior defesa física e uma pequena resistência à água. Cada peça do set concede: 2 Defesa e 12 Vida.  Set completo: 8 Defesa e 48 Vida.
 
 #### Nível Épico:
 
