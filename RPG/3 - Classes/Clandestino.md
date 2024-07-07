@@ -3,7 +3,7 @@ Dado de vida é um 1d8.
 **Level 1:**
 - **Sangue e Bebida**: Ao consumir bebida ou comida, você restaura sua vida até a metade se estiver abaixo dela. Se sua Força for 17 ou mais, você também reduz o dano recebido nos próximos 2 turnos pela metade. Essa habilidade reflete seu vigor e a capacidade de continuar lutando mesmo em situações adversas.
     
-- **Andar na Prancha**: Avance com uma série de 1d3 + 3 ataques rápidos que empurram o inimigo. Se todos os ataques acertarem, o oponente é derrubado no chão. Essa técnica mostra sua habilidade em combate corpo a corpo, combinando agilidade e força para desestabilizar adversários.
+- **Andar na Prancha**: Avance com uma série de 1d3 + 3 ataques rápidos que empurram o inimigo, cada ataque depois do primeiro acertado, após o cálculo do dano reduzido pela Defesa do inimigo, o dano do ataque é reduzido em 50% . Se todos os ataques acertarem, o oponente é derrubado no chão. Essa técnica mostra sua habilidade em combate corpo a corpo, combinando agilidade e força para desestabilizar adversários. Uma vez por combate.
     
 - **Traiçoeiro**: Você tem vantagem em testes para mentir e detectar mentiras, demonstrando sua astúcia e habilidades sociais afiadas. Essa capacidade de manipular a verdade torna você um adversário formidável em situações de engano e intriga.
     
