@@ -53,7 +53,7 @@ Dado de vida é um 1d12.
     
 - **Defesa Resiliente:** "A força reside na defesa." Aumenta sua defesa reduzindo o dano recebido em 2d8 por dois turnos. Caso sua Defesa seja acima de 17 dobre o dano reduzido.
     
-- **Investida Impetuosa:** "Avance com a força de um trovão." Realiza uma investida rápida com sua arma, atingindo um inimigo e causando dano igual 2x na sua Força. A investida pode empurrar o inimigo, desestabilizando suas defesas em -2.
+- **Investida Impetuosa:** "Avance com a força de um trovão." Realiza uma investida rápida com sua arma, atingindo um inimigo e causando dano igual 3x na sua Força. A investida pode empurrar o inimigo por 3m, desestabilizando suas defesas em -2.
 	
 - **Treinamento Pesado**: Aumenta sua força, defesa e reação em 2.
 
