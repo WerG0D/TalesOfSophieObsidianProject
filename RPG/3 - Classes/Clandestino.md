@@ -18,6 +18,8 @@ Dado de vida é um 1d8.
 - **Amor**: Ignore a esquiva do alvo e perfure rapidamente seu peito. Esta habilidade tem a chance de deixar o oponente imóvel por 1 turno, demonstrando sua habilidade letal em explorar aberturas na defesa inimiga.
     
 - **Pagamento Pesado**: Aumente em 25% todos os seus ganhos em dinheiro, ouro e joias. Sua perspicácia em negócios e trocas garante recompensas financeiras maiores, refletindo sua habilidade em prosperar nas adversidades.
+	
+- **Treinamento a Bordo**: Recebe +1 em dois atributos diferentes de sua escolha.
     
 
 **Level 3:**
@@ -41,14 +43,17 @@ Dado de vida é um 1d8.
 	
 - **Surpresa olha o jogo sujo**: Recebe proficiência com qualquer arma improvisada, além disso o primeiro ataque de uma arma improvisada causa o dobro de dano a um inimigo. Elas causam 1d8 de dano na sua mão.
 	
+- **Treine mais Marujo**: Recebe +1 em dois atributos diferentes de sua escolha.
+
+	
 
 **Level 6:**
 Escolha um entre as 3 armas seguintes:
-- **Profundeza Gélida**: Ataque oponentes com uma espada que dá 2d8 + Força de dano gélido, caso acerte começa congelar seu inimigo por dentro, causando 2d8 de dano adicional por turno nos 3 próximos turnos. Sua conexão com o frio profundo torna você uma ameaça contínua no campo de batalha, prejudicando a resistência dos inimigos. Pode congelar fontes de água próximas a vontade.
+- **Profundeza Gélida**: Ataque oponentes com uma espada que dá 2d8 + 8 + Força de dano gélido, ignorando a defesa do alvo, caso acerte começa congelar seu inimigo por dentro, causando 2d8 de dano adicional por turno nos 3 próximos turnos. Sua conexão com o frio profundo torna você uma ameaça contínua no campo de batalha, prejudicando a resistência dos inimigos. Pode congelar fontes de água próximas a vontade.
     
-- **Mão do Kraken**: Utilize um dispositivo em forma de luva que libera um tentáculo comprido. Pode ser usado como chicote causando 1d10 + Força de dano ou uma corda mega-resistente, permitindo ataques engenhosos e controle do campo de batalha, exemplificando sua versatilidade e criatividade.
+- **Mão do Kraken**: Utilize um dispositivo em forma de luva que libera um tentáculo comprido. Pode ser usado como chicote causando 3d10 + Força de dano ou uma corda mega-resistente, permitindo ataques engenhosos e controle do campo de batalha, exemplificando sua versatilidade e criatividade.
     
-- **Irmãs do Inferno**: Empunhe dois revólveres flamejantes que queimam onde atingem. Esses revólveres simbolizam seu poder destrutivo, deixando um rastro de chamas e caos no rastro de seus disparos. Eles causam 1d8 + 10 de dano por disparo. Tem munição infinita.
+- **Irmãs do Inferno**: Empunhe dois revólveres flamejantes que queimam onde atingem ignorando metade da Defesa do alvo. Esses revólveres simbolizam seu poder destrutivo, deixando um rastro de chamas e caos no rastro de seus disparos. Eles causam 2d8 + 12 de dano por disparo. Tem munição infinita.
 
 ### Assassino:
 **Nível 1**:
@@ -62,7 +67,7 @@ Escolha um entre as 3 armas seguintes:
 
 
 **Nível 2:**
-- **Desprezar**: Ataques contra alvos com menos de 50 de vida causam 1d8 de dano adicional.
+- **Desprezar**: Ataques contra alvos com menos de 35 de vida causam 1d8 de dano adicional. Caso o alvo tenha mais de 35 de vida mas chegue a esse valor após um ataque ele também recebe esse 1d8 de dano.
 	
 - **Destruidor de Defesas**: Seus ataques ignoram 2 pontos de Defesa do alvo.
 	

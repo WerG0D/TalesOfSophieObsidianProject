@@ -5,9 +5,9 @@ Adagas: Ignoram 7 de Defesa do alvo. Permite mais um ataque com ação bônus.
 #### Nível Comum:
 
 - **Espada: Lâmina do Marisco**
-    - Uma espada simples feita de conchas e coral. Oferece um dano moderado e um pequeno bônus contra criaturas aquáticas. Causa 1d10 + 8 + Força de dano. Recebe +2 de Força e Reação.
+    - Uma espada simples feita de conchas e coral. Oferece um dano moderado e um pequeno bônus contra criaturas aquáticas. Causa 1d10 + 8 + Força de dano. Recebe +2 de Força e 1 de Reação.
 - **Adaga: Adaga de Peixe-Serra**
-    - Uma adaga afiada feita de um dente de peixe-serra. Rápida e leve, com bônus de ataque rápido. Causa 1d6 + 6 + Força de dano. Recebe +2 de Força e Reação.
+    - Uma adaga afiada feita de um dente de peixe-serra. Rápida e leve, com bônus de ataque rápido. Causa 1d6 + 6 + Força de dano. Recebe +1 de Força e 2 de Reação.
 
 #### Nível Raro:
 
