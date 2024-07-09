@@ -1,1 +1,1 @@
-Podem usar Mecarnes e Mestrelas.
+Podem usar Mecarnes e Mestrelas. Recebe 2 pontos por nível para distribuir em Mente e Psique.

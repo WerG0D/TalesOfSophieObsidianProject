@@ -1,4 +1,4 @@
-Dado de vida independente da classe é 1d16. 
+Dado de vida independente da classe é 1d16. Recebe +3 pontos por nível para distribuir em corpo e +4 pontos para distribuir no resto vc escolhe.
 - O Escolhido: A árvore te abençoou e você é seu campeão. Ganha a capacidade de recuperar 1d8 de vida por turno, além disso pode se recuperar se qualquer lesão não fatal que receba com 1 hora. Caso receba um golpe fatal o seu corpo se transforma em uma pequena muda e você ressucita em um local próximo a Árvore Anciã. Contudo, agora monstros e inumanos são atraídos pelo seu cheiro, eles conseguem te perceber mesmo em furtividade ou invisibilidade.
 - Absorver Vitalidade: Você deve absorver energia vital da árvore para recuperar seus poderes. Caso tenha ressucitado deve ficar um dia inteiro absorvendo vitalidade da árvore para recuperar essa habilidade, além disso caso seja um Xamã você deve recuperar seus slots de magia na árvore demorando cerca de 1h.
 - Magias da Anciã: Você tem 8 slots de magia no nível 1, ganhando mais 2 slots por nível que tenha subido. Além disso recebe as seguintes magias:
