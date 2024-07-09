@@ -13,7 +13,9 @@
 
 **Falha e Sucesso Crítico:** 1 e 10, respectivamente, no 1d10.
 
-**Teste de Resistência:** 1d10 + modificador do Atributo (modificador é igual o atributo subtraído 10).
+**Teste de Resistência:** 1d10 + modificador do Atributo (modificador é igual o atributo subtraído 10). Além disso, adiciona o modificador 
+
+**Pontos de Vida**: São os dados da classe multiplicado pelo seu nível. 
 
 **Teste de Habilidade:** 1d10 + Perícia (caso tenha proficiência nela).
 

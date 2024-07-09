@@ -7,7 +7,15 @@ Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas
     
 - **Remendo de Batalha**: Utilize seus conhecimentos para reparar armaduras, melhorando temporariamente a resistência dos seus aliados. Eles ganham +1 de defesa por uma batalha, garantindo proteção extra em momentos críticos.
     
-- **Criar**: Escolha, você pode ter a capacidade criar Mestrelas ou Mecarnes. Esses itens tem raridade comum no level 1, raro no level 3, épico no level 5 e lendário no level 6. Você ao criar um item deve ter materiais suficientes, deve rolar um dado de dias para criar também e a chance de sucesso, caso ela caia em 1 ~ 4 você falha, caso caia caia em 20 você cria um item de 1 nível de raridade superior. O período de criação é de 1d4 dias.
+- **Criar**: Escolha, você pode ter a capacidade criar Mestrelas ou Mecarnes. Esses itens tem raridade comum no level 1, raro no level 3, épico no level 5 e lendário no level 6. Você ao criar um item deve ter materiais suficientes, deve rolar um dado de dias para criar também e a chance de sucesso, caso ela caia em 1 ~ 3 você vai saber como fazer o item (pode tentar procurar um tutor), caso caia caia em 10 você cria um item de 1 nível de raridade superior. O período de criação é de 1d4 dias.
+	- **Materiais:** Você pode usar desde um único material primário (corpo de monstro no caso das Mecarnes, ou um fragmento estelar para as Mestrelas). Você não vai saber ao certo o efeito do item até ele estar pronto, mas provavelmente terá haver com uma característica do material, o Mestre vai dizer os efeito do item quando ele estiver pronto.
+	- **Tempo de criação**: Durante a criação do item você deve rolar um dado 1d10 em cada dia para saber se houve algum erro ou contratempo na criação. Segue a tabela:
+		- 1 = Você teve um erro monumental na criação. Todos os materiais foram perdidos e o item é destruído.
+		- 2 = Você errou o molde do item, deve recomeçar toda criação.
+		- 3 ~ 5 = Você cometeu um engano, a criação vai demorar mais um dia.
+		- 6 ~ 9 = Nenhum problema aconteceu.
+		- 10 = O item adquire um efeito bônus de atributo, você pode escolher algum atributo para ele adicionar +2.
+	- **Dano do Item:** O dano do item caso ele seja uma arma vai depender da raridade e peso da arma. Armas de duas mãos causam dano igual a 1d10 + 8 + Força, enquanto armas de uma mãos causam 1d6 + 6 + Força. Armas a longa distância causam 1d8 + 6, enquanto as de média a curta distância causam 1d4 + 6. Todas elas penetram 6 de armadura, além disso a cada nível de raridade depois do Comum recebem mais um dado de dano.
 #### **Level 2:**
 
 _Estratégia e Preparo_: Coordene suas táticas com precisão.

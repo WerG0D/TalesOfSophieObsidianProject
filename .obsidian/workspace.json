@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/4 - Itens/Armas a Distância.md",
+                "file": "RPG/1 - Raça/Fada.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/4 - Itens/Armas a Distância.md",
+                "file": "RPG/1 - Raça/Fada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/4 - Itens/Armas a Distância.md",
+                "file": "RPG/1 - Raça/Fada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/4 - Itens/Armas a Distância.md"
+                "file": "RPG/1 - Raça/Fada.md"
               }
             }
           }
@@ -161,19 +161,19 @@
   },
   "active": "3c112498bce7f981",
   "lastOpenFiles": [
-    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
-    "RPG/3 - Classes/Bruxo.md",
-    "RPG/4 - Itens/Armaduras.md",
-    "RPG/4 - Itens/Armas a Distância.md",
     "RPG/3 - Classes/Xamã.md",
     "RPG/3 - Classes/Soldado.md",
+    "RPG/4 - Itens/Armas a Distância.md",
+    "RPG/4 - Itens/Armaduras.md",
     "RPG/3 - Classes/Pesquisador de Batalha.md",
+    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
+    "RPG/1 - Raça/Inumano.md",
+    "RPG/1 - Raça/Fada.md",
+    "RPG/5 - Sistema/Sistema.md",
+    "RPG/3 - Classes/Bruxo.md",
     "RPG/3 - Classes/Clandestino.md",
     "RPG/1 - Raça/Humano.md",
     "RPG/2 - Ancestralidades/Radilhante.md",
-    "RPG/1 - Raça/Fada.md",
-    "RPG/1 - Raça/Inumano.md",
-    "RPG/5 - Sistema/Sistema.md",
     "RPG/5 - Sistema/Atributos.md",
     "RPG/5 - Sistema/Perícia.md",
     "RPG/2 - Ancestralidades/Sussurrador.md",
