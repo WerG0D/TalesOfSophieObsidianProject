@@ -9,7 +9,6 @@
 		{"id":"19a2a12b00fba864","type":"text","text":"# ERA PRÉ DILUVIO","x":-820,"y":-500,"width":2000,"height":60,"color":"1"},
 		{"id":"c8923297598642fe","type":"text","text":"# ERA DO DILUVIO","x":1200,"y":-500,"width":2260,"height":60,"color":"5"},
 		{"id":"2df3230ace556912","type":"file","file":"Personagens/Semideuses/Aerion, o Soberano dos Céus.md","x":1200,"y":-400,"width":640,"height":900},
-		{"id":"46c2356615c0e829","type":"file","file":"Árvore Anciã/Thalassar/Thalassar.md","x":1880,"y":-400,"width":410,"height":900},
 		{"id":"3d0ab51b8aa4b0b4","type":"file","file":"Images/Places/white castle.jpg","x":1825,"y":560,"width":520,"height":691},
 		{"id":"040c374787c11dc4","type":"file","file":"Images/Misc/aerion.jpg","x":1300,"y":560,"width":440,"height":537},
 		{"id":"bced9f26ec0e888d","type":"file","file":"Panteão/O sacrifício do herdeiro do mar.md","x":2920,"y":-400,"width":540,"height":400},
@@ -23,7 +22,8 @@
 		{"id":"8536790f3c6dbaa8","type":"file","file":"Images/Weapons/950c9c6077fdc2f4909ea992c027be29.jpg","x":5082,"y":0,"width":417,"height":626},
 		{"id":"85d805d0cb011e25","type":"file","file":"Árvore Anciã/Thalassar/A revolta dos desesperados.md","x":6120,"y":-400,"width":760,"height":900},
 		{"id":"72da0a8b6381094c","type":"file","file":"Árvore Anciã/Thalassar/Éter Dourado.md","x":6920,"y":-400,"width":1240,"height":900},
-		{"id":"81dd535358afe249","type":"file","file":"Images/Misc/golden ether.jpg","x":7080,"y":560,"width":800,"height":800}
+		{"id":"81dd535358afe249","type":"file","file":"Images/Misc/golden ether.jpg","x":7080,"y":560,"width":800,"height":800},
+		{"id":"46c2356615c0e829","type":"file","file":"Árvore Anciã/Thalassar/Thalassar.md","x":1880,"y":-400,"width":410,"height":900}
 	],
 	"edges":[
 		{"id":"3dad850ddea1acf1","fromNode":"575ed79e81e14936","fromSide":"right","toNode":"a37727af693f3b79","toSide":"left"},

@@ -17,7 +17,9 @@
 
 **Pontos de Vida**: São os dados da classe multiplicado pelo seu nível. 
 
-**Teste de Habilidade:** 1d10 + Perícia (caso tenha proficiência nela).
+**Teste de Atributo**: É o valor de modificador do atributo, mas caso o indivíduo tenha proficiência ele usa 2x o modificador do atributo.
+
+**Teste de Atributo:** 1d10 + Perícia (caso tenha proficiência nela).
 
 **Tabela da Morte:** Ao chegar a 0 pontos de vida por uma magia ou ataque, se possível role 1d10 e veja a tabela a seguir:
 - 1 ~ 3: MORTE (mestre escolhe como o golpe te matou).
