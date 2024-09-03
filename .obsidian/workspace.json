@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "e8d3f0f8dfdd6cee",
+        "id": "309572c35f4e0169",
         "type": "tabs",
         "children": [
           {
-            "id": "3f9bf19c3d27a3b4",
+            "id": "e4256999ca448b58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/3 - Classes/Pesquisador de Batalha.md",
+                "file": "Personagens/Os Gourmets/Zave Slyff, o carnívoro.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "695592b02d13b5bf",
+            "id": "086cddd81afda34d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/5 - Sistema/Inimigos.md",
+                "file": "Árvore Anciã/Facções/Os Gourmets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +70,7 @@
             }
           },
           {
-            "id": "f78c7b8a94d6c23b",
+            "id": "94a458dad600889a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/5 - Sistema/Inimigos.md",
+                "file": "Personagens/Os Gourmets/Zave Slyff, o carnívoro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/5 - Sistema/Inimigos.md",
+                "file": "Personagens/Os Gourmets/Zave Slyff, o carnívoro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/5 - Sistema/Inimigos.md"
+                "file": "Personagens/Os Gourmets/Zave Slyff, o carnívoro.md"
               }
             }
           }
@@ -159,39 +158,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "695592b02d13b5bf",
+  "active": "e4256999ca448b58",
   "lastOpenFiles": [
-    "RPG/5 - Sistema/Atributos Novos.md",
-    "RPG/5 - Sistema/Atributos.md",
+    "Árvore Anciã/Facções/Os Gourmets.md",
+    "Personagens/Os Gourmets/Zave Slyff, o carnívoro.md",
+    "Personagens/Os Gourmets",
+    "RPG/5 - Sistema/Sistema.md",
     "RPG/5 - Sistema/Perícias Novas.md",
     "RPG/5 - Sistema/Perícia.md",
-    "RPG/5 - Sistema/Talentos.md",
-    "RPG/5 - Sistema/Sistema.md",
-    "RPG/3 - Classes/Bruxo.md",
-    "RPG/3 - Classes/Xamã.md",
-    "Tales of Sophie/Game Acts/Act 1.md",
-    "Eldoria/Eldoria - Time Line.canvas",
-    "Eldoria/Eldoria - Visão Geral.canvas",
-    "Eldoria/Eldoria.md",
-    "Personagens/Semideuses/Aerion, o Soberano dos Céus.md",
-    "Árvore Anciã/Thalassar/Thalassar.md",
-    "Árvore Anciã/Thalassar/Cidade Alta Frondosa.md",
-    "Árvore Anciã/Thalassar/A revolta dos desesperados.md",
-    "Árvore Anciã/Os Cracanos/Os Cracanos.md",
     "RPG/5 - Sistema/Inimigos.md",
+    "RPG/5 - Sistema/Atributos.md",
+    "RPG/5 - Sistema/Atributos Novos.md",
+    "Árvore Anciã/Raças/Raças visão geral.canvas",
+    "Árvore Anciã/Raças/Inumanos.md",
+    "Árvore Anciã/Eldorsap.md",
+    "Árvore Anciã/Facções",
+    "Árvore Anciã/Árvore Anciã - Visão Geral.canvas",
+    "Árvore Anciã/Árvore Anciã.md",
+    "Árvore Anciã/A jornada dos imortais.md",
     "RPG/Teste.md",
     "RPG/Ficha de personagem.md",
-    "RPG/1 - Raça/Inumano.md",
-    "RPG/3 - Classes/Soldado.md",
-    "RPG/3 - Classes/Pesquisador de Batalha.md",
-    "RPG/3 - Classes/Clandestino.md",
-    "Untitled",
-    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
+    "RPG/Classes Futuras/Escultor de Espíritos.md",
+    "RPG/Classes Futuras/Artista Marcial.md",
+    "RPG/Classes Futuras/Alquimista.md",
     "RPG/4 - Itens/Armaduras.md",
-    "RPG/1 - Raça/Humano.md",
+    "RPG/4 - Itens/Armas a Distância.md",
+    "RPG/3 - Classes/Xamã.md",
     "RPG/1 - Raça/Fada.md",
+    "RPG/3 - Classes/Pirata.md",
+    "RPG/3 - Classes/Guerreiro.md",
+    "RPG/3 - Classes/Atirador.md",
+    "RPG/3 - Classes/Pesquisador de Batalha.md",
+    "RPG/3 - Classes/Bruxo.md",
+    "Eldoria/Eldoria - Visão Geral.canvas",
+    "Eldoria/Eldoria - Time Line.canvas",
+    "Tales of Sophie/Mechanics/Chains - Hook.canvas",
+    "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
+    "Images/Pasted image 20240808171924.png",
+    "Personagens/Filhos do mar",
     "RPG/5 - Sistema",
-    "Árvore Anciã/Raças/Raças visão geral.canvas",
     "Árvore Anciã/Raças",
     "RPG/4 - Itens",
     "RPG/2 - Ancestralidades",
@@ -204,18 +209,12 @@
     "Images/Game Map/sophie_movement_behavior.png",
     "Images/Game Map/Area1/Radilhantes Path.png",
     "Images/Game Map/Area1/Rooms/area1_room10.png",
-    "Images/Game Map/Area1/Rooms/area1_room2.png",
     "Tales of Sophie/Mechanics/RPG MECHANICS.canvas",
     "Tales of Sophie/Mechanics/Weather System.canvas",
     "Tales of Sophie/Mechanics/Core Mechanics.canvas",
     "Tales of Sophie/Mechanics/Combat Mechanics.canvas",
-    "Tales of Sophie/Mechanics/Chains - Hook.canvas",
     "Tales of Sophie/Mechanics",
-    "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
     "Tales of Sophie/Level & Map Design",
-    "Tales of Sophie/Game Acts",
-    "Images/Game Map/Area1/Rooms",
-    "Images/Game Map/Area1/PSD/room 9.psd",
-    "Tales of Sophie/Weather System.canvas"
+    "Tales of Sophie/Game Acts"
   ]
 }

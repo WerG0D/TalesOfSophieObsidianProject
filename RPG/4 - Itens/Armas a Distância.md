@@ -1,11 +1,9 @@
 ### MUNIÇÕES:
 
 **Rifles:** Rifles: Tem 8 munições no geral. Tem desvantagens em inimigos a menos de 20m e acima de 40m. Ignora 12 de Defesa do alvo.
-- Munição Comum: Causa 8 de dano adicional.
 - Munição Reforçada: Causa 12 de dano adicional.
 
 **Pistolas:** Tem 6 munições cada. Tem desvantagem em inimigos a mais de 20m. Ignora 8 de Defesa do Alvo.
-- Munição Comum: Causa 4 de dano adicional.
 - Munição Reforçada: Causa 8 de dano adicional.
 
 ### ITENS:

@@ -1,4 +1,4 @@
-Fada que usam de seus poderes da árvore. Quando usa muita Magia Proibida se torna Xamã Profano ganhando a Marca Maldita e sendo caçado agora por monstros e anjos. Além disso suas Magia passam a ter chance de falhar. Proficiência com 2 armas de sua escolha. 
+>Fadas que usam de seus poderes da árvore. Quando usa muita Magia Proibida se torna Xamã Profano ganhando a Marca Maldita e sendo caçado agora por monstros e anjos. Além disso suas Magia passam a ter chance de falhar. Proficiência com 2 armas de sua escolha. 
 
 **Level 1:** Você foi escolhido pela Árvore Anciã, agora como seu escolhido você recebeu algumas habilidades:
 - **Localização Terrena:** Pode usar de plantas ao redor para tentar encontrar inimigos próximos em um raio de 10 metros.

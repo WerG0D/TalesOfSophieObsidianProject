@@ -1,4 +1,4 @@
-Dado de vida é um 1d8.
+	Ahoy marujo, você é um cara durão que passou grande parte de sua vida no crime e contrabando marítmo, levando cargas perigosas e lutando contra outros piratas dentro das faixas fluviais da Árvore. Lute com espadas e Trabucos de maneira traiçoeira e precisa.
 ### Pirata:
 **Level 1:**
 - **Sangue e Bebida**: Ao consumir bebida ou comida, você restaura sua vida até a metade se estiver abaixo dela. Se sua Força for 17 ou mais, você também reduz o dano recebido nos próximos 2 turnos pela metade. Essa habilidade reflete seu vigor e a capacidade de continuar lutando mesmo em situações adversas.
@@ -54,46 +54,3 @@ Escolha um entre as 3 armas seguintes:
 - **Mão do Kraken**: Utilize um dispositivo em forma de luva que libera um tentáculo comprido. Pode ser usado como chicote causando 3d10 + Força de dano ou uma corda mega-resistente, permitindo ataques engenhosos e controle do campo de batalha, exemplificando sua versatilidade e criatividade.
     
 - **Irmãs do Inferno**: Empunhe dois revólveres flamejantes que queimam onde atingem ignorando metade da Defesa do alvo. Esses revólveres simbolizam seu poder destrutivo, deixando um rastro de chamas e caos no rastro de seus disparos. Eles causam 2d8 + 12 de dano por disparo. Tem munição infinita.
-
-### Assassino:
-**Nível 1**:
-- **Furtivo:** Ganha proficiência e vantagem em testes de furtividade.
-	
-- **Assassino das Sombras**: Ataques furtivos causam o dobro de dano.
-	
-- **Preparo:** Pode lançar bombas e envenenar suas armas com uma ação bônus.
-	
-- **Multitalentos:** Ganha +1 ponto de proficiência no nível 1 e nível 3.
-
-
-**Nível 2:**
-- **Desprezar**: Ataques contra alvos com menos de 35 de vida causam 1d8 de dano adicional. Caso o alvo tenha mais de 35 de vida mas chegue a esse valor após um ataque ele também recebe esse 1d8 de dano.
-	
-- **Destruidor de Defesas**: Seus ataques ignoram 2 pontos de Defesa do alvo.
-	
-- **Movimentar da Serpente**: Caso falhe em um teste de Esquiva pode ainda reduzir o dano recebido com base no dobro da sua Reação.
-	
-- **Precisão do Gavião**: Caso esteja em queda de um lugar alto você pode atacar um alvo para reduzir o dano de queda e causar 2d8 de dano adicional.
-
-
-**Nível 3:**
-- **Perseguição Mortífera**: Você avança até um alvo causando dano igual seu ataque nele e reduzindo toda cura que ele recebe pela metade.
-	
-- **Silêncio Mortal**: Após acertar o primeiro ataque em um inimigo ele fica incapaz de usar habilidades mágicas no próximo turno.
-	
-- **Execução**: Ao acertar um alvo e deixa-lo com 10 ou menos de vida ele é morto sem direito a rolagem de Morte.
-
-**Nível 4:**
-- **Paciência do Assassino:** Durante o combate você pode sacrificar um turno para aumentar o dano do próximo ataque em 1d8. Pode acumular esse efeito até 3x.
-	
-- **Vulto:** Após atacar um alvo que não esteja te vendo você pode tentar rolar furtividade.
-	
-- **Mestre das Adagas**: Lança 1d8 adagas em um alvo, elas não causam dano adicionais de suas habilidades.
-
-**Nível 5:**
-- **Mestre da Morte**: Ao matar um alvo você recebe um turno adicional.
-	
-- **Medo Vivo**: Alvos que estejam te vendo tem dificuldade para concentrar em feitiços ou outras tarefas complexas.
-
-**Nível 6:**
-- **Capangas:** Ao longo da sua jornada, sua fama aumentou. Em um momento, 3 capangas com a metade do seu nível começam a te seguir. Eles são todos da classe clandestino também e são fiéis a você.

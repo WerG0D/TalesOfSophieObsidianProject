@@ -1,53 +1,10 @@
-Dado de vida é um 1d12.
-### ATIRADOR:
-- #### Level 1: Você dominou as técnicas básicas de tiro:
+>Dado de vida é um 1d12.
 
-- [ ] Precisão Mortal: Capacidade de lançar um projétil com precisão devastadora, causando dano adicional baseado na Reação. Quanto maior a distância, maior o dano aumentando em 1 a cada 10m.
-	
-- [ ] Disparo Longínquo: Aumenta o alcance dos seus tiros, permitindo atacar inimigos a até 50 metros sem penalidades.
-	
-- [ ] Recarga Rápida: Recarrega sua besta ou arco e recupera 1d4 + 2 munições. Perde o turno ao utilizar esta habilidade. Aumenta para 1d8 + 3 no Level 5.
+	Você é um com sua arma, um com o campo de batalha. Independente do que aconteça, sua fúria e garra o fazem avançar sobre os corpos de seus inimigos mortos,sendo a vanguarda da batalha.
 
-- #### Level 2: Aprimorando suas habilidades de tiro:
-
-- [ ] Visão Aguçada: Aumenta a precisão e a chance de acertar pontos vitais, revelando fraquezas ocultas nos inimigos. Revelar a fraqueza de um inimigo aumenta sua chance de acerto crítico nele em ~2.
-	
-- [ ] Tiro Veloz: Pode disparar um tiro adicional por turno.
-	
-- [ ] Rastrear: Capacidade de iniciar o rastreamento de um alvo através de vestígios deixados pelo mesmo, como cheiros, pegadas ou marcas. Só pode ser usado fora de combate.
-
-- #### Level 3: Técnicas avançadas de tiro aprendidas:
-
-- [ ] Chuva: Dispara rapidamente 1d8 disparos simultaneamente, atingindo alvos escolhidos aleatoriamente. Pode errar os disparos.
-	
-- [ ] Posicionamento Tático: Permite movimentar-se rapidamente no campo de batalha para obter a melhor posição de tiro, recebendo 1d6 de dano adicional nos próximos ataques naquela posição. Recebe proficiência em Corrida e a  distância percorrida depende da sua Corrida.
-	
-- [ ] Disparos Penetrante: Dispara um projétil que atravessa múltiplos alvos em linha reta, causando o dano a todos no caminho.
-
-- #### Level 4: Aprendendo técnicas secretas para aprimorar suas habilidades:
-
-- [ ] Tiro Explosivo: Dispara um projétil explosivo que causa 2d8 + Reação de dano em uma área de 6m ao impactar. Pode critar.
-	
-- [ ] Camuflagem Natural: Oculta-se no ambiente, aumentando a Reação em 2 e dificultando a detecção pelos inimigos.
-	
-- [ ] Escudo de Flechas: Dispara uma barreira de tiros ao seu redor, acertando quaisquer alvos a 10 metros de distância e impedindo que inimigos acertados avancem por 1 turno.
-
-- #### Level 5: Compreensão aprimorada das técnicas ancestrais e melhoria das habilidades:
-
-- [ ] Tiro de Precisão: Aumenta consideravelmente o alcance dos seus tiros, permitindo atacar inimigos a até 60 metros sem penalidades.
-	
-- [ ] Lenda do Disparo: Recebe +1d4 em testes para Atacar a longa distância e para Esquivar de disparos. 
-
-- #### Level 6:
-
-- [ ] Mestre Atirador: Ataca com precisão letal em um raio de 60 metros, aumentando sua chance de acerto crítico para 9-10 contra alvos entre 10 e 60 metros.
-	
-- [ ] Último Suspiro: Dispara uma tiro destruidor que pode penetrar barreiras de madeira (50cm), tijolos (15cm) ou metal (5cm), causando triplo de dano. O dano pode ser reduzido ao dobro ou normal ao atravessar barreiras.
-	
-- [ ] Marca do Caçador: Marca um alvo previamente rastreado com Olhos de Águia, que agora recebe o dobro de dano dos seus acertos críticos. Pode ser usado uma vez por combate.
-
-### Guerreiro:
-- #### Level 1: O Começo de uma Jornada de Aço: Você aprendeu as técnicas fundamentais de combate corpo a corpo com armas brancas, essenciais para sobreviver e prosperar no campo de batalha.
+### 
+- #### Level 1: O Começo de uma Jornada de Aço: 
+>Você aprendeu as técnicas fundamentais de combate corpo a corpo com armas brancas, essenciais para sobreviver e prosperar no campo de batalha.
 
 - **Golpe Devastador:** "Desencadeie a fúria do aço." Executa um ataque poderoso causando dano adicional igual ao dobro da sua Força. Com a sua Força acima de 17 esse golpe é devastador contra inimigos mais fracos (menos de 10 força), podendo abatê-los com um único golpe. Até 3 vezes por combate.
     
@@ -57,7 +14,8 @@ Dado de vida é um 1d12.
 	
 - **Treinamento Pesado**: Aumenta sua força, defesa e reação em 2.
 
-#### Level 2: Refinando a Arte do Combate: Seu treinamento contínuo lhe permite aperfeiçoar suas técnicas de combate, aumentando tanto sua eficácia ofensiva quanto defensiva.
+#### Level 2: Refinando a Arte do Combate: 
+>Seu treinamento contínuo lhe permite aperfeiçoar suas técnicas de combate, aumentando tanto sua eficácia ofensiva quanto defensiva.
 
 - **Corte Rápido:** "A velocidade da lâmina é letal." Pode realizar um ataque adicional por turno, com a segunda ação de ataque causando 100% do dano total da primeira.
     
