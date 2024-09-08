@@ -1,4 +1,3 @@
-
 Níveis de Dificuldade para Testes:
 - Muito Fácil: 1
 - Fácil: 2
@@ -11,6 +10,7 @@ Níveis de Dificuldade para Testes:
 Observação: Caso o indivíduo não tenha a perícia do teste em questão ele deve rodar apenas o 1d10 e caso a dificuldade seja complicado ou superior ele deve fazer o teste 2x e passar em ambas.
 
 Os valores bases da perícia é o modificador do atributo referenciado nela.
+
 ### Testes Mentais: 12
 - **Compostura**
 	- **Descrição**: Capacidade de manter a postura e expressões diante situações que podem te constranger ou enfurecer.

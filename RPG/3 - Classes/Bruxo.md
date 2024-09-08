@@ -1,6 +1,4 @@
-Bruxo: Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar.
-Escolha entre os Onis, Calamidades ou os Malditos:
-
+Bruxo: Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Escolha entre os Onis, Calamidades ou os Malditos:
 ### ***Onis:*** 
 
 #### *Level 1:* Você descendeu de um dos 7 Demônios, 7 Cores ou 7 Pecados. Escolha qual dos 7 você descendeu: _Vermelho, a Ira; Azul, a Morte; Roxo, a Tentação; Amarelo, a Desistência; Branco, a Enganação; Preto, o Caos; ou Verde, a Alma_, algumas habilidades suas irão mudar com base nisso:
@@ -91,7 +89,7 @@ Escolha entre os Onis, Calamidades ou os Malditos:
     - **Branco, a Enganação:** Você pode trocar de lugar com alvos de uma área de 6m livremente (Pode fazer isso em turno inimigos). Pode fazer isso uma vez no seu turno e uma vez fora dele).
     - **Preto, o Caos:** Você cria portais no campo de batalha, então pode escolher um alvo a  cada 2 turnos no seu campo de visão, e fazer o portal suga-lo e assim o enviando para outra dimensão por 2 turnos. Ao voltar ele recebe 2d8 de dano e retorna com amedrontado e com paralisia.
     - **Verde, a Alma:** O avatar drena vida de todos indivíduos a até 4m, causando a eles 1d10 +  6 de dano e recuperando esse valor de vida por cada alvo, e também recupera vida dos alvos de seus ataques, curando você em metade do dano causado.
-
+	
 ### ***Calamidades:***
 
 ### ***Malditos:***
