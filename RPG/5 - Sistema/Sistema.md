@@ -15,6 +15,8 @@
 
 **Falha e Sucesso Crítico:** 1 e 10, respectivamente, no 1d10.
 
+**Sistema de Cansaço:** Um personagem consegue lutar em seus 100% durante 4 + Modificador de Vigor turnos. Quando seu cansa ele passa a ter desvantagem em todos testes de Esquiva e Ataque, além de receber 3d4 de dano adicional.
+
 **Teste de Resistência:** 1d10 + modificador do Atributo.
 
 **Pontos de Vida**: São os dados da classe multiplicado pelo seu nível. 
