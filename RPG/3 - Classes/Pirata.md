@@ -1,4 +1,8 @@
+<<<<<<< HEAD:RPG/3 - Classes/Clandestino.md
 Recebe +2 pontos em Reação e Força no nível 2 e 5 (exceto se vc for Inumano ou Fada).
+=======
+	Ahoy marujo, você é um cara durão que passou grande parte de sua vida no crime e contrabando marítmo, levando cargas perigosas e lutando contra outros piratas dentro das faixas fluviais da Árvore. Lute com espadas e Trabucos de maneira traiçoeira e precisa.
+>>>>>>> 5b1af1bc7f4ad205d87c3fe27319ecd86b06ade1:RPG/3 - Classes/Pirata.md
 ### Pirata:
 **Level 1:**
 - **Sangue e Bebida**: Ao consumir bebida ou comida, você restaura sua vida até a metade se estiver abaixo dela. Se sua Força for 17 ou mais, você também reduz o dano recebido nos próximos 2 turnos pela metade. Essa habilidade reflete seu vigor e a capacidade de continuar lutando mesmo em situações adversas.
@@ -53,6 +57,7 @@ Escolha um entre as 3 armas seguintes:
     
 - **Mão do Kraken**: Utilize um dispositivo em forma de luva que libera um tentáculo comprido. Pode ser usado como chicote causando 3d10 + Força de dano ou uma corda mega-resistente, permitindo ataques engenhosos e controle do campo de batalha, exemplificando sua versatilidade e criatividade.
     
+<<<<<<< HEAD:RPG/3 - Classes/Clandestino.md
 - **Irmãs do Inferno**: Empunhe dois revólveres flamejantes que queimam onde atingem ignorando metade da Defesa do alvo. Esses revólveres simbolizam seu poder destrutivo, deixando um rastro de chamas e caos no rastro de seus disparos. Eles causam 2d8 + 12 de dano por disparo. Tem munição infinita.
 
 ### Assassino:
@@ -97,3 +102,6 @@ Escolha um entre as 3 armas seguintes:
 
 **Nível 6:**
 - **Capangas:** Ao longo da sua jornada, sua fama aumentou. Em um momento, 3 capangas com a metade do seu nível começam a te seguir. Eles são todos da classe clandestino também e são fiéis a você.
+=======
+- **Irmãs do Inferno**: Empunhe dois revólveres flamejantes que queimam onde atingem ignorando metade da Defesa do alvo. Esses revólveres simbolizam seu poder destrutivo, deixando um rastro de chamas e caos no rastro de seus disparos. Eles causam 2d8 + 12 de dano por disparo. Tem munição infinita.
+>>>>>>> 5b1af1bc7f4ad205d87c3fe27319ecd86b06ade1:RPG/3 - Classes/Pirata.md

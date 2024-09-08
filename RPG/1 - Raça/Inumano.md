@@ -1,4 +1,14 @@
+<<<<<<< HEAD
  Ganhar habilidades a medida que consome monstros. Independente da classe seu dado de vida é um 8d10 + 10. Recebe +6 pontos no nível 1 para colocar nos atributos de sua escolha, e mais 2 por nível, exceto no nível 4 que recebe +6 ao invés de +2.
 - **Devorar**: Recebe a habilidade de devorar outras criaturas depois de mortas. Recupera 4d8 de vida perdida. Caso o alvo seja um monstro você faz um rolagem de 1d20 + Nível (classe), caso o resultado seja 12 ou superior você adquire uma habilidade da criatura. Para cada criatura consumida o nível de dificuldade aumenta +2. Não pode nunca tentar consumir o mesmo espécie de criatura 2x, independente se já teve sua habilidade antes e usou o Involução, ou se acabou de tentar usar o Devorar e falhou no teste.
 - **Involução**: Pode fazer uma rolagem de 1d20 + Nível(classe), caso tire o resultado 15 ou superior pode regurgitar a evolução de um monstro que você tenha consumido, diminuindo a dificuldade de Devorar em -2. Não pode tentar regurgitar a mesma criatura 2x para perder suas habilidades, durante o período de 24h.
 - **Ataque Bestial:** Seus ataques físicos desarmados ou armados causam 1d4 + 8 de dano adicional. Causa +1d8 de dano adicional no level 4 e novamente +1d8 no level 6.
+=======
+	 Dado de vida independente da classe é 1d20
+ 
+ >Ganhe habilidades a medida que consome monstros. Recebe +4 pontos por nível para distribuir em corpo e +3 pontos para distribuir em quaisquer outros atributos de sua escolha. 
+ 
+> **Devorar**: Recebe a habilidade de devorar outras criaturas depois de mortas. Recupera 4d8 de vida perdida. Caso o alvo seja um monstro você faz um rolagem de 1d20 + Nível (classe), caso o resultado seja 12 ou superior você adquire uma habilidade da criatura. Para cada criatura consumida o nível de dificuldade aumenta +2. Não pode tentar consumir o mesmo espécie de criatura 2x para tentar ganhar suas habilidades, independente se passou ou não no teste anteriormente.
+
+ >**Involução**: Pode fazer uma rolagem de 1d20 + Nível(classe), caso tire o resultado 15 ou superior pode regurgitar a evolução de um monstro que você tenha consumido, diminuindo a dificuldade de Devorar em -2. Não pode tentar regurgitar a mesma criatura 2x para perder suas habilidades, independente se passou ou não no teste.
+>>>>>>> 5b1af1bc7f4ad205d87c3fe27319ecd86b06ade1

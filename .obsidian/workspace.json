@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/3 - Classes/Soldado.md",
+                "file": "RPG/3 - Classes/Xamã.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/3 - Classes/Soldado.md",
+                "file": "RPG/3 - Classes/Xamã.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/3 - Classes/Soldado.md",
+                "file": "RPG/3 - Classes/Xamã.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/3 - Classes/Soldado.md"
+                "file": "RPG/3 - Classes/Xamã.md"
               }
             }
           }
@@ -161,10 +161,19 @@
   },
   "active": "695592b02d13b5bf",
   "lastOpenFiles": [
+    "RPG/3 - Classes/Soldado.md",
+    "Árvore Anciã/Facções/Os Gourmets.md",
+    "Árvore Anciã/Facções",
+    "RPG/3 - Classes/Pirata.md",
+    "RPG/3 - Classes/Guerreiro.md",
+    "RPG/3 - Classes/Atirador.md",
+    "RPG/3 - Classes/Assassino.md",
+    "RPG/2 - Ancestralidades/Sem Pátria.md",
+    "Personagens/Os Gourmets/Zave Slyff, o carnívoro.md",
+    "Personagens/Os Gourmets",
     "RPG/3 - Classes/Xamã.md",
     "RPG/3 - Classes/Clandestino.md",
     "RPG/3 - Classes/Bruxo.md",
-    "RPG/3 - Classes/Soldado.md",
     "RPG/1 - Raça/Inumano.md",
     "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
     "RPG/1 - Raça/Fada.md",
@@ -182,13 +191,6 @@
     "Tales of Sophie/Game Acts/Act 1.md",
     "Eldoria/Eldoria - Time Line.canvas",
     "Eldoria/Eldoria - Visão Geral.canvas",
-    "Eldoria/Eldoria.md",
-    "Personagens/Semideuses/Aerion, o Soberano dos Céus.md",
-    "Árvore Anciã/Thalassar/Thalassar.md",
-    "Árvore Anciã/Thalassar/Cidade Alta Frondosa.md",
-    "Árvore Anciã/Thalassar/A revolta dos desesperados.md",
-    "Árvore Anciã/Os Cracanos/Os Cracanos.md",
-    "RPG/Teste.md",
     "Untitled",
     "RPG/5 - Sistema",
     "Árvore Anciã/Raças/Raças visão geral.canvas",
@@ -214,8 +216,6 @@
     "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
     "Tales of Sophie/Level & Map Design",
     "Tales of Sophie/Game Acts",
-    "Images/Game Map/Area1/Rooms",
-    "Images/Game Map/Area1/PSD/room 9.psd",
     "Tales of Sophie/Weather System.canvas"
   ]
 }

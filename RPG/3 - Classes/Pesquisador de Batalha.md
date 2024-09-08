@@ -1,12 +1,18 @@
+<<<<<<< HEAD
 Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas você não. Sua sede por conhecimento é tão grande quanto seu desejo por aventuras e batalhas.
+=======
+>Dado de vida é 1d6.
+
+	Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas você não. Sua sede por conhecimento é tão grande quanto seu desejo por aventuras e batalhas.
+>>>>>>> 5b1af1bc7f4ad205d87c3fe27319ecd86b06ade1
 
 #### **Level 1:** _Inovação nas Fronteiras_: Crie dispositivos únicos.
 
-- **Catálogo da Carnificina**: Após derrotar um monstro, adicione-o ao seu mostruário. Com cada criatura catalogada, você e seus aliados causam 1d6 de dano adicional contra esse tipo de inimigo, aproveitando seus pontos fracos revelados.
+>**Catálogo da Carnificina**: Após derrotar um monstro, adicione-o ao seu mostruário. Com cada criatura catalogada, você e seus aliados causam 1d6 de dano adicional contra esse tipo de inimigo, aproveitando seus pontos fracos revelados.
     
-- **Remendo de Batalha**: Utilize seus conhecimentos para reparar armaduras, melhorando temporariamente a resistência dos seus aliados. Eles ganham +1 de defesa por uma batalha, garantindo proteção extra em momentos críticos.
+> **Remendo de Batalha**: Utilize seus conhecimentos para reparar armaduras em uma ação bônus, melhorando temporariamente a resistência dos seus aliados. Eles ganham +1 de defesa por uma batalha, garantindo proteção extra em momentos críticos.
     
-- **Criar**: Escolha, você pode ter a capacidade criar Mestrelas ou Mecarnes. Esses itens tem raridade comum no level 1, raro no level 3, épico no level 5 e lendário no level 6. Você ao criar um item deve ter materiais suficientes, deve rolar um dado de dias para criar também e a chance de sucesso, caso ela caia em 1 ~ 3 você vai saber como fazer o item (pode tentar procurar um tutor), caso caia caia em 10 você cria um item de 1 nível de raridade superior. O período de criação é de 1d4 dias.
+>**Criar**: Escolha, você pode ter a capacidade criar Mestrelas ou Mecarnes. Esses itens tem raridade comum no level 1, raro no level 3, épico no level 5 e lendário no level 6. Você ao criar um item deve ter materiais suficientes, deve rolar um dado de dias para criar também e a chance de sucesso, caso ela caia em 1 ~ 3 você vai saber como fazer o item (pode tentar procurar um tutor), caso caia caia em 10 você cria um item de 1 nível de raridade superior. O período de criação é de 1d4 dias.
 	- **Materiais:** Você pode usar desde um único material primário (corpo de monstro no caso das Mecarnes, ou um fragmento estelar para as Mestrelas). Você não vai saber ao certo o efeito do item até ele estar pronto, mas provavelmente terá haver com uma característica do material, o Mestre vai dizer os efeito do item quando ele estiver pronto.
 	- **Tempo de criação**: Durante a criação do item você deve rolar um dado 1d10 em cada dia para saber se houve algum erro ou contratempo na criação. Segue a tabela:
 		- 1 = Você teve um erro monumental na criação. Todos os materiais foram perdidos e o item é destruído.

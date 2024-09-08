@@ -1,5 +1,5 @@
 
-Sendo original da tribo dos Cracanos, você possivelmente aprendeu o valor do trabalho duro para conquistar seu alimento. Não obstante, a luta diária o forneceu conhecimentos gerais impressionantes, te tornando um pau pra toda obra. 
+	Sendo original da tribo dos Cracanos, você possivelmente aprendeu o valor do trabalho duro para conquistar seu alimento. Não obstante, a luta diária o forneceu conhecimentos gerais impressionantes, te tornando um pau pra toda obra. 
 
 Escolha duas perícias entre:
 

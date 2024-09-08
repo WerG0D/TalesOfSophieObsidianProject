@@ -1,0 +1,1 @@
+Zave Slyff foi um candidato a Arquimago da tribo dos Radilhantes, a muito tempo atrás. Quando estava prestes a assumir o posto, a Árvore Anciã disse que tinha algo ainda melhor pra ele, a ascenção.

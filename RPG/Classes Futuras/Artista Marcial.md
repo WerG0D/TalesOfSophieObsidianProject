@@ -1,12 +1,14 @@
 Moderação e Reação
 ### Monge:
+
+Dado de vida: 1d8
 #### Nível 1: Habilidades Iniciais de Monge
 
 **Golpe Desarmado Aprimorado:** _"A perfeição do corpo como arma."_  
-Seus ataques desarmados causam adicional. Você pode usar seu modificador de Reação para calcular o dano dos seus ataques desarmados.
+Seus ataques desarmados causam 1d4 de dano adicional. Você pode usar seu modificador de Reação para calcular o dano dos seus ataques desarmados.
 
-**Esquiva Superior:** _"Movimentos fluidos, esquivas perfeitas."_  
-Quando um atacante que você possa ver realiza um ataque contra você, você pode usar sua reação para desviar, fazendo com que o ataque falhe.
+**Movimento Fluido:** _"Nada pode segurar seu avanço."_  
+Sua velocidade de deslocamento aumenta enquanto você não estiver usando armadura ou carregando um escudo.
 
 **Meditação:** _"O controle começa de dentro."_  
 Você pode meditar por 1 hora para recuperar metade os seus pontos de vida perdidos. Você deve estar em uma posição calma e tranquila durante o período.
@@ -25,10 +27,10 @@ Você pode realizar dois ataques desarmados como uma ação. O número de ataque
 #### Nível 3: Técnicas Avançadas de Monge
 
 **Ataque Desarmado Aprimorado:** _"Cada golpe é uma obra de arte."_  
-Seus ataques desarmados agora causam mais dano. Você pode tentar desarmar ou derrubar um oponente como uma ação bônus após um ataque desarmado bem-sucedido, apenas uma vez por inimigo.
+Seus ataques desarmados agora causam + 2 de dano. Você pode tentar desarmar ou derrubar um oponente como uma ação bônus após um ataque desarmado bem-sucedido, apenas uma vez por inimigo.
 
-**Movimento Fluido:** _"Nada pode segurar seu avanço."_  
-Sua velocidade de deslocamento aumenta enquanto você não estiver usando armadura ou carregando um escudo.
+**Esquiva Superior:** _"Movimentos fluidos, esquivas perfeitas."_  
+Quando um atacante que você possa ver realiza um ataque contra você, você pode usar sua reação para desviar, fazendo com que o ataque falhe. Limitado a 2x por combate
 
 **Visão Interior:** _"Você vê tudo em si."_  
 Você ganha vantagem em testes de Moderação.
@@ -36,10 +38,10 @@ Você ganha vantagem em testes de Moderação.
 #### Nível 4: Técnicas de Harmonia Interior
 
 **Paz Interior:** _"A mente em equilíbrio reflete na perfeição do corpo."_  
-Você pode usar sua ação para recuperar pontos de vida. Você só pode usar essa habilidade uma vez por descanso curto ou longo.
+Você pode usar sua ação para recuperar 2d8 pontos de vida. Você só pode usar essa habilidade uma vez por descanso curto ou longo.
 
 **Desviar Projétil:** _"A agilidade para repelir ataques à distância."_  
-Você pode usar sua reação para desviar de um projétil que atinge você. O dano causado pelo projétil é reduzido a zero se você usar essa habilidade com sucesso, ou pela metade se falhar.
+Você pode usar sua reação para desviar de um projétil que atinge você. O dano causado pelo projétil é reduzido a zero se você usar essa habilidade com sucesso, ou pela metade se falhar. Pode usar duas vezes por combate.
 
 #### Nível 5: Maestria das Artes Marciais
 

@@ -1,4 +1,5 @@
-Bruxo: Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar.
+	Bruxo: Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar.
+>Dado de vida: 1d6
 
 Escolha entre os Onis, Calamidades ou os Malditos:
 
