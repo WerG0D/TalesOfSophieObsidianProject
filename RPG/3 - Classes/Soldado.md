@@ -1,10 +1,10 @@
-Dado de vida é um 1d12.
+Recebe 20 de vida adicional por nível (exceto se vc for Inumano ou Fada).
 ### ATIRADOR:
 - #### Level 1: Você dominou as técnicas básicas de tiro:
 
-- [ ] Precisão Mortal: Capacidade de lançar um projétil com precisão devastadora, causando dano adicional baseado na Reação. Quanto maior a distância, maior o dano aumentando em 1 a cada 10m.
+- [ ] Precisão Mortal: Capacidade de lançar um projétil com precisão devastadora, causando dano aumentando em 2 a cada 10m.
 	
-- [ ] Disparo Longínquo: Aumenta o alcance dos seus tiros, permitindo atacar inimigos a até 50 metros sem penalidades.
+- [ ] Disparo Longínquo: Aumenta o alcance dos seus tiros, permitindo atacar inimigos a até 50 metros sem penalidades. 
 	
 - [ ] Recarga Rápida: Recarrega sua besta ou arco e recupera 1d4 + 2 munições. Perde o turno ao utilizar esta habilidade. Aumenta para 1d8 + 3 no Level 5.
 

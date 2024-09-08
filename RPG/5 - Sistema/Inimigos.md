@@ -1,5 +1,5 @@
 --------------
-## Inimigos Baixo Level:
+## Inimigos Baixo Level: 1 ~ 3
 
 ### Totalmente Fracos:
 #### Intelecto
@@ -73,7 +73,7 @@
 
 -----------------------------
 
-## Inimigos de Médio Level:
+## Inimigos de Médio Level: 4 ~ 5
 
 ### Medianos:
 #### Intelecto
@@ -134,7 +134,7 @@
 
 -------------------------
 
-## Inimigos de Alto Nível:
+## Inimigos de Alto Nível: 6 ou Mais
 
 ### Gênios, mas fracos:
 #### Intelecto
@@ -179,5 +179,5 @@
 - **Moderação:** 15
 
 ## Obs:
-No meio de inimigos podem existir alguns relativamente mais fortes que outros, nesse caso se adiciona pontos em 1 a 3 dos atributos dele (Um para inimigos destaque, 2 para chefes e 3 para Bosses). Os pontos de atributo adicionados podem variar de 3 a 5. 
+No meio de inimigos podem existir alguns relativamente mais fortes que outros, nesse caso se upa 1 a 3 dos seus atributos (Um atributo para inimigos destaque, 2 para chefes e 3 para Bosses). Os pontos de atributo que serão adicionados podem variar de 3 a 5. 
 

@@ -1,4 +1,4 @@
-Dado de vida é um 1d8.
+Recebe +2 pontos em Reação e Força no nível 2 e 5 (exceto se vc for Inumano ou Fada).
 ### Pirata:
 **Level 1:**
 - **Sangue e Bebida**: Ao consumir bebida ou comida, você restaura sua vida até a metade se estiver abaixo dela. Se sua Força for 17 ou mais, você também reduz o dano recebido nos próximos 2 turnos pela metade. Essa habilidade reflete seu vigor e a capacidade de continuar lutando mesmo em situações adversas.
@@ -63,7 +63,7 @@ Escolha um entre as 3 armas seguintes:
 	
 - **Preparo:** Pode lançar bombas e envenenar suas armas com uma ação bônus.
 	
-- **Multitalentos:** Ganha +1 ponto de proficiência no nível 1 e nível 3.
+- **Multitalentos:** Ganha +2 ponto de proficiência no nível 1 e nível 4. 
 
 
 **Nível 2:**

@@ -1,1 +1,1 @@
-Podem usar Mecarnes e Mestrelas. Recebe 2 pontos por nível para distribuir em Mente e Psique.
+Dado de vida é 4d10. Podem usar Mecarnes e Mestrelas. Normalmente é bom já ter full set de, armas e armaduras, de grau: *comum* no 2, *raro* no 3, *épico* no nível 4. Recebe +2 pontos de atributo, por nível após o 1, para distribuir em Intelecto ou Psiqué.

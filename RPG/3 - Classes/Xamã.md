@@ -34,14 +34,14 @@ Fada que usam de seus poderes da árvore. Quando usa muita Magia Proibida se tor
 	- **Coro Celestial**: Invoca um coro de vozes angelicais que aumenta a moral dos aliados aumentando chance de esquiva em +2 e amedronta os inimigos reduzindo a Inalterabilidade deles em -2. Caso seja um xamã profano recebe 4d8 de dano psíquico dessa magia.
 
 **Level 5:** Você se conectou a Árvore Anciã em um novo nível, agora entende todas as formas de vida como uma manifestação de uma mesma alma, garantindo a você a Transmutação Verdadeira.
-- Sintonia Máxima: Videiras Marcadas cobrem todo o seu corpo durante 4 turnos. Durante esse tempo, você tem que escolher, em cada turno, se transformar em um dos seus ALIADOS que seja um: animal, monstro ou humano, de sua escolha, que esteja no campo de batalha, não podendo escolher o mesmo. Durante a transformação você não pode utilizar nenhuma de suas habilidades, mas consegue usar todas as habilidades do aliado que você se transformou. Sua aparência é idêntica ao de seu aliado, exceto pelas tatuagens tribais que percorrem pelo seu corpo. A transformação imita todos os itens que o aliado use, como sendo itens orgânicos, mas de aparência idêntica ao original (a resistência dos mesmo é mundana).
+- Sintonia Máxima: Videiras Marcadas cobrem todo o seu corpo durante 4 turnos. Durante esse tempo, você tem que escolher, em cada turno, se transformar em um dos seus ALIADOS que seja um: animal, monstro ou humano, de sua escolha, que esteja no campo de batalha, não podendo escolher um alvo que já se transformou anteriormente nesse dia. Durante a transformação você não pode utilizar nenhuma de suas próprias habilidades, mas consegue usar todas as habilidades do aliado que você se transformou. Sua aparência é idêntica ao do seu aliado, exceto pelas tatuagens tribais que percorrem pelo seu corpo. A transformação imita todos os itens que o aliado use, como sendo itens orgânicos, mas de aparência idêntica ao original (a resistência dos mesmo é mundana).
 
 **Level 6:**
 - **Magias Ancestrais**: Pode conjurar mais magias graças a árvore:
 	- **Cântico das Estrelas**: Invoca um feixe de luz estelar que causa 1d8 x Erudição de dano radiante aos inimigos e inspira aliados no raio de 20 metros, aumentando moral e precisão (+2 em rolagens de ataque) dos seus aliados.
 	- **Lamento da Terra**: Escolhe uma área a até 30 metros de distância e faz com que a terra trema causando 4d8 de dano a todos os alvos e o quádruplo de dano a estruturas, além de emitir um som profundo e melancólico, reduzindo a moral dos inimigos próximos (reduz -3 a Inalterabilidade dos alvos).
 	- **Teia Luminescente**: Conjura uma teia brilhante que prende inimigos por 1d4 turnos e ilumina a área, revelando criaturas ocultas em uma área de 20 metros.
-	- **Guardiões Celestiais**: Faz um portal que invoca seres angelicais poderosos que lutam ao lado do conjurador, protegendo aliados e atacando inimigos.
+	- **Guardiões Celestiais**: Faz um portal que invoca seres angelicais poderosos que lutam ao lado do conjurador, protegendo aliados e atacando inimigos. Caso seja um xamã profano perde essa habilidade.
 	- **Ressurreição Divina**: Restaura um aliado caído à vida, imbuído de energia celestial e imunidade temporária a danos. Caso seja um xamã profano essa magia 50% de chance matar o alvo instantaneamente.
 
 
@@ -58,8 +58,6 @@ Magias proibidas custam 15 de sanidade, além disso você tem uma chance 1 em um
 - **Espelho Profano**: Conjura um espelho que reflete um alvo criando uma cópia exata que é muito agressiva ao alvo copiado, essa cópia dura 4 turnos e não segue as suas ordens.
 	
 - **Grilhões do Vazio**: Conjura correntes etéreas que prendem inimigos, drenando sua energia vital e transferindo-a para o conjurador. As correntes imobilizam o alvo durante 3 turnos e transferem 4d8 pontos de vida do alvo para o conjurador.
-	
-- **Marionete das Trevas**: Permite ao conjurador controlar um cadáver por 5 turnos, utilizando-o como um peão em combate.
 	
 - **Chama da Devastação**: Invoca um fogo negro que incinera tudo, ignorando resistência mágica. Ele causa 4d6 de dano por turno durante 3 turnos, caso o inimigos encoste em outros ele passa o fogo negro. Caso o inimigo morra ele explode espalhando as chamas negras em uma área de 10 metros.
 	

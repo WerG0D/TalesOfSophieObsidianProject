@@ -1,3 +1,8 @@
+Armas mundanas:
+- **Espada:**
+    - Uma espada simples feita de conchas e coral. Oferece um dano moderado e um pequeno bônus contra criaturas aquáticas. Causa 1d10 + Força de dano. 
+- **Adaga:**
+    - Uma adaga afiada feita de um dente de peixe-serra. Rápida e leve, com bônus de ataque rápido. Causa 1d6 + Força de dano. 
 ### Conjunto 1: Monstros Oceânicos
 
 Espadas: Ignoram 5 de Defesa do alvo.
@@ -29,4 +34,4 @@ Adagas: Ignoram 7 de Defesa do alvo. Permite mais um ataque com ação bônus.
     - Uma espada colossal que não só perfura armaduras, mas também manipula a água ao redor. Causa 3d10 + 12 + Força de dano, essa espada ignora 10 de Defesa ao invés de 5 e tem 1/2 de chance de causar sangramento (causando 2d6 + 4 de dano durante 4 turnos). Adicionalmente, pode invocar uma torrente de água que empurra os inimigos para trás, causando 3d8 de dano a todos os inimigos em uma linha reta de até 10 metros. Recebe +10 de Força e +3 de Reação.
 - **Adaga: Vingança das Profundezas**
     
-    - Uma adaga que emana uma aura de terror abissal, causando danos devastadores e envenenamento mortal. Causa 3d6 + 12 + Força de dano, além de 1/2 de chance de envenenar (veneno causa 2d6 de dano durante 4 turnos). Também possui uma habilidade especial que permite ao portador desaparecer nas sombras e reaparecer atrás de um inimigo, atacando automaticamente com um golpe crítico. Recebe +6 de Força e +10 de Reação.
+    - Uma adaga que emana uma aura de terror abissal, causando danos devastadores e envenenamento mortal. Causa 3d6 + 12 + Força de dano, além de 1/2 de chance de envenenar (veneno causa 2d6 de dano durante 4 turnos). Também possui uma habilidade especial que permite ao portador desaparecer nas sombras e reaparecer atrás de um inimigo, atacando automaticamente com um golpe crítico. Recebe +3 de Força e +10 de Reação.
