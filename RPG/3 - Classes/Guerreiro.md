@@ -1,13 +1,4 @@
-Você é um com sua arma, um com o campo de batalha. Independente do que aconteça, sua fúria e garra o fazem avançar sobre os corpos de seus inimigos mortos,sendo a vanguarda da batalha. Recebe 20 de vida adicional por nível (exceto se vc for Inumano ou Fada).
-### ATIRADOR:
-- #### Level 1: Você dominou as técnicas básicas de tiro:
-
-- [ ] Precisão Mortal: Capacidade de lançar um projétil com precisão devastadora, causando dano aumentando em 2 a cada 10m.
-	
-- [ ] Disparo Longínquo: Aumenta o alcance dos seus tiros, permitindo atacar inimigos a até 50 metros sem penalidades. 
-	
-- [ ] Recarga Rápida: Recarrega sua besta ou arco e recupera 1d4 + 2 munições. Perde o turno ao utilizar esta habilidade. Aumenta para 1d8 + 3 no Level 5.
-
+Você é um com sua arma, um com o campo de batalha. Independente do que aconteça, sua fúria e garra o fazem avançar sobre os corpos de seus inimigos mortos, sendo a vanguarda da batalha. Recebe 20 de vida adicional por nível (exceto se vc for Inumano ou Fada).
 
 ### Guerreiro:
 
