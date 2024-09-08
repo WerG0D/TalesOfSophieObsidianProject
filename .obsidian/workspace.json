@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/3 - Classes/Pirata.md",
+                "file": "RPG/3 - Classes/Xamã.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/3 - Classes/Pirata.md",
+                "file": "RPG/3 - Classes/Xamã.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/3 - Classes/Pirata.md",
+                "file": "RPG/3 - Classes/Xamã.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/3 - Classes/Pirata.md"
+                "file": "RPG/3 - Classes/Xamã.md"
               }
             }
           }
@@ -161,7 +161,14 @@
   },
   "active": "695592b02d13b5bf",
   "lastOpenFiles": [
+    "RPG/1 - Raça/Fada.md",
+    "RPG/3 - Classes/Xamã.md",
+    "RPG/1 - Raça/Inumano.md",
+    "RPG/1 - Raça/Humano.md",
+    "RPG/4 - Itens/Armas a Distância.md",
+    "RPG/4 - Itens/Armaduras.md",
     "RPG/3 - Classes/Guerreiro.md",
+    "RPG/3 - Classes/Pirata.md",
     "RPG/3 - Classes/Atirador.md",
     "RPG/3 - Classes/Pesquisador de Batalha.md",
     "RPG/5 - Sistema/Sistema.md",
@@ -170,16 +177,9 @@
     "RPG/5 - Sistema/Atributos.md",
     "RPG/5 - Sistema/Inimigos.md",
     "RPG/4 - Itens/Anéis e Colares.md",
-    "RPG/4 - Itens/Armas a Distância.md",
-    "RPG/4 - Itens/Armaduras.md",
     "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
-    "RPG/3 - Classes/Pirata.md",
     "RPG/3 - Classes/Bruxo.md",
     "RPG/3 - Classes/Assassino.md",
-    "RPG/1 - Raça/Humano.md",
-    "RPG/1 - Raça/Inumano.md",
-    "RPG/1 - Raça/Fada.md",
-    "RPG/3 - Classes/Xamã.md",
     "RPG/3 - Classes/Soldado.md",
     "Árvore Anciã/Facções/Os Gourmets.md",
     "Árvore Anciã/Facções",
