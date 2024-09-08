@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas você não. Sua sede por conhecimento é tão grande quanto seu desejo por aventuras e batalhas.
-=======
->Dado de vida é 1d6.
-
-	Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas você não. Sua sede por conhecimento é tão grande quanto seu desejo por aventuras e batalhas.
->>>>>>> 5b1af1bc7f4ad205d87c3fe27319ecd86b06ade1
 
 #### **Level 1:** _Inovação nas Fronteiras_: Crie dispositivos únicos.
 

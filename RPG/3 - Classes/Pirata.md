@@ -1,8 +1,6 @@
-<<<<<<< HEAD:RPG/3 - Classes/Clandestino.md
+-- *Ahoy marujo, você é um cara durão que passou grande parte de sua vida no crime e contrabando marítmo, levando cargas perigosas e lutando contra outros piratas dentro das faixas fluviais da Árvore. Lute com espadas e Trabucos de maneira traiçoeira e precisa.* 
+
 Recebe +2 pontos em Reação e Força no nível 2 e 5 (exceto se vc for Inumano ou Fada).
-=======
-	Ahoy marujo, você é um cara durão que passou grande parte de sua vida no crime e contrabando marítmo, levando cargas perigosas e lutando contra outros piratas dentro das faixas fluviais da Árvore. Lute com espadas e Trabucos de maneira traiçoeira e precisa.
->>>>>>> 5b1af1bc7f4ad205d87c3fe27319ecd86b06ade1:RPG/3 - Classes/Pirata.md
 ### Pirata:
 **Level 1:**
 - **Sangue e Bebida**: Ao consumir bebida ou comida, você restaura sua vida até a metade se estiver abaixo dela. Se sua Força for 17 ou mais, você também reduz o dano recebido nos próximos 2 turnos pela metade. Essa habilidade reflete seu vigor e a capacidade de continuar lutando mesmo em situações adversas.
@@ -53,13 +51,15 @@ Recebe +2 pontos em Reação e Força no nível 2 e 5 (exceto se vc for Inumano 
 
 **Level 6:**
 Escolha um entre as 3 armas seguintes:
-- **Profundeza Gélida**: Ataque oponentes com uma espada que dá 2d8 + 8 + Força de dano gélido, ignorando a defesa do alvo, caso acerte começa congelar seu inimigo por dentro, causando 2d8 de dano adicional por turno nos 3 próximos turnos. Sua conexão com o frio profundo torna você uma ameaça contínua no campo de batalha, prejudicando a resistência dos inimigos. Pode congelar fontes de água próximas a vontade.
+- **Profundeza Gélida**: Ataque oponentes com uma espada que dá 3d10 + 8 + Força de dano gélido sombrio, ignorando a defesa do alvo, caso acerte começa congelar seu inimigo por dentro, causando 2d8 de dano adicional por turno nos 3 próximos turnos. Os efeitos do *Gelo Sombrio* não podem ser desfeitos e ele não pode ser derretido. Caso um inimigo seja afetado pelo seu efeito de congelar por pelo menos 6 turnos ele recebe o efeito *CRIOGENIA*. Pode congelar fontes de água próximas a vontade.
+	- *CRIOGENIA*: O alvo recebe 4d12 de dano e fica completamente congelado por 2 turnos. Caso morra nesse efeito ele se torna uma estátua de gelo.
     
-- **Mão do Kraken**: Utilize um dispositivo em forma de luva que libera um tentáculo comprido. Pode ser usado como chicote causando 3d10 + Força de dano ou uma corda mega-resistente, permitindo ataques engenhosos e controle do campo de batalha, exemplificando sua versatilidade e criatividade.
-    
-<<<<<<< HEAD:RPG/3 - Classes/Clandestino.md
-- **Irmãs do Inferno**: Empunhe dois revólveres flamejantes que queimam onde atingem ignorando metade da Defesa do alvo. Esses revólveres simbolizam seu poder destrutivo, deixando um rastro de chamas e caos no rastro de seus disparos. Eles causam 2d8 + 12 de dano por disparo. Tem munição infinita.
-
+- **Mão do Kraken**: Utilize um dispositivo em forma de luva que libera um tentáculo comprido. Pode ser usado como chicote causando 3d10 + Força de dano ou uma corda mega-resistente, permitindo ataques engenhosos e controle do campo. Caso você esteja próximo ao oceano você pode usar o *Canto do Kraken*.
+     - *Canto do Kraken:* Você pode atrair 1d10 monstros das profundezas sob seu comando para atacar alvos de sua escolha. Caso seja lua nova ou cheia e  você tire 10 na rolagem você atrai uma aberração lendária ou épica para seu comando.
+	
+- **Irmãs do Inferno**: Empunhe dois revólveres flamejantes que queimam onde atingem ignorando metade da Defesa do alvos, elas causam 2d8 + 12 de dano por disparo e causam 50% de dano adicional em Armaduras. Tem munição infinita e, além disso, caso você siga oque as *Bocas Infernais* dizem seus ataques passam a causar o dobro de dano durante 1 hora. Esses revólveres simbolizam seu poder destrutivo, deixando um rastro de chamas e caos no rastro de seus disparos. 
+	- *Bocas Infernais:* As Irmãs do Inferno tem consciência, essas entidades malignas amam o caos e ver tudo queimar, ajude elas nos seus desejos que seu poder destrutivo vai ser aumentado.
+	
 ### Assassino:
 **Nível 1**:
 - **Furtivo:** Ganha proficiência e vantagem em testes de furtividade.
@@ -102,6 +102,4 @@ Escolha um entre as 3 armas seguintes:
 
 **Nível 6:**
 - **Capangas:** Ao longo da sua jornada, sua fama aumentou. Em um momento, 3 capangas com a metade do seu nível começam a te seguir. Eles são todos da classe clandestino também e são fiéis a você.
-=======
-- **Irmãs do Inferno**: Empunhe dois revólveres flamejantes que queimam onde atingem ignorando metade da Defesa do alvo. Esses revólveres simbolizam seu poder destrutivo, deixando um rastro de chamas e caos no rastro de seus disparos. Eles causam 2d8 + 12 de dano por disparo. Tem munição infinita.
->>>>>>> 5b1af1bc7f4ad205d87c3fe27319ecd86b06ade1:RPG/3 - Classes/Pirata.md
+

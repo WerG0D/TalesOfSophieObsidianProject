@@ -1,5 +1,4 @@
-<<<<<<< HEAD:RPG/3 - Classes/Soldado.md
-Recebe 20 de vida adicional por nível (exceto se vc for Inumano ou Fada).
+Você é um com sua arma, um com o campo de batalha. Independente do que aconteça, sua fúria e garra o fazem avançar sobre os corpos de seus inimigos mortos,sendo a vanguarda da batalha. Recebe 20 de vida adicional por nível (exceto se vc for Inumano ou Fada).
 ### ATIRADOR:
 - #### Level 1: Você dominou as técnicas básicas de tiro:
 
@@ -8,15 +7,11 @@ Recebe 20 de vida adicional por nível (exceto se vc for Inumano ou Fada).
 - [ ] Disparo Longínquo: Aumenta o alcance dos seus tiros, permitindo atacar inimigos a até 50 metros sem penalidades. 
 	
 - [ ] Recarga Rápida: Recarrega sua besta ou arco e recupera 1d4 + 2 munições. Perde o turno ao utilizar esta habilidade. Aumenta para 1d8 + 3 no Level 5.
-=======
->Dado de vida é um 1d12.
 
-	Você é um com sua arma, um com o campo de batalha. Independente do que aconteça, sua fúria e garra o fazem avançar sobre os corpos de seus inimigos mortos,sendo a vanguarda da batalha.
->>>>>>> 5b1af1bc7f4ad205d87c3fe27319ecd86b06ade1:RPG/3 - Classes/Guerreiro.md
 
-### 
-- #### Level 1: O Começo de uma Jornada de Aço: 
->Você aprendeu as técnicas fundamentais de combate corpo a corpo com armas brancas, essenciais para sobreviver e prosperar no campo de batalha.
+### Guerreiro:
+
+- #### Level 1: O Começo de uma Jornada de Aço: Você aprendeu as técnicas fundamentais de combate corpo a corpo com armas brancas, essenciais para sobreviver e prosperar no campo de batalha.
 
 - **Golpe Devastador:** "Desencadeie a fúria do aço." Executa um ataque poderoso causando dano adicional igual ao dobro da sua Força. Com a sua Força acima de 17 esse golpe é devastador contra inimigos mais fracos (menos de 10 força), podendo abatê-los com um único golpe. Até 3 vezes por combate.
     
@@ -26,8 +21,7 @@ Recebe 20 de vida adicional por nível (exceto se vc for Inumano ou Fada).
 	
 - **Treinamento Pesado**: Aumenta sua força, defesa e reação em 2.
 
-#### Level 2: Refinando a Arte do Combate: 
->Seu treinamento contínuo lhe permite aperfeiçoar suas técnicas de combate, aumentando tanto sua eficácia ofensiva quanto defensiva.
+#### Level 2: Refinando a Arte do Combate: Seu treinamento contínuo lhe permite aperfeiçoar suas técnicas de combate, aumentando tanto sua eficácia ofensiva quanto defensiva.
 
 - **Corte Rápido:** "A velocidade da lâmina é letal." Pode realizar um ataque adicional por turno, com a segunda ação de ataque causando 100% do dano total da primeira.
     

@@ -1,6 +1,4 @@
->Dado de vida: 1d6
-
-	Você é o olho que tudo vê. Nada escapa de sua mira, nada escapa do seu gatilho rápido. Seja com o Arco e Flecha ou com os mosquetes, você não permite que ninguém saia sem ferimentos em um tiroteio.
+Você é o olho que tudo vê. Nada escapa de sua mira, nada escapa do seu gatilho rápido. Seja com o Arco e Flecha ou com os mosquetes, você não permite que ninguém saia sem ferimentos em um tiroteio.
 
 - #### Level 1: Você dominou as técnicas básicas de tiro:
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/3 - Classes/Xamã.md",
+                "file": "RPG/3 - Classes/Pirata.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/3 - Classes/Xamã.md",
+                "file": "RPG/3 - Classes/Pirata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/3 - Classes/Xamã.md",
+                "file": "RPG/3 - Classes/Pirata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/3 - Classes/Xamã.md"
+                "file": "RPG/3 - Classes/Pirata.md"
               }
             }
           }
@@ -161,30 +161,30 @@
   },
   "active": "695592b02d13b5bf",
   "lastOpenFiles": [
+    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
+    "RPG/3 - Classes/Pirata.md",
+    "RPG/4 - Itens/Armas a Distância.md",
+    "RPG/3 - Classes/Pesquisador de Batalha.md",
+    "RPG/3 - Classes/Guerreiro.md",
+    "RPG/3 - Classes/Bruxo.md",
+    "RPG/3 - Classes/Atirador.md",
+    "RPG/3 - Classes/Assassino.md",
+    "RPG/1 - Raça/Humano.md",
+    "RPG/1 - Raça/Inumano.md",
+    "RPG/1 - Raça/Fada.md",
+    "RPG/3 - Classes/Xamã.md",
     "RPG/3 - Classes/Soldado.md",
     "Árvore Anciã/Facções/Os Gourmets.md",
     "Árvore Anciã/Facções",
-    "RPG/3 - Classes/Pirata.md",
-    "RPG/3 - Classes/Guerreiro.md",
-    "RPG/3 - Classes/Atirador.md",
-    "RPG/3 - Classes/Assassino.md",
     "RPG/2 - Ancestralidades/Sem Pátria.md",
     "Personagens/Os Gourmets/Zave Slyff, o carnívoro.md",
     "Personagens/Os Gourmets",
-    "RPG/3 - Classes/Xamã.md",
     "RPG/3 - Classes/Clandestino.md",
-    "RPG/3 - Classes/Bruxo.md",
-    "RPG/1 - Raça/Inumano.md",
-    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
-    "RPG/1 - Raça/Fada.md",
     "RPG/4 - Itens/Armaduras.md",
     "RPG/4 - Itens/Anéis e Colares.md",
-    "RPG/4 - Itens/Armas a Distância.md",
     "RPG/5 - Sistema/Atributos.md",
     "RPG/5 - Sistema/Perícias.md",
     "RPG/5 - Sistema/Sistema.md",
-    "RPG/1 - Raça/Humano.md",
-    "RPG/3 - Classes/Pesquisador de Batalha.md",
     "RPG/5 - Sistema/Talentos.md",
     "RPG/5 - Sistema/Inimigos.md",
     "RPG/5 - Sistema/Perícia.md",
