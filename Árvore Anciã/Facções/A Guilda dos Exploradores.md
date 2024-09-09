@@ -1,0 +1,1 @@
+guilda de exploradores de fora da árvore
