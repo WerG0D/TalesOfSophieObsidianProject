@@ -169,4 +169,9 @@ Os valores bases da perícia é o modificador do atributo referenciado nela.
     - **Descrição**: Habilidade de treinar e controlar animais, entendendo seus comportamentos e necessidades.
     - **Exemplo de Uso**: Treinar um cão de guarda para proteger uma propriedade ou ensinar truques a um cavalo.
     - **Atributo**: Influência.
-	
+### Testes de Canalização
+
+- 1 - **Expressão**: 
+	- **Descrição**: Habilidade de expressar a Aegis e sua canalização, entendendo as necessidades para troca equivalente e ajustando a potencia da expressão.
+	- **Exemplo de uso**: Usar sua expressão da Aegis
+	- **Atributo**: Canalização

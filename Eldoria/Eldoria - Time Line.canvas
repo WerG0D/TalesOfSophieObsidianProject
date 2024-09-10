@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"575ed79e81e14936","type":"file","file":"Panteão/A Guerra dos Divinos.md","x":-820,"y":-400,"width":400,"height":700},
+		{"id":"575ed79e81e14936","type":"file","file":"Panteão/A Guerra dos Divinos/A Guerra dos Divinos.md","x":-820,"y":-400,"width":400,"height":700},
 		{"id":"a37727af693f3b79","type":"text","text":"## Morte dos Deuses\n\nA morte dos deuses Aerathys e Oathwert culminou na reencarnação de ambos. Aerathys como a Árvore Anciã, e Oathwert como o Mar.","x":-360,"y":-400,"width":280,"height":280},
 		{"id":"9f35bfb9f3580c5e","type":"file","file":"Eldoria/Primeiro reino humano/O reino primordial.md","x":0,"y":-400,"width":460,"height":480},
 		{"id":"8e012fc7b69b33d3","type":"file","file":"Images/Weapons/Asas.jpg","x":0,"y":120,"width":460,"height":365},
@@ -11,7 +11,7 @@
 		{"id":"2df3230ace556912","type":"file","file":"Personagens/Semideuses/Aerion, o Soberano dos Céus.md","x":1200,"y":-400,"width":640,"height":900},
 		{"id":"3d0ab51b8aa4b0b4","type":"file","file":"Images/Places/white castle.jpg","x":1825,"y":560,"width":520,"height":691},
 		{"id":"040c374787c11dc4","type":"file","file":"Images/Misc/aerion.jpg","x":1300,"y":560,"width":440,"height":537},
-		{"id":"bced9f26ec0e888d","type":"file","file":"Panteão/O sacrifício do herdeiro do mar.md","x":2920,"y":-400,"width":540,"height":400},
+		{"id":"bced9f26ec0e888d","type":"file","file":"Panteão/A Guerra dos Divinos/O sacrifício do herdeiro do mar.md","x":2920,"y":-400,"width":540,"height":400},
 		{"id":"c593e837776854ea","type":"file","file":"Árvore Anciã/Os Sussurradores/Os Sussurradores.md","x":2345,"y":-400,"width":540,"height":480},
 		{"id":"b32e31d34627f833","type":"file","file":"Images/Misc/7e759a0b98f54de25ee346baa9f10565.jpg","x":2406,"y":160,"width":418,"height":627},
 		{"id":"9c76993d61a542a8","type":"text","text":"# ERA PÓS DILUVIO","x":3500,"y":-500,"width":4660,"height":60,"color":"4"},

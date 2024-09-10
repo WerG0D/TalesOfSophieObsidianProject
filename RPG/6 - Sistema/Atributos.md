@@ -26,3 +26,5 @@ Divino: 20
 	
 - Defesa: *"Aceite os golpes. Não deixe o mundo te matar."* Defesa é a dificuldade que os outros tem para te ferir. Ela permite sobreviver nesse mundo.
 
+- Canalização: "Torne-se um com a Aegis, seja um canalizador" Canalização é sua capacidade de moldar a realidade com a menor exaustão possível e com a maior efetividade viável, usando a Aegis. Esse atributo define a quantidade de vezes que você consegue expressar a Aegis, sendo simbolizada pelos Pontos Aegis. 
+
