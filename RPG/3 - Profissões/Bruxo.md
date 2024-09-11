@@ -1,4 +1,11 @@
-Bruxo: Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Escolha entre os Onis, Calamidades ou os Malditos:
+```
+Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Bruxos são inumanos que conseguem usar a Aegis de seus ancestrais através de um pacto de sangue. Escolha entre os Onis, Calamidades ou os Malditos:
+```
+
+> Classe exclusiva da raça Inumano 
+
+>Independente de suas escolha de ancestral, você firma um pacto de sangue com seu antigo pai, se tornando um filho assumido dele. Você se torna capaz de usar um pouco de sua Aegis, mesmo que outrora não conseguisse. Em contrapartida, se torna impossibilitado de usar mecarnes e mestrelas.
+
 ### ***Onis:*** 
 
 #### *Level 1:* Você descendeu de um dos 7 Demônios, 7 Cores ou 7 Pecados. Escolha qual dos 7 você descendeu: _Vermelho, a Ira; Azul, a Morte; Roxo, a Tentação; Amarelo, a Desistência; Branco, a Enganação; Preto, o Caos; ou Verde, a Alma_, algumas habilidades suas irão mudar com base nisso:
@@ -71,15 +78,24 @@ Bruxo: Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Esc
 
 #### **Level 5:**
 - **Exterminação Infernal, Aniquilar:** Você pode conjurar uma enorme _Bola de Fogo_ uma vez por batalha, ela causa dano a todos alvos, sendo 8d6 + 20 de dano em uma área 10 metros de diâmetro e mais 4d4 + 8 de dano por turno durante 5 turnos.
-    - **Vermelho, a Ira:** A _Bola de Fogo_ causa dano adicional de 2d8, além disso caso vc entre na área seus ataques recebem 1d8 de dano adicional.
-    - **Azul, a Morte:** A _Bola de Fogo_ se torna uma _Bola da Morte_, causando 2d4 de dano adicional a alvos com menos de 60 de vida e executando instantaneamente alvos com 10 de vida ou menos. Alvos mortos retornam como zumbis sob seu comando.
-    - **Roxo, a Tentação:** A _Bola de Fogo_ enfeitiça os alvos atingidos, fazendo eles perderem o próximo turno.
-    - **Amarelo, a Desistência:** A _Bola de Fogo_ faz com que os alvos não possam se mover por 2 turnos.
-    - **Branco, a Enganação:** A _Bola de Fogo_ trocar os equipamentos entre os alvos.
-    - **Preto, o Caos:** A _Bola de Fogo_ recebe um efeito de dano aleatório (fogo, gelo, veneno, etc.) adicional, causando mais 3d8 de dano e mais 1d4 de dano por turno.
-    - **Verde, a Alma:** A _Bola de Fogo_ drena vida dos alvos, curando você em metade do dano causado a todos os alvos.
-	
+
+- **Vermelho, a Ira:** A _Bola de Fogo_ causa dano adicional de 2d8, além disso caso vc entre na área seus ataques recebem 1d8 de dano adicional.
+
+- **Azul, a Morte:** A _Bola de Fogo_ se torna uma _Bola da Morte_, causando 2d4 de dano adicional a alvos com menos de 60 de vida e executando instantaneamente alvos com 10 de vida ou menos. Alvos mortos retornam como zumbis sob seu comando.
+
+- **Roxo, a Tentação:** A _Bola de Fogo_ enfeitiça os alvos atingidos, fazendo eles perderem o próximo turno.
+
+- **Amarelo, a Desistência:** A _Bola de Fogo_ faz com que os alvos não possam se mover por 2 turnos.
+
+- **Branco, a Enganação:** A _Bola de Fogo_ trocar os equipamentos entre os alvos.
+
+- **Preto, o Caos:** A _Bola de Fogo_ recebe um efeito de dano aleatório (fogo, gelo, veneno, etc.) adicional, causando mais 3d8 de dano e mais 1d4 de dano por turno.
+
+- **Verde, a Alma:** A _Bola de Fogo_ drena vida dos alvos, curando você em metade do dano causado a todos os alvos.
+
 - **Manifestação Demoníaca:** Você pode invocar um pequeno demônio uma vez por batalha. O avatar luta ao seu lado por 8 turnos e segue suas ordens. O avatar causa 2d8 + Influência de dano com seus ataques, ele tem 60 de vida, além disso tem os atributos iguais a metade do seus. Ele também tem habilidades das criaturas que você consumiu. Quando esse demônio morre ele explode causando dano em uma área de 6m igual ao dobro da sua Influência.
+
+ - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária 
 #### **Level 6:**
 - **Transformação Demoníaca:** Você vira um demônio completo por 6 turnos, aumentando sua Força e Defesa em 2 e reduzindo sua Inalterabilidade em 3. Nesta forma, você ganha asas, aumentando sua velocidade de voo para 12 metros e causando 1d8 + 6 de dano extra com ataques corpo a corpo. Dura 1 minuto e pode ser usada uma vez por descanso longo. Ao fazer essa transformação você deve fazer um teste de Inalterabilidade, caso tire um erro crítico ou falhe você não ira controlar seu corpo, mas sim o Oni que você descende que vai controlar. Caso esteja com o Oni Preto e seu Dado Caos caia em reconjurar essa habilidade ao invés disso use conjura um pequeno demônio de Manifestação Demoníaca:
     - **Vermelho, a Ira:** Você causa dano de fogo adicional (2d8 + 8) com seus ataques e habilidades e eles causam explosões em volta dos alvos a até 2m.
@@ -89,6 +105,9 @@ Bruxo: Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Esc
     - **Branco, a Enganação:** Você pode trocar de lugar com alvos de uma área de 6m livremente (Pode fazer isso em turno inimigos). Pode fazer isso uma vez no seu turno e uma vez fora dele).
     - **Preto, o Caos:** Você cria portais no campo de batalha, então pode escolher um alvo a  cada 2 turnos no seu campo de visão, e fazer o portal suga-lo e assim o enviando para outra dimensão por 2 turnos. Ao voltar ele recebe 2d8 de dano e retorna com amedrontado e com paralisia.
     - **Verde, a Alma:** O avatar drena vida de todos indivíduos a até 4m, causando a eles 1d10 +  6 de dano e recuperando esse valor de vida por cada alvo, e também recupera vida dos alvos de seus ataques, curando você em metade do dano causado.
+- **ECOLHA LENDÁRIA**:
+	- Açoite das Almas Perdidas: Invoque uma arma mística de seu pai. Em base ela causa 4d10 de dano + um efeito baseado na cor de seu Oni, decidido entre você e o mestre
+	- Culto Sangrento: Inicie um culto em nome de seu pai, adquirindo 2d100 seguidores. Seu culto te dá influencia em várias partes da Árvore anciã.
 	
 ### ***Calamidades:***
 

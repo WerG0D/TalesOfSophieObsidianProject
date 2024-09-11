@@ -1,6 +1,6 @@
 > Criando sua expressão: Role 1d6 na tabela de Categorias e decida a categoria de sua Aegis. Ela não pode ser alterada.  Trabalhe com o mestre, usando sempre o bom senso, para trazer o conceito de sua expressão a vida.
 
-> Usando sua expressão: Para usar sua expressão, você deve passar em um teste de expressão, que é 1d10 + Pericia de expressão. Ao usar sua expressão, perde um ponto ou mais de Aegis.
+> Usando sua expressão: Para usar sua expressão, você deve passar em um teste de expressão, que é 1d10 + Modificador de canalização. Ao usar sua expressão, perde um ponto ou mais de Aegis.
 
 >Quantidade de Requisitos mínimos: 
 >	- Expressão simples: Não necessita de pacto ou restrição. Essa expressão normalmente não altera muito o mundo físico, sendo limitada a invocar objetos de raridade comum, espíritos do além-véu de nível 1, ou trazer pequenas mudanças no corpo de um usuário.  Dano / Modificador base: 1d4 + Pericia de Expressão. Consome: 1 ponto Aegis

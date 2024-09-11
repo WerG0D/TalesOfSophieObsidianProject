@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f9bf19c3d27a3b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RPG/3 - Classes/Pesquisador de Batalha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "695592b02d13b5bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/1 - Raça/Sereia.md",
+                "file": "RPG/1 - Raça/Inumano.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/1 - Raça/Sereia.md",
+                "file": "RPG/1 - Raça/Inumano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/1 - Raça/Sereia.md",
+                "file": "RPG/1 - Raça/Inumano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/1 - Raça/Sereia.md"
+                "file": "RPG/1 - Raça/Inumano.md"
               }
             }
           }
@@ -161,32 +148,34 @@
   },
   "active": "695592b02d13b5bf",
   "lastOpenFiles": [
-    "RPG/1 - Raça/Inumano.md",
     "RPG/1 - Raça/Humano.md",
     "RPG/1 - Raça/Fada.md",
+    "RPG/1 - Raça/Sereia.md",
+    "RPG/6 - Sistema/Testes de Resistência e perícia.md",
+    "RPG/6 - Sistema/Subindo de nível.md",
+    "RPG/6 - Sistema/Sistema de cansaço.md",
+    "RPG/6 - Sistema/Sanidade.md",
+    "RPG/6 - Sistema/Morrendo.md",
+    "RPG/6 - Sistema/Combate.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Troca equivalente.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Sistema.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pontos Aegis.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Conceito.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas",
+    "RPG/3 - Profissões/Xamã.md",
+    "RPG/3 - Profissões/Pirata.md",
+    "RPG/3 - Profissões/Pesquisador de Batalha.md",
+    "RPG/3 - Profissões/Guerreiro.md",
+    "RPG/3 - Profissões/Bruxo.md",
+    "RPG/3 - Profissões/Assassino.md",
+    "RPG/3 - Profissões/Atirador.md",
+    "RPG/3 - Profissões",
+    "RPG/1 - Raça/Inumano.md",
     "RPG/3 - Classes/Pirata.md",
     "RPG/5 - Aegis/Aegis - Categorias novas.md",
     "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
-    "RPG/4 - Itens/Armaduras.md",
-    "RPG/4 - Itens/Armas a Distância.md",
-    "RPG/5 - Aegis/Aegis - Categorias.md",
-    "RPG/5 - Aegis/Aegis - Expressões.md",
-    "RPG/5 - Aegis/Aegis - Troca equivalente.md",
-    "RPG/5 - Aegis/Aegis - Sistema.md",
-    "RPG/5 - Aegis/Aegis - Conceito.md",
-    "RPG/3 - Classes/Bruxo.md",
-    "RPG/3 - Classes/Atirador.md",
-    "RPG/3 - Classes/Guerreiro.md",
-    "RPG/3 - Classes/Assassino.md",
-    "RPG/3 - Classes/Pesquisador de Batalha.md",
-    "RPG/3 - Classes/Xamã.md",
-    "RPG/6 - Sistema/Inimigos.md",
-    "RPG/1 - Raça/Sereia.md",
-    "RPG/6 - Sistema/Sistema.md",
-    "RPG/6 - Sistema/Atributos.md",
-    "Árvore Anciã/Facções/Piratas - Tripulações notáveis.md",
-    "Árvore Anciã/Facções/O Crepúsculo.md",
-    "Árvore Anciã/Facções/Irmandade umbral.md",
     "RPG/6 - Sistema",
     "RPG/5 - Aegis",
     "Panteão/Deuses",
@@ -197,8 +186,6 @@
     "Personagens/Os Gourmets",
     "Eldoria/Eldoria - Time Line.canvas",
     "Eldoria/Eldoria - Visão Geral.canvas",
-    "Untitled",
-    "RPG/5 - Sistema",
     "Árvore Anciã/Raças/Raças visão geral.canvas",
     "Images/Filhos do céu/cc326d3bd4ebefa7b04aad147dafdfa7.jpg",
     "Images/Filhos do céu/bc573c10618beeb9ad5dd17df4cd532f.jpg",
