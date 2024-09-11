@@ -63,7 +63,7 @@ _Conhecimento Amplo_: Utilize seu vasto aprendizado.
  **Engenho Supremo**: Combinando todo o seu conhecimento e experiência, você cria um dispositivo Mecarne ou Mestrela diferente das armas ou armaduras que tem feito, esse engenho é um construto de combate, adaptável e incrivelmente poderoso. Este dispositivo é uma manifestação de sua maestria técnica e capacidade de inovação em meio às batalhas. **Efeito**: Construa um dispositivo de combate de nível lendário que pode alternar entre três modos durante o combate, adaptando-se às necessidades da situação. Cada modo utiliza seu conhecimento acumulado para maximizar a eficácia em combate. Modos do Engenho Supremo:
 1. **Modo Aniquilação**:
     - **Descrição**: O dispositivo assume a forma de um enxame e é focado em causar o máximo de dano possível.
-    - **Efeito**: O enxame concentrado causa 12d4 de dano a um único alvo. Se o ataque reduzir o alvo a 0 pontos de vida, ele explode, causando 2d6 de dano a todos os inimigos em um raio de 10m.
+    - **Efeito**: O enxame concentrado causa 12d6 de dano a um único alvo, ignorando sua Defesa. Se o ataque reduzir o alvo a 0 pontos de vida, ele explode, causando 6d6 de dano a todos os inimigos em um raio de 10m, repetindo a explosão caso algum deles morra.
 	
 1. **Modo Fortaleza**:
     - **Descrição**: O dispositivo assume a forma de um buda de 12 braços e prioriza a defesa e a proteção dos aliados.

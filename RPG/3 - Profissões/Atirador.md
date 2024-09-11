@@ -18,4 +18,4 @@ Você é o olho que tudo vê. Nada escapa de sua mira, nada escapa do seu gatilh
 -  Marca do Caçador: Marca um alvo , que agora recebe o dobro de dano dos seus acertos críticos. Pode ser usado uma vez por combate.
 - **ESCOLHA LENDÁRIA**:
 - Mestre atirador - Você é capaz escolher, uma vez ao dia, realizar um acerto crítico contra qualquer alvo que possa ver com um ataque armado.
-- Spray n' Pray: Ganha a arma lendária Spray n' Pray (atirar e rezar). Essa arma é capaz de atirar 4 vezes em um turno, causando 2d10 + 5 de dano por disparo. Depois de realizar os 4 disparos, a Spray n' Pray adormece para se resfriar, podendo ser utilizada apenas no próximo dia 
+- Spray n' Pray: Ganha a arma lendária Spray n' Pray (atirar e rezar). Essa arma é capaz de atirar 4 vezes em um turno, causando 2d10 + 5 de dano por disparo e ignorando 12 de Defesa. Depois de realizar os 4 disparos, a Spray n' Pray adormece para se resfriar, podendo ser utilizada apenas no próximo dia 
