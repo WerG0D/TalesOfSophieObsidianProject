@@ -4,17 +4,16 @@ Você é o olho que tudo vê. Nada escapa de sua mira, nada escapa do seu gatilh
 
 - #### Level 1:
 
-- Recuo apressado: Caso um inimigo se aproxime a 2m de você e esteja em seu campo de visão, você pode usar desengajar como uma ação bônus
+- Recuo apressado: Caso um inimigo se aproxime a 2m de você e esteja em seu campo de visão, você pode usar desengajar como uma ação bônus e se mover o dobro da sua movimentação. Usar essa habilidade mais de uma vez por combate te faz ganhar um ponto de exaustão.
 - Recarga Rápida: Recarrega sua arma e recupera o metade do pente / aljava de munições. Perde o turno ao utilizar esta habilidade. Recarrega completamente no Level 5.
 - Tiro Focado: Caso não se mova nesse turno, você pode usar sua ação bônus para ganhar +1 em rolagens de ataque. Sobe para +3 no nível 6
-- Rastreio: Ao seguir os rastros de um alvo, você tem + 1 para acertar em qualquer teste contra ele 
+- Rastreio: Ao seguir os rastros de um alvo, você tem + 1 para acertar em qualquer teste contra ele além de aumentar chance de crítico em 1.
 
 - #### Level 5: 
 - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária 
 
 - #### Level 6:
 
-	
 -  Marca do Caçador: Marca um alvo , que agora recebe o dobro de dano dos seus acertos críticos. Pode ser usado uma vez por combate.
 - **ESCOLHA LENDÁRIA**:
 - Mestre atirador - Você é capaz escolher, uma vez ao dia, realizar um acerto crítico contra qualquer alvo que possa ver com um ataque armado.

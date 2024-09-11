@@ -43,7 +43,6 @@ Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Bruxos sã
     - **Branco, a Enganação:** Além da deterioração, cria ilusões que distraem e confundem os inimigos.
     - **Verde, a Alma:** Além da deterioração, drena 1d6 pontos de vida dos alvos por turno e cura você pela mesma quantidade.
 	
-
 #### **Level 5:**
 
 - **Manifestação Demoníaca:** Você pode invocar um pequeno demônio uma vez por batalha. O avatar luta ao seu lado por 8 turnos e segue suas ordens. O avatar causa 2d8 + Influência de dano com seus ataques, ele tem 60 de vida, além disso tem os atributos iguais a metade do seus. Ele também tem habilidades das criaturas que você consumiu. Quando esse demônio morre ele explode causando dano em uma área de 6m igual ao dobro da sua Influência.
@@ -52,7 +51,7 @@ Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Bruxos sã
 #### **Level 6:**
 - **Transformação Demoníaca:** Você vira um demônio completo por 6 turnos, aumentando sua Força e Defesa em 2 e reduzindo sua Inalterabilidade em 3. Nesta forma, você ganha asas, aumentando sua velocidade de voo para 12 metros e causando 1d8 + 6 de dano extra com ataques corpo a corpo. Dura 1 minuto e pode ser usada uma vez por descanso longo. Ao fazer essa transformação você deve fazer um teste de Inalterabilidade, caso tire um erro crítico ou falhe você não ira controlar seu corpo, mas sim o Oni que você descende que vai controlar. Caso esteja com o Oni Preto e seu Dado Caos caia em reconjurar essa habilidade ao invés disso use conjura um pequeno demônio de Manifestação Demoníaca:
     - **Vermelho, a Ira:** Você causa dano de fogo adicional (2d8 + 8) com seus ataques e habilidades e eles causam explosões em volta dos alvos a até 2m.
-    - **Azul, a Morte:** Seus ataques e habilidades ignoram a Defesa do alvo e atingem diretamente em sua Vida. Além disso, caso tenha mortos-vivos convocados durante a transformação demoníaca eles vão te seguir até os pontos de vida deles zerarem.
+    - **Azul, a Morte:** Seus ataques e habilidades ignoram a Defesa do alvo e atingem diretamente em sua Vida. Além disso, quem você mata retorna como mortos-vivos eles vão te seguir até os pontos de vida deles zerarem.
     - **Roxo, a Tentação:** Você tem 1/2 de chance de enfeitiçar alvos adicionais (a até 6m) com seus ataques e habilidades, fazendo com eles que ataquem um aliados deles no próximo turno. 
     - **Amarelo, a Desistência:** Você rouba 1 de Reação de todos os indivíduos a até 10m de você (Você recebe até no máximo +6 de Reação com essa skill).
     - **Branco, a Enganação:** Você pode trocar de lugar com alvos de uma área de 6m livremente (Pode fazer isso em turno inimigos). Pode fazer isso uma vez no seu turno e uma vez fora dele).

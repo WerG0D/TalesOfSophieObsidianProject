@@ -6,17 +6,15 @@ Um foragido se esconde dentro de uma carroça que transporta palha. O motivo? o 
 
 >Dado de vida independente da classe é 8d10. Recebe +2 pontos no nível 1 para colocar nos atributos de sua escolha, e mais 4 por nível.
 
-> Capaz de usar Aegis, mas não mecarnes ou mestrelas
-
+> Capaz de usar Aegis, mas não capazes de usar mecarnes ou mestrelas.
 
 - O Escolhido: A árvore te abençoou e você é seu campeão. Ganha a capacidade de recuperar 1d8 + 2 de vida por turno, evoluindo 1d10 + 5 no level 4, para além disso pode se recuperar se qualquer lesão não fatal que receba com 1 hora. Caso receba um golpe fatal o seu corpo se transforma em uma pequena muda e você ressuscita em um local próximo a Árvore Anciã. Contudo, agora monstros e inumanos são atraídos pelo seu cheiro, eles conseguem te perceber mesmo em furtividade ou invisibilidade. 
 - Absorver Vitalidade: Você deve absorver energia vital da árvore para recuperar seus poderes. Caso tenha ressuscitado deve ficar um dia inteiro absorvendo vitalidade da árvore para recuperar essa habilidade, além disso caso seja um Xamã você deve recuperar seus slots de magia na árvore demorando cerca de 1h.
 - Aegis da Anciã: Você tem 8 pontos Aegis no nível 1.
-	
 
 -----------------------------------------
 
-Caso você seja da classe Xamã e se torne um Xamã Profano, ou caso faça algo   muito ruim a Árvore, você perde todas essas habilidades e as substitui pelas seguintes:
+Caso você seja da classe Xamã e se torne um Xamã Profano, ou caso faça algo muito ruim a Árvore, você perde todas essas habilidades e as substitui pelas seguintes:
 
 - **Absorver Mortalidade:** Absorve a energia de um indivíduo incapacitado. Recupera 1 de sanidade e 1 ponto Aegis. Demora um turno para absorver a energia. Pode usar essa habilidade até 5 vezes por dia.
 	
