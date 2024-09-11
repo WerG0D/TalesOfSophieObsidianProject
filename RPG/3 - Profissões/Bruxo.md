@@ -10,8 +10,7 @@ Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Bruxos sã
 
 #### *Level 1:* Você descendeu de um dos 7 Demônios, 7 Cores ou 7 Pecados. Escolha qual dos 7 você descendeu: _Vermelho, a Ira; Azul, a Morte; Roxo, a Tentação; Amarelo, a Desistência; Branco, a Enganação; Preto, o Caos; ou Verde, a Alma_, algumas habilidades suas irão mudar com base nisso:
 
-- **Sobre Inumano:** Recebe +1 ponto em Reação e Força. 
-    
+
 - **Cores:** Você entende melhor sua hereditariedades, seus ataques e habilidades reluzem em cor:
     - **Vermelho, a Ira:** Pode invocar armas de energia vermelha. Elas causam dano igual a 4 + 2 x  Mod. Força.
     - **Azul, a Morte:** Seus ataques físicos reduzem a sanidade do alvo em 1d4 + 2.
@@ -30,25 +29,10 @@ Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Bruxos sã
     - **Branco, a Enganação:** O raio cria uma imagem ilusória de você, confundindo o alvo.
     - **Verde, a Alma:** O raio drena vida do alvo, curando você em metade do dano causado.
 	
-- **Resistência Especial:** Reduz todo dano sofrido equivalente ao seu Mod. de Inalterabilidade. Até no máximo 50% do dano sofrido.
-#### **Level 2:**
-- **Onipresença Demoníaca:** Pode ficar invisível por 2 turnos ou até atacar.
-    - **Vermelho, a Ira:** Durante a invisibilidade, você causa 3d6 de dano de fogo adicional no seu próximo ataque.
-    - **Azul, a Morte:** Durante a invisibilidade, você causa 1d6 de dano de gelo a qualquer indivíduo próximo a você.
-    - **Roxo, a Tentação:** Atacar durante a invisibilidade não remove ela. Sua invisibilidade dura 4 turnos.
-    - **Amarelo, a Desistência:** Atacar um alvo durante a sua invisibilidade tem 1/2 de chance de derruba-lo e impedir movimentação no próximo turno.
-    - **Preto, o Caos:** Durante a invisibilidade, você pode emergia das sombras atrás de um alvo amedrontando ele por 2 turnos.
-    - **Branco, a Enganação:** Durante a invisibilidade, você pode criar uma duplicata ilusória para distrair os inimigos.
-    - **Verde, a Alma:** Durante a invisibilidade, seus ataques drenam 1d6 + 3 pontos de vida do alvo e curam você.
-	
-- **Influência Mental:** Pode influenciar uma pessoa mentalmente por um número de turnos igual a metade da sua Influência. O indivíduo pode fazer um teste de Inalterabilidade todo turno para escapar. Ele joga 1d4 + Inalterabilidade, devendo superar a Influência do bruxo.
-    
-- **Controlar:** Pode controlar mentalmente animais com o Intelecto menor que sua Influência durante um número de turnos igual metade da sua Influência.
+- **Influência Mental:** Pode influenciar uma indivíduo mentalmente por um número de turnos igual a metade da sua Influência. O indivíduo pode fazer um teste de Inalterabilidade todo turno para escapar. Ele joga 1d4 + Inalterabilidade, devendo superar a Influência do bruxo.
     
 - **Discórdia:** Aumenta a discórdia entre até 4 indivíduos da sua escolha durante um número de turnos igual a metade da sua Influência. Fazendo com que estratégias ou uma formação entre eles percam os efeitos benéficos, além de diminuir a cura que um aplica no outro.
-    
-
-#### **Level 3:**
+	
 - **Aura de Corrupção:** Emite uma aura que causa deterioração nos seres vivos ao redor (raio de 20m), diminuindo sua Defesa e Inalterabilidade gradualmente por 5 turnos (reduz 1 ponto de ambos por turno).
     
     - **Vermelho, a Ira:** Além da deterioração, causa 2d6 de dano de fogo por turno.
@@ -59,39 +43,8 @@ Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Bruxos sã
     - **Branco, a Enganação:** Além da deterioração, cria ilusões que distraem e confundem os inimigos.
     - **Verde, a Alma:** Além da deterioração, drena 1d6 pontos de vida dos alvos por turno e cura você pela mesma quantidade.
 	
-- **Telecinese Avançada:** Pode levitar e mover objetos com a mente, até um peso equivalente à 5 x sua Força, por até 2m por turno durante 3 turnos consecutivos.
-    
-- **Forma Etérea:** Torna-se intangível por 1 turno, tornando-se imune a dano físico, mas não pode atacar fisicamente também.
-
-#### **Level 4:**
-- **Transmutação:** Consegue transformar temporariamente um objeto simples em outro de características similares por 3 turnos.
-    
-    - **Vermelho, a Ira:** Os objetos transmutados explodem quando transmutação acaba, causando 2d8 + 4 de dano.
-    - **Azul, a Morte:** Os objetos transmutados causam 1d8 de dano adicional de gelo e reduzem a Reação do alvos em 2.
-    - **Roxo, a Tentação:** Os objetos transmutados têm 1/4 de chance de enfeitiçar inimigos que os olhem por 1 turno. Os inimigos devem rolar teste de Inalterabilidade sempre que o olham.
-    - **Amarelo, a Desistência:** Os objetos transmutados fazem quem estiver com ele ter ter desvantagem em quaisquer testes de ataque e esquiva.
-    - **Preto, o Caos:** Pode transmutar objetos em outros que não tenham características similares.
-    - **Branco, a Enganação:** Pode criar até 3 ilusões do objeto transformado.
-    - **Verde, a Alma:** Pode sacrificar 3d8 de vida para transformar o objeto por até 1 dia inteiro.
-	
-- **Aumentar Poder:** Aumenta suas próprias capacidades assim pode absorver dano equivalente à 2 x Mod. Inalterabilidade por 3 turnos.
 
 #### **Level 5:**
-- **Exterminação Infernal, Aniquilar:** Você pode conjurar uma enorme _Bola de Fogo_ uma vez por batalha, ela causa dano a todos alvos, sendo 8d6 + 20 de dano em uma área 10 metros de diâmetro e mais 4d4 + 8 de dano por turno durante 5 turnos.
-
-- **Vermelho, a Ira:** A _Bola de Fogo_ causa dano adicional de 2d8, além disso caso vc entre na área seus ataques recebem 1d8 de dano adicional.
-
-- **Azul, a Morte:** A _Bola de Fogo_ se torna uma _Bola da Morte_, causando 2d4 de dano adicional a alvos com menos de 60 de vida e executando instantaneamente alvos com 10 de vida ou menos. Alvos mortos retornam como zumbis sob seu comando.
-
-- **Roxo, a Tentação:** A _Bola de Fogo_ enfeitiça os alvos atingidos, fazendo eles perderem o próximo turno.
-
-- **Amarelo, a Desistência:** A _Bola de Fogo_ faz com que os alvos não possam se mover por 2 turnos.
-
-- **Branco, a Enganação:** A _Bola de Fogo_ trocar os equipamentos entre os alvos.
-
-- **Preto, o Caos:** A _Bola de Fogo_ recebe um efeito de dano aleatório (fogo, gelo, veneno, etc.) adicional, causando mais 3d8 de dano e mais 1d4 de dano por turno.
-
-- **Verde, a Alma:** A _Bola de Fogo_ drena vida dos alvos, curando você em metade do dano causado a todos os alvos.
 
 - **Manifestação Demoníaca:** Você pode invocar um pequeno demônio uma vez por batalha. O avatar luta ao seu lado por 8 turnos e segue suas ordens. O avatar causa 2d8 + Influência de dano com seus ataques, ele tem 60 de vida, além disso tem os atributos iguais a metade do seus. Ele também tem habilidades das criaturas que você consumiu. Quando esse demônio morre ele explode causando dano em uma área de 6m igual ao dobro da sua Influência.
 
