@@ -4,28 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "e8d3f0f8dfdd6cee",
+        "id": "309572c35f4e0169",
         "type": "tabs",
         "children": [
           {
-            "id": "3f9bf19c3d27a3b4",
+            "id": "086cddd81afda34d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/3 - Classes/Pesquisador de Batalha.md",
+                "file": "RPG/6 - Sistema/Atributos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "695592b02d13b5bf",
+            "id": "d23937719eac59d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/5 - Aegis/Aegis - Categorias novas.md",
+                "file": "RPG/Ficha de personagem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8aee4f16392ddd88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/6 - Sistema/Atributos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5df2429d32a95f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/6 - Sistema/Testes de Resistência e perícia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1fc7a739fc1d980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/4 - Itens/Armas a Distância.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +107,7 @@
             }
           },
           {
-            "id": "f78c7b8a94d6c23b",
+            "id": "94a458dad600889a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 367.5
   },
   "right": {
     "id": "6f070939e06f5422",
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/5 - Aegis/Aegis - Categorias novas.md",
+                "file": "RPG/Ficha de personagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/5 - Aegis/Aegis - Categorias novas.md",
+                "file": "RPG/Ficha de personagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/5 - Aegis/Aegis - Categorias novas.md"
+                "file": "RPG/Ficha de personagem.md"
               }
             }
           }
@@ -159,47 +195,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "695592b02d13b5bf",
+  "active": "eb45bebb065f2252",
   "lastOpenFiles": [
-    "RPG/5 - Aegis/Aegis - Categorias.md",
-    "RPG/5 - Aegis/Aegis - Categorias novas.md",
-    "RPG/5 - Aegis/Aegis - Expressões.md",
-    "RPG/5 - Aegis/Aegis - Troca equivalente.md",
-    "RPG/5 - Aegis/Aegis - Sistema.md",
-    "RPG/5 - Aegis/Aegis - Conceito.md",
-    "RPG/3 - Classes/Bruxo.md",
-    "RPG/3 - Classes/Atirador.md",
-    "RPG/3 - Classes/Guerreiro.md",
-    "RPG/3 - Classes/Assassino.md",
-    "RPG/3 - Classes/Pesquisador de Batalha.md",
-    "RPG/3 - Classes/Pirata.md",
-    "RPG/3 - Classes/Xamã.md",
-    "RPG/6 - Sistema/Inimigos.md",
-    "RPG/1 - Raça/Inumano.md",
-    "RPG/1 - Raça/Sereia.md",
-    "RPG/1 - Raça/Fada.md",
-    "RPG/6 - Sistema/Sistema.md",
     "RPG/6 - Sistema/Atributos.md",
-    "Árvore Anciã/Facções/Piratas - Tripulações notáveis.md",
-    "Árvore Anciã/Facções/O Crepúsculo.md",
-    "Árvore Anciã/Facções/Irmandade umbral.md",
-    "Árvore Anciã/Facções/Exército de Thalassar - Facções internas.md",
-    "Árvore Anciã/Facções/A Mão de Oathwert.md",
-    "Árvore Anciã/Facções/A Moeda de Ravenus.md",
-    "Árvore Anciã/Facções/A Guilda dos Exploradores.md",
-    "RPG/6 - Sistema",
-    "RPG/5 - Aegis",
-    "Panteão/Deuses",
-    "Panteão/A Guerra dos Divinos",
-    "Eldoria/Planos de existência",
-    "Eldoria/Aegis",
-    "Árvore Anciã/Facções",
-    "Personagens/Os Gourmets",
-    "Eldoria/Eldoria - Time Line.canvas",
-    "Eldoria/Eldoria - Visão Geral.canvas",
-    "Untitled",
-    "RPG/5 - Sistema",
+    "RPG/Ficha de personagem.md",
+    "RPG/6 - Sistema/Testes de Resistência e perícia.md",
+    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas",
+    "RPG/4 - Itens/Armas a Distância.md",
+    "RPG/4 - Itens/Anéis e Colares.md",
+    "RPG/3 - Profissões/Xamã.md",
+    "RPG/3 - Profissões/Pirata.md",
+    "RPG/3 - Profissões/Pesquisador de Batalha.md",
+    "RPG/3 - Profissões/Guerreiro.md",
+    "RPG/3 - Profissões/Bruxo.md",
+    "RPG/3 - Profissões/Atirador.md",
+    "RPG/3 - Profissões/Assassino.md",
+    "RPG/6 - Sistema/Subindo de nível.md",
+    "RPG/6 - Sistema/Sistema de cansaço.md",
+    "RPG/6 - Sistema/Combate.md",
+    "RPG/6 - Sistema/Morrendo.md",
+    "RPG/6 - Sistema/Sanidade.md",
+    "RPG/6 - Sistema/Perícias.md",
+    "RPG/6 - Sistema/Inimigos.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pontos Aegis.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Troca equivalente.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Sistema.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Conceito.md",
+    "Árvore Anciã/Árvore Anciã - Visão Geral.canvas",
     "Árvore Anciã/Raças/Raças visão geral.canvas",
+    "Panteão/A Guerra dos Divinos",
+    "Panteão/Deuses",
+    "Eldoria/Aegis",
+    "Eldoria/Planos de existência",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas",
+    "Personagens/Os Gourmets",
+    "Árvore Anciã/Facções",
+    "Eldoria/Eldoria - Visão Geral.canvas",
+    "Eldoria/Eldoria - Time Line.canvas",
+    "Tales of Sophie/Mechanics/Chains - Hook.canvas",
+    "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
+    "Images/Pasted image 20240808171924.png",
+    "Personagens/Filhos do mar",
     "Images/Filhos do céu/cc326d3bd4ebefa7b04aad147dafdfa7.jpg",
     "Images/Filhos do céu/bc573c10618beeb9ad5dd17df4cd532f.jpg",
     "Images/Filhos do céu/2be7f59214051c6fe6854058bc1748ea.jpg",
@@ -209,13 +249,9 @@
     "Images/Game Map/sophie_movement_behavior.png",
     "Images/Game Map/Area1/Radilhantes Path.png",
     "Images/Game Map/Area1/Rooms/area1_room10.png",
-    "Images/Game Map/Area1/Rooms/area1_room2.png",
     "Tales of Sophie/Mechanics/RPG MECHANICS.canvas",
     "Tales of Sophie/Mechanics/Weather System.canvas",
     "Tales of Sophie/Mechanics/Core Mechanics.canvas",
-    "Tales of Sophie/Mechanics/Combat Mechanics.canvas",
-    "Tales of Sophie/Mechanics/Chains - Hook.canvas",
-    "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
-    "Tales of Sophie/Weather System.canvas"
+    "Tales of Sophie/Mechanics/Combat Mechanics.canvas"
   ]
 }
