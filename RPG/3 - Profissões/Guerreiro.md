@@ -22,7 +22,7 @@ Você é um com sua arma, um com o campo de batalha. Independente do que aconte�
 
 - **Dança da Morte:** "Seja a dança entre a vida e a morte." Realiza uma série de ataques (4d4) rápidos e letais, atingindo até cinco inimigos próximos. Em cada ataque os críticos são alcançados em 7 ~ 10.
     
-- **Golpe Final:** "O fim de todos os combates." Concentra toda a sua força em um único golpe devastador, causando o quádruplo da sua Força em dano adicional. Este ataque ignora todas as formas de defesa, mas requer um turno completo de preparação e deixa você vulnerável no próximo turno. Você ganha um ponto de exaustão após o ataque, mas se o ataque for um crítico você ganha 2 pontos de exaustão.
+- **Golpe Final:** "O fim de todos os combates." Concentra toda a sua força em um único golpe devastador, causando o quádruplo do Mod. Força em dano adicional. Este ataque ignora todas as formas de defesa, mas requer um turno completo de preparação e deixa você vulnerável no próximo turno. Você só pode usar essa habilidade estiver com menos de metade da sua vida máxima, além disso ganha um ponto de exaustão após o ataque, mas se o ataque for um crítico você ganha 2 pontos de exaustão.
 	  
   - **ESCOLHA LENDÁRIA**:
 	  - Excaliburn: Encontre a lendária espada Excaliburn, a espada incendiária do falecido Rei Aerion. A espaca causa 5d10 de dano de fogo e ignora 10 de Defesa do alvo. Além disso a espada tem capacidade de recuperar 2d10 de sua vida por turno enquanto estiver dentro da bainha.
