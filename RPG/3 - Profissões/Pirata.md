@@ -2,7 +2,7 @@
 -- Ahoy marujo, você é um cara durão que passou grande parte de sua vida no crime e contrabando marítmo, levando cargas perigosas e lutando contra outros piratas dentro das faixas fluviais da Árvore. Lute com espadas e Trabucos de maneira traiçoeira e precisa. 
 ```
 
->Recebe +2 pontos em Reação e Força no nível 2 e 5 (exceto se vc for Inumano ou Fada).
+>Recebe +1 ponto em Reação e Força no nível 2 e 5 (exceto se vc for Inumano ou Fada).
 
 >Recebe uma tripulação de 1 navio de pequeno porte e 5 marujos companheiros de nível 1. Os status dos marujos são 10 em todas as categorias, mas eles não entram em combate com você a não ser em momentos específicos determinados pelo seu mestre.  A cada nível sua tripulação aumenta a frota. 
 ### Pirata:
@@ -11,7 +11,7 @@
     
 -  **Aleijar**: Caso consiga um acerto crítico em combate, acerte automaticamente e determine uma lesão específica (olhos, ouvidos, pernas, braços ou boca). O alvo deve passar em um teste de Constituição para evitar a incapacidade temporária. Com Reação 17 ou mais, o crítico é estendido para 9-10, aumentando suas chances de infligir danos debilitantes.
     
-- **Traiçoeiro**: Você tem vantagem em testes para mentir e detectar mentiras, demonstrando sua astúcia e habilidades sociais afiadas. Essa capacidade de manipular a verdade torna você um adversário formidável em situações de engano e intriga.
+- **Traiçoeiro**: Você tem vantagem em testes para mentir e detectar mentiras, demonstrando sua astúcia e habilidades sociais afiadas. Essa capacidade de manipular a verdade torna você um adversário formidável em situações de engano e intriga. Recebe +2 em Influência.
     
 - - **Êxtase da Batalha**: Se sua vida cair a 0 ou menos devido a uma lesão não fatal, retorne à batalha instantaneamente, recuperando pontos de vida igual à sua Força. Essa habilidade reflete seu espírito indomável, permitindo continuar lutando quando outros desistiriam.
 

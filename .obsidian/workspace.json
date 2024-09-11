@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/3 - Profissões/Guerreiro.md",
+                "file": "RPG/6 - Sistema/Talentos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/3 - Profissões/Guerreiro.md",
+                "file": "RPG/6 - Sistema/Talentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/3 - Profissões/Guerreiro.md",
+                "file": "RPG/6 - Sistema/Talentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/3 - Profissões/Guerreiro.md"
+                "file": "RPG/6 - Sistema/Talentos.md"
               }
             }
           }
@@ -148,14 +148,18 @@
   },
   "active": "695592b02d13b5bf",
   "lastOpenFiles": [
+    "RPG/6 - Sistema/Subindo de nível.md",
+    "RPG/6 - Sistema/Sistema de cansaço.md",
+    "RPG/6 - Sistema/Atributos.md",
     "RPG/3 - Profissões/Pirata.md",
-    "RPG/3 - Profissões/Atirador.md",
-    "RPG/3 - Profissões/Assassino.md",
     "RPG/3 - Profissões/Guerreiro.md",
-    "RPG/3 - Profissões/Pesquisador de Batalha.md",
+    "RPG/3 - Profissões/Atirador.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
     "RPG/1 - Raça/Fada.md",
-    "RPG/1 - Raça/Inumano.md",
     "RPG/1 - Raça/Humano.md",
+    "RPG/1 - Raça/Inumano.md",
+    "RPG/3 - Profissões/Assassino.md",
+    "RPG/3 - Profissões/Pesquisador de Batalha.md",
     "RPG/3 - Profissões/Bruxo.md",
     "RPG/4 - Itens/Armaduras.md",
     "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
@@ -163,8 +167,6 @@
     "RPG/4 - Itens/Armas a Distância.md",
     "RPG/1 - Raça/Sereia.md",
     "RPG/6 - Sistema/Testes de Resistência e perícia.md",
-    "RPG/6 - Sistema/Subindo de nível.md",
-    "RPG/6 - Sistema/Sistema de cansaço.md",
     "RPG/6 - Sistema/Sanidade.md",
     "RPG/6 - Sistema/Morrendo.md",
     "RPG/6 - Sistema/Combate.md",
@@ -172,8 +174,6 @@
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Sistema.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pontos Aegis.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Conceito.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas",
     "RPG/3 - Profissões",
     "RPG/6 - Sistema",
