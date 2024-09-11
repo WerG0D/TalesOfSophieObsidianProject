@@ -14,8 +14,6 @@ História completa de seu personagem: Escreva a história completa de seu person
 
 **Traços de personalidade**: pelo menos 3 características marcantes e dois defeitos (características marcantes são aspectos da personalidade que chamam atenção, como "raivoso" ou "sarcástico" e defeitos são desvios de caráter, como "mentiroso"
 
-•**Origens Culturais**: de onde você vem, qual país, comunidade, etc.
-
 •**Aparência**; Como seu personagem se veste e suas feições físicas.
 
 •Afeição: Qual é tua vibe? como você se porta nos ambientes? o que normalmente faz em um grupo de pessoas?
