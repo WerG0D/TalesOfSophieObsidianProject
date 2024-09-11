@@ -1,0 +1,24 @@
+Ao nascer, um usuário de Aegis tem sua categoria definida pela pura sorte. Role 1d6 para decidir sua categoria, ela é imutável por meios normais. 
+
+- **1 - Ciclo:** O objetivo final de usuário do ciclo é o domínio de si. Os ***Mong's*** como são chamados, acreditam que a natureza externa pode ser vencida se a natureza interna for domada. A natureza (Physis) encontra meios de corrigir a desarmonia dos humores (discrasia), restaurando o estado anterior de harmonia (eucrasia).Você tem duas opções: Com a manipulação do seu humor você pode escolher encontrar a *eucrasia* ou focar e reinar sobre seu elemento buscando a *discrasia*. Os 4 Elementos que você pode escolher e que serão correlatados a sua personalidade são:
+	- **Sanguíneo:** Domínio do ar, são expansivos, otimistas, instáveis, sentimentais e impulsivos.
+	- **Fleumático:** Domínio da água, são sonhadores, pacíficos e dóceis, preso aos hábitos, realistas e distante das paixões.
+	- **Colérico:** Domínio do fogo, são ambicioso, dominadores, nervosos, ousados e tem propensão a reações grandiosas/explosivas.
+	- **Melancólico:** Domínio da terra, são profundos, introvertidos, pessimistas e analíticos.
+- **2 - Pêndulo**: Aqueles que são usuários do Pêndulo são chamados de ***Cleros*** e  acreditam fielmente em ideais de bem e mal, tem aversão a ficar no meio da balança, acreditando que tudo é preto ou branco. Caso escolha o lado bom (positivo) você ganha a manipulação da vitalidade, rejuvenescimento, ressurreição, poderes curativos e poderes de proteção, contudo, caso escolha o lado mal (negativo) você ganha manipulação da morte, necromancia, maldições e envelhecimento. Reclinar para o lado bom e mal ao mesmo tempo, ou utilizar poderes dos 2 lados pode causa reações adversas e até mesmo a perca temporária ou definitiva dos seus poderes.
+	- **Positivo:** Manipulação de habilidades curativas, ressurreição, proteção e entre outras.
+	- **Negativo:** Manipulação de maldições, vodoo, doenças, venenos, necromancia e entre outras.
+- **3 - Narcíso:** Manipulação de suas capacidades físicas. É possível usar para fortalecer e aprimorar objetos e partes do seu corpo, incluindo órgãos internos.
+	- **Ectos:** Tem a capacidade de comprimir energia, podendo assim aumentar significanmente sua própria força ou velocidade, ou capacidades destrutivas de alguma arma.
+	- **Mesos:** Tem a capacidade de amplificar capacidades  dos seus órgãos, aumentando sua funcionalidades além do limite. Pode usar isso para por exemplo aumentar a visão, aumentar inteligência ou melhorar tempo sem respirar, etc.
+	- **Endos:** Pode alterar suas próprias características físicas ou de outros, podendo aumentar/reduzir de tamanho, mudar a cor, resistência ou comprimento de algo, transmutação no geral.
+- **4 - Véu:** O usuário atravessa o Véu, conseguindo ter contato com espíritos e criaturas poderosas, assim como mais percepção do mundo ao seu redor. É possível firmar um pacto com as criaturas do Véu, trazendo-as como aliados ao plano terreno ou utilizando de seus poderes, pode banir criaturas também. 
+- **5 - 
+- **6 - Trama:** Aqueles ligados a *Trama* são chamados de ***Bárions***, eles são indivíduos curiosos, que acreditam sempre poder fazer parte de algo maior, por dentro de seu âmago acreditam em alguns momentos ser o centro do universo e protagonistas do que ocorre, e em outros são indivíduos que se veem como invisíveis ao resto e peças em algo maior. Tem a habilidade de observar através dos fios do espaço e tempo, moldar o observável, manipular pessoas e adivinhar o futuro.
+	- A Garganta (Vishuddha): Pode engolir pequenos eventos do passado/futuro destino como se nunca houvessem existido. O uso excessivo da Garganta reduz a própria vitalidade, algumas vezes de maneira permanente.
+	- O Terceiro Olho (Ajna): Pode prever o futuro/passado previamente ou longamente com adivinhações, pode ver outras regiões distantes, ler a sorte de outros e intuir sobre eventos. O uso excessivo do Terceiro Olho sempre causa confusão mental no usuário.
+	- A Coroa (Sahasrara): Tem a capacidade de manipular os sentidos de outros indivíduos podendo produzir ilusões. O uso excessivo da Coroa causa desconexão com a realidade.
+	- O Coração (Anahata): Pode manipular a força de vontade e os sentimentos dos outros, induzindo empatia, amor, tristeza ou raiva. O uso excessivo do Coração causa descontrole emocional no usuário.
+	- O Plexo Solar (Manipura): Pode manipular probabilidades, podendo manipular chances de ações ocorrerem logo após serem feitas ou modificar a sorte de aliados para o futuro. O uso excessivo do Plexo Solar pode causar um extremo azar para você.
+	- O Sacral (Svadhisthana): Tem capacidade de se teleportar ou teleportar outros. O uso excessivo do Sacral causa mal estado de saúde e até doenças.
+	- A Raiz (Muladhara): Pode manipular o tempo, pode acelerar, desacelerar ou até mesmo para-lo, etc. O uso excessivo da Raiz pode causar extremo cansaço e fadiga.

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "309572c35f4e0169",
+        "id": "e8d3f0f8dfdd6cee",
         "type": "tabs",
         "children": [
           {
-            "id": "086cddd81afda34d",
+            "id": "3f9bf19c3d27a3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/5 - Aegis/Aegis - Sistema.md",
+                "file": "RPG/3 - Classes/Pesquisador de Batalha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "695592b02d13b5bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/5 - Aegis/Aegis - Categorias novas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "94a458dad600889a",
+            "id": "f78c7b8a94d6c23b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 300
   },
   "right": {
     "id": "6f070939e06f5422",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/5 - Aegis/Aegis - Sistema.md",
+                "file": "RPG/5 - Aegis/Aegis - Categorias novas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/5 - Aegis/Aegis - Sistema.md",
+                "file": "RPG/5 - Aegis/Aegis - Categorias novas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/5 - Aegis/Aegis - Sistema.md"
+                "file": "RPG/5 - Aegis/Aegis - Categorias novas.md"
               }
             }
           }
@@ -146,51 +159,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "086cddd81afda34d",
+  "active": "695592b02d13b5bf",
   "lastOpenFiles": [
-    "RPG/6 - Sistema/Sistema.md",
-    "RPG/6 - Sistema/Atributos.md",
-    "RPG/5 - Aegis/Aegis - Sistema.md",
-    "RPG/5 - Aegis/Aegis - Expressões.md",
-    "RPG/5 - Aegis/Aegis - Conceito.md",
-    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
     "RPG/5 - Aegis/Aegis - Categorias.md",
+    "RPG/5 - Aegis/Aegis - Categorias novas.md",
+    "RPG/5 - Aegis/Aegis - Expressões.md",
     "RPG/5 - Aegis/Aegis - Troca equivalente.md",
-    "RPG/6 - Sistema/Talentos.md",
-    "RPG/6 - Sistema/Perícias.md",
-    "RPG/6 - Sistema/Inimigos.md",
-    "Panteão/Panteão.md",
-    "Panteão/A Guerra dos Divinos",
-    "Panteão/A Guerra dos Divinos/O sacrifício do herdeiro do mar.md",
-    "Panteão/A Guerra dos Divinos/A Guerra dos Divinos.md",
-    "Panteão/Deuses/Oathwert, O profundo.md",
-    "Panteão/Deuses/Aerathys, a antiga.md",
-    "Eldoria/Aegis/O Surgimento da Aegis.md",
-    "Panteão/Deuses",
-    "Eldoria/Aegis",
-    "Eldoria/Planos de existência/A Caixa.md",
-    "Eldoria/Planos de existência/O Véu.md",
-    "Eldoria/Planos de existência",
-    "RPG/3 - Classes/Pirata.md",
-    "RPG/5 - Aegis",
-    "RPG/3 - Classes/Guerreiro.md",
+    "RPG/5 - Aegis/Aegis - Sistema.md",
+    "RPG/5 - Aegis/Aegis - Conceito.md",
     "RPG/3 - Classes/Bruxo.md",
     "RPG/3 - Classes/Atirador.md",
+    "RPG/3 - Classes/Guerreiro.md",
     "RPG/3 - Classes/Assassino.md",
-    "RPG/2 - Ancestralidades/Cracano.md",
+    "RPG/3 - Classes/Pesquisador de Batalha.md",
+    "RPG/3 - Classes/Pirata.md",
+    "RPG/3 - Classes/Xamã.md",
+    "RPG/6 - Sistema/Inimigos.md",
+    "RPG/1 - Raça/Inumano.md",
     "RPG/1 - Raça/Sereia.md",
-    "Personagens/Os Gourmets",
-    "Árvore Anciã/Raças/Raças visão geral.canvas",
-    "Árvore Anciã/Facções",
-    "Árvore Anciã/Árvore Anciã - Visão Geral.canvas",
-    "Eldoria/Eldoria - Visão Geral.canvas",
-    "Eldoria/Eldoria - Time Line.canvas",
-    "Tales of Sophie/Mechanics/Chains - Hook.canvas",
-    "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
-    "Images/Pasted image 20240808171924.png",
-    "Personagens/Filhos do mar",
+    "RPG/1 - Raça/Fada.md",
+    "RPG/6 - Sistema/Sistema.md",
+    "RPG/6 - Sistema/Atributos.md",
+    "Árvore Anciã/Facções/Piratas - Tripulações notáveis.md",
+    "Árvore Anciã/Facções/O Crepúsculo.md",
+    "Árvore Anciã/Facções/Irmandade umbral.md",
+    "Árvore Anciã/Facções/Exército de Thalassar - Facções internas.md",
+    "Árvore Anciã/Facções/A Mão de Oathwert.md",
+    "Árvore Anciã/Facções/A Moeda de Ravenus.md",
+    "Árvore Anciã/Facções/A Guilda dos Exploradores.md",
     "RPG/6 - Sistema",
-    "Árvore Anciã/Raças",
+    "RPG/5 - Aegis",
+    "Panteão/Deuses",
+    "Panteão/A Guerra dos Divinos",
+    "Eldoria/Planos de existência",
+    "Eldoria/Aegis",
+    "Árvore Anciã/Facções",
+    "Personagens/Os Gourmets",
+    "Eldoria/Eldoria - Time Line.canvas",
+    "Eldoria/Eldoria - Visão Geral.canvas",
+    "Untitled",
+    "RPG/5 - Sistema",
+    "Árvore Anciã/Raças/Raças visão geral.canvas",
     "Images/Filhos do céu/cc326d3bd4ebefa7b04aad147dafdfa7.jpg",
     "Images/Filhos do céu/bc573c10618beeb9ad5dd17df4cd532f.jpg",
     "Images/Filhos do céu/2be7f59214051c6fe6854058bc1748ea.jpg",
@@ -200,9 +209,13 @@
     "Images/Game Map/sophie_movement_behavior.png",
     "Images/Game Map/Area1/Radilhantes Path.png",
     "Images/Game Map/Area1/Rooms/area1_room10.png",
+    "Images/Game Map/Area1/Rooms/area1_room2.png",
     "Tales of Sophie/Mechanics/RPG MECHANICS.canvas",
     "Tales of Sophie/Mechanics/Weather System.canvas",
     "Tales of Sophie/Mechanics/Core Mechanics.canvas",
-    "Tales of Sophie/Mechanics/Combat Mechanics.canvas"
+    "Tales of Sophie/Mechanics/Combat Mechanics.canvas",
+    "Tales of Sophie/Mechanics/Chains - Hook.canvas",
+    "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
+    "Tales of Sophie/Weather System.canvas"
   ]
 }
