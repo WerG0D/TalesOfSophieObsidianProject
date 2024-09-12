@@ -4,3 +4,4 @@
 
 >Pontos Aegis: Modificador de Vigor + Modificador de Canalização
 
+> Modificador de Canalização: Cada classe recebe um modificador de Canalização diferente.

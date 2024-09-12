@@ -2,6 +2,8 @@
 Você é o olho que tudo vê. Nada escapa de sua mira, nada escapa do seu gatilho rápido. Seja com o Arco e Flecha ou com os mosquetes, você não permite que ninguém saia sem ferimentos em um tiroteio.
 ```
 
+Recebe +2 de Modificador de Canalização.
+
 - #### Level 1:
 
 - Recuo apressado: Caso um inimigo se aproxime a 2m de você e esteja em seu campo de visão, você pode usar desengajar como uma ação bônus e se mover o dobro da sua movimentação. Usar essa habilidade mais de uma vez por combate te faz ganhar um ponto de exaustão.
