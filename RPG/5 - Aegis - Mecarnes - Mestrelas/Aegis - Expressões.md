@@ -27,10 +27,10 @@ Entretanto, as vezes surgem individuos extraordinários capazes de usar express�
 >	- **Expressão lendária**: . Essa expressão altera de forma bizarra a realidade e o mundo físico, podendo trazer espíritos do além-véu de nível 4 (Esses exigem pactos próprios), invocar objetos de raridade lendária, e modificar completamente um alvo incluindo sua alma, além de permitir energias sobrenaturais. Exemplos: Invocar a Excaliburn, espada lendária, Invocar o Oni Azul, Destruir a alma de uma criatura com um toque, Disparar um feixe de energia equivalente a uma bomba de alta magnitude. 
 
 >**Quantidade de Condições mínimas, dano base e custo de Pontos Aegis:** 
->	- Expressão mundana:  **Necessita de pelo menos 12 em Canalização**. Dano / Modificador base: 1d8 + 6 + Bônus de Canalização.  Consome: 1 ponto Aegis
->	- Expressão básica: **Necessita de pelo menos 16 em Canalização**. Dano / Modificador base: 1d12 + 10 +  Bônus de Canalização. Consome: 2 ponto Aegis
->	- Expressão avançada: **Necessita de pelo menos 20 em Canalização**.  Dano / Modificador base: 2d12 + 16 +  Bônus de Canalização. Consome: 3 ponto Aegis
->	- Expressão lendária: **Necessita de pelo menos 24 em Canalização** . Dano / Modificador base: 4d12 + 24  +  Bônus de Canalização. Consome: 4 ponto Aegis
+>	- Expressão mundana:  **Necessita de pelo menos 12 em Canalização**. Dano / Modificador base: 1d8 + 6 + Bônus de Canalização.  Consome: 2 ponto Aegis
+>	- Expressão básica: **Necessita de pelo menos 16 em Canalização**. Dano / Modificador base: 1d12 + 10 +  Bônus de Canalização. Consome: 4 ponto Aegis
+>	- Expressão avançada: **Necessita de pelo menos 20 em Canalização**.  Dano / Modificador base: 2d12 + 16 +  Bônus de Canalização. Consome: 6 ponto Aegis
+>	- Expressão lendária: **Necessita de pelo menos 24 em Canalização** . Dano / Modificador base: 4d12 + 24  +  Bônus de Canalização. Consome: 10 ponto Aegis
 
 ## Condições e Pactos
 
@@ -89,6 +89,30 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 
 - Essa habilidade reflete algo na personalidade do meu personagem? ele a escolheria normalmente ?
 	- É hora de refletir e visualizar seu personagem usando sua expressão. Se você gostar do resultado, use, se não, tente novamente do inicio. 
+
+### Exemplo de criação de expressão:
+
+> Criando a expressão de Hakari Kinji, o Apostador incansável, personagem de José.
+
+1. José rola 1d6 na tabela de categorias, recebendo um 3. Sua categoria é de Fúria. Apesar de não ser o que ele desejava, como um bom jogador ele não rolou o dado por debaixo dos panos novamente, respeitando o destino. José, junto com seu Mestre de Jogo, decidem que pelo background e profissão de José, seria interessante se sua técnica tivesse algo relacionado com lutas corpo-a-corpo e apostas. Depois de muito pensar, eles chegam a uma ideia: A técnica de Hakari concede a ele regeneração instantânea, curando-se em 1d100 toda vez que recebe dano, e um boost extremo em suas habilidades físicas, recebendo +1d8 adicionais de dano em ataques desarmados. A expressão dura 1 minuto (20 turnos)
+2. Depois de estipularem a técnica, eles percebem que a habilidade se enquadra nas expressões lendárias. 
+3. Hakari tem apenas 16 de Canalização, e o necessário para uma expressão lendária é de 24. A solução é colocar várias restrições em sua expressão, deixando-a difícil de ativar mas com um valor mínimo de 16.  Depois de pensar muito, José e seu mestre chegaram nas seguintes condições: 
+	   - Condição avançada 1: Hakari carrega consigo 3 dados de 6 lados, os quais ele usa para simular um caça-níquel, onde todos eles precisam cair em 4 ou mais para um Jackpot.  Ele precisa conseguir acertar um Jackpot para ativar sua expressão.. Quando ele consegue um Jackpot, ele recebe os efeitos da técnica. Caso os 3 dados caiam 6, Hakari inicia sua técnica sem precisar cumprir nenhuma outra condição, caso os 3 dados caiam 1 ele não consegue mais usar sua técnica por 1 dia. Hakari pode tentar quantas vezes forem necessárias, mas cada tentativa é uma ação bônus. 
+	   - Condição avançada 2: Quando Hakari inicia um combate ele precisa ficar 3 turnos desprovido de sua Aegis, podendo iniciar sua técnica apenas após esse tempo. 
+	   - Condição avançada 3: Ao conseguir um jackpot, todos os pontos Aegis de Hakari são utilizados. 
+	   - Condição avançada 4: Após conseguir um jackpot, Hakari deve passar 3 turnos completos dançando freneticamente, se tornando vulnerável e podendo receber ataques de oportunidade. 
+	
+	Com essas condições definidas, a dificuldade de ativação de sua expressão reduziu-se para 16, sendo possível para Hakari usar a expressão lendária, mesmo sendo um aventureiro nível 1! (O fato de ele ja ter 16 de canalização ajudou muito) 
+	
+4. Apesar de ser uma habilidade forte, José pensou em alguns pactos para melhorar a força de sua expressão:
+		-Pacto Avançado 1: Dependendo do dia da semana, o caça-níquel conjurado pode ser manipulado para tornar mais fácil conseguir um jackpot. De segunda a quinta, Hakari precisa conseguir pelo menos dois dados com valores 4+ e um com valor de 5. Porém, de sexta-feira até domingo ele tem um 6 garantido em um dos dados, e pode rolar novamente um dos dados que tenham tirado 3 ou menos.
+		-Pacto Avançado 2: Em lutas 1 contra 1, Hakari estende o tempo de sua expressão para 80 turnos (4 minutos e 11 segundos), sua regeneração passa para 10d100 e seus ataques desarmados ganham +3d8 de dano. Porém, em lutas contra mais de um oponente, Hakari recebe todo dano triplicado. 
+
+5. Com seus pactos e restrições prontas, José pensa em como Hakari poderia usar sua expressão em uma luta, e pensa em algumas ações:
+		-Direita esquerda, esquerda direita: Hakari realiza uma série de golpes rápidos em seu oponente (1d4 + 2 ) em apenas um turno, Esse ataque ignora 5 de defesa.  
+	
+6. José chega a conclusão que o poder define bem seu desejo para o personagem Hakari. O Mestre de Jogo acha que é uma habilidade muito forte, mas devido as condições de ativação e aos pactos ela é balanceada. 
+
 
 ### Usando expressões:
 

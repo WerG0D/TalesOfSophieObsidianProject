@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "086cddd81afda34d",
+            "id": "027558d849b5197d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/6 - Sistema/Atributos.md",
+                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "027558d849b5197d",
+            "id": "a97d3d73550acfa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "8aee4f16392ddd88",
+            "id": "b3e28168af11104c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/6 - Sistema/Atributos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5df2429d32a95f4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RPG/6 - Sistema/Testes de Resistência e perícia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1fc7a739fc1d980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RPG/4 - Itens/Armas a Distância.md",
+                "file": "RPG/6 - Sistema/Combate.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,16 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "027558d849b5197d",
+  "active": "a97d3d73550acfa6",
   "lastOpenFiles": [
-    "RPG/6 - Sistema/Perícias.md",
-    "RPG/6 - Sistema/Atributos.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pontos Aegis.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
+    "RPG/6 - Sistema/Combate.md",
+    "RPG/6 - Sistema/Atributos.md",
+    "RPG/Teste.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Conceito.md",
+    "RPG/6 - Sistema/Perícias.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Sistema.md",
     "RPG/3 - Profissões/Cozinheiro.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pontos Aegis.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
     "RPG/3 - Profissões/Guerreiro.md",
     "RPG/3 - Profissões/Pesquisador de Batalha.md",
     "RPG/3 - Profissões/Artista Marcial.md",
@@ -222,9 +200,7 @@
     "RPG/3 - Profissões/Atirador.md",
     "RPG/6 - Sistema/Subindo de nível.md",
     "RPG/6 - Sistema/Sistema de cansaço.md",
-    "RPG/6 - Sistema/Combate.md",
     "RPG/6 - Sistema/Morrendo.md",
-    "RPG/6 - Sistema/Sanidade.md",
     "Árvore Anciã/Árvore Anciã - Visão Geral.canvas",
     "Árvore Anciã/Raças/Raças visão geral.canvas",
     "Panteão/A Guerra dos Divinos",
