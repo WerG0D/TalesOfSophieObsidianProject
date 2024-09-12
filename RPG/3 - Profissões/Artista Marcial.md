@@ -1,3 +1,7 @@
+```
+Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada, lança, ou seus próprios punhos, você luta sempre com sua mente e coração sintonizados. 
+```
+
 ### Marcial:
 
 Recebe 0 de Modificador de Canalização.
@@ -27,8 +31,8 @@ Recebe 0 de Modificador de Canalização.
     
 - **Deus Marcial:** Você chegou ao pináculo do seu caminho Marcial. De acordo com o caminho escolhido receba: 
 	
-	- **Arte de Desembainhar, Iaido**: Você aprendeu a arte do Iaido e se tornou um mestre dela. Agora o simples desembainhar da sua espada é extremamente mortal. Após desembainhar a espada seu primeiro ataque será um acerto crítico garantido (ainda necessário rolagem para acerto). Além disso, desembainhar sua espada conta como ação livre. Caso você esteja com menos de metade da sua vida você ativa **Ultimo Suspiro**, lembrando que colocar a espada na bainha ainda conta como uma ação completa. 
-		- **Último Suspiro:** Seus ataque causam dano adicional igual a 2 x Mod. Moderação.
+	- **Arte de Desembainhar, Iaido**: Você aprendeu a arte do Iaido e se tornou um mestre dela. Agora o simples desembainhar da sua espada é extremamente mortal. Após desembainhar a espada seu primeiro ataque será um acerto crítico garantido (ainda necessário rolagem para acerto). Além disso, desembainhar sua espada conta como ação livre. Caso você esteja com menos de metade da sua vida você ativa **Ultima dança**, lembrando que colocar a espada na bainha ainda conta como uma ação completa. 
+		- **Última dança:** Seus ataque causam dano adicional igual a 2 x Mod. Moderação.
 		
 	- **Mestre Wushu:** Agora sua habilidade Contra-Ataque pode ser usada sem gastar sua ação bônus, você pode utilizar ela um número de vezes igual ao seu Mod. Reação por dia.
 		- **Sora No Ten (Acima dos Céus):** Caso você seja alvos de ataque entre seus turnos e alguns deles te acertem, no seu próximo turno você pode escolher atacar um alvo com um ataque poderoso que revida todo o dano recebido por você com o triplo da força. Pode usar isso apenas uma vez por dia.
