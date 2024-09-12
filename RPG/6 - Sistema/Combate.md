@@ -5,3 +5,5 @@
 **Falha e Sucesso Crítico:** 1 e 10, respectivamente, no 1d10. O Acerto critico permite rolar os dados de dano duas vezes. 
 
 **Ferimento grave**: Caso fique com 1/3 de seu hp, considere-se gravemente ferido, recebendo um ponto de exaustão. 
+
+**Aterrorizado:** Alvos aterrorizados recebem -3 em todas as jogadas.

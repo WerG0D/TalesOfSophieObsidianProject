@@ -1,3 +1,5 @@
 **Sistema de Cansaço:** Um personagem consegue lutar em seus 100% enquanto esteja bem alimentado e hidratado, e esteja sem ferimentos graves. Caso se passe um dia sem se alimentar ou se hidratar, ganha um ponto de exaustão. Exaustão confere desvantagem em todos os testes rolados, assim como aumenta o valor de possibilidade de morte em +1 (ou seja, caso caia 1~4 o personagem morrerá). Esse valor aumenta para cada ponto de exaustão. Para cada ponto de exaustão além do primeiro, o alvo receberá além da desvantagem um modificador de -2 para suas rolagens. 
 
 Um indivíduo consegue batalhar em um combate durante um número de turno seus igual a Mod. Vigor + 10.
+
+**Sacrifício para Defender:** Antes de receber um golpe você pode fazer de tudo para se defender. Ao usar **Sacrifício para Defender** você pode sacrificar um dos seus membros para receber o golpe. A vida dele é igual 1/4 da sua vida atual, caso os pontos de vida dele zerem você deve rodar o 1d6, caso caia 1 você perde esse membro, além disso essa habilidade lhe causa 2 pontos de exaustão. Só pode isso uma vez por dia.
