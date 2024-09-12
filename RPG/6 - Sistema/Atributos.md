@@ -22,7 +22,7 @@
 	
 - Canalização: "Torne-se um com a Aegis, seja um canalizador" Canalização é sua capacidade de moldar a realidade com a menor exaustão possível e com a maior efetividade viável, usando a Aegis. Esse atributo define a quantidade de vezes que você consegue expressar a Aegis, sendo simbolizada pelos Pontos Aegis. 
 	
-- **Pontos de Vida**: São os dados da classe multiplicado pela Força. 
+- **Pontos de Vida**: São os dados da raça multiplicado pela Força. 
 	
 - **Pontos Aegis**: São iguais ao Modificador de Vigor vezes o modificador de Canalização 
 

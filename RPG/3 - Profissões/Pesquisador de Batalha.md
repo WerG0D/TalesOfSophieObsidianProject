@@ -36,13 +36,13 @@ _Conhecimento Amplo_: Utilize seu vasto aprendizado.
 - **Forja do Mestre**: Crie aprimoramentos para armas ou armaduras, melhorando seu desempenho. Esses upgrades não só aumentam a eficácia, mas também adicionam características únicas que podem ser decisivas em combate:
 	- **Lâmina Reforçada**:
 		- **Descrição**: Aumenta o dano causado por armas corpo a corpo.
-		- **Efeito**: Aumenta permanentemente o dano de ataque em 1d6.
+		- **Efeito**: Aumenta permanentemente o dano de ataque em 1d10.
 	- **Mega-Reforço de Placas**:
 	    - **Descrição**: Adiciona placas de metal extra para melhorar a defesa.
 	    - **Efeito**: Aumenta a defesa da peça de armadura em 2.
 	- **Punho de Adaptado**:
 	    - **Descrição**: Fortalece a empunhadura das armas corpo-a-corpo, melhorando a precisão e a força.
-	    - **Efeito**: Aumenta a chance de acerto crítico em 10%.
+	    - **Efeito**: Aumenta a chance de acerto crítico em 1.
 	- **Aprimorar Ligas**:
 	    - **Descrição**: Este aprimoramento torna o equipamento mais duradouro.
 	    - **Efeito**: Dobra a durabilidade do equipamento, reduzindo a frequência de reparos.
@@ -51,10 +51,10 @@ _Conhecimento Amplo_: Utilize seu vasto aprendizado.
 	    - **Efeito**: Reduz o peso da armadura, reduzindo a penalidade em Reação.
 	- **Resistência Elemental**:
 	     - **Descrição**: Imbuído de resistência a elementos específicos.
-	     - **Efeito**: Reduz o dano recebido de fogo, gelo ou trovão em 10.
+	     - **Efeito**: Reduz o dano recebido de elementos em 10.
 	 - **Aprimorar Arma**: 
 		 - **Descrição:** Melhorar armas longa distância.
-		 - **Efeito**: Aumenta o dano de armas longa distância em 3.
+		 - **Efeito**: Aumenta o dano de armas longa distância em 1d8.
 	
 - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária 
     

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/3 - Profissões/Xamã.md",
+                "file": "RPG/2 - Ancestralidades/Sussurrador.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/3 - Profissões/Xamã.md",
+                "file": "RPG/2 - Ancestralidades/Sussurrador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/3 - Profissões/Xamã.md",
+                "file": "RPG/2 - Ancestralidades/Sussurrador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/3 - Profissões/Xamã.md"
+                "file": "RPG/2 - Ancestralidades/Sussurrador.md"
               }
             }
           }
@@ -148,34 +148,34 @@
   },
   "active": "695592b02d13b5bf",
   "lastOpenFiles": [
-    "RPG/6 - Sistema/Criação de Personagem.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas/Mestrelas.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes/Mecarnes.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes",
+    "RPG/6 - Sistema/Atributos.md",
+    "RPG/4 - Itens/Anéis e Colares.md",
+    "RPG/3 - Profissões/Bruxo.md",
     "RPG/3 - Profissões/Cozinheiro.md",
-    "RPG/3 - Profissões/Atirador.md",
-    "RPG/2 - Ancestralidades/Sem Pátria.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pontos Aegis.md",
-    "RPG/3 - Profissões/Pirata.md",
-    "RPG/3 - Profissões/Guerreiro.md",
-    "RPG/3 - Profissões/Artista Marcial.md",
+    "RPG/4 - Itens/Armaduras.md",
+    "RPG/3 - Profissões/Pesquisador de Batalha.md",
     "RPG/3 - Profissões/Xamã.md",
+    "RPG/3 - Profissões/Pirata.md",
+    "RPG/3 - Profissões/Atirador.md",
+    "RPG/3 - Profissões/Artista Marcial.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pontos Aegis.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas/Mestrelas.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes/Mecarnes.md",
+    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
+    "RPG/4 - Itens/Armas a Distância.md",
+    "RPG/3 - Profissões/Guerreiro.md",
+    "RPG/Ficha de personagem.md",
+    "RPG/6 - Sistema/Inimigos.md",
+    "RPG/6 - Sistema/Criação de Personagem.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes",
+    "RPG/2 - Ancestralidades/Sem Pátria.md",
     "RPG/6 - Sistema/Sistema de cansaço.md",
     "RPG/1 - Raça/Inumano.md",
     "RPG/2 - Ancestralidades/Radilhante.md",
     "RPG/1 - Raça/Fada.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Conceito.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
-    "RPG/3 - Profissões/Assassino.md",
-    "RPG/3 - Profissões/Pesquisador de Batalha.md",
-    "RPG/3 - Profissões/Bruxo.md",
-    "RPG/1 - Raça/Humano.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Sistema.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Troca equivalente.md",
-    "RPG/4 - Itens/Armas a Distância.md",
-    "RPG/6 - Sistema/Combate.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas",
     "RPG/3 - Profissões",
     "RPG/6 - Sistema",

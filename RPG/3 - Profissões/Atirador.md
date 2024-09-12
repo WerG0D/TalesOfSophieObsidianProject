@@ -10,7 +10,7 @@ Você é o olho que tudo vê. Nada escapa de sua mira, nada escapa do seu gatilh
 	
 - Recarga Rápida: Recarrega sua arma e recupera o metade do pente / aljava de munições. Perde o turno ao utilizar esta habilidade. Recarrega completamente no Level 5.
 	
-- Tiro Focado: Caso não se mova nesse turno, você pode usar sua ação bônus para ganhar +2 em rolagens de ataque. Sobe para +4 no nível 6.
+- Tiro Focado: Caso não se mova nesse turno, você pode usar sua ação bônus para ganhar +2 em rolagens de ataque. Sobe para +4 no nível 6. Recebe +3 em Percepção e novamente +3 no nível 6.
 	
 - Rastreio: Ao seguir os rastros de um alvo, você tem + 1 para acertar em qualquer teste contra ele além de aumentar chance de crítico em 1.
 	

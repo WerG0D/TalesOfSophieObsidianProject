@@ -68,8 +68,8 @@ Magias proibidas custam 15 de sanidade, além disso você tem uma chance 1 em um
 	
 - **Espelho Profano**: Conjura um espelho que reflete um alvo criando uma cópia exata que é muito agressiva ao alvo copiado, essa cópia dura 4 turnos e não segue as suas ordens.
 	
-- **Grilhões do Vazio**: Conjura correntes etéreas que prendem inimigos, drenando sua energia vital e transferindo-a para o conjurador. As correntes imobilizam o alvo durante 3 turnos e transferem 4d8 pontos de vida do alvo para o conjurador por turno.
+- **Grilhões do Vazio**: Conjura correntes etéreas que prendem inimigos, drenando sua energia vital e transferindo-a para o conjurador. As correntes imobilizam o alvo durante 3 turnos e transferem 1d8 pontos de vida do alvo para o conjurador por turno. Aumenta em +1d8 a transferência de vida nos níveis 3, 4 e 5.
 	
-- **Chama da Devastação**: Invoca um fogo negro que incinera tudo, ignorando resistência mágica. Ele causa 4d6 de dano por turno durante 3 turnos, caso o inimigos encoste em outros ele passa o fogo negro. Caso o inimigo morra ele explode espalhando as chamas negras em uma área de 10 metros.
+- **Chama da Devastação**: Invoca um fogo negro que incinera tudo, ignorando resistência mágica. Ele causa 2d6 de dano por turno durante 3 turnos, caso o inimigos encoste em outros ele passa o fogo negro. Caso o inimigo morra ele explode espalhando as chamas negras em uma área de 10 metros. Aumenta em +1d6 o dano nos níveis 3, 4 e 5.
 	
 - **Praga da Desolação**: Libera uma praga que consome vida vegetal e animal em uma vasta área, deixando apenas terra árida.
