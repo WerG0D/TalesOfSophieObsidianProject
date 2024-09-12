@@ -25,7 +25,7 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 
 >**Condições:** Ações baseados na troca equivalente. Ao entregar algo a Aegis, você consegue ter mais domínio e controle de uma expressão. Normalmente condições servem para tornar possível a canalização de seu poder. Ao desrespeitar uma condição, normalmente a técnica se encerra. **As condições reduzem a quantidade mínima necessária de pontos de Canalização para expressar uma Aegis. Ou seja, caso a quantidade mínima seja 14 e você adicione uma condição que reduza em 1 o valor necessário, a quantidade mínima para expressar aquela Aegis se torna 13**.
 
->**Condições são tratadas como ações livres. (a não ser que seu mestre de jogo estipule que ela gaste uma ação bônus ou ação completa para ser concluída) Contudo, ao realizar 3 condições em um turno, sua ação bônus é consumida. **
+>**Condições são tratadas como ações livres. (a não ser que seu mestre de jogo estipule que ela gaste uma ação bônus ou ação completa para ser concluída) Contudo, ao realizar 3 condições em um turno, sua ação bônus é consumida.
 
 
 >Existem dois tipos de condições, as simples e as avançadas.
@@ -39,6 +39,8 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 
 >**Pactos são tratados sempre como ação bônus. É possível fazer quantos pactos forem necessários usando apenas uma ação bônus**
 
+> Existem dois tipos de pactos, os simples e os avançados.
+
 - **Pactos simples**: Pactos que geralmente envolvem limitações em seu próprio poder ou ações de seu corpo. Normalmente essas restrições se estendem por curtos períodos de tempo. **Para cada pacto simples adicionado, coloque +1d8 no valor de dano / modificador base**. Veja alguns exemplos:
 
 	- Limitação de poder: Eu limito o alcance de minha expressão para aumentar seu dano até o fim do combate. Caso eu quebre o pacto, a punição é uma enorme dor em meu braço direito, causando 1d10 de dano ignorando todas as resistências.  
@@ -47,6 +49,6 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 	
 - **Pactos avançados**: Pactos que geralmente tem efeitos permanentes, usados apenas em condições extremas. Eles fornecem um grande aumento de poder, mas tem consequências graves. **Para cada pacto avançado adicionado, coloque +3d8 no valor de dano / modificador base**. Veja alguns exemplos:
 
-	- Limitação de rotina: Eu cedo algo muito, muito importante em minha rotina, como minha forma preferida de me alimentar ou hobby amado em troca de usar uma vez uma ação lendária de minha expressão. Minha sanidade desce em 10 pontos, e caso eu fracasse e quebre o pacto, eu perco o membro de meu corpo que usei para canalizar a ação lendária.
-	- Limitação da ultima dança: Eu limito o uso da minha técnica um número X de vezes, e nunca mais consigo usar minha expressão. Em troca meu dano, alcance e área de efeito recebem fortes melhorias.
+	- Limitação de rotina: Eu cedo algo muito, muito importante em minha rotina, como minha forma preferida de me alimentar ou hobby amado em troca de usar uma vez uma ação lendária de minha expressão. Minha sanidade desce em 10 pontos cada vez que sinto vontade de realizar os antigos hábitos, e caso eu fracasse e quebre o pacto, eu perco o membro de meu corpo que usei para canalizar a ação lendária.
+	- Limitação da ultima dança: Eu limito o uso da minha técnica um número 5 de vezes, e nunca mais consigo usar minha expressão após esse número de usos for batido. Em troca meu dano, alcance e área de efeito recebem fortes melhorias.
 
