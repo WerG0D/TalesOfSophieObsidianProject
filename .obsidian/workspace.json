@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/2 - Ancestralidades/Sussurrador.md",
+                "file": "RPG/3 - Profissões/Artista Marcial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/2 - Ancestralidades/Sussurrador.md",
+                "file": "RPG/3 - Profissões/Artista Marcial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/2 - Ancestralidades/Sussurrador.md",
+                "file": "RPG/3 - Profissões/Artista Marcial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/2 - Ancestralidades/Sussurrador.md"
+                "file": "RPG/3 - Profissões/Artista Marcial.md"
               }
             }
           }
@@ -148,15 +148,18 @@
   },
   "active": "695592b02d13b5bf",
   "lastOpenFiles": [
+    "RPG/6 - Sistema/Talentos.md",
+    "RPG/3 - Profissões/Pirata.md",
+    "RPG/6 - Sistema/Perícias.md",
     "RPG/6 - Sistema/Atributos.md",
+    "RPG/3 - Profissões/Atirador.md",
+    "RPG/2 - Ancestralidades/Sussurrador.md",
     "RPG/4 - Itens/Anéis e Colares.md",
     "RPG/3 - Profissões/Bruxo.md",
     "RPG/3 - Profissões/Cozinheiro.md",
     "RPG/4 - Itens/Armaduras.md",
     "RPG/3 - Profissões/Pesquisador de Batalha.md",
     "RPG/3 - Profissões/Xamã.md",
-    "RPG/3 - Profissões/Pirata.md",
-    "RPG/3 - Profissões/Atirador.md",
     "RPG/3 - Profissões/Artista Marcial.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pontos Aegis.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas/Mestrelas.md",
@@ -173,9 +176,6 @@
     "RPG/6 - Sistema/Sistema de cansaço.md",
     "RPG/1 - Raça/Inumano.md",
     "RPG/2 - Ancestralidades/Radilhante.md",
-    "RPG/1 - Raça/Fada.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Conceito.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas",
     "RPG/3 - Profissões",
     "RPG/6 - Sistema",

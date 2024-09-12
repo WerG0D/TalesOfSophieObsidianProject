@@ -14,7 +14,7 @@
     
 - **Traiçoeiro**: Você tem vantagem em testes para mentir e detectar mentiras, demonstrando sua astúcia e habilidades sociais afiadas. Essa capacidade de manipular a verdade torna você um adversário formidável em situações de engano e intriga. Recebe +2 em Influência.
     
-- **Êxtase da Batalha**: Se sua vida cair a 0 ou menos devido a uma lesão não fatal, retorne à batalha instantaneamente, recuperando pontos de vida igual à sua Força e seu próximo ataque é um crítico automático. Essa habilidade reflete seu espírito indomável, permitindo continuar lutando quando outros desistiriam.
+- **Êxtase da Batalha**: Se sua vida cair a 0 ou menos devido a uma lesão não fatal, retorne à batalha instantaneamente, recuperando pontos de vida igual à sua Força e seu próximo ataque é um crítico automático. Essa habilidade reflete seu espírito indomável, permitindo continuar lutando quando outros desistiriam. Tempo de recarga é 1 dia.
 	
 - **Pagamento Pesado**: Aumente em 25% todos os seus ganhos em dinheiro, ouro e joias. Sua perspicácia em negócios e trocas garante recompensas financeiras maiores, refletindo sua habilidade em prosperar nas adversidades.
 

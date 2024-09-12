@@ -18,6 +18,8 @@ Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada
 - **Tranquilizar Espírito:** Pode usar uma ação bônus para recuperar 1d8 + Tot. Moderação de vida.
 	
 - **Treino Marcial:** Você não é treinado a usar armaduras. Contudo, quando está sem armadura pode adicionar seu modificador de Reação a sua Defesa. Caso use uma armadura mesmo assim, recebe -5 em todas suas jogadas. Você também tem resistência contra venenos e doenças.
+	
+- **Domine Seu Chi não Aegis:** Você tem dificuldade para controlar o Aegis. O nível de dificuldade para toda suas expressões aumenta em 2. Além disso, você tem dificuldade para notar o Aegis recebendo desvantagem em testes para perceber ele e -4 em testes de Reação contra Aegis projéteis. 
 #### Level 5: 
 
  - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária 
