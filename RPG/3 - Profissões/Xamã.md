@@ -4,7 +4,7 @@ Fadas que usam de seus poderes da árvore. Quando usa muita Magia Proibida se to
 
 >Classe exclusiva das fadas. 
 
->Recebe +4 de Modificador de Canalização.
+
 
 ### **Level 1**
 

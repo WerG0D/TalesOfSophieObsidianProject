@@ -2,7 +2,7 @@
 Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas você não. Sua sede por conhecimento é tão grande quanto seu desejo por aventuras e batalhas.
 ```
 
-Recebe +6 de Modificador de Canalização.
+
 #### **Level 1:** _Inovação nas Fronteiras_: Crie dispositivos únicos.
 
 >**Catálogo da Carnificina**: Após derrotar um monstro, adicione-o ao seu mostruário. Com cada criatura catalogada, você e seus aliados causam 1d6 de dano adicional contra esse tipo de inimigo, aproveitando seus pontos fracos revelados.

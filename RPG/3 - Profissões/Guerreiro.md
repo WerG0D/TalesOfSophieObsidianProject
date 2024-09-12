@@ -2,7 +2,7 @@
 Você é um com sua arma, um com o campo de batalha. Independente do que aconteça, sua fúria e garra o fazem avançar sobre os corpos de seus inimigos mortos, sendo a vanguarda da batalha. 
 ```
 
-Recebe -2 de Modificador de Canalização (contudo não abaixa seu pontos Aegis para menos de 0).
+
 ### Guerreiro:
 
 - #### Level 1:

@@ -2,7 +2,6 @@
 -- Ahoy marujo, você é um cara durão que passou grande parte de sua vida no crime e contrabando marítmo, levando cargas perigosas e lutando contra outros piratas dentro das faixas fluviais da Árvore. Lute com espadas e Trabucos de maneira traiçoeira e precisa. 
 ```
 
- >Recebe +3 de Modificador de Canalização.
 
 >Recebe +1 ponto em Reação e Força no nível 2 e 5 (exceto se vc for Inumano ou Fada).
 

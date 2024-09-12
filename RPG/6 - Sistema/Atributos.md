@@ -1,4 +1,4 @@
-
+>O mínimo de atributos é 7 e o máximo é 20
 ### Intelecto
 - **Raciocínio:** "Exerça poder intelectual bruto. Deduza o mundo." O Raciocínio o incentiva a raciocinar logicamente todo o problema, rapidamente solucionando questões complexas. Em níveis altos, você será muito orgulhoso e, portanto, suscetível à bajulação intelectual; pois aqueles cegos por seu próprio brilhantismo geralmente perdem pistas importantes. Com níveis baixos de Raciocínio, você terá dificuldade para resolver até mesmo os quebra-cabeças mais simples. Mesmo se você encontrar as peças, boa sorte para juntá-las.
 - **Erudição:** *"Invoque todo o seu conhecimento. Produza curiosidades fascinantes."* A Erudição faz  de você um sabe-tudo, transformando sua mente em um vasto banco de dados de fatos e auxiliando a armazenar mais. Em níveis altos, você será um poço de sabedoria, mas precisará filtrar o essencial do trivial. Com níveis baixos de Memória, no entanto, você será forçado a trabalhar apenas com as pistas à sua frente. Sem nenhum conhecimento prévio, lidar com isso vai ser uma tarefa difícil.

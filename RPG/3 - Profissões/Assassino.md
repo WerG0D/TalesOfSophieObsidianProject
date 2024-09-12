@@ -2,7 +2,7 @@
 Seus passos não fazem sons, sua respiração não pode ser ouvida. Seu alvo não sabe de sua presença, e não imagina o estrago que você vai realizar em sua árteria aorta. Você é a sombra não vista, o calafrio antes do fim, você é um assassino.
 ```
 
-Recebe +4 de Modificador de Canalização.
+
 
 **Nível 1**:
 - **Furtivo:** Ganha proficiência e vantagem em testes de furtividade.

@@ -4,8 +4,6 @@ Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada
 
 ### Marcial:
 
-Recebe 0 de Modificador de Canalização.
-
 - #### Level 1:
   
 - **Caminho Marcial**: Aumenta sua Inalterabilidade, Moderação e Reação em 2. Além disso escolha qual o caminho marcial você vai trilhar:
