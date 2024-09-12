@@ -172,6 +172,6 @@ Os valores bases da perícia é o modificador do atributo referenciado nela.
 ### Testes de Canalização
 
 - 1 - **Expressão**: 
-	- **Descrição**: Habilidade de expressar a Aegis e sua canalização, entendendo as necessidades para troca equivalente e ajustando a potencia da expressão.
-	- **Exemplo de uso**: Usar sua expressão da Aegis
+	- **Descrição**: Habilidade de entender as expressões Aegis e seu funcionamento, assim como condições e pactos.
+	- **Exemplo de uso**: Entender uma expressão inimiga 
 	- **Atributo**: Canalização
