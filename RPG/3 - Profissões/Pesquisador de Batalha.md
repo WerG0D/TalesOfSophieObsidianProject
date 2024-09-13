@@ -1,5 +1,5 @@
 ```
-Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas você não. Sua sede por conhecimento é tão grande quanto seu desejo por aventuras e batalhas.
+Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas você não. Você entende que uma refeição preparada no momento certo pode mudar o rumo de uma batalha. Suas habilidades culinárias transformam ingredientes simples em pratos poderosos que curam, energizam e restauram a moral. Enquanto outros lutam com armas, você luta com panelas, facas e especiarias, garantindo que seus aliados estejam sempre prontos para enfrentar o próximo desafio. 
 ```
 
 

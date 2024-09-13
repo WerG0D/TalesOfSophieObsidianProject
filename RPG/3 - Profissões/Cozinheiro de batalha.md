@@ -4,10 +4,10 @@ Alguns mestres-cucas permanecem fazendo confeitos e doces nos castelos dos nobre
 
 #### **Level 1:**.
 
->**Livro de Receitas**: Cada vez que cozinhar um prato, role 1d10. Caso caia 
+>**Menu de receitas fantásticas**: Prepare um cardápio de pratos restauradores que pode ser consumido pelos aliados para recuperar pontos de vida. Cada prato é único e diferente em composição, tendo efeitos únicos. Para cada aliado que consumir um prato, você ganha um ponto de inspiração culinária que pode ser usada para aprimorar suas criações futuras. 
     
-> **Impulso Ofensivo**: Aumente o potencial de ataque de um aliado, concedendo 1d4 de dano adicional. Com sua assistência, o aliado se torna uma força implacável no campo de batalha, capaz de virar a maré com golpes poderosos.
-    
+> **Comer bem restaura a mente**: Crie um prato especial que restaura 1d6 de sanidade de um aliado, removendo efeitos de confusão, medo ou outras condições mentais adversas. 
+> 
 > **Escudo de Conhecimento**: Reforce a defesa de um aliado, adicionando +2 à sua Defesa. Seu suporte estratégico não apenas fortalece, mas também inspira confiança, permitindo que seus aliados enfrentem ataques inimigos com mais segurança.
 
 >**Criar**: Escolha, você pode ter a capacidade criar Mestrelas ou Mecarnes. Esses itens tem raridade comum no level 1, raro no level 3, épico no level 5 e lendário no level 6. Você ao criar um item deve ter materiais suficientes, deve rolar um dado de dias para criar também e a chance de sucesso, caso ela caia em 1 ~ 3 você vai saber como fazer o item (pode tentar procurar um tutor), caso caia caia em 10 você cria um item de 1 nível de raridade superior. O período de criação é de 1d4 dias.
