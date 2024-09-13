@@ -1,5 +1,5 @@
 ```
-Um Arco na cor de branco-gelo, com sua corda feita de metal, emite um brilho azul escuro singular. É possível ver que o arco não é feito de madeira... mas de outra coisa, uma pedra, um cometa?
+Um Arco na cor de branco-gelo, com sua corda feita de metal, emite um brilho azul escuro singular. É possível ver que o arco não é feito de madeira... mas de outra coisa, uma pedra, um cometa? Esse arco... Aegis emana dele!
 ```
 
 > Mestrelas são objetos e armas feitos a partir de cometas que caíram na Árvore Anciã. Esses cometas são fragmentos da deusa Aerathys, dispersos pelo cosmos após a guerra divina. Esses cometas possuem expressões da Aegis imbuídos neles.
@@ -8,94 +8,14 @@ Um Arco na cor de branco-gelo, com sua corda feita de metal, emite um brilho azu
 
 >Mestrelas só podem ser criadas por pesquisadores de batalha e por algumas Fadas especialistas no assunto. 
 
+>Mestrelas se comportam como itens épicos e lendários, porém possuem expressões de Aegis inerentes ao seu ser. 
 
->Mestrelas tem atributos próprios que escalam com níveis. 
+### Expressões das Mestrelas:
 
-### Mestrela nível 1:
+> Mestrelas épicas são capazes de usar expressões de raridades: mundanas, básicas. Mestrelas lendárias são capazes de usar expressões de raridades:  mundanas, básicas e avançadas (nunca lendárias, a não ser que seu Mestre de Jogo diga o contrário)
 
-HP: 50
-Pontos Aegis: 5
-Canalização: 14
+>Uma mestrela está sujeita as mesmas características das categorias da Aegis, sendo necessário rolar 1d6 para decidir a categoria da Mestrela.
 
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
-
-### Mestrela nível 2:
-
-HP: 60
-Pontos Aegis: 6
-Canalização: 15
-
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
-
-### Mestrela nível 3:
-
-HP: 70
-Pontos Aegis: 7
-Canalização: 16
-
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
-
-### Mestrela nível 4:
-
-HP: 80
-Pontos Aegis: 8
-Canalização: 17
-
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
-
-
-### Mestrela nível 5:
-
-HP: 100
-Pontos Aegis: 9
-Canalização: 18
-
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
-
-
-### Mestrela nível 6:
-
-HP: 150
-Pontos Aegis: 12
-Canalização: 20
-
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
-
+> Mestrelas não necessitam de condições complexas para serem usadas, mas seus poderes comparados com expressões de verdade não passam de "imitações", tendo o dano fixo de um item épico ou lendário, a depender da mestrela. 
 
 
