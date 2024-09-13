@@ -30,4 +30,4 @@ Você recebe um Talento de sua escolha no nível 1, esse Talento começa com 1 p
 	
 - **Especialista em Restauração:** Pode usar um ponto desse talento para fazer alguma das suas rolagens para restaurar a saúde de um aliado e a sua sempre são para o valor máximo dos dados. Caso tenha perícia Medicina você restaura o dobro de vida com ela.
 	
-- **Lutador Bom de Braço:** Seus ataques desarmados causam 2 x Mod. Força como dano, além disso eles atingem pontos fracos do alvo ignorando 12 de Defesa. Sua chance de crítico é aumentada em 2.
+- **Lutador Bom de Braço:** Seus ataques desarmados causam 1d4 + 2 x Mod. Força como dano, além disso eles atingem pontos fracos do alvo ignorando 12 de Defesa. Sua chance de crítico é aumentada em 2.

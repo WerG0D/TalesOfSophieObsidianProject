@@ -15,7 +15,7 @@ Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada
 	
 - **Repelir**: Pode usar sua ação bônus do próximo turno para aparar um ataque você tenha recebido. Você deve fazer um teste de Reação contra Reação do oponente.
 	
-- **Tranquilizar Espírito:** Pode usar uma ação bônus para recuperar 1d8 + Tot. Moderação de vida.
+- **Renove o Corpo / Tranquilize o Espírito:** Se você for humano recebe +10 de vida por nível. Além disso, pode usar uma ação bônus para recuperar 1d8 + Tot. Moderação de vida.
 	
 - **Treino Marcial:** Você não é treinado a usar armaduras. Contudo, quando está sem armadura pode adicionar seu modificador de Reação a sua Defesa. Caso use uma armadura mesmo assim, recebe -5 em todas suas jogadas. Você também tem resistência contra venenos e doenças.
 	
