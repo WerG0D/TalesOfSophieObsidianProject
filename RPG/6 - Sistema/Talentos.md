@@ -16,7 +16,7 @@ Você recebe um Talento de sua escolha no nível 1, esse Talento começa com 1 p
 	
 - **Vigarista Nato:** Sempre que rolar um teste de Sedução, Intimidação ou Enganação você pode gasta um ponto desse talento para somar +1 ao resultado (é possível fazer acerto crítico natural após a soma).
 	
-- **Alerta:** É possível usar pontos desse talento para somar +2 a sua jogada de iniciativa ou de algum aliado. Recebe +2 em Percepção, além disso não pode receber ataques de oportunidade.
+- **Alerta:** É possível usar pontos desse talento para somar +2 a sua jogada de iniciativa ou de algum aliado. Recebe +2 em Percepção, além disso você não pode receber ataques de oportunidade.
 	
 - **Habilidoso:** Você adquiri mais +4 perícias de sua escolha.
 	
@@ -26,7 +26,7 @@ Você recebe um Talento de sua escolha no nível 1, esse Talento começa com 1 p
 	
 - **Atacante Selvagem:** Sempre que rodar o dano após atacar você roda novamente, assim pode escolher qual valor usar de dano quer usar.
 	
-- **Guerreiro Imparável:** Recebe a habilidade Êxtase de Batalha da profissão Pirata. Pode usa-la apenas uma vez a cada 7 dias. Para cada ponto que receber nesse talento reduz o tempo de recarga em 1 dia.
+- **Guerreiro Imparável:** Recebe a habilidade Êxtase de Batalha da profissão Pirata. Pode usa-la apenas uma vez a cada 7 dias. Para cada ponto que receber nesse talento reduz o tempo de recarga em 1 dia. Além disso, caso você use **Sacrifício para Defender** pode continuar lutando.
 	
 - **Especialista em Restauração:** Pode usar um ponto desse talento para fazer alguma das suas rolagens para restaurar a saúde de um aliado e a sua sempre são para o valor máximo dos dados. Caso tenha perícia Medicina você restaura o dobro de vida com ela.
 	

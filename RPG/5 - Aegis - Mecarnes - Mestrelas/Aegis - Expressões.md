@@ -70,7 +70,7 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 	
 - **Pactos avançados**: Pactos que geralmente tem efeitos permanentes, usados apenas em condições extremas. Eles fornecem um grande aumento de poder, mas tem consequências graves. **Para cada pacto avançado adicionado, coloque +3d8 no valor de dano / modificador base**. Veja alguns exemplos:
 
-	- Limitação de rotina: Eu cedo algo muito, muito importante para mim, como um objeto de valor inestimável ou até mesmo uma pessoa que eu amo em troca de usar uma vez uma ação lendária de minha expressão. Minha sanidade desce em 1d10 + 6 pontos cada vez que sinto saudades da pessoa (devo realizar um teste de Inalterabilidade todos os dias), e caso eu fracasse e quebre o pacto minha sanidade desce em 50 pontos.
+	- Limitação de rotina: Eu cedo algo muito, muito importante para mim, como um objeto de valor inestimável ou até mesmo uma pessoa que eu amo em troca de usar minha ação lendária da minha expressão. Minha sanidade desce em 1d4 + 6 pontos cada vez que sinto saudades da pessoa (devo realizar um teste de Inalterabilidade todos os dias), e caso eu fracasse e quebre o pacto minha sanidade desce em 50 pontos.
 	- Limitação da ultima dança: Eu limito o uso da minha técnica um número 5 de vezes, e nunca mais consigo usar alguma expressão desse nível (seja lendária, avançada, mundana ou básica) após esse número de usos for batido. Em troca meu dano, alcance e área de efeito recebem melhorias.
 
 

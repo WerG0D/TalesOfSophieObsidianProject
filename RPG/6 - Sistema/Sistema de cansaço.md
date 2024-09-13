@@ -2,4 +2,3 @@
 
 Um indivíduo consegue batalhar em um combate durante um número de turno seus igual a Mod. Vigor + 10.
 
-**Sacrifício para Defender:** Antes de receber um golpe você pode fazer de tudo para se defender. Ao usar **Sacrifício para Defender** você pode sacrificar um dos seus membros para receber o golpe. A vida dele é igual 1/4 da sua vida atual, caso os pontos de vida dele zerem você deve rodar o 1d6, caso caia 1 você perde esse membro, além disso essa habilidade lhe causa 2 pontos de exaustão. Só pode isso uma vez por dia.
