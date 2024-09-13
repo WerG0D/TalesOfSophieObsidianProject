@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/6 - Sistema/Morrendo.md",
+                "file": "RPG/1 - Raça/Fada.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/6 - Sistema/Morrendo.md",
+                "file": "RPG/1 - Raça/Fada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/6 - Sistema/Morrendo.md",
+                "file": "RPG/1 - Raça/Fada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/6 - Sistema/Morrendo.md"
+                "file": "RPG/1 - Raça/Fada.md"
               }
             }
           }
@@ -148,13 +148,17 @@
   },
   "active": "695592b02d13b5bf",
   "lastOpenFiles": [
-    "RPG/6 - Sistema/Sanidade.md",
+    "RPG/3 - Profissões/Xamã.md",
     "RPG/6 - Sistema/Sistema de cansaço.md",
+    "RPG/6 - Sistema/Testes de Resistência e perícia.md",
+    "RPG/6 - Sistema/Talentos.md",
+    "RPG/3 - Profissões/Guerreiro.md",
+    "RPG/3 - Profissões/Pirata.md",
+    "RPG/6 - Sistema/Morrendo.md",
+    "RPG/6 - Sistema/Subindo de nível.md",
+    "RPG/6 - Sistema/Sanidade.md",
     "RPG/6 - Sistema/Perícias.md",
     "RPG/6 - Sistema/Inimigos.md",
-    "RPG/6 - Sistema/Talentos.md",
-    "RPG/6 - Sistema/Morrendo.md",
-    "RPG/6 - Sistema/Testes de Resistência e perícia.md",
     "RPG/6 - Sistema/Atributos.md",
     "RPG/6 - Sistema/Combate.md",
     "RPG/3 - Profissões/Artista Marcial.md",
@@ -164,16 +168,12 @@
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Troca equivalente.md",
     "RPG/3 - Profissões/Cozinheiro de batalha.md",
     "RPG/1 - Raça/Zytherin.md",
-    "RPG/6 - Sistema/Subindo de nível.md",
     "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
     "RPG/3 - Profissões/Assassino.md",
     "RPG/4 - Itens/Armaduras.md",
     "RPG/1 - Raça/Humano.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes/Mecarnes.md",
     "RPG/2 - Ancestralidades/Thalassano.md",
-    "RPG/2 - Ancestralidades/Sussurrador.md",
-    "RPG/2 - Ancestralidades/Sem Pátria.md",
-    "RPG/2 - Ancestralidades/Cracano.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes",
     "RPG/5 - Aegis - Mecarnes - Mestrelas",

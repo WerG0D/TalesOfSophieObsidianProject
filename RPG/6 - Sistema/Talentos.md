@@ -26,8 +26,10 @@ Você recebe um Talento de sua escolha no nível 1, esse Talento começa com 1 p
 	
 - **Atacante Selvagem:** Sempre que rodar o dano após atacar você roda novamente, assim pode escolher qual valor usar de dano quer usar.
 	
-- **Guerreiro Imparável:** Recebe a habilidade Êxtase de Batalha da profissão Pirata. Pode usa-la apenas uma vez a cada 7 dias. Para cada ponto que receber nesse talento reduz o tempo de recarga em 1 dia. Além disso, caso você use **Sacrifício para Defender** pode continuar lutando.
+- **Guerreiro Imparável:** Recebe a habilidade Êxtase de Batalha da profissão Pirata. Pode usa-la apenas uma vez a cada 7 dias. Para cada ponto que receber nesse talento reduz o tempo de recarga em 1 dia. Caso seja um pirata esse Talento reduz o tempo de recarga e você pode usar ela uma vez por combate, cada ponto nesse talento além disso restaura 1d8 de vida adicional seu. Caso o player que tem esse Talento use **Sacrifício para Defender** ele pode continuar lutando.
 	
 - **Especialista em Restauração:** Pode usar um ponto desse talento para fazer alguma das suas rolagens para restaurar a saúde de um aliado e a sua sempre são para o valor máximo dos dados. Caso tenha perícia Medicina você restaura o dobro de vida com ela.
 	
 - **Lutador Bom de Braço:** Seus ataques desarmados causam 1d4 + 2 x Mod. Força como dano, além disso eles atingem pontos fracos do alvo ignorando 12 de Defesa. Sua chance de crítico é aumentada em 2.
+	
+- **Imunidade:** Talento exclusivo para Inumanos. Receba imunidade a algum tipo de dano elemental e resistência a um dano físico (cortante, contusão ou perfurante).
