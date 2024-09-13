@@ -1,3 +1,6 @@
+
+Jogadores podem criar uma Expressão de qualquer raridade no nível 1. No nível 6 ele pode criar mais uma expressão parecida com a que ele criou anteriormente, contudo ela obrigatoriamente deve ser de um nível de dificuldade maior (exceto se a anterior for lendária ai deve do mesmo nível).
+
 > As expressões da Aegis são os efeitos resultantes da manipulação da Aegis pelos Catalisadores. 
 
 >Para chegar no ponto de expressar efetivamente a Aegis, o usuário deve passar por um treinamento rigoroso. É necessário também imaginar e desenvolver sua expressão, escolher a forma como quer usar a Aegis.
@@ -28,9 +31,9 @@ Entretanto, as vezes surgem individuos extraordinários capazes de usar express�
 
 >**Quantidade de Condições mínimas, dano base e custo de Pontos Aegis:** 
 >	- Expressão mundana:  **Necessita de pelo menos 12 em Canalização**. Dano / Modificador base: 1d8 + 6 + Bônus de Canalização.  Consome: 2 ponto Aegis
->	- Expressão básica: **Sempre precisa de ao menos 1 condição / Necessita de pelo menos 16 em Canalização**. Dano / Modificador base: 1d12 + 10 + Bônus de Canalização. Consome: 4 ponto Aegis
->	- Expressão avançada: **Sempre precisa de ao menos 1 condição avançada / Necessita de pelo menos 20 em Canalização**.  Dano / Modificador base: 2d12 + 16 + Bônus de Canalização. Consome: 6 ponto Aegis
->	- Expressão lendária: **Sempre precisa de ao menos 2 condições avançadas / Necessita de pelo menos 24 em Canalização** . Dano / Modificador base: 4d12 + 24 + Bônus de Canalização. Consome: 10 ponto Aegis
+>	- Expressão básica: **Sempre precisa de ao menos 1 condição simples (essa condição não reduzem o nível de dificuldade) / Necessita de pelo menos 15 em Canalização**. Dano / Modificador base: 1d12 + 10 + Bônus de Canalização. Consome: 4 ponto Aegis
+>	- Expressão avançada: **Sempre precisa de ao menos 1 condição simples e 1 avançada (essa condição não reduzem o nível de dificuldade) / Necessita de pelo menos 18 em Canalização**.  Dano / Modificador base: 2d12 + 16 + Bônus de Canalização. Consome: 6 ponto Aegis
+>	- Expressão lendária: **Sempre precisa de ao menos 2 condições avançadas (essas 2 não reduzem o nível de dificuldade) / Necessita de pelo menos 20 em Canalização** . Dano / Modificador base: 4d12 + 24 + Bônus de Canalização. Consome: 10 ponto Aegis
 
 ## Condições e Pactos
 
@@ -45,10 +48,12 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 
 >Existem dois tipos de condições, as simples e as avançadas.
 
-- **Condições simples**: Condições que geralmente envolvem componentes somáticos (gestos de mão, cânticos, e outros) e limitam alguma ação do ser que está expressando a Aegis. Essa condição deve exprimir certo desconforto ao usuário, causando empecilhos ao jogador, **causando geralmente uma penalidade de - 1 em testes de resistência específicos.  Não necessariamente precisam dar modificadores negativos em rolagens, mas podem atrapalhar a comunicação do ser ou afins.** Para cada condição simples adicionada, **o valor necessário para expressar a Aegis cai em um ponto**.  **Exemplos de condições simples:** Cantar um som durante o decorrer da técnica, fazer selos de mão complexos em uma ordem especifica. 
+- **Condições simples**: Condições que geralmente envolvem: Uso de Componentes somáticos (gestos de mão, cânticos, e outros), Gritar o nome da técnica antes, Explicar a habilidade ao alvo ou etc. Elas limitam alguma ação do ser que está expressando a Aegis. Essa condição deve exprimir certo desconforto ao usuário, causando empecilhos ao jogador. Não necessariamente precisam dar modificadores negativos em rolagens, mas podem atrapalhar a comunicação do ser ou afins.** Condições simples não reduzem o nível de dificuldade da expressão.  **Exemplos de condições simples:** Cantar um som durante o decorrer da técnica, fazer selos de mão complexos em uma ordem especifica. 
 
-- **Condições avançadas:** Condições que geralmente envolvem riscos ao usuário, não apenas um incomodo. **Elas efetivamente causam sempre desvantagens em rolagens ou modificadores negativos de -2. Para cada condição avançada adicionada, o valor necessário para expressar a Aegis cai em dois pontos**.  **Exemplos de condições avançadas**: Impedimento de usar uma das mãos, perda de visão de um dos olhos, perda de audição de uma das orelhas, apostas complexas.
-	
+- **Condições avançadas:** Condições que geralmente envolvem riscos ao usuário, não apenas um incomodo. **Elas efetivamente causam sempre desvantagens em rolagens ou modificadores negativos de -1. Para cada condição avançada adicionada, o valor necessário para expressar a Aegis cai em dois pontos**.  **Exemplos de condições avançadas**: Impedimento de usar uma das mãos por vários turnos, perda de visão de um dos olhos temporariamente, perda de audição completa, apostas complexas, prometer algo para um oponente que vai ser muito desvantajoso para você em combate.
+
+- **Condições Mestrais:** Condições que envolvem riscos ao usuário. **Elas efetivamente causam sempre desvantagens em rolagens ou modificadores negativos de -2. Para cada condição avançada adicionada, o valor necessário para expressar a Aegis cai em dois pontos**.  **Exemplos de condições avançadas**: Pode usar a habilidade quando ficar com um valor específico de vida, perder alguma parte do corpo de maneira irreversível, perder um tempo de vida significativo, não pode usar a habilidade duas vezes contra quem já a viu antes ou sabe dela, não pode atacar durante todo um combate apenas usar essa habilidade uma vez, ao usar a habilidade você tem risco de morrer.
+
 
 >**Pactos:** Contratos realizados consigo mesmo ou com outros seres que resultam em vantagens e efeitos imediatos em algum aspecto de sua expressão. A desvantagem deles pode variar muito, sendo as vezes somente para aquele combate ou até mesmo para a vida toda. Ao quebrar um pacto a punição pode ser a perda da vantagem adquirida com o contrato, ou algo mais grave que pode escalar até mesmo a morte do personagem.
 
@@ -58,14 +63,14 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 
 - **Pactos simples**: Pactos que geralmente envolvem limitações em seu próprio poder ou ações de seu corpo. Normalmente essas restrições se estendem por curtos períodos de tempo. **Para cada pacto simples adicionado, coloque +1d8 no valor de dano / modificador base**. Veja alguns exemplos:
 
-	- Limitação de poder: Eu limito o alcance de minha expressão para aumentar seu dano até o fim do combate. Caso eu quebre o pacto, a punição é uma enorme dor em meu braço direito, causando 1d10 de dano ignorando todas as resistências.  
-	- Limitação de locomoção: Eu me proíbo de me mexer, para aumentar o alcance de minha expressão. Caso eu quebre o pacto, a punição é a perda da vantagem que adquiri e uma perda de 5 pontos de sanidade. 
-	- Limitação de Área de efeito: Eu limito o número de alvos que posso acertar, para receber um aumento de alcance da expressão. 
+	- Limitação de poder: Eu limito o alcance de minha expressão para aumentar seu dano até o fim do combate. Caso eu quebre o pacto, a punição é uma enorme dor em meu braço direito, causando 6d10 de dano ignorando todas as resistências.  
+	- Limitação de locomoção: Eu me proíbo de me mexer, para aumentar o alcance de minha expressão. Caso eu quebre o pacto, a punição é a perda da vantagem que adquiri e uma perda de 15 pontos de sanidade. 
+	- Limitação de Área de efeito: Eu limito o número de alvos que posso acertar, para receber um aumento de alcance da expressão. Caso eu quebre o pacto, não posso usar essa Aegis por 1 mês.
 	
 - **Pactos avançados**: Pactos que geralmente tem efeitos permanentes, usados apenas em condições extremas. Eles fornecem um grande aumento de poder, mas tem consequências graves. **Para cada pacto avançado adicionado, coloque +3d8 no valor de dano / modificador base**. Veja alguns exemplos:
 
-	- Limitação de rotina: Eu cedo algo muito, muito importante em minha rotina, como minha forma preferida de me alimentar ou hobby amado em troca de usar uma vez uma ação lendária de minha expressão. Minha sanidade desce em 10 pontos cada vez que sinto vontade de realizar os antigos hábitos, e caso eu fracasse e quebre o pacto, eu perco o membro de meu corpo que usei para canalizar a ação lendária.
-	- Limitação da ultima dança: Eu limito o uso da minha técnica um número 5 de vezes, e nunca mais consigo usar minha expressão após esse número de usos for batido. Em troca meu dano, alcance e área de efeito recebem fortes melhorias.
+	- Limitação de rotina: Eu cedo algo muito, muito importante para mim, como um objeto de valor inestimável ou até mesmo uma pessoa que eu amo em troca de usar uma vez uma ação lendária de minha expressão. Minha sanidade desce em 1d10 + 6 pontos cada vez que sinto saudades da pessoa (devo realizar um teste de Inalterabilidade todos os dias), e caso eu fracasse e quebre o pacto minha sanidade desce em 50 pontos.
+	- Limitação da ultima dança: Eu limito o uso da minha técnica um número 5 de vezes, e nunca mais consigo usar alguma expressão desse nível (seja lendária, avançada, mundana ou básica) após esse número de usos for batido. Em troca meu dano, alcance e área de efeito recebem melhorias.
 
 
 ### Criando sua expressão:

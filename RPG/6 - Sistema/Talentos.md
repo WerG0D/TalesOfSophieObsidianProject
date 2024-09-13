@@ -20,7 +20,7 @@ Você recebe um Talento de sua escolha no nível 1, esse Talento começa com 1 p
 	
 - **Habilidoso:** Você adquiri mais +4 perícias de sua escolha.
 	
-- **Talento para Aegis:** Recebe +2 pontos em Canalização, além disso o nível de dificuldade de todas as expressões é reduzido em 2.
+- **Talento para Aegis:** Recebe +1 pontos em Canalização, além disso o nível de dificuldade de todas as expressões é reduzido em 2.
 	
 - **Corpo Divino:** Seus dados de vida de raça automaticamente são valor máximo.
 	
