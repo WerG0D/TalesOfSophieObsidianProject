@@ -1,6 +1,6 @@
 
-- **Jogadores e Expressões:** Jogadores podem criar uma Expressão de qualquer raridade exceto lendário no nível 1. No nível 6 ele pode criar mais uma expressão chamada **Despertar**, ela é relacionada com a expressão que o jogador criou anteriormente, contudo ela obrigatoriamente deve ser de um nível de dificuldade maior (se a anterior, por exemplo, for mundana, essa pode ser qualquer nível maior, até mesmo lendário).
-	- **Despertar:** O jogador só adquiri o Despertar de fato em um momento de dificuldade ou em um intenso treinamento, contudo ele pode criar essa habilidade já previamente com o mestre. Pré-requisito: O jogador também só pode conjurar sua expressão do Despertar em um combate após conjurar anteriormente sua outra expressão, ou se caso quiser conjurar ela fora de combate deve se esforçar durante 1 hora para isso e/ou fazer outro requisito que o mestre queira.
+- **Jogadores e Expressões:** Jogadores podem criar uma Expressão de qualquer raridade no nível 1. No nível 6 ele pode criar um golpe de assinatura para essa expressão chamada **Despertar**, contudo ela obrigatoriamente deve exigir um mínimo de pontos em Canalização maior do que sua expressão natural.
+	- **Despertar:** O jogador só adquire o Despertar de fato em um momento de dificuldade ou em um intenso treinamento, contudo ele pode criar essa habilidade já previamente com o mestre. Pré-requisito: O jogador também só pode conjurar  o Despertar em um combate após conjurar anteriormente sua outra expressão, ou se caso quiser conjurar ela fora de combate deve se esforçar durante 1 hora para isso e/ou fazer outro requisito que o mestre queira.
 
 > As expressões da Aegis são os efeitos resultantes da manipulação da Aegis pelos Catalisadores. 
 
@@ -28,13 +28,13 @@ Entretanto, as vezes surgem individuos extraordinários capazes de usar express�
 >	- **Expressão mundana:** Essa expressão normalmente não altera muito o mundo físico, sendo limitada a invocar objetos de raridade comum, espíritos do além-véu de nível 1, ou trazer pequenas mudanças no corpo de um usuário e manifestar pequenas energias. Exemplos: Invocar um pequeno brinquedo de madeira, Invocar um pequeno rato espiritual , Mudar o sabor de seu suor, Sair faíscas de seus dedos. 
 >	- **Expressão básica**: Essa expressão altera minimamente o mundo físico, podendo invocar pequenos espíritos do além-véu de nível 2 (esses podem exigir pactos), invocar objetos de raridade rara, modificar de forma parcial corpos alvo ou manifestar energias. Exemplos: Invocar o espírito de um cachorro, invocar uma espada com propriedades especiais, mudar o tamanho de seus órgãos, disparar um pequeno feixe de eletricidade de seus dedos. 
 >	- **Expressão avançada**: Essa expressão altera de forma significativa a realidade e o mundo físico, podendo trazer espíritos do além-véu de nível 3 (Esses exigem pactos próprios), invocar objetos de raridade épica, e modificar completamente um alvo. Exemplos: Invocar demônios do véu, Invocar uma espada capaz de cortar qualquer coisa, Mudar o formato, cor, cheiro, textura de todo o seu corpo. Disparar uma grande rajada de fogo de seus punhos.
->	- **Expressão lendária**: . Essa expressão altera de forma bizarra a realidade e o mundo físico, podendo trazer espíritos do além-véu de nível 4 (Esses exigem pactos próprios), invocar objetos de raridade lendária, e modificar completamente um alvo incluindo sua alma, além de permitir energias sobrenaturais. Exemplos: Invocar a Excaliburn, espada lendária, Invocar o Oni Azul, Destruir a alma de uma criatura com um toque, Disparar um feixe de energia equivalente a uma bomba de alta magnitude. 
+>	- **Expressão lendária**: Essa expressão altera de forma bizarra a realidade e o mundo físico, podendo trazer espíritos do além-véu de nível 4 (Esses exigem pactos próprios), invocar objetos de raridade lendária, e modificar completamente um alvo incluindo sua alma, além de permitir energias sobrenaturais. Exemplos: Invocar a Excaliburn, espada lendária, Invocar o Oni Azul, Destruir a alma de uma criatura com um toque, Disparar um feixe de energia equivalente a uma bomba de alta magnitude. 
 
 >**Quantidade de Condições mínimas, dano base e custo de Pontos Aegis:** 
 >	- Expressão mundana:  **Necessita de pelo menos 12 em Canalização**. Dano / Modificador base: 1d8 + 6 + Bônus de Canalização.  Consome: 2 ponto Aegis
->	- Expressão básica: **Sempre precisa de ao menos 1 condição simples (essa condição não reduzem o nível de dificuldade) / Necessita de pelo menos 15 em Canalização**. Dano / Modificador base: 1d12 + 10 + Bônus de Canalização. Consome: 4 ponto Aegis
->	- Expressão avançada: **Sempre precisa de ao menos 1 condição simples e 1 avançada (essa condição não reduzem o nível de dificuldade) / Necessita de pelo menos 18 em Canalização**.  Dano / Modificador base: 2d12 + 16 + Bônus de Canalização. Consome: 6 ponto Aegis
->	- Expressão lendária: **Sempre precisa de ao menos 2 condições avançadas (essas 2 não reduzem o nível de dificuldade) / Necessita de pelo menos 20 em Canalização** . Dano / Modificador base: 4d12 + 24 + Bônus de Canalização. Consome: 10 ponto Aegis
+>	- Expressão básica: **Necessita de pelo menos 15 em Canalização**. Dano / Modificador base: 1d12 + 10 + Bônus de Canalização. Consome: 4 ponto Aegis
+>	- Expressão avançada:  **Necessita de pelo menos 18 em Canalização**.  Dano / Modificador base: 2d12 + 16 + Bônus de Canalização. Consome: 6 ponto Aegis
+>	- Expressão lendária: **Necessita de pelo menos 20 em Canalização** . Dano / Modificador base: 4d12 + 24 + Bônus de Canalização. Consome: 10 ponto Aegis
 
 ## Condições e Pactos
 
@@ -47,13 +47,13 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 >**Condições são tratadas como ações livres. (a não ser que seu mestre de jogo estipule que ela gaste uma ação bônus ou ação completa para ser concluída) Contudo, ao realizar 3 condições em um turno, sua ação bônus é consumida.
 
 
->Existem dois tipos de condições, as simples e as avançadas.
+>Existem três tipos de condições, as simples, avançadas e as mestrais.
 
-- **Condições simples**: Condições que geralmente envolvem: Uso de Componentes somáticos (gestos de mão, cânticos, e outros), Gritar o nome da técnica antes, Avisar ao alvo que vai focar ele ou etc. Elas limitam alguma ação do ser que está expressando a Aegis. Essa condição deve exprimir certo desconforto ao usuário, causando empecilhos ao jogador. Não necessariamente precisam dar modificadores negativos em rolagens, mas podem atrapalhar a comunicação do ser ou afins.** Condições simples não reduzem o nível de dificuldade da expressão.  **Exemplos de condições simples:** Cantar um som durante o decorrer da técnica, fazer selos de mão complexos em uma ordem especifica. 
+- **Condições simples**: Condições que geralmente envolvem: Uso de Componentes somáticos (gestos de mão, cânticos, e outros), Gritar o nome da técnica antes, Avisar ao alvo que vai focar ele ou etc. Elas limitam alguma ação do ser que está expressando a Aegis. Essa condição deve exprimir certo desconforto ao usuário, causando empecilhos ao jogador. **Não necessariamente precisam dar modificadores negativos em rolagens, mas podem atrapalhar a comunicação do ser ou afins.** Condições simples reduzem o nível de dificuldade da expressão em 1 ponto. **Exemplos de condições simples:** Cantar um som durante o decorrer da técnica, fazer selos de mão complexos em uma ordem especifica. 
 
 - **Condições avançadas:** Condições que geralmente envolvem riscos ao usuário, não apenas um incomodo. **Elas efetivamente causam sempre desvantagens em rolagens ou modificadores negativos de -2. Para cada condição avançada adicionada, o valor necessário para expressar a Aegis cai em dois pontos**.  **Exemplos de condições avançadas**: Impedimento de usar uma das mãos por vários turnos, explicar toda sua expressão ao alvo, não usar sua arma por vários turnos, perda de visão de um dos olhos temporariamente, perda de audição completa, apostas complexas, prometer algo para um oponente que vai ser muito desvantajoso para você em combate.
 
-- **Condições Mestrais:** Condições que envolvem riscos ao usuário. **Elas efetivamente causam sempre desvantagens em rolagens ou modificadores negativos de -3. Para cada condição avançada adicionada, o valor necessário para expressar a Aegis cai em dois pontos**.  **Exemplos de condições avançadas**: Pode usar a habilidade quando ficar com um valor específico de vida, perder alguma parte do corpo de maneira irreversível, perder um tempo de vida significativo, não pode usar a habilidade duas vezes contra quem já a viu antes ou sabe dela, não pode atacar durante todo um combate apenas usar essa habilidade uma vez, ao usar a habilidade você tem risco de morrer.
+- **Condições Mestrais:** Condições que envolvem riscos ao usuário. **Elas efetivamente causam sempre desvantagens em rolagens ou modificadores negativos de -3. Para cada condição avançada adicionada, o valor necessário para expressar a Aegis cai em três pontos**.  **Exemplos de condições avançadas**: Pode usar a habilidade quando ficar com um valor específico de vida, perder alguma parte do corpo de maneira irreversível, perder um tempo de vida significativo, não pode usar a habilidade duas vezes contra quem já a viu antes ou sabe dela, não pode atacar durante todo um combate apenas usar essa habilidade uma vez, ao usar a habilidade você tem risco de morrer.
 
 
 >**Pactos:** Contratos realizados consigo mesmo ou com outros seres que resultam em vantagens e efeitos imediatos em algum aspecto de sua expressão. A desvantagem deles pode variar muito, sendo as vezes somente para aquele combate ou até mesmo para a vida toda. Ao quebrar um pacto a punição pode ser a perda da vantagem adquirida com o contrato, ou algo mais grave que pode escalar até mesmo a morte do personagem.
@@ -72,6 +72,13 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 
 	- Limitação de rotina: Eu cedo algo muito, muito importante para mim, como um objeto de valor inestimável ou até mesmo uma pessoa que eu amo em troca de usar minha ação lendária da minha expressão. Minha sanidade desce em 1d4 + 6 pontos cada vez que sinto saudades da pessoa (devo realizar um teste de Inalterabilidade todos os dias), e caso eu fracasse e quebre o pacto minha sanidade desce em 50 pontos.
 	- Limitação da ultima dança: Eu limito o uso da minha técnica um número 5 de vezes, e nunca mais consigo usar alguma expressão desse nível (seja lendária, avançada, mundana ou básica) após esse número de usos for batido. Em troca meu dano, alcance e área de efeito recebem melhorias.
+
+
+### Usando expressões:
+
+> Para acertar uma expressão, o teste é simplificado assim: 1d10 + bônus de canalização vs Teste de esquiva ou defesa do inimigo.
+
+>Em alguns momentos, você vai se deparar com complexas expressões inimigas. Caso queira entender algo sobre elas, ou qualquer coisa sobre expressões em si, faça um teste de perícia de Expressão. 1d10 + Perícia de expressão.  
 
 
 ### Criando sua expressão:
@@ -120,8 +127,23 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 6. José chega a conclusão que o poder define bem seu desejo para o personagem Hakari. O Mestre de Jogo acha que é uma habilidade muito forte, mas devido as condições de ativação e aos pactos ela é balanceada. 
 
 
-### Usando expressões:
+### Golpes de assinatura:
 
-> Para acertar uma expressão, o teste é simplificado assim: 1d10 + bônus de canalização vs Teste de esquiva ou defesa do inimigo.
+> No decorrer de sua aventura, você vai se encontrar em situações onde sua expressão pode ser utilizada da mesma forma recorrentemente. Esses são os golpes de assinatura. Normalmente golpes de assinatura são técnicas de sua expressão, golpes, treinados com afinco.
 
->Em alguns momentos, você vai se deparar com complexas expressões inimigas. Caso queira entender algo sobre elas, ou qualquer coisa sobre expressões em si, faça um teste de perícia de Expressão. 1d10 + Perícia de expressão.  
+>No nível 1 você pode ter 4 golpes assinatura, a não ser que sua raça ou profissão diga o contrário. Nesse caso, use o valor estipulado de sua raça ou profissão.
+
+>Um único personagem pode ter até 10 golpes de assinatura. Caso queira aprender um novo após atingir o limite de 10, deve esquecer um dos golpes.
+
+>**A estrutura dos Golpes de assinatura:** Golpes de assinatura possuem os seguintes componentes: Nome do golpe, Classe de dificuldade, Dano do Golpe, Descrição do golpe, Condições e pactos necessários
+>	-**Nome do golpe**: autoexplicativo, opcional. 
+>	-**Classe de dificuldade**: Sempre será o mesmo do tipo de sua expressão + modificador estipulado pelo mestre
+>	-**Dano do golpe**: Sempre será o mesmo dano do tipo da sua expressão (mundana, básica, avançada, lendária) + pactos ou modificadores relevantes. Dependendo do golpe, condições podem ser especificadas aqui, como causa terreno difícil ou causa cegueira.
+>	-**Descrição do golpe**: Uma descrição detalhada de como o golpe funciona e seus usos.
+>	-**Condições e Pactos**: Caso o golpe necessite de algum pacto ou condição específica para funcionar, cite ele aqui. 
+
+### Aprendendo golpes de assinatura:
+
+>Cada golpe de assinatura precisa ser treinado por um tempo determinado pelo Mestre de Jogo. O tempo pode variar de acordo com a dificuldade do golpe de assinatura. 
+>
+>Durante combates ou momentos difíceis, pode ser que a criatividade do seu personagem aflore, e você pense em um novo golpe de assinatura. Nesse caso, você pode tentar executa-lo, mas com desvantagem por nunca ter treinado ele antes e ser a primeira vez. Caso você suceda no teste, aprenda a habilidade naturalmente e adicione em sua coleção, caso você falhe, poderá passar por treinamento mais tarde para aprender a habilidade. 

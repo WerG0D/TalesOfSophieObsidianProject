@@ -6,7 +6,9 @@ Um foragido se esconde dentro de uma carroça que transporta palha. O motivo? o 
 
 >Dado de vida independente da classe é 6d10. Recebe +3 pontos no nível 1 para colocar nos atributos de sua escolha, e mais 3 por nível, menos no nível 6 que ela recebe +5.
 
-> Capaz de usar Aegis, mas não capazes de usar mecarnes ou mestrelas.
+> Capaz de usar Aegis ou mestrelas, mas não capazes de usar mecarnes.
+
+> Comece com uma expressão Aegis ou mestrela.
 
 - **Imortal:** A árvore te abençoou e você é seu campeão. Ganha a capacidade de recuperar 1d8 + 2 de vida por turno, evoluindo 1d10 + 5 no level 4, para além disso pode se recuperar se qualquer lesão não fatal que receba com 1 hora. Caso receba um golpe fatal o seu corpo se transforma em uma pequena muda e você ressuscita em um local próximo a Árvore Anciã. Contudo, agora monstros e inumanos são atraídos pelo seu cheiro, eles conseguem te perceber mesmo em furtividade ou invisibilidade. 
 - **Absorver Vitalidade:** Você deve absorver energia vital da árvore para recuperar seus poderes. Caso tenha ressuscitado deve ficar um dia inteiro absorvendo vitalidade da árvore para recuperar essa habilidade, além disso caso seja um Xamã você deve recuperar seus slots de Aegis na árvore demorando cerca de 1h.

@@ -2,101 +2,24 @@
 Uma lâmina de odor pútrido é desembainhada pelo espadachim. É possível ver a lâmina pulsando, como se tivesse um coração ou órgãos internos... essa arma está viva!
 ```
 
-> Mecarnes são nada mais nada menos que objetos feitos de criaturas do Véu, que herdam sua Aegis e características. Elas são armas que evoluem conforme matam outras criaturas e passam tempo com seu portador. Algumas Mecarnes possuem resquícios da personalidade da criatura que deu sua origem.
+> Mecarnes são nada mais nada menos que objetos feitos de criaturas do Véu, que herdam sua Aegis e características. Elas são armas que evoluem mentalmente conforme matam outras criaturas e passam tempo com seu portador, adquirindo consciência própria no nível 6 do portador (caso a mecarne esteja com ele desde o nível 1) . Algumas Mecarnes possuem resquícios da personalidade da criatura que deu sua origem.
 
->Mecarnes são excelentes substitutas para criaturas que não podem usar a Aegis, sendo em sua essência um objeto capaz de expressar Aegis.
+>Mecarnes são excelentes substitutas para criaturas que não podem usar a Aegis, sendo em sua essência um objeto capaz de usar habilidades naturais de monstros do Véu. Basicamente, mecarnes podem imitar habilidades inerentes dos corpos das criaturas. 
 
 >Mecarnes só podem ser criadas por pesquisadores de batalha e por alguns Inumanos especialistas no assunto. 
 
-> Se uma Mecarne for devorada por um Inumano, o Inumano pode usar sua ação de Involução para adquirir a expressão da mecarne. 
+> Se uma Mecarne for devorada por um Inumano, o Inumano pode usar sua ação de Involução para adquirir a habilidade da mecarne. 
 
->Mecarnes tem atributos próprios que escalam com níveis. 
+>Mecarnes se comportam como itens épicos e lendários, porém possuem habilidades e ações inerentes ao seu ser.
 
-### Mecarne nível 1:
+### Expressões das Mecarnes:
 
-HP: 50
-Pontos Aegis: 5
-Canalização: 14
+> Mecarnes épicas são capazes de usar ações provenientes dos monstros que são feitas.  Mecarnes da raridade lendária são capazes de usar ações lendárias destes monstros. 
 
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
-
-### Mecarne nível 2:
-
-HP: 60
-Pontos Aegis: 6
-Canalização: 15
-
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
-
-### Mecarne nível 3:
-
-HP: 70
-Pontos Aegis: 7
-Canalização: 16
-
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
-
-### Mecarne nível 4:
-
-HP: 80
-Pontos Aegis: 8
-Canalização: 17
-
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
+>O dano das habilidades das Mecarnes se comportam com os itens épicos ou lendários, mas podem possuir efeitos especiais discutíveis com seu mestre de jogo 
 
 
-### Mecarne nível 5:
 
-HP: 100
-Pontos Aegis: 9
-Canalização: 18
-
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
-
-
-### Mecarne nível 6:
-
-HP: 150
-Pontos Aegis: 12
-Canalização: 20
-
-Categoria de Aegis: role 1d6 na tabela de categorias
-
-Expressão>
-
-Condições>
-
-Pactos>
 
 
 

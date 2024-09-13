@@ -44,7 +44,7 @@ Nível:
 
 * HitPoints (HP):
 - Pontos Aegis:
-- Defesa: 7 -3
+- Defesa: 7 
 * Sanidade: 100
 * Percepção: 7 
 
@@ -66,24 +66,24 @@ Nível:
 - Aegis
 >Canalização: 7
 
+--------------PERÍCIAS ----------------------------
 
+--------------TALENTOS ---------------------------
 
 -------------- ITENS -------------------------------
-
-* Munição (flecha, projétil): 
 
 -------------- ATAQUES ----------------------------
 
 -------------- MECARNES / MESTRELAS ----------
 Nome da arma:
-Dano da arma:
 Aegis da arma:
 Condições e Pactos:
+Ações da arma:
 
 
 -------------- AEGIS -----------------------------
 Nome da Expressão:
-Dano da Expressão:
 Descrição da Expressão:
 Condições e pactos:
+Ações da expressão:
 
