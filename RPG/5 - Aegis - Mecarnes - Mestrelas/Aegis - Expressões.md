@@ -1,6 +1,5 @@
-
-- **Jogadores e Expressões:** Jogadores podem criar uma Expressão de qualquer raridade no nível 1. No nível 6 ele pode criar um golpe de assinatura para essa expressão chamada **Despertar**, contudo ela obrigatoriamente deve exigir um mínimo de pontos em Canalização maior do que sua expressão natural.
-	- **Despertar:** O jogador só adquire o Despertar de fato em um momento de dificuldade ou em um intenso treinamento, contudo ele pode criar essa habilidade já previamente com o mestre. Pré-requisito: O jogador também só pode conjurar  o Despertar em um combate após conjurar anteriormente sua outra expressão, ou se caso quiser conjurar ela fora de combate deve se esforçar durante 1 hora para isso e/ou fazer outro requisito que o mestre queira.
+- **Jogadores e Expressões:** Jogadores podem criar uma Expressão de qualquer raridade exceto lendário no nível 1. No nível 6 o jogador é capaz de **Despertar** a sua expressão, para isso ele precisa estar em um momento de necessidade em combate ou ter treinado para isso anteriormente. O **Despertar** nada mais é do que uma transformação temporária do player, nessa transformação sua aparência física é alterada e o jogador aumenta os poderes da sua Canalização, reduzindo a dificuldade para lançar todas as ações em 4. Essa transformação sempre dura no máximo 4 turnos.
+	- **Despertar:** Pré-requisito: O jogador também só pode conjurar sua ação do Despertar em um combate após conjurar anteriormente pelo menos outras 3 ações, além disso o jogador deve sempre gritar o nome da sua transformação.
 
 > As expressões da Aegis são os efeitos resultantes da manipulação da Aegis pelos Catalisadores. 
 
