@@ -44,7 +44,7 @@ Os valores bases da perícia é o modificador do atributo referenciado nela.
 	
 - **Medicina**
     - **Descrição**: Conhecimento das práticas médicas e habilidades de cura, tanto para tratar ferimentos quanto doenças.
-    - **Exemplo de Uso**: Diagnosticar uma doença rara ou realizar uma cirurgia complicada.
+    - **Exemplo de Uso**: Diagnosticar uma doença rara ou realizar uma cirurgia complicada. Após 1 turno realizando o procedimento restaura 1d12 + Mod. Erudição como valor vida de um aliado.
     - **Atributo**: Erudição.
 	
 - **Conhecimento Arcano**
