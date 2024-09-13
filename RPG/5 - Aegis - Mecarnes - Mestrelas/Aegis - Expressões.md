@@ -1,5 +1,5 @@
 
-- **Jogadores e Expressões:** Jogadores podem criar uma Expressão de qualquer raridade no nível 1. No nível 6 ele pode criar uma ação para essa expressão chamada **Despertar**, contudo ela obrigatoriamente deve exigir um mínimo de pontos em Canalização maior do que sua expressão natural.
+- **Jogadores e Expressões:** Jogadores podem criar uma Expressão de qualquer raridade no nível 1. No nível 6 ele pode criar um golpe de assinatura para essa expressão chamada **Despertar**, contudo ela obrigatoriamente deve exigir um mínimo de pontos em Canalização maior do que sua expressão natural.
 	- **Despertar:** O jogador só adquire o Despertar de fato em um momento de dificuldade ou em um intenso treinamento, contudo ele pode criar essa habilidade já previamente com o mestre. Pré-requisito: O jogador também só pode conjurar  o Despertar em um combate após conjurar anteriormente sua outra expressão, ou se caso quiser conjurar ela fora de combate deve se esforçar durante 1 hora para isso e/ou fazer outro requisito que o mestre queira.
 
 > As expressões da Aegis são os efeitos resultantes da manipulação da Aegis pelos Catalisadores. 
@@ -74,6 +74,13 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 	- Limitação da ultima dança: Eu limito o uso da minha técnica um número 5 de vezes, e nunca mais consigo usar alguma expressão desse nível (seja lendária, avançada, mundana ou básica) após esse número de usos for batido. Em troca meu dano, alcance e área de efeito recebem melhorias.
 
 
+### Usando expressões:
+
+> Para acertar uma expressão, o teste é simplificado assim: 1d10 + bônus de canalização vs Teste de esquiva ou defesa do inimigo.
+
+>Em alguns momentos, você vai se deparar com complexas expressões inimigas. Caso queira entender algo sobre elas, ou qualquer coisa sobre expressões em si, faça um teste de perícia de Expressão. 1d10 + Perícia de expressão.  
+
+
 ### Criando sua expressão:
 
 > Para criar sua expressão, primeiro vá até a página das categorias da Aegis e role 1d6 para descobrir a categoria de seu personagem. Entenda sua categoria e seu funcionamento, após isso responda consigo mesmo as seguintes perguntas:
@@ -120,8 +127,23 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 6. José chega a conclusão que o poder define bem seu desejo para o personagem Hakari. O Mestre de Jogo acha que é uma habilidade muito forte, mas devido as condições de ativação e aos pactos ela é balanceada. 
 
 
-### Usando expressões:
+### Golpes de assinatura:
 
-> Para acertar uma expressão, o teste é simplificado assim: 1d10 + bônus de canalização vs Teste de esquiva ou defesa do inimigo.
+> No decorrer de sua aventura, você vai se encontrar em situações onde sua expressão pode ser utilizada da mesma forma recorrentemente. Esses são os golpes de assinatura. Normalmente golpes de assinatura são técnicas de sua expressão, golpes, treinados com afinco.
 
->Em alguns momentos, você vai se deparar com complexas expressões inimigas. Caso queira entender algo sobre elas, ou qualquer coisa sobre expressões em si, faça um teste de perícia de Expressão. 1d10 + Perícia de expressão.  
+>No nível 1 você pode ter 4 golpes assinatura, a não ser que sua raça ou profissão diga o contrário. Nesse caso, use o valor estipulado de sua raça ou profissão.
+
+>Um único personagem pode ter até 10 golpes de assinatura. Caso queira aprender um novo após atingir o limite de 10, deve esquecer um dos golpes.
+
+>**A estrutura dos Golpes de assinatura:** Golpes de assinatura possuem os seguintes componentes: Nome do golpe, Classe de dificuldade, Dano do Golpe, Descrição do golpe, Condições e pactos necessários
+>	-**Nome do golpe**: autoexplicativo, opcional. 
+>	-**Classe de dificuldade**: Sempre será o mesmo do tipo de sua expressão + modificador estipulado pelo mestre
+>	-**Dano do golpe**: Sempre será o mesmo dano do tipo da sua expressão (mundana, básica, avançada, lendária) + pactos ou modificadores relevantes. Dependendo do golpe, condições podem ser especificadas aqui, como causa terreno difícil ou causa cegueira.
+>	-**Descrição do golpe**: Uma descrição detalhada de como o golpe funciona e seus usos.
+>	-**Condições e Pactos**: Caso o golpe necessite de algum pacto ou condição específica para funcionar, cite ele aqui. 
+
+### Aprendendo golpes de assinatura:
+
+>Cada golpe de assinatura precisa ser treinado por um tempo determinado pelo Mestre de Jogo. O tempo pode variar de acordo com a dificuldade do golpe de assinatura. 
+>
+>Durante combates ou momentos difíceis, pode ser que a criatividade do seu personagem aflore, e você pense em um novo golpe de assinatura. Nesse caso, você pode tentar executa-lo, mas com desvantagem por nunca ter treinado ele antes e ser a primeira vez. Caso você suceda no teste, aprenda a habilidade naturalmente e adicione em sua coleção, caso você falhe, poderá passar por treinamento mais tarde para aprender a habilidade. 
