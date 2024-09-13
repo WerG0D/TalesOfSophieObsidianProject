@@ -13,7 +13,7 @@ Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada
 	
 -  **Fortificar a Mente:** Quando falha em um teste mental nocivo e entra sobre algum efeito mental inimigo, purifique sua mente e saia imediatamente do controle mental. Pode ser usado uma vez por combate, caso use mais de uma vez por combate receba um ponto de exaustão.
 	
-- **Contra-Ataque**: Pode usar sua ação bônus do próximo turno para aparar um ataque você tenha recebido. Você deve fazer um teste de Reação contra Reação do oponente.
+- **Repelir**: Pode usar sua ação bônus do próximo turno para aparar um ataque você tenha recebido. Você deve fazer um teste de Reação contra Reação do oponente.
 	
 - **Tranquilizar Espírito:** Pode usar uma ação bônus para recuperar 1d8 + Tot. Moderação de vida.
 	
@@ -42,7 +42,7 @@ Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada
 		
 	  
   - **ESCOLHA LENDÁRIA**:
-	  - ***Muramasa:*** Encontre a lendária Katana Muramasa. A espada causa 3d10 + 12 + Mod. Força de dano e ignora 18 de Defesa do alvo. Além disso, ao desembainhar a espada ela libera um poderosa aura que aterroriza todos que possam vê-la por 6 turnos. Inimigos devem realizar um teste de Inalterabilidade CD 20 para não sofrer os efeitos do terror.
+	  - ***Muramasa:*** Encontre a lendária Katana Muramasa. A espada causa 3d10 + 12 + Mod. Força de dano e ignora 18 de Defesa do alvo. Além disso, ao desembainhar a espada ela libera um poderosa aura que aterroriza todos que possam vê-la por 6 turnos. Inimigos devem realizar um teste de Inalterabilidade CD 20 para não sofrer os efeitos do terror. Essa espada possui também a habilidade de usar a habilidade **Repelir** contra Aegis e outras habilidades mágicas de projéteis, anulando a habilidade caso passe no teste.
 	  - **Bastão Divino Kukulkhan**: Encontre o Bastão Divina Kukulkhan. Esse bastão causa 6d10 de dano e ignora 10 de Defesa do alvo. Além disso, o bastão pode fazer um pequeno redemoinho abaixo de você e te fazer voar, o que te permite fazer ataques aéreos recebendo vantagem na rolagem.
 	  - **Socos Féricos Místicos:** Você recebe lendários socos féricos feitos de alguma besta lendária. Seus ataque físicos causam 1d8 de dano adicional, além disso ao acertam você marca o alvo com um **Marca Férica** que faz com que seus ataques naqueles alvo causem 1d8 de dano adicional, pode acumular até 3 marcas. Caso você erre um golpe a Marca some.
 	  - **Amuleto de Proteção Sagrado**: Quando receber um golpe fatal o amuleto se parte recuperando imediatamente do dano recebido e fazendo com que seja imediatamente o seu turno. O amuleto demora 24h para se recuperar.

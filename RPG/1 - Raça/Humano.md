@@ -5,8 +5,8 @@ Um artesão martela o metal posto em sua bigorna. O suor em seu nariz escorre e 
 
 >Humanos são a raça mais abundante na Árvore anciã, por motivos simples: eles são bons em se adaptar e a sobreviver as mais diversas situações.
 
->Independente da classe seu dado de vida é 4d10. Recebe +2 pontos de atributo, por nível após o 1, para distribuir em Intelecto ou Psiqué.>
+>Independente da classe seu dado de vida é 4d10. Recebe +2 pontos de atributo, por nível após o 1, para distribuir em Intelecto ou Psiqué.
 
 >Podem usar Mecarnes e Mestrelas. Podem usar Aegis.
 
-- Adaptação sobrenatural: A cada dois níveis upados, escolha uma perícia qualquer para se especializar. 
+- Adaptação sobrenatural: A cada dois níveis upados, escolha uma perícia qualquer para se especializar. No nível 3 escolha mais um Talento.

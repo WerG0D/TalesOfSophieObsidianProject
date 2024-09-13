@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Ficha de personagem.md",
+                "file": "RPG/6 - Sistema/Talentos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Ficha de personagem.md",
+                "file": "RPG/6 - Sistema/Talentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Ficha de personagem.md",
+                "file": "RPG/6 - Sistema/Talentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Ficha de personagem.md"
+                "file": "RPG/6 - Sistema/Talentos.md"
               }
             }
           }
@@ -148,12 +148,17 @@
   },
   "active": "695592b02d13b5bf",
   "lastOpenFiles": [
+    "RPG/3 - Profissões/Artista Marcial.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes/Mecarnes.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
     "RPG/2 - Ancestralidades/Thalassano.md",
     "RPG/2 - Ancestralidades/Sussurrador.md",
     "RPG/2 - Ancestralidades/Sem Pátria.md",
-    "RPG/2 - Ancestralidades/Radilhante.md",
     "RPG/2 - Ancestralidades/Cracano.md",
+    "RPG/2 - Ancestralidades/Radilhante.md",
+    "RPG/1 - Raça/Humano.md",
+    "RPG/1 - Raça/Inumano.md",
+    "RPG/Ficha de personagem.md",
     "RPG/3 - Profissões/Guerreiro.md",
     "RPG/3 - Profissões/Pirata.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
@@ -168,12 +173,7 @@
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Troca equivalente.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pontos Aegis.md",
     "RPG/3 - Profissões/Assassino.md",
-    "RPG/3 - Profissões/Artista Marcial.md",
     "RPG/3 - Profissões/Cozinheiro.md",
-    "RPG/6 - Sistema/Subindo de nível.md",
-    "RPG/6 - Sistema/Atributos.md",
-    "RPG/4 - Itens/Anéis e Colares.md",
-    "RPG/3 - Profissões/Bruxo.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes",
     "RPG/5 - Aegis - Mecarnes - Mestrelas",
