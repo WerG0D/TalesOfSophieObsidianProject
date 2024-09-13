@@ -21,12 +21,7 @@ Alguns mestres-cucas permanecem fazendo confeitos e doces nos castelos dos nobre
 
 >**Pau pra toda obra**: Recebe +2 em atributos a sua escolha, além disso você pode escolher um atributo para ter seu limite aumentado a 22.
 
->**Mestre da Mesa**: Substitua a Reação pela Astúcia para determinar a iniciativa. Suas habilidades engenhosas te permitem manter a calma sob pressão garante que você possa responder rapidamente a emergências em combate, como preparar pratos de cura ou misturas defensivas. Para isso siga a tabela:
->	 - Prato Ruim: Demora 2 turnos. Aumenta em 2 o nível de dificuldade para preparar ele.
->	 - Prato Mediano: Demora 3 turnos. Aumenta em 3 o nível de dificuldade para preparar ele.
->	 - Prato Excelente: Demora 6 turnos. Aumenta em 6 o nível de dificuldade para preparar ele.
->	 - Prato Perfeito: Não é possível preparar no calor do combate.
->	 - Bebida Energizante: Demora 2 turnos. Aumenta em 2 o nível de dificuldade para preparar ela.
+>**Mestre da Mesa**: Substitua a Reação pela Astúcia para determinar a iniciativa. Suas habilidades engenhosas te permitem manter a calma sob pressão garante que você possa responder rapidamente a emergências em combate, como preparar pratos de cura ou misturas defensivas. 
 
 >**Menu de receitas fantásticas**: Prepare um cardápio de pratos restauradores que pode ser consumido pelos aliados para recuperar pontos de vida. Cada prato tem efeitos únicos, mas em geral eles são sumarizados em 4 qualidades, pratos ruins, medianos e excelentes. Os efeitos do prato ingerido são baseados na qualidade do prato e na qualidade dos ingredientes. Um aliado só pode receber efeitos de um prato uma vez por combate. 
 
@@ -48,7 +43,7 @@ Alguns mestres-cucas permanecem fazendo confeitos e doces nos castelos dos nobre
 >		-**Duração dos Efeitos**: 2 rodadas.
 >		-**Efeitos Adicionais**: De bucho cheio: +1 em um atributo escolhido, ganhe 1d8 + Valor nutricional turnos a mais antes de receber exaustão.
 >		- **Tempo de preparo:** 30 minutos
->		- **Porções: duas porções** 
+>		- **Porções:** duas porções
 >		
 >	- **Prato Excelente**: Pratos excelentes fornecem os melhores benefícios, oferecendo uma grande recuperação de vida e bônus significativos em combate. São os mais difíceis de preparar, exigindo ingredientes de alta qualidade e tempo. **A dificuldade para preparar é: 4 + Mod. de ingredientes:**
 >		-**Ingredientes**: Contém **carboidratos, proteínas e vegetais** (todos os três tipos de ingredientes).
@@ -67,7 +62,7 @@ Alguns mestres-cucas permanecem fazendo confeitos e doces nos castelos dos nobre
 >		**Porções: uma porção.** 
 >	 
 
->**Bebida Energizante**: Só pode ser feita com Frutas. Prepare uma bebida revigorante que concede 1 + V.N do ingrediente como pontos de Aegis por 2 turnos ou concede uma vida temporária igual 1d10 * V.N do ingrediente. Pode ser usada para impulsionar aliados que estão ficando sem energia, como uma carga de adrenalina, recuperando 1 ponto de exaustão. Um aliado só pode receber esses efeitos uma vez por combate ou a cada 3 horas. Dificuldade de preparo: 12 + Mod. de Ingrediente. Tempo de preparo: 30 minutos.
+>**Bebida Energizante**: Só pode ser feita com Vegetais/Frutas. Prepare uma bebida revigorante que concede 1 + V.N do ingrediente como pontos de Aegis por 2 turnos ou concede uma vida temporária igual 1d10 * V.N do ingrediente. Pode ser usada para impulsionar aliados que estão ficando sem energia, como uma carga de adrenalina, recuperando 1 ponto de exaustão. Um aliado só pode receber esses efeitos uma vez por combate ou a cada 3 horas. Dificuldade de preparo: 12 + Mod. de Ingrediente. Tempo de preparo: 30 minutos.
 
 >**Estoque do Cozinheiro:** Carrega consigo uma bolsa com diversos compartimento, ela serve para você guardar um estoque de comidas e bebidas. Você consegue armazenar habilmente sem estragar nessa bolsa uma quantidade desses itens igual a 1 + Seu Nível.
 
@@ -75,7 +70,7 @@ Alguns mestres-cucas permanecem fazendo confeitos e doces nos castelos dos nobre
 
 _Técnicas Avançadas_: Eleve sua culinária a um nível superior.
 
-- **Pratos Mágicos Especiais do Chef**: Prepare pratos aprimorados que concedem efeitos específicos como recuperação de vida, ou aumentos significativos de atributos. Os pratos necessitam de ingredientes exóticos, e sua classe de dificuldade para preparar é sempre 16.  Falhar no preparo dos pratos supremos nunca remove os ingredientes. O tempo de preparo dos pratos supremos é de 5 horas, contudo caso o Cozinheiro tente preparar mais de 2 Pratos Mágicos por dia ele recebe 1 ponto de Exaustão. Além disso, um aliado não pode receber um efeito de Prato Mágico novamente em menos de 3 dias. 
+- **Pratos Mágicos Especiais do Chef**: Prepare pratos aprimorados que concedem efeitos específicos como recuperação de vida, ou aumentos significativos de atributos. Os pratos necessitam de ingredientes exóticos, e sua classe de dificuldade para preparar é sempre 16.  Falhar no preparo dos pratos supremos nunca remove os ingredientes. O tempo de preparo dos pratos mágicos especiais é de 5 horas, contudo caso o Cozinheiro tente preparar mais de 2 Pratos Mágicos por dia ele recebe 2 pontos de Exaustão. Além disso, um aliado não pode receber um efeito de um mesmo Prato Mágico novamente em menos de 3 dias. 
 
     - **Banquete da Cura Total**:
         - **Descrição**: Um prato lendário cura um aliado e remove todas as condições adversas.
@@ -85,7 +80,7 @@ _Técnicas Avançadas_: Eleve sua culinária a um nível superior.
     - **Estufado do Guardião**:
         - **Descrição**: Um prato de fortalecimento.
         - Requisitos: 3 proteínas exóticas.
-        - **Efeito**: Aumenta a defesa de um aliado em +10 ou a Força de um aliado em +4 durante 12 horas.
+        - **Efeito**: Aumenta a defesa de um aliado em +6 ou a Força de um aliado em +4 durante 12 horas.
         
     - **Sobremesa da Inspiração**:
         - **Descrição**: Um prato que melhora as habilidades mentais.
@@ -95,7 +90,7 @@ _Técnicas Avançadas_: Eleve sua culinária a um nível superior.
     - **Elixir do Espírito Indomável**:
         - **Descrição**: Uma bebida alcoólica que alivia os fardos da mente.
         - Requisitos: 3 ingredientes exóticos de cada tipo.
-        - **Efeito**: Uma bebida que cura 1d4 + 6 pontos de sanidade, além disso, tem 1/4 de chance de retirar traumas.
+        - **Efeito**: Uma bebida que cura 1d4 + 6 pontos de sanidade, além disso, o aliado deve tira 4 em 1d4 para retirar traumas também.
         
     - **Pimentas do Dragão**:
         - **Descrição**: Um prato picante que revitaliza.
@@ -103,7 +98,6 @@ _Técnicas Avançadas_: Eleve sua culinária a um nível superior.
         - **Efeito**: Concede 5 Pontos Aegis a um aliado durante 12 horas.
         
 - **ESCOLHA LENDÁRIA**: Ao chegar no nível 5, o mestre deve atribuir uma missão especial para você, que ao ser completada, elevará você imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneiras. No nível 6, escolha entre as opções disponíveis para ganhar um item ou conhecimento de classificação lendária.
-    
 
 ### **Level 6: Chef Supremo – Mestre da Culinária de Batalha**
 
@@ -113,11 +107,11 @@ Ao alcançar o nível 6, você atingiu o auge da sua arte culinária. Agora, voc
 
 ##### **Efeito do Banquete dos Heróis:**
 
-- **Preparação Extenuante**: O Banquete dos Heróis requer 18 horas para ser preparado e usa 10 ingredientes exóticos, sendo de todos os tipos. 
+- **Preparação Extenuante**: O Banquete dos Heróis requer 18 horas para ser preparado e usa 8 ingredientes fantástico ou lendário, sendo de todos os tipos. 
 - **Uso Único por Descanso Longo**: O Banquete dos Heróis pode ser preparado e utilizado uma vez a cada 5 dias.
 - **Porções**: Pode com certeza alimentar todos os membros de seu grupo, não importando o tamanho. 
 
-**Benefícios do Banquete dos Deuses:**
+**Benefícios do Banquete dos Heróis:**
 
 1. **Cura Suprema**: Todos os aliados recuperam 80 pontos de vida instantaneamente ao consumir o banquete.
 2. **Fortalecimento Global**: Após a refeição, todos os aliados ganham um bônus de +2 em todas as rolagens durante 12 horas.

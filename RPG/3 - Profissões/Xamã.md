@@ -4,8 +4,6 @@ Fadas que usam de seus poderes da árvore. Quando usa muita Magia Proibida se to
 
 >Classe exclusiva das fadas. 
 
-
-
 ### **Level 1**
 
 - **O Escolhido:** Você foi escolhido pela Árvore Anciã, agora como seu escolhido você recebeu algumas habilidades:
@@ -55,9 +53,11 @@ Fadas que usam de seus poderes da árvore. Quando usa muita Magia Proibida se to
 	
 - **ESCOLHA LENDÁRIA**:
 	- **Coroa da Loucura:** Essa coroa reduz a sanidade de qualquer indivíduo que te veja para o mesmo nível da sua durante 48h. Não existe efeito de salvaguarda, único item que pode remover o malefício da Coroa é o Elixir da Vida.
+	- 
 
 #### MAGIAS PROIBIDAS DO XAMÃ: 
 Magias proibidas custam 15 de sanidade, além disso você tem uma chance 1 em um 1d4 de perder mais 10 de sanidade. Após conjurar mais de uma magia proibida pela primeira vez o Xamã ganha a marca Maldita, perdendo 1 de sanidade por dia, além disso suas magias comuns tem 2 em um 1d10 de chance de falhar.
+
 - **Tecelã dos Destinos:*** Temporariamente, o conjurador pode alterar um pequeno aspecto do destino de um aliado ou inimigo, como fazer com que uma arma enferruje ou uma armadilha falhe.
 	
 - **Círculo do Tempo**: Cria uma área circular de 10m de diâmetro durante 3 turnos, nesse círculo o tempo flui de forma diferente, acelerando aliados e desacelerando inimigos. Nessa área, a cada turno inimigo ele tem 50% de chance de passar o turno sem fazer nada e aliados tem 50% de chance de ganhar um turno extra.
