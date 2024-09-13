@@ -28,9 +28,9 @@ Entretanto, as vezes surgem individuos extraordinários capazes de usar express�
 
 >**Quantidade de Condições mínimas, dano base e custo de Pontos Aegis:** 
 >	- Expressão mundana:  **Necessita de pelo menos 12 em Canalização**. Dano / Modificador base: 1d8 + 6 + Bônus de Canalização.  Consome: 2 ponto Aegis
->	- Expressão básica: **Necessita de pelo menos 16 em Canalização**. Dano / Modificador base: 1d12 + 10 + Bônus de Canalização. Consome: 4 ponto Aegis
->	- Expressão avançada: **Necessita de pelo menos 20 em Canalização**.  Dano / Modificador base: 2d12 + 16 + Bônus de Canalização. Consome: 6 ponto Aegis
->	- Expressão lendária: **Necessita de pelo menos 24 em Canalização** . Dano / Modificador base: 4d12 + 24 + Bônus de Canalização. Consome: 10 ponto Aegis
+>	- Expressão básica: **Sempre precisa de ao menos 1 condição / Necessita de pelo menos 16 em Canalização**. Dano / Modificador base: 1d12 + 10 + Bônus de Canalização. Consome: 4 ponto Aegis
+>	- Expressão avançada: **Sempre precisa de ao menos 1 condição avançada / Necessita de pelo menos 20 em Canalização**.  Dano / Modificador base: 2d12 + 16 + Bônus de Canalização. Consome: 6 ponto Aegis
+>	- Expressão lendária: **Sempre precisa de ao menos 2 condições avançadas / Necessita de pelo menos 24 em Canalização** . Dano / Modificador base: 4d12 + 24 + Bônus de Canalização. Consome: 10 ponto Aegis
 
 ## Condições e Pactos
 
