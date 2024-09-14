@@ -1,3 +1,19 @@
+### Itens E.P.T.S (equipamentos para trabalho e segurança):
+
+**Varas de Pesca:**
+- Comum: Você recebe +1 em **Encontra Peixe.** Preço ✹10 ~ 20 (Florim Áureos)
+- Rara: Você recebe +2 em **Encontra Peixe**.  Preço ✹40 ~ 50 (Florim Áureos)
+- Épica: Você recebe +4 em **Encontra Peixe**.  Preço ✹100 ~ 120 (Florim Áureos)
+- Lendária: Você recebe +6 em **Encontra Peixe** e os peixes que você pega são sempre Épicos ou Fantásticos.  Não pode ser achado para comprar
+
+**Máscara de Gás:**
+- Comum: Você pode pegar até 1 Cogumelo com Veneno do tipo Gás.  Preço ✹2 ~ 5 (Florim Áureos)
+- Rara: Você pode pegar até 3 Cogumelo com Veneno do tipo Gás.  Preço ✹4 ~ 10 (Florim Áureos)
+- Épica: Você pode pegar até 15 Cogumelos com Veneno do tipo Gás.  Preço ✹25 ~ 45 (Florim Áureos)
+- Lendária: Você pode pegar até infinitos Cogumelos com Veneno do tipo Gás. Não pode ser achado para comprar.
+
+**Luvas:**
+- Comum: Você pode pegar até 1 Cogumelo com Veneno do tipo Toque.  Preço ✹2 ~ 5 (Florim Áureos)
 
 ### **Pescaria:**
 
@@ -137,15 +153,15 @@ Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A 
 
 **Coletando Cogumelos**: Uma vez encontrado um local adequado, jogue 1d10 + **Encontrar Cogumelos** + Mod. Percepção para determinar o resultado:
 
-- **- 13 ~ - 3**: Encontra um **Ente Adormecido** que acorda por sua causa.
-- **- 2 ~ 0**: Encontra Cogumelo Venenoso Mortal (Perigoso,).
-- **1 ~ 5**: Não encontra nada.
+- **- 13 ~ - 4**: Encontra um **Ente Adormecido** que acorda por sua causa.
+- **- 3 ~ 1**: Encontra Cogumelo Venenoso.
+- **2 ~ 5**: Não encontra nada.
 - **6 ~ 10**: Cogumelo Comum.
 - **11 ~ 15**: Cogumelo Raro.
-- **16**: Cogumelo Venenoso (mas com propriedades mágicas úteis).
+- **16**: Cogumelo Venenoso.
 - **17 ~ 19**: Cogumelo Épico.
 - **20 ~ 25**: Cogumelo Fantástico.
-- **26**: Encontra 4 cogumelos (jogue um 1d4, quatro vezes, para determinar as raridades (1- Comum, 2- Raro, 3 - Épico e 4 - Fantástico), sendo que o de menor raridade automaticamente se torna Fantástico).
+- **26+**: Encontra 4 cogumelos (jogue um 1d4, quatro vezes, para determinar as raridades (1- Comum, 2- Raro, 3 - Épico e 4 - Fantástico), sendo que o de menor raridade automaticamente se torna Fantástico).
 
 ---
 
@@ -156,7 +172,7 @@ Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A 
 
 ---
 
-**Escolhendo Cogumelo**: O Mestre deve escolher ou sortear um cogumelo de acordo com a raridade encontrada. Para cogumelos de raridade comum ou rara, jogue 1d10; para raridade épico ou fantástico, jogue 1d6.
+**Escolhendo Cogumelo**: O Mestre deve escolher ou sortear um cogumelo de acordo com a raridade encontrada. Para cogumelos de raridade comum ou rara, jogue 1d6; para raridade épico ou fantástico, jogue 1d4.
 
 ---
 
