@@ -25,6 +25,8 @@ Fadas que usam de seus poderes da árvore. Quando usa muita Magia Proibida se to
 #### Level 6: 
 
 - **Campeão:** Você chegou ao ápice e se tornou uma lenda. Recebe +3 em dois atributos de sua escolha (pode superar o limite máximo deles).
+	
+- **Despertar Místico:** Quando você Despertar você pode fazer sua transformação abranger seus 2 Aegis, contudo ela dura 1 turno a menos e você recebe 1 ponto de Exaustão ao transformar. Pode utilizar 2 ações de cada uma das expressões por turno.
 	  
   - **ESCOLHA LENDÁRIA**:
 	  - **Elixir da Vida:** Encontre o lendário elixir da vida. Quem beber desse elixir tem todos seus ferimentos completamente curados e todas as maldições completa purificadas, se livrando de quaisquer efeitos negativos e restaurando a vida ao máximo. Após usar o Elixir você deve esperar 3 dias para pegar mais dele na própria Árvore Anciã.
@@ -50,6 +52,8 @@ Fadas que usam de seus poderes da árvore. Quando usa muita Magia Proibida se to
  - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária 
 #### Level 6: 
 - **Anti-Messias:** Tem vantagem em qualquer jogada de ataque e esquiva contra criaturas bondosas.
+	
+- **Coroa da Loucura:** Essa coroa reduz a sanidade de qualquer indivíduo que te veja para o mesmo nível da sua durante 48h. Não existe efeito de salvaguarda, único item que pode remover o malefício da Coroa é o Elixir da Vida.
 	
 - **ESCOLHA LENDÁRIA**:
 	- **Coroa da Loucura:** Essa coroa reduz a sanidade de qualquer indivíduo que te veja para o mesmo nível da sua durante 48h. Não existe efeito de salvaguarda, único item que pode remover o malefício da Coroa é o Elixir da Vida.
