@@ -3,7 +3,7 @@ Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas
 ```
 
 
-#### **Level 1:** _Inovação nas Fronteiras_: Crie dispositivos únicos.
+#### **Grau Inexperiente:** _Inovação nas Fronteiras_: Crie dispositivos únicos.
 
 >**Catálogo da Carnificina**: Após derrotar um monstro, adicione-o ao seu mostruário. Com cada criatura catalogada, você e seus aliados causam 1d6 de dano adicional contra esse tipo de inimigo, aproveitando seus pontos fracos revelados.
     
@@ -29,7 +29,7 @@ Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas
 	- **Focar**: _Alvo Marcado_ - Um inimigo escolhido recebe golpes de oportunidade sempre que tentar se mover próximo de inimigo corpo-a-corpo e recebe 6 de dano adicional.
 	- **Recuar**: _Retirada Estratégica_ - Dobre o movimento de um aliado e aumente sua Defesa em +4.
 
-#### **Level 5:**
+#### Grau Experiente: 
 
 _Conhecimento Amplo_: Utilize seu vasto aprendizado.
 
@@ -56,10 +56,9 @@ _Conhecimento Amplo_: Utilize seu vasto aprendizado.
 		 - **Descrição:** Melhorar armas longa distância.
 		 - **Efeito**: Aumenta o dano de armas longa distância em 1d8.
 	
-- **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária 
-    
+- **ESCOLHA LENDÁRIA**: Ao chegar aqui o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao Grau Mestre.
 
-#### **Level 6:** _Mestre do Ofício_: Alcance o auge de suas criações.
+#### #### Grau Mestre: _Mestre do Ofício_
 
  **Engenho Supremo**: Combinando todo o seu conhecimento e experiência, você cria um dispositivo Mecarne ou Mestrela diferente das armas ou armaduras que tem feito, esse engenho é um construto de combate, adaptável e incrivelmente poderoso. Este dispositivo é uma manifestação de sua maestria técnica e capacidade de inovação em meio às batalhas. **Efeito**: Construa um dispositivo de combate de nível lendário que pode alternar entre três modos durante o combate, adaptando-se às necessidades da situação. Cada modo utiliza seu conhecimento acumulado para maximizar a eficácia em combate. Modos do Engenho Supremo:
 1. **Modo Aniquilação**:

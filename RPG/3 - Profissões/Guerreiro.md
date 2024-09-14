@@ -5,7 +5,7 @@ Você é um com sua arma, um com o campo de batalha. Independente do que aconte�
 
 ### Guerreiro:
 
-- #### Level 1:
+#### Grau Inexperiente:
     
 - **Defesa Resiliente:** "A força reside na defesa." Aumenta sua defesa reduzindo o dano recebido igual ao seu Mod. Defesa por dois turnos. Caso sua Defesa seja acima de 17 dobre o dano reduzido. Caso você use mais de uma vez por combate recebe 1 ponto de exaustão.
 	
@@ -14,10 +14,12 @@ Você é um com sua arma, um com o campo de batalha. Independente do que aconte�
 -  **Ataque Preciso:** "Encontre a falha na armadura." Aumenta sua precisão de ataque em +4, ignorando 8 pontos de Defesa do inimigo no próximo golpe.
 	
 - Ataque Potente: Seus ataques corpo-a-corpo dão 1d4 de dano adicional. Aumentando em mais 1d4 no nível 4, e aumentando novamente 1d4 no nível 6.
-#### Level 5: 
 
- - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária 
-#### Level 6: 
+#### Grau Experiente: 
+
+- **ESCOLHA LENDÁRIA**: Ao chegar aqui o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao Grau Mestre.
+
+#### Grau Mestre: 
 
 - **Dança da Morte:** "Seja a dança entre a vida e a morte." Realiza uma série de ataques (1d4 + 1) rápidos e letais, atingindo até cinco inimigos próximos. Em cada ataque os críticos são alcançados em 7 ~ 10.
     

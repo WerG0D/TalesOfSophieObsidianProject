@@ -67,7 +67,7 @@ Alguns mestres-cucas permanecem fazendo confeitos e doces nos castelos dos nobre
 
 >**Estoque do Cozinheiro:** Carrega consigo uma bolsa com diversos compartimento, ela serve para você guardar um estoque de comidas e bebidas. Você consegue armazenar habilmente sem estragar nessa bolsa uma quantidade desses itens igual a 1 + Seu Nível.
 
-#### **Level 5:**
+#### Grau Experiente: 
 
 _Técnicas Avançadas_: Eleve sua culinária a um nível superior.
 
@@ -98,46 +98,30 @@ _Técnicas Avançadas_: Eleve sua culinária a um nível superior.
         - Requisitos: 3 ingredientes exóticos de carboidratos.
         - **Efeito**: Concede 5 Pontos Aegis a um aliado durante 12 horas.
         
-- **ESCOLHA LENDÁRIA**: Ao chegar no nível 5, o mestre deve atribuir uma missão especial para você, que ao ser completada, elevará você imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneiras. No nível 6, escolha entre as opções disponíveis para ganhar um item ou conhecimento de classificação lendária.
+- **ESCOLHA LENDÁRIA**: Ao chegar aqui o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao Grau Mestre.
 
-### **Level 6: Chef Supremo – Mestre da Culinária de Batalha**
+#### Grau Mestre: Chef Supremo – Mestre da Culinária de Batalha
 
-#### **Banquete dos Heróis**
-
-Ao alcançar o nível 6, você atingiu o auge da sua arte culinária. Agora, você é capaz de preparar o lendário **Banquete dos Heróis**, uma refeição mágica e inspiradora que pode virar o rumo de qualquer batalha. Este banquete é o ápice de suas habilidades, combinando os melhores ingredientes para criar pratos que oferecem efeitos poderosos e múltiplos benefícios aos seus aliados.
-
-##### **Efeito do Banquete dos Heróis:**
-
-- **Preparação Extenuante**: O Banquete dos Heróis requer 18 horas para ser preparado e usa 8 ingredientes fantástico ou lendário, sendo de todos os tipos. 
-- **Uso Único por Descanso Longo**: O Banquete dos Heróis pode ser preparado e utilizado uma vez a cada 5 dias.
-- **Porções**: Pode com certeza alimentar todos os membros de seu grupo, não importando o tamanho. 
-
-**Benefícios do Banquete dos Heróis:**
-
-1. **Cura Suprema**: Todos os aliados recuperam 80 pontos de vida instantaneamente ao consumir o banquete.
-2. **Fortalecimento Global**: Após a refeição, todos os aliados ganham um bônus de +2 em todas as rolagens durante 12 horas.
-3. **Proteção Continua**: Os aliados recebe 50 pontos de vida extras por 12 horas.
-4. **Resistência Aumentada**: Todos os aliados recebem +5 em Defesa durante 4 horas.
-5. **Moral Elevada**: Todos os aliados recebem 2 pontos de inspiração, permitindo-os repetir testes de resistência e rolagens que foram falhadas. 
-6. **Velocidade Extra**: Todos os aliados recebem o dobro de movimento durante 4 horas, permitindo-lhes reposicionarem-se melhor no campo de batalha.
-
-#### **Maestria do Chef Supremo:**
-
-Além do **Banquete dos Deuses**, o Chef Supremo desenvolveu técnicas de culinária tão avançadas que pode preparar lanches no combate, mas ainda altamente eficazes, em apenas alguns minutos.
-
-**Habilidade Especial: Não esquece o lanchinho**
-
-- **Descrição**: Prepare um lanche com uma ação de combate. Esta habilidade pode ser usada duas vezes por descanso curto.
-- **Tabela:** Escolha um dos efeitos possíveis:
+- Banquete dos Heróis: Ao alcançar o nível 6, você atingiu o auge da sua arte culinária. Agora, você é capaz de preparar o lendário **Banquete dos Heróis**, uma refeição mágica e inspiradora que pode virar o rumo de qualquer batalha. Este banquete é o ápice de suas habilidades, combinando os melhores ingredientes para criar pratos que oferecem efeitos poderosos e múltiplos benefícios aos seus aliados. 
+	- Detalhes do Banquete dos Heróis:
+		- **Preparação Extenuante**: O Banquete dos Heróis requer 18 horas para ser preparado e usa 8 ingredientes fantástico ou lendário, sendo de todos os tipos. 
+		- **Uso Único por Descanso Longo**: O Banquete dos Heróis pode ser preparado e utilizado uma vez a cada 5 dias.
+		- **Porções**: Pode com certeza alimentar todos os membros de seu grupo, não importando o tamanho. 
+	- Benefícios do Banquete dos Heróis:**
+		1. **Cura Suprema**: Todos os aliados recuperam 80 pontos de vida instantaneamente ao consumir o banquete.
+		2. **Fortalecimento Global**: Após a refeição, todos os aliados ganham um bônus de +2 em todas as rolagens durante 12 horas.
+		3. **Proteção Continua**: Os aliados recebe 50 pontos de vida extras por 12 horas.
+		4. **Resistência Aumentada**: Todos os aliados recebem +5 em Defesa durante 4 horas.
+		5. **Moral Elevada**: Todos os aliados recebem 2 pontos de inspiração, permitindo-os repetir testes de resistência e rolagens que foram falhadas. 
+		6. **Velocidade Extra**: Todos os aliados recebem o dobro de movimento durante 4 horas, permitindo-lhes reposicionarem-se melhor no campo de batalha.
+		
+- Maestria do Chef Supremo: Além do **Banquete dos Deuses**, o Chef Supremo desenvolveu técnicas de culinária tão avançadas que pode preparar lanches no combate, mas ainda altamente eficazes, em apenas alguns minutos. Habilidade Especial, "Não esquece o lanchinho" sua descrição: Prepare um lanche com uma ação de combate. Esta habilidade pode ser usada duas vezes por descanso curto. Escolha um dos efeitos possíveis:
     - **Restaurador de Energia**: Concede 4 Pontos Aegis temporários a um aliado.
     - **Caldo do Foco Afiado**: Remove uma condição mental adversa.
     - **Guarnição do Escudo**: Aumenta a Defesa de um aliado em +3 por 3 rodadas.
     - **Refresco Revigorante**: Recupera imediatamente 2d12 Pontos de Vida.
-
-#### **Escolha Lendária:**
-
-Ao alcançar o nível 6, você recebe uma das seguintes opções como recompensa por sua maestria culinária:
-
-- **Receita Secreta do Grande Chef**: Você recebe uma receita lendária que permite efeitos únicos. Juntamente ao mestre determine os efeitos e ingredientes necessários para fazer esse prato. O nível de dificuldade dele também vai ser determinado pelo Mestre.
+	
+-  **Escolha Lendária:** Ao alcançar o nível 6, você recebe uma das seguintes opções como recompensa por sua maestria culinária:
+	- **Receita Secreta do Grande Chef**: Você recebe uma receita lendária que permite efeitos únicos. Juntamente ao mestre determine os efeitos e ingredientes necessários para fazer esse prato. O nível de dificuldade dele também vai ser determinado pelo Mestre.
     
-- **Utensílios Culinários Mágicos**: Você ganha um conjunto de utensílios de cozinha mágicos que melhora todas as suas habilidades culinárias. Com estes utensílios, todos os pratos preparados tem seu nível de dificuldade reduzidos em 3.
+	- **Utensílios Culinários Mágicos**: Você ganha um conjunto de utensílios de cozinha mágicos que melhora todas as suas habilidades culinárias. Com estes utensílios, todos os pratos preparados tem seu nível de dificuldade reduzidos em 3.

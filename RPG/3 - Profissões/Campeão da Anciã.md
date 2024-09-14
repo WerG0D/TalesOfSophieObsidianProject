@@ -4,7 +4,7 @@ Fadas que usam de seus poderes da árvore. Quando usa muita Magia Proibida se to
 
 >Classe exclusiva das fadas. 
 
-### **Level 1**
+#### Grau Inexperiente:
 
 - **O Escolhido:** Você foi escolhido pela Árvore Anciã, agora como seu escolhido você recebeu algumas habilidades:
 	- **Benção do Herói:** Recebe poder mágico da Árvore e ganha +1 Categoria diferente de Aegis. Pode desenvolver essa nova categoria em conjunto a sua atual.
@@ -17,12 +17,12 @@ Fadas que usam de seus poderes da árvore. Quando usa muita Magia Proibida se to
 - **A Arma do Escolhido:** Você recebe uma arma de sua escolha feita da própria árvore. Essa arma causa 1d8 + Seu Nível como dano. Aumenta o dano da arma em 1d8 para cada nível que você subir. Além disso, enquanto estiver com a arma em mãos você tem +1 em todas as jogadas e não pode receber ataques de oportunidade.
 	
 - **Acesso Profano:** As forças do mal sussurram em sua mente em alguns momentos de risco sobre feitiços proibidos que poderiam lhe ajudar. Resista a tentação. Confira no fim da páginas os feitiços que podem ser ditos a você.
-#### Level 5: 
+#### Grau Experiente: 
 
 - **Ameaça Para O Mal:** A partir daqui os inimigos que te perseguem e lhe caçam aparecem com muita mais frequência, além de serem muitos mais poderosos. Você se torna um eterno alvo, mas deve resistir ao mal. Você recebe 1 ponto de Exaustão permanente.
 	
- - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária 
-#### Level 6: 
+ - **ESCOLHA LENDÁRIA**: Ao chegar aqui o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao Grau Mestre.
+#### Grau Mestre: 
 
 - **Campeão:** Você chegou ao ápice e se tornou uma lenda. Recebe +3 em dois atributos de sua escolha (pode superar o limite máximo deles).
 	

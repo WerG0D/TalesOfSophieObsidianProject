@@ -10,7 +10,7 @@ Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Bruxos sã
 
 Você descendeu de um dos 7 Demônios conhecidos como 7 Cores. Escolha qual dos 7 você descendeu: _Vermelho, a Ira; Azul, a Morte; Roxo, a Tentação; Amarelo, a Desistência; Branco, a Enganação; Preto, o Caos; ou Verde, a Alma_.
 
-#### *Level 1:* Dependendo da sua escolha suas habilidades vão ser:
+#### *Grau Inexperiente:* Dependendo da sua escolha suas habilidades vão ser:
 	
 - **Cores:** Você entende melhor sua hereditariedades, seus ataques e habilidades reluzem em cor:
     - **Vermelho, a Ira:** Pode invocar armas de energia vermelha. Elas causam dano igual a 4 + 2 x  Mod. Força.
@@ -43,13 +43,13 @@ Você descendeu de um dos 7 Demônios conhecidos como 7 Cores. Escolha qual dos 
     - **Branco, a Enganação:** Além da deterioração, cria ilusões que distraem e confundem os inimigos.
     - **Verde, a Alma:** Além da deterioração, drena 1d6 pontos de vida dos alvos por turno e cura você pela mesma quantidade.
 	
-#### **Level 5:**
+#### Grau Experiente: 
 
 - **Manifestação Demoníaca:** Você pode invocar um pequeno demônio uma vez por batalha. O avatar luta ao seu lado por 8 turnos e segue suas ordens. O avatar causa 2d8 + Influência de dano com seus ataques, ele tem 60 de vida, além disso tem os atributos iguais a metade do seus. Ele também tem habilidades das criaturas que você consumiu. Quando esse demônio morre ele explode causando dano em uma área de 6m igual ao dobro da sua Influência.
 
  - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária.
 
-#### **Level 6:**
+#### Grau Mestre: 
 - **Transformação Demoníaca:** Você vira um demônio completo por 6 turnos, aumentando sua Força e Defesa em 2 e reduzindo sua Inalterabilidade em 3. Nesta forma, você ganha asas, aumentando sua velocidade de voo para 12 metros e causando 1d8 + 6 de dano extra com ataques corpo a corpo. Dura 1 minuto e pode ser usada uma vez por descanso longo. Ao fazer essa transformação você deve fazer um teste de Inalterabilidade, caso tire um erro crítico ou falhe você não ira controlar seu corpo, mas sim o Oni que você descende que vai controlar. Caso esteja com o Oni Preto e seu Dado Caos caia em reconjurar essa habilidade ao invés disso use conjura um pequeno demônio de Manifestação Demoníaca:
     - **Vermelho, a Ira:** Você causa dano de fogo adicional (2d8 + 8) com seus ataques e habilidades e eles causam explosões em volta dos alvos a até 2m.
     - **Azul, a Morte:** Seus ataques e habilidades ignoram a Defesa do alvo e atingem diretamente em sua Vida. Além disso, quem você mata retorna como mortos-vivos eles vão te seguir até os pontos de vida deles zerarem.
@@ -76,13 +76,13 @@ Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer
 
 *O Kraken é descrito como uma espécie de polvo gigante, com vários tentáculos. Além disso, os contos citam que esse monstro emergia do fundo do mar para atacar barcos e enlouquecendo os marinheiros e fazendo eles se jogarem na água. O Kraken aterroriza a mente de qualquer Pirata.*
 
-#### *Level 1:*:
+#### *Level 1:* O Senhor da Loucura
 	
 - **Tentáculos Implacáveis:** Pode transformar um de seus membros em um longo tentáculo que podem ser usados para escalar superfícies, grudar em paredes ou atacar causando 2d10 + Força como dano. No níveis 3 pode transformar seus 2 membros permitindo atacar duas vezes por turno com eles.
 	
 - **Controle Mental:** Pode influenciar um indivíduo a até 6m de você mentalmente por 2 horas. Pode influenciar apenas um alvo por vez. O indivíduo pode fazer um teste de Inalterabilidade todo turno para escapar. Ele joga 1d8 + Inalterabilidade, devendo superar o valor de 4 + Mod. de Influência do bruxo, contudo caso o Bruxo dê uma ordem nociva para o próprio alvo ou aliados dele ele tem vantagem e +3 no teste. No nível 6 você pode influenciar até 2 alvos.
 	
-- **Insanidade Pura:** Reduz a Inteligência de um alvo a até 6m de você para 0 durante 2 turnos. Ele vai ficar parado a não ser que sofra influência mental. Para resistir a isso, o alvo deve jogar 2 + 1d10 + Inalterabilidade devendo superar 10, só pode resistir no momento que a habilidade for conjurada contra ele.
+- **Insanidade Pura:** Reduz a Inteligência de um alvo a até 6m de você para 0 durante 2 turnos. Ele vai ficar parado e não pode sofrer influência mental. Para resistir a isso, o alvo deve jogar 2 + 1d10 + Inalterabilidade devendo superar 10, só pode resistir no momento que a habilidade for conjurada contra ele.
 	
 - **Está no meu Sangue, ELE fala comigo HAHAHAH:** Sua sanidade reduz automaticamente para 50, contudo sempre que você for perder sanidade agora reduz a quantidade perdida em 10 *(exceto* em *Paraíso do Delírio, da Demência e da Insanidade*). Dormir ou realizar um descanso longo te faz recuperar 20 de sanidade.
 	
@@ -91,11 +91,11 @@ Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer
 - **Olhar Aterrorizante:** Tem perícia, vantagem e +2 em testes de Intimidação.
 	
 - **Pesadelos Vivos:** Invade a mente de um alvo a até 10m enchendo de pesadelos e traumas. O alvo recebe dano psíquico igual a 2d10 + Mod. Influência, além disso ele perde sanidade igual a 1d10. O alvo pode fazer um teste de inalterabilidade contra sua influência para receber metade do dano e não perder sanidade. Pode usar essa habilidade em combate um número de vezes igual ao seu Mod. de Vigor.
-
+	
 #### **Level 5:**
-
+	
  - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária.
-
+	
 #### **Level 6:**
 
 - **Paraíso do Delírio, da Demência e da Insanidade:** Em uma área de 20m a sua volta, o chão se enche com água escuras e uma redoma negra cobre tudo. Todos por dentro da área devem fazer um teste de Inalterabilidade CD 20, incluindo você mesmo. Caso alguém falhe ele deve rodar 3 vezes o 1d10 e receber os seguintes efeitos segundo a tabela:
@@ -123,7 +123,7 @@ Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer
 
 >*O Leviatã trata-se de uma criatura mística extremamente inteligente descrita por marinheiros como uma uma baleia colossal de cor azul negro, ela possui olhos amarelos que irradiam com brilho espectral, além disso sua boca possui um formato pontiagudo com dentes para fora. Ela é responsável por trazer tempestades e ciclones, além de afundar grandes embarcações para devorar marinheiros.*
 
-#### *Level 1:*:
+#### *Level 1:* A Besta da Tempestade
 	
 - **Presas Elétricas da Ruína:** Seus ataques com armas corpo a corpo ou arremesso causam 2d8 de dano adicional elétrico. Além disso, alvos que estejam molhados recebem o dobro de dano.
 	
@@ -138,18 +138,18 @@ Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer
 - **Olhar Espectral:** Seu olhar drena as forças dos inimigos, para cada 2 turnos em combate com os mesmo inimigos eles recebem -1 de Força (acumulando até -4). Recupera 1d8 de vida sempre que um inimigo é afetado.
 	
 - **Espírito Rançoso e Vingativo:** Recebe -2 em Reação e em suas jogadas de Esquiva. Recebe +2 em Força e em jogadas de ataque
-
-
+	
 #### **Level 5:**
 
  - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária.
 
 #### **Level 6:**
 
-- **Aberração Líder das Tempestades:** Invoca durante 2 horas, até você cancelar ou até você cair inconsciente, uma tempestade de 5km a sua volta, ela molha todos os alvos foras de proteção sob os céus, além disso, raios caem causando 4d10 de dano elétrico a cada inimigo, durante o turno dele ele pode fazer um teste de Reação CD 18 para tomar apenas metade do dano. Recebe +2 de Força durante a Tempestade. Pode conjurar essa habilidade uma vez a cada 3 dias.
+- **Aberração Líder das Tempestades:** Invoca durante 2 horas, até você cancelar ou até você cair inconsciente, uma tempestade de 5km a sua volta, ela molha todos os alvos foras de proteção sob os céus, além disso, raios caem causando 4d10 de dano elétrico a cada inimigo, durante o turno do alvo ele pode fazer um teste de Reação CD 18 para tomar apenas metade do dano. Recebe +2 de Força durante a Tempestade. Pode conjurar essa habilidade uma vez a cada 3 dias.
 	
 - **ECOLHA LENDÁRIA**:
-	- A
+	- **Chaódis, Filho de Leviatã:** Recebe um set de armadura completo, ele é completamente azul escuro e tem várias inscrições estranhas. Ao vestir ele é possível sentir um coração pulsando dentro da armadura. Ela te concede imunidade a dano elétrico e de água. Além disso, você recebe 90 de vida e 20 de Defesa com a armadura. Duas vezes por dia você pode ativar o *Derpex Okeános* da armadura:
+		- **Derpex Okeános**: Durante 3 turnos você recebe +2 de Força, além disso aumenta o dano de todos seus ataques e habilidades em 2d8.
 		
 	- **Culto Sangrento:** Inicie um culto em nome de seu pai, adquirindo 2d100 seguidores. Seu culto te dá influencia em várias partes da Árvore anciã.
 	
@@ -160,26 +160,23 @@ Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer
 
 >*O Caríbdis é o protetor dos limites territoriais do mar, essa aberração monstruosa tem o formato de uma minhoca, mas é tão grande que seu corpo vem de baixo do próprio oceano, no próprio subsolo. Em aparência esse Monstro místico que não possui olhos, tem em seu rosto uma bocarra em formato de círculo com quilômetros de diâmetro e com milhares de dentes. Primordialmente, Caríbdis é uma lenda tão comum que se passa por divindade entre alguns pescadores e marinheiros. Caríbdis é caracterizada por sua voracidade extrema, emergindo na superfície e engolindo frotas inteiras de uma vez só, sendo uma criatura essencialmente bestial. Responsável por trazer maremotos, tsunamis e terremotos com seus movimentos através das placas tectônicas e do oceano.* 
 
-#### *Level 1:*:
+#### *Grau Inexperiente: Dependendo da sua escolha suas habilidades vão ser:
 	
-- **Cores:** 
+- **Core
 	
-- **Raio Destruidor:** 
+#### Grau Experiente: 
 	
-- **Influência Mental:** 
-
-#### **Level 5:**
+- **Man
 
  - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária.
-
-#### **Level 6:**
-
-- **Transformação Demoníaca:** 
+	
+#### Grau Mestre: 
+	
+- **T
 	
 - **ECOLHA LENDÁRIA**:
 	- Açoite das Almas Perdidas: Invoque uma arma mística de seu pai. Em base ela causa 4d10 de dano + um efeito baseado na cor de seu Oni, decidido entre você e o mestre
 	- Culto Sangrento: Inicie um culto em nome de seu pai, adquirindo 2d100 seguidores. Seu culto te dá influencia em várias partes da Árvore anciã.
-	
 
 
 ### ***Malditos:***

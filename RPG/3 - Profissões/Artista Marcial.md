@@ -4,7 +4,7 @@ Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada
 
 ### Marcial:
 
-- #### Level 1:
+#### Grau Inexperiente:
   
 - **Caminho Marcial**: Aumenta sua Inalterabilidade, Moderação e Reação em 2. Além disso escolha qual o caminho marcial você vai trilhar:
 	- Caminho da Espada: Seus ataques com espada quando causam dano também somam o seu modificador de Reação. 
@@ -20,11 +20,13 @@ Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada
 - **Treino Marcial:** Você não é treinado a usar armaduras. Contudo, quando está sem armadura pode adicionar seu modificador de Reação a sua Defesa. Caso use uma armadura mesmo assim, recebe -5 em todas suas jogadas. Você também tem resistência contra venenos e doenças.
 	
 - **Domine Seu Chi não Aegis:** Você tem dificuldade para controlar o Aegis. O nível de dificuldade para toda suas expressões aumenta em 2. Além disso, você tem dificuldade para notar o Aegis recebendo desvantagem em testes da pericia expressão.
-#### Level 5: 
-
- - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária 
-#### Level 6: 
-
+	
+#### Grau Experiente: 
+	
+- **ESCOLHA LENDÁRIA**: Ao chegar aqui o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao Grau Mestre.
+	
+#### Grau Mestre: 
+	
 - **Mestre de Si:** Você consegue dominar seu estado mental. Recebe +2 em Vigor e Moderação, além disso você só começa a sofrer efeitos de cansaço a partir do segundo Ponto de Exaustão.
 	
 - **Dominar Oponente**: Após 3 turnos consecutivos em combate com o mesmo oponente, recebe +2 em jogadas de ataque e esquiva contra ele.

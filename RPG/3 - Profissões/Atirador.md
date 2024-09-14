@@ -4,7 +4,7 @@ Você é o olho que tudo vê. Nada escapa de sua mira, nada escapa do seu gatilh
 
 
 
-- #### Level 1:
+#### Grau Inexperiente:
 
 - Recuo apressado: Caso um inimigo se aproxime a 2m de você e esteja em seu campo de visão, você pode usar desengajar como uma ação bônus e se mover o dobro da sua movimentação. Usar essa habilidade mais de uma vez por combate te faz ganhar um ponto de exaustão.
 	
@@ -16,10 +16,10 @@ Você é o olho que tudo vê. Nada escapa de sua mira, nada escapa do seu gatilh
 	
 - **Péssimo Lutador:** Recebe -4 em jogadas de ataque e esquiva contra alvos a menos de 5m. Recebe +2 contra alvos acima de 20m.
 
-- #### Level 5: 
-- **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária 
+#### Grau Experiente: 
+- **ESCOLHA LENDÁRIA**: Ao chegar aqui o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao Grau Mestre.
 
-- #### Level 6:
+#### Grau Mestre: 
 
 - **Marca do Caçador:** Marca um alvo , que agora recebe o dobro de dano dos seus tiros críticos, seu acerto crítico contra ele também é aumentado em 1. Pode ser usado uma vez por combate.
 	
