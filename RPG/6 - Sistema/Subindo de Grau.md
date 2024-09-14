@@ -1,5 +1,5 @@
 
-No começo do jogo você começa sem nenhuma profissão. Cada uma das profissões tem 3 requisitos a serem alcançados, quando você alcançar ele você pode entra na profissão no seu primeiro grau.
+No começo do jogo você começa sem nenhuma profissão. Cada uma das profissões tem 3 requisitos a serem alcançados, quando você alcançar ele você pode entrar na profissão no seu primeiro grau.
 
 Quando estiver criando o personagem você ganha 4 perícias de sua escolha e mais um Talento, além disso você roda um dado 1d12 + 4 e coloca em seus atributos sendo no mínimo 7 e no máximo 13. Contudo, você pode descartar a rolagem em 2 atributos da sua escolha onde um vc deve colocar o valor 13 e o outro o valor 7. 
 

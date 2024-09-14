@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e8d3f0f8dfdd6cee",
+        "id": "bdb29aaf84321d73",
         "type": "tabs",
         "children": [
           {
-            "id": "695592b02d13b5bf",
+            "id": "703113fbb49b5999",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
+                "file": "RPG/1 - Raça/Zytherin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28d95a0825dcf8cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/1 - Raça/Fada.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
+                "file": "RPG/1 - Raça/Zytherin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
+                "file": "RPG/1 - Raça/Zytherin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md"
+                "file": "RPG/1 - Raça/Zytherin.md"
               }
             }
           }
@@ -146,37 +158,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "695592b02d13b5bf",
+  "active": "703113fbb49b5999",
   "lastOpenFiles": [
-    "RPG/2 - Ancestralidades/Thalassano.md",
-    "RPG/2 - Ancestralidades/Sussurrador.md",
-    "RPG/2 - Ancestralidades/Cracano.md",
-    "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
-    "RPG/6 - Sistema/Criação de Personagem.md",
-    "RPG/3 - Profissões/Bruxo.md",
-    "RPG/3 - Profissões/Atirador.md",
-    "RPG/1 - Raça/Humano.md",
-    "RPG/6 - Sistema/Subindo de Grau.md",
-    "RPG/3 - Profissões/Cozinheiro de batalha.md",
-    "RPG/3 - Profissões/Guerreiro.md",
-    "RPG/3 - Profissões/Pirata.md",
-    "RPG/3 - Profissões/Artista Marcial.md",
-    "RPG/3 - Profissões/Assassino.md",
-    "RPG/3 - Profissões/Campeão da Anciã.md",
-    "RPG/3 - Profissões/Pesquisador de Batalha.md",
-    "RPG/6 - Sistema/Sanidade.md",
-    "RPG/6 - Sistema/Atributos.md",
-    "Pasted image 20240914015750.png",
-    "Pasted image 20240914015610.png",
-    "Pasted image 20240914015241.png",
-    "RPG/1 - Raça/Inumano.md",
     "RPG/1 - Raça/Fada.md",
-    "RPG/2 - Ancestralidades/Radilhante.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas/Mestrelas.md",
-    "RPG/4 - Itens/Armaduras.md",
-    "RPG/4 - Itens/Anéis, Pulseiras e Colares.md",
-    "RPG/2 - Ancestralidades/Sem Pátria.md",
     "RPG/1 - Raça/Zytherin.md",
+    "RPG/1 - Raça/Humano.md",
+    "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
+    "Images/Misc/golden ether.jpg",
+    "Images/Misc/Zytherin_image.png",
+    "RPG/6 - Sistema/Subindo de Grau.md",
+    "RPG/6 - Sistema/Sistema de cansaço.md",
+    "RPG/6 - Sistema/Sanidade.md",
+    "RPG/6 - Sistema/Perícias.md",
+    "RPG/6 - Sistema/Morrendo.md",
+    "RPG/6 - Sistema/Criação de Personagem.md",
+    "RPG/6 - Sistema/Atributos.md",
+    "RPG/6 - Sistema/Talentos.md",
+    "RPG/6 - Sistema/Testes de Resistência e perícia.md",
+    "Images/Misc/Pasted image 20240914015241.png",
+    "RPG/6 - Sistema/Inimigos.md",
+    "RPG/6 - Sistema/Combate.md",
+    "RPG/Teste.md",
+    "RPG/Ficha de personagem.md",
+    "RPG/3 - Profissões/Cozinheiro de batalha.md",
+    "Images/Game Map/sophie_movement_behavior.png",
+    "RPG/4 - Itens/Anéis, Pulseiras e Colares.md",
+    "RPG/3 - Profissões/Campeão da Anciã.md",
+    "Images/Misc/Pasted image 20240914015750.png",
+    "Images/Misc/Pasted image 20240914015610.png",
+    "RPG/3 - Profissões/Pirata.md",
+    "RPG/3 - Profissões/Pesquisador de Batalha.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pontos Aegis.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Conceito.md",
+    "RPG/3 - Profissões/Artista Marcial.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes",
     "RPG/5 - Aegis - Mecarnes - Mestrelas",
@@ -194,9 +209,6 @@
     "Images/Filhos do céu/bc573c10618beeb9ad5dd17df4cd532f.jpg",
     "Images/Filhos do céu/2be7f59214051c6fe6854058bc1748ea.jpg",
     "Images/Filhos do céu/4c9e6fb554c8168764254cda2da35500.jpg",
-    "Images/Filhos do céu/8e98e5c49004a98f599d98e0b1cb1769.jpg",
-    "Images/Filhos do céu/ac9cf693115c873055218a886f4e1348.jpg",
-    "Images/Game Map/sophie_movement_behavior.png",
     "Tales of Sophie/Mechanics/RPG MECHANICS.canvas",
     "Tales of Sophie/Mechanics/Weather System.canvas",
     "Tales of Sophie/Mechanics/Core Mechanics.canvas",
