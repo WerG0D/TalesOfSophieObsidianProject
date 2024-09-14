@@ -105,7 +105,105 @@ O valor dos peixes varia pela raridade:
 | **Peixe Celeste Cantante** | Fantástico | Pequeno | Branco luminoso com notas douradas | Sabor divino, com toque musical              | Este peixe parece cantar quando fisgado, e sua carne é um manjar que enche de alegria quem o come.                                                                                                               |
 
 
-### **Encontrar Cogumelos**
 
+### **Coleta de Cogumelos:**
 
+Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A cada 10 minutos o jogador tem a oportunidade de pedir ao mestre para rolar novamente **Explorar o Bosque** ou **Coletando Cogumelos**.
 
+---
+
+**Explorar o Bosque**: Para encontrar cogumelos, o jogador precisa explorar uma floresta, caverna ou um local com vegetação úmida e rica. Jogue 1d10 + Erudição para ver se você consegue encontrar algum lugar propenso a ter cogumelos. Siga a tabela:
+
+- **1 ~ 4**: Recebe -4 para **Encontrar Cogumelos**.
+- **5 ~ 8**: Recebe -2 para **Encontrar Cogumelos**.
+- **9 ~ 11**: Recebe 0 para **Encontrar Cogumelos**.
+- **12 ~ 14**: Recebe +2 para **Encontrar Cogumelos**.
+- **16 ~ 18**: Recebe +4 para **Encontrar Cogumelos**.
+- **19+**: Recebe +8 para **Encontrar Cogumelos**.
+
+---
+
+**Região de Coleta:** A qualidade do local de coleta influencia as chances de sucesso. O Mestre define a qualidade da região e se existe uma região para coleta:
+
+- **Solo Amaldiçoado**: Recebe -8 para **Encontrar Cogumelos**.
+- **Solo Péssimo**: Recebe -4 para **Encontrar Cogumelos**.
+- **Solo Ruim**: Recebe -2 para **Encontrar Cogumelos**.
+- **Solo Mediano**: Recebe 0 para **Encontrar Cogumelos**.
+- **Solo Rico**: Recebe +2 para **Encontrar Cogumelos**.
+- **Solo Próspero**: Recebe +4 para **Encontrar Cogumelos**.
+- **Solo Mágico**: Recebe +8 para **Encontrar Cogumelos**.
+
+---
+
+**Coletando Cogumelos**: Uma vez encontrado um local adequado, jogue 1d10 + **Encontrar Cogumelos** + Mod. Percepção para determinar o resultado:
+
+- **- 13 ~ - 3**: Encontra um **Ente Adormecido** que acorda por sua causa.
+- **- 2 ~ 0**: Encontra Cogumelo Venenoso Mortal (Perigoso,).
+- **1 ~ 5**: Não encontra nada.
+- **6 ~ 10**: Cogumelo Comum.
+- **11 ~ 15**: Cogumelo Raro.
+- **16**: Cogumelo Venenoso (mas com propriedades mágicas úteis).
+- **17 ~ 19**: Cogumelo Épico.
+- **20 ~ 25**: Cogumelo Fantástico.
+- **26**: Encontra 4 cogumelos (jogue um 1d4, quatro vezes, para determinar as raridades (1- Comum, 2- Raro, 3 - Épico e 4 - Fantástico), sendo que o de menor raridade automaticamente se torna Fantástico).
+
+---
+
+**Estoque Esgotado**: Após coletar 1 cogumelo, jogue 1d10. Para cada cogumelo adicional, adicione um modificador de -1 a este dado:
+
+- **1 ~ 3**: Cogumelos esgotados.
+- **4 ~ 10**: Cogumelos continuam disponíveis.
+
+---
+
+**Escolhendo Cogumelo**: O Mestre deve escolher ou sortear um cogumelo de acordo com a raridade encontrada. Para cogumelos de raridade comum ou rara, jogue 1d10; para raridade épico ou fantástico, jogue 1d6.
+
+---
+
+**Testando a Segurança**: Ao tentar coletar um cogumelo (tem uma chance de ter outros por perto), o jogador deve fazer um teste de **Erudição** para identificar se o cogumelo é seguro. Jogue 1d10 + Erudição :
+
+- **1 ~ 7**: O jogador não consegue distinguir nenhum dos cogumelos que está pegando se é venenoso ou não.
+- **8 ~ 10**: O jogador consegue distinguir um dos cogumelos como venenoso ou não.
+- **11 ~ 13**: O jogador consegue distinguir com segurança entre cogumelos venenosos e comestíveis.
+- **14+**: O jogador é capaz de identificar as propriedades dos cogumelos que está pegando e a raridade.
+
+-----------------------------------
+##### Comuns:
+
+| NOME                   | RARIDADE | TAMANHO | COR                              | SABOR                                   | DESCRIÇÃO                                                                                                                  |
+| ---------------------- | -------- | ------- | -------------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Champignon Comum**   | Comum    | Pequeno | Branco                           | Sabor suave, terroso                    | Cogumelo muito comum, encontrado em florestas temperadas. Utilizado em várias receitas.                                    |
+| **Shiitake Selvagem**  | Comum    | Médio   | Marrom                           | Sabor forte, terroso, amadeirado        | Cogumelo com sabor marcante, encontrado em áreas florestais. Sua textura é firme.                                          |
+| **Amanita Branca**     | Comum    | Pequeno | Branco puro                      | Sabor suave, mas requer preparo         | Um cogumelo delicado encontrado em bosques úmidos, necessita de preparo adequado para consumo seguro.                      |
+| **Fungo-da-Névoa**     | Comum    | Pequeno | Cinza pálido                     | Sabor neutro, com leve toque de umidade | Pequeno cogumelo comum em pântanos e áreas nebulosas, sua carne é utilizada em sopas leves.                                |
+| **Cogumelo-Pedra**     | Comum    | Médio   | Cinza escuro, com textura rígida | Sabor amargo e firme                    | Um cogumelo resistente, encontrado em áreas rochosas. Seu preparo exige cozimento prolongado para amaciar sua carne densa. |
+| **Cogumelo-do-Bosque** | Comum    | Pequeno | Marrom claro                     | Sabor amadeirado e suave                | Cogumelo típico de florestas, utilizado em diversos pratos rústicos. Fácil de encontrar em bosques densos.                 |
+
+##### Raro:
+
+| NOME                   | RARIDADE | TAMANHO | COR                            | SABOR                                 | DESCRIÇÃO                                                                                                                  |
+| ---------------------- | -------- | ------- | ------------------------------ | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Cogumelo-Espectral** | Raro     | Médio   | Azul pálido, translúcido       | Sabor refrescante, com toque de ervas | Encontra-se em florestas mágicas e é conhecido por suas propriedades curativas leves.                                      |
+| **Morel Ancião**       | Raro     | Médio   | Marrom claro, formato estranho | Sabor rico e terroso                  | Raro e cobiçado, o Morel cresce em regiões específicas e tem um sabor profundo e único.                                    |
+| **Lágrima de Elfo**    | Raro     | Pequeno | Verde brilhante                | Sabor refrescante, mentolado          | Cogumelo raro que brilha levemente no escuro, com propriedades curativas mágicas moderadas.                                |
+| **Véu-da-Sombra**      | Raro     | Pequeno | Preto com bordas cinzentas     | Sabor levemente amargo                | Encontrado em áreas sombrias, este cogumelo é utilizado para criar poções que aumentam a furtividade por um curto período. |
+| **Cálice Dourado**     | Raro     | Médio   | Amarelo brilhante              | Sabor doce e terroso                  | Cogumelo raro que cresce em clareiras iluminadas pelo sol. Seus esporos são altamente valiosos para poções de vitalidade.  |
+| **Olho-de-Corvo**      | Raro     | Pequeno | Preto profundo                 | Sabor ácido                           | Um cogumelo que floresce em noites de lua nova, com propriedades que aumentam a percepção durante a noite.                 |
+
+##### Épico:
+
+| NOME                      | RARIDADE | TAMANHO | COR                                | SABOR                         | DESCRIÇÃO                                                                                                                                  |
+| ------------------------- | -------- | ------- | ---------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Fungo da Noite Eterna** | Épico    | Médio   | Preto com manchas roxas            | Sabor amargo                  | Este cogumelo misterioso cresce apenas durante noites sem lua. Suas propriedades são desconhecidas, mas pode ser perigoso.                 |
+| **Cogumelo do Fogo Vivo** | Épico    | Grande  | Vermelho com veios laranja         | Sabor picante e intenso       | Cogumelo raro e brilhante, com propriedades mágicas de resistência ao fogo.                                                                |
+| **Raiz-das-Trevas**       | Épico    | Pequeno | Preto com veios verdes             | Sabor terroso, forte e amargo | Encontrado nas profundezas de florestas ancestrais, este cogumelo possui propriedades que aumentam temporariamente a força física.         |
+| **Sombrio de Sangue**     | Épico    | Pequeno | Vermelho escuro, com bordas negras | Sabor metálico, intenso       | Cogumelo raro que floresce em locais onde houve batalhas. Seus esporos têm propriedades regenerativas potentes, mas difíceis de controlar. |
+
+##### Fantástico:
+
+| NOME                    | RARIDADE   | TAMANHO | COR                               | SABOR                               | DESCRIÇÃO                                                                                                                                                                                                                                                              |
+| ----------------------- | ---------- | ------- | --------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Coroa-de-Raios**      | Fantástico | Grande  | Amarelo dourado, fosforescente    | Sabor eletrizante, com leve acidez  | Extremamente raro, com propriedades elétricas que aumentam temporariamente a agilidade e energia de quem o consome.                                                                                                                                                    |
+| **Fungo Estelar**       | Fantástico | Médio   | Branco com pontas luminosas       | Sabor celestial, indescritível      | Um cogumelo lendário que brilha como o céu noturno. Diz-se que quem o consome ganha uma visão temporária do futuro.                                                                                                                                                    |
+| **Véu de Etherium**<br> | Fantástico | Pequeno | Azul profundo com brilho prateado | Sabor etéreo, com toque mentolado   | Cogumelo encontrado em portais mágicos. Consumir este cogumelo concede visões do plano etéreo por um curto período.                                                                                                                                                    |
+| **Espectro-da-Ilusão**  | Fantástico | Pequeno | Transparente, com brilhos roxos   | Sabor suave, mas desaparece na boca | Cogumelo incrivelmente raro que só pode ser encontrado em áreas onde a realidade é instável. Quem consome o Espectro-da-Ilusão adquire temporariamente a habilidade de criar ilusões convincentes, tornando-o um dos cogumelos mais cobiçados por magos e alquimistas. |
