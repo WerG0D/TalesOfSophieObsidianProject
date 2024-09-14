@@ -4,9 +4,9 @@ Um foragido se esconde dentro de uma carroça que transporta palha. O motivo? o 
 
 > Fadas são seres imortais escolhidos como vassalos da Árvore, sendo representantes de sua vontade. Fadas são essencialmente arautos divinos, nascendo com um propósito específico e morrendo definitivamente após o cumprir. Grandes em estatura, chegando até 4 metros de altura, e com uma pele sempre da tonalidade parda, as fadas são seres altamente cotadas no mercado negro por suas propriedades mágicas. Possuindo enorme conexão com a Árvore
 
->Dado de vida independente da classe é 6d10. Recebe +3 pontos no nível 1 para colocar nos atributos de sua escolha, e mais 3 por nível, menos no nível 6 que ela recebe +5.
+>Dado de vida independente da classe é 8d10. Recebe +3 pontos no nível 1 para colocar nos atributos de sua escolha, e mais 3 por nível, menos no nível 6 que ela recebe +5.
 
-> Capaz de usar Aegis ou mestrelas, mas não capazes de usar mecarnes.
+> Capaz de usar Aegis ou Mestrelas, mas não capazes de usar mecarnes.
 
 > Comece com uma expressão Aegis ou mestrela.
 

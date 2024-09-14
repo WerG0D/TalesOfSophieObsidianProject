@@ -14,15 +14,13 @@
 - **Astúcia:** "Seja o trunfo do time, o mestre de 1001 atividades." A Astúcia te permite aprender rapidamente algumas tarefas diversas como dirigir, atuar e entre outras. Em níveis altos a Astúcia te torna extremamente orgulhoso com suas capacidades de conseguir fazer tarefas que exijam certa habilidade, o que faz você subestimar o nível de dificuldade de algumas e tentar pode significar as vezes sérias consequências. Em níveis baixos, no entanto, você não terá quase nenhuma skill ou habilidade fora as básicas, te tornando bastante limitado.
 - **Moderação:** *"Mantenha o equilíbrio em meio ao caos; controle seus extremos antes que eles o controlem."* Moderação é a habilidade de controlar reações intensas que podem surgir internamente. É a arte de manter o equilíbrio mental diante de situações extremas. Quando sua Moderação está desenvolvida, você é capaz de regular impulsos poderosos, mantendo a calma mesmo sob pressão. Isso significa não apenas controlar suas emoções, mas também gerenciar habilidades físicas ou mentais que, em excesso, poderiam se tornar prejudiciais. Em seu ápice, a Moderação transforma você em um mestre do autocontrole, capaz de enfrentar desafios sem ser dominado por emoções intensas. No entanto, o excesso de autocontrole pode levar a uma segurança excessiva, tornando difícil para você tomar ações arriscadas ou agir em seu extremo quando necessário. Por outro lado, com níveis baixos de Moderação, você pode ser vulnerável a explosões emocionais e reações impulsivas, o que pode complicar suas interações sociais e decisões importantes.
 
-#### **Ademais Atributos**:
+### **AEGIS:**
+
+- Canalização: "Torne-se um com a Aegis, seja um canalizador" Canalização é sua capacidade de moldar a realidade com a menor exaustão possível e com a maior efetividade viável, usando a Aegis. Esse atributo define a quantidade de vezes que você consegue expressar a Aegis, sendo simbolizada pelos Pontos Aegis. 
+	
+### **Ademais Atributos**:
 
 - Percepção: *"Reconstrua cenas."* A  percepção ensina você a observar todos os detalhes do cenário. Você também contará muitas pegadas – e, num piscar de olhos, discernirá o tamanho do sapato; bem como a altura e o peso de quem os usou.
 	
 - Defesa: *"Aceite os golpes. Não deixe o mundo te matar."* Defesa é a dificuldade que os outros tem para te ferir. Ela permite sobreviver nesse mundo.
-	
-- Canalização: "Torne-se um com a Aegis, seja um canalizador" Canalização é sua capacidade de moldar a realidade com a menor exaustão possível e com a maior efetividade viável, usando a Aegis. Esse atributo define a quantidade de vezes que você consegue expressar a Aegis, sendo simbolizada pelos Pontos Aegis. 
-	
-- **Pontos de Vida**: São os dados da raça multiplicado pela Força. 
-	
-- **Pontos Aegis**: São iguais ao Modificador de Vigor vezes o modificador de Canalização 
 

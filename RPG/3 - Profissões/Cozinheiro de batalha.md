@@ -27,6 +27,7 @@ Alguns mestres-cucas permanecem fazendo confeitos e doces nos castelos dos nobre
 
 >**Preparo**: Durante a preparação, você deve rolar 1d10 + Mod. Astúcia para determinar se houve algum erro ou contratempo, ou se conseguiu preparar o prato. Além disso, você deve se concentrar no preparo do prato, não podendo realizar outras ações durante esse tempo. Se afastar do alimento por mais de 5 minutos configura um erro crítico. Caso você consiga um erro crítico (um natural) na rolagem, perca todos os ingredientes. Caso consiga um acerto crítico, o alvo que ingerir o prato recebe +2 em um atributo a sua escolha até um descanso longo.
 
+>**Preparo de Mecarnes ou Monstros:** Caso queira o cozinheiro pode preparar um prato com Mecarne ou Monstros para um Inumano comer. Esse prato facilita a *Fagoevolução* do Inumano reduzindo o nível de dificuldade para ela igual ao seu nível de Cozinheiro. O nível de dificuldade para fazer o prato é 10. Mesmo que erre o prato você não perde os ingredientes. O tempo de preparo é 1 hora. Além disso, o inumano recupera 1d6 de sanidade.
 
 >**Categorias dos pratos:**
 >	- **Prato Ruim**: Pratos ruins proporcionam um efeito básico e de curta duração. Estes pratos são fáceis de preparar, mas seus benefícios são limitados. **A dificuldade para preparar é o próprio Mod. de ingrediente:**

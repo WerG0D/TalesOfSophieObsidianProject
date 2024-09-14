@@ -9,6 +9,8 @@ Um vagabundo anda sem rumo pela Árvore, usando uma capa que cobre todo seu corp
 
 >Capaz de usar mecarnes e mestrelas, mas não Aegis.
 
-**Fagoevolução**: Ganhe habilidades a medida que consome monstros. 
-- **Devorar**: Recebe a habilidade de devorar outras criaturas depois de mortas. Recupera 4d8 de vida perdida. Caso o alvo seja um monstro você faz um rolagem de 1d20 + Nível (classe), caso o resultado seja 6 ou superior você adquire UMA habilidade ou característica da criatura. Para cada criatura consumida o nível de dificuldade aumenta +2. Não pode nunca tentar consumir o mesmo espécie de criatura 2x, independente se já teve sua habilidade antes e usou o Involução, ou se acabou de tentar usar o Devorar e falhou no teste.
+#### **Fagoevolução**: Ganhe habilidades a medida que consome monstros. 
+
+- **Devorar**: Recebe a habilidade de devorar outras criaturas e Mecarnes depois de mortas. Recupera 4d8 de vida perdida. Caso o alvo seja um monstro você faz um rolagem de 1d20 + Nível (classe), caso o resultado seja 6 ou superior você adquire UMA habilidade ou característica da criatura. Para cada criatura consumida o nível de dificuldade aumenta +2. Não pode nunca tentar consumir o mesmo espécie de criatura 2x, independente se já teve sua habilidade antes e usou o Involução, ou se acabou de tentar usar o Devorar e falhou no teste. Sempre que usar o devora rode um 1d10, caso o resultado seja maior que o Seu Nível + 2 então perca 1d4 de sanidade.
+	
 - **Involução**: Pode fazer uma rolagem de 1d20 + Nível(classe), caso tire o resultado 15 ou superior pode regurgitar a evolução de um monstro que você tenha consumido, diminuindo a dificuldade de Devorar em -2. Não pode tentar regurgitar a mesma criatura 2x para perder suas habilidades, durante o período de 24h.

@@ -34,7 +34,7 @@ Fadas que usam de seus poderes da árvore. Quando usa muita Magia Proibida se to
 
 
 ----------------------------------------------------------
-# Xamã Profano
+# Campeão Oceânico
 
 ### Level 1:
 
