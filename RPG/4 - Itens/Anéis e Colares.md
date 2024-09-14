@@ -10,4 +10,4 @@ Pode usar até 4 anéis em cada mão e apenas um colar no pescoço. Os atributos
 
 - **Colar: Lágrima de Sereia**: Colar brilhante feito de escamas de sereia, proporcionando +3 em Canalização e +3 em Percepção.
 	
-- **Anel: Escamas de Dragão Oceânico**: Anel brilhante, proporcionando +3 pontos em um atributo da sua escolha. Máximo de 1 por mão.
+- **Anel: Escamas de Dragão Oceânico**: Anel brilhante, proporcionando +2 pontos em um atributo da sua escolha. Máximo de 1 por mão.
