@@ -120,7 +120,7 @@ Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A 
 - **12 ~ 14**: Recebe +2 para **Encontrar Cogumelos**.
 - **16 ~ 18**: Recebe +4 para **Encontrar Cogumelos**.
 - **19+**: Recebe +8 para **Encontrar Cogumelos**.
-
+ 
 ---
 
 **Região de Coleta:** A qualidade do local de coleta influencia as chances de sucesso. O Mestre define a qualidade da região e se existe uma região para coleta:
@@ -168,6 +168,15 @@ Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A 
 - **14+**: O jogador é capaz de identificar as propriedades dos cogumelos que está pegando e a raridade.
 
 -----------------------------------
+
+#### **Tabela de Peixes**:
+
+O valor dos cogumelos varia pela raridade:
+- 1 Porção de Cogumelo Comum: ✹3 ~ 5 (Florim Áureos)
+- 1 Porção de Cogumelo Raro ✹12 ~ 16  (Florim Áureos)
+- 1 Porção de Cogumelo Épico ✹20 ~ 25 (Florim Áureos)
+- 1 Porção de Cogumelo Fantástico ✹85 ~ 100 (Florim Áureos)
+
 ##### Comuns:
 
 | NOME                   | RARIDADE | TAMANHO | COR                              | SABOR                                   | DESCRIÇÃO                                                                                                                  |
