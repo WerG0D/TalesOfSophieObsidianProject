@@ -1,7 +1,7 @@
 ### Itens E.P.T.S (equipamentos para trabalho e segurança):
 
-**Varas de Pesca:**
-- Comum: Você recebe +1 em **Encontra Peixe.** Preço ✹10 ~ 20 (Florim Áureos)
+**Varas de Pesca Adaptada:**
+- Incomum: Você recebe +1 em **Encontra Peixe.** Preço ✹8 ~ 12 (Florim Áureos)
 - Rara: Você recebe +2 em **Encontra Peixe**.  Preço ✹40 ~ 50 (Florim Áureos)
 - Épica: Você recebe +4 em **Encontra Peixe**.  Preço ✹100 ~ 120 (Florim Áureos)
 - Lendária: Você recebe +6 em **Encontra Peixe** e os peixes que você pega são sempre Épicos ou Fantásticos.  Não pode ser achado para comprar
@@ -12,8 +12,8 @@
 - Épica: Você pode pegar até 15 Cogumelos com Veneno do tipo Gás.  Preço ✹25 ~ 45 (Florim Áureos)
 - Lendária: Você pode pegar até infinitos Cogumelos com Veneno do tipo Gás. Não pode ser achado para comprar.
 
-**Luvas:**
-- Comum: Você pode pegar até 1 Cogumelo com Veneno do tipo Toque.  Preço ✹2 ~ 5 (Florim Áureos)
+**Luvas Adaptadas:**
+- Comum: Você pode pegar até 1 Cogumelo com Veneno do tipo Toque.  Preço ✹1 (Florim Áureos)
 
 ### **Pescaria:**
 
@@ -40,7 +40,7 @@ Os valores abaixo são rodados todos pelo Mestre que deve esconde-los do jogador
 - - 13 ~ - 3: Encontra uma Monstro Extremamente Poderoso.
 - - 2 ~ 0: Encontra um Monstro.
 - 1 ~ 5: não encontra nada.
-- 6 ~ 10: Peixe Comum.
+- 6 ~ 10: Peixe Incomum.
 - 11 ~ 15: Peixe Raro.
 - 16: Que azar mais um Monstro Forte.
 - 17 ~ 19: Peixe Épico.
@@ -64,7 +64,7 @@ Os valores abaixo são rodados todos pelo Mestre que deve esconde-los do jogador
 Peixes de peso pequeno rendem meia porção, peixes médios rendem uma, peixes grandes rendem 2 porções, peixes enormes rendem 4 porções e peixes enormes rendem 10 porções.
 
 O valor dos peixes varia pela raridade:
-- 1 Porção de Peixe Comum: ✹1 ~ 3 (Florim Áureos)
+- 1 Porção de Peixe Incomum: ✹1 ~ 3 (Florim Áureos)
 - 1 Porção de Peixe Raro ✹8 ~ 12  (Florim Áureos)
 - 1 Porção de Peixe Épico ✹15 ~ 25 (Florim Áureos)
 - 1 Porção de Peixe Fantástico ✹75 ~ 150 (Florim Áureos)
@@ -72,16 +72,16 @@ O valor dos peixes varia pela raridade:
 
 | NOME                     | RARIDADE | PESO    | COR                                | SABOR                                   | DESCRIÇÃO                                                                                                                                  |
 | ------------------------ | -------- | ------- | ---------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Truta Cinzenta**       | Comum    | Médio   | Cinza e Prata                      | Sabor suave, levemente terroso          | A Truta Cinzenta é um peixe de água doce comum encontrado em rios e lagos, conhecido por sua carne tenra e fácil de pescar.                |
-| **Peixe-lua**            | Comum    | Grande  | Azul claro                         | Sabor neutro, com textura firme         | Grande e majestoso, o Peixe-lua é uma visão comum nas águas costeiras, embora sua carne seja menos apreciada devido à sua textura fibrosa. |
-| **Cavalinha Brilhante**  | Comum    | Pequeno | Verde e Prata                      | Sabor forte, ligeiramente oleoso        | Um peixe de águas costeiras muito usado em refeições rápidas. Sua carne é fácil de cozinhar, porém tem um sabor intenso.                   |
-| **Bagre-de-Lama**        | Comum    | Grande  | Marrom escuro                      | Sabor terroso, com leve amargor         | Habitante de águas turvas e lamacentas, esse peixe é considerado alimento básico nas aldeias ribeirinhas. Seu sabor é simples e rústico.   |
-| **Tetra-das-Correntes**  | Comum    | Pequeno | Cinza-escuro com listras prateadas | Suave, com leve toque de amargor        | Um peixe encontrado em rios de correnteza, conhecido por sua carne leve e usada em pratos simples.                                         |
-| **Pampo-Riscado**        | Comum    | Pequeno | Amarelo-pálido com listras brancas | Levemente salgado, textura delicada     | Comum em áreas costeiras, seu sabor sutil o torna um peixe básico em receitas do cotidiano.                                                |
-| **Sardinha-das-Marés**   | Comum    | Pequeno | Prata com tons de azul             | Suave e levemente salgado               | Muito usada em conservas, esta sardinha é pescada em grande quantidade nos mares tropicais.                                                |
-| **Bagre-Pedra**          | Comum    | Gigante | Cinza com manchas marrons          | Terroso, com textura firme              | Este peixe pesado é encontrado no fundo de rios lamacentos, sua carne é densa e nutritiva, muito utilizado para ensopados rústicos.        |
-| **Carpa do Pântano**     | Comum    | Médio   | Verde-oliva com manchas negras     | Sabor levemente amargo, textura fibrosa | Uma carpa resistente que vive em águas paradas e lamacentas. Muito comum em pântanos e zonas alagadas.                                     |
-| **Robalo das Correntes** | Comum    | Médio   | Prateado com reflexos azulados     | Sabor suave, com toques de mar          | Encontrado em rios de águas rápidas, este peixe é muito valorizado por sua carne leve e saborosa.                                          |
+| **Truta Cinzenta**       | Incomum  | Médio   | Cinza e Prata                      | Sabor suave, levemente terroso          | A Truta Cinzenta é um peixe de água doce comum encontrado em rios e lagos, conhecido por sua carne tenra e fácil de pescar.                |
+| **Peixe-lua**            | Incomum  | Grande  | Azul claro                         | Sabor neutro, com textura firme         | Grande e majestoso, o Peixe-lua é uma visão comum nas águas costeiras, embora sua carne seja menos apreciada devido à sua textura fibrosa. |
+| **Cavalinha Brilhante**  | Incomum  | Pequeno | Verde e Prata                      | Sabor forte, ligeiramente oleoso        | Um peixe de águas costeiras muito usado em refeições rápidas. Sua carne é fácil de cozinhar, porém tem um sabor intenso.                   |
+| **Bagre-de-Lama**        | Incomum  | Grande  | Marrom escuro                      | Sabor terroso, com leve amargor         | Habitante de águas turvas e lamacentas, esse peixe é considerado alimento básico nas aldeias ribeirinhas. Seu sabor é simples e rústico.   |
+| **Tetra-das-Correntes**  | Incomum  | Pequeno | Cinza-escuro com listras prateadas | Suave, com leve toque de amargor        | Um peixe encontrado em rios de correnteza, conhecido por sua carne leve e usada em pratos simples.                                         |
+| **Pampo-Riscado**        | Incomum  | Pequeno | Amarelo-pálido com listras brancas | Levemente salgado, textura delicada     | Comum em áreas costeiras, seu sabor sutil o torna um peixe básico em receitas do cotidiano.                                                |
+| **Sardinha-das-Marés**   | Incomum  | Pequeno | Prata com tons de azul             | Suave e levemente salgado               | Muito usada em conservas, esta sardinha é pescada em grande quantidade nos mares tropicais.                                                |
+| **Bagre-Pedra**          | Incomum  | Gigante | Cinza com manchas marrons          | Terroso, com textura firme              | Este peixe pesado é encontrado no fundo de rios lamacentos, sua carne é densa e nutritiva, muito utilizado para ensopados rústicos.        |
+| **Carpa do Pântano**     | Incomum  | Médio   | Verde-oliva com manchas negras     | Sabor levemente amargo, textura fibrosa | Uma carpa resistente que vive em águas paradas e lamacentas. Muito comum em pântanos e zonas alagadas.                                     |
+| **Robalo das Correntes** | Incomum  | Médio   | Prateado com reflexos azulados     | Sabor suave, com toques de mar          | Encontrado em rios de águas rápidas, este peixe é muito valorizado por sua carne leve e saborosa.                                          |
 
 ##### Raros:
 
@@ -155,10 +155,10 @@ Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A 
 
 - **- 13 ~ - 4**: Encontra um **Ente Adormecido** que acorda por sua causa.
 - **- 3 ~ 1**: Encontra Cogumelo Venenoso.
-- **2 ~ 5**: Não encontra nada.
-- **6 ~ 10**: Cogumelo Comum.
-- **11 ~ 15**: Cogumelo Raro.
-- **16**: Cogumelo Venenoso.
+- **2 ~ 6**: Não encontra nada.
+- **7 ~ 10**: Cogumelo Incomum.
+- **11 ~ 14**: Cogumelo Raro.
+- **15 ~ 16**: Cogumelo Venenoso.
 - **17 ~ 19**: Cogumelo Épico.
 - **20 ~ 25**: Cogumelo Fantástico.
 - **26+**: Encontra 4 cogumelos (jogue um 1d4, quatro vezes, para determinar as raridades (1- Comum, 2- Raro, 3 - Épico e 4 - Fantástico), sendo que o de menor raridade automaticamente se torna Fantástico).
@@ -178,31 +178,43 @@ Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A 
 
 **Testando a Segurança**: Ao tentar coletar um cogumelo (tem uma chance de ter outros por perto), o jogador deve fazer um teste de **Erudição** para identificar se o cogumelo é seguro. Jogue 1d10 + Erudição :
 
-- **1 ~ 7**: O jogador não consegue distinguir nenhum dos cogumelos que está pegando se é venenoso ou não.
-- **8 ~ 10**: O jogador consegue distinguir um dos cogumelos como venenoso ou não.
-- **11 ~ 13**: O jogador consegue distinguir com segurança entre cogumelos venenosos e comestíveis.
+- **1 ~ 8**: O jogador não consegue distinguir nenhum dos cogumelos que está pegando se é venenoso ou não.
+- **9 ~ 13**: O jogador consegue distinguir com segurança entre cogumelos venenosos e comestíveis.
 - **14+**: O jogador é capaz de identificar as propriedades dos cogumelos que está pegando e a raridade.
 
 -----------------------------------
 
-#### **Tabela de Peixes**:
+#### **Tabela de Cogumelos**:
 
-O valor dos cogumelos varia pela raridade:
-- 1 Porção de Cogumelo Comum: ✹3 ~ 5 (Florim Áureos)
+O valor dos cogumelos varia pela raridade, lembrando que cogumelos pequenos são meia porção, os médios uma porção inteira e os grandes 2 porções:
+- 1 Porção de Cogumelo Incomum: ✹2 ~ 3 (Florim Áureos)
 - 1 Porção de Cogumelo Raro ✹12 ~ 16  (Florim Áureos)
 - 1 Porção de Cogumelo Épico ✹20 ~ 25 (Florim Áureos)
 - 1 Porção de Cogumelo Fantástico ✹85 ~ 100 (Florim Áureos)
+
+O jogador pode tentar retirar um cogumelo diretamente do solo caso fique com suspeitas dele ser venenoso, uma tarefa que exige ir com cuidado, demanda um processo de 10 a 30 minutos dependendo do seu *Tamanho*. Contudo, caso o cogumelo tenha Raízes Grandes e seja do tipo gás ou explosivo tentar cortar sua raízes ativara seu mecanismo de defesa.
+##### Venenosos:
+
+| NOME                            | RARIDADE   | TAMANHO                   | COR                         | TIPO      | DESCRIÇÃO                                                                                                                                                      |
+| ------------------------------- | ---------- | ------------------------- | --------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Véu-da-Penumbra**             | Fantástico | Pequeno de raízes curtas  | Branco cromático brilhante  | Toque     | Cogumelo extremamente raro, encontrado em lugares altos que existe magia permeando. Quando tocado libera toxinas na pele que causam 2d8 + 15 de dano venenoso. |
+| **Amante Trovão**               | Épico      | Grande de raízes curtas   | Variável                    | Explosivo | Cogumelo raro, encontrado em montanhas. Quando tocado explode causando 12d4 + 12 de dano elétrico.                                                             |
+| **Doce Máscara**                | Raro       | Grande de raízes curtas   | Variável                    | Gás       | Cogumelo incomum, encontrado em cavernas. Quando tocado espirra toxinas no ar que quando inaladas causam 4d6 + 6 de dano venenoso.                             |
+| **Andromida**                   | Raro       | Pequeno de raízes grandes | Variável                    | Gás       | Cogumelo incomum, encontrado próximo a frestas de roxas. Quando tocado espirra toxinas no ar que quando inaladas causam 6d4 + 4 de dano venenoso.              |
+| **Cogumelo do Fogo Vivo Falso** | Incomum    | Grande de raízes grandes  | Vermelho com veios laranja  | Toque     | Cogumelo comum, encontrado em florestas. Quando tocado libera toxinas na pele que causam 3d8 + 8 de dano venenoso.                                             |
+| **Véu-da-Penumbra-Falsa**       | Incomum    | Pequeno de raízes grandes | Branco cromático brilhante  | Explosivo | Cogumelo comum, encontrado em florestas. Quando tocado explode causando 3d10 + 10 de dano fogo.                                                                |
+| **Fungo Estelar Falso**         | Épico      | Pequeno de raízes grandes | Branco com pontas luminosas | Toque     | Cogumelo raro, encontrado próximo a corpo d'água. Quando tocado libera toxinas na pele que causam 1d8 + 20 de dano venenoso.                                   |
 
 ##### Comuns:
 
 | NOME                   | RARIDADE | TAMANHO | COR                              | SABOR                                   | DESCRIÇÃO                                                                                                                  |
 | ---------------------- | -------- | ------- | -------------------------------- | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Champignon Comum**   | Comum    | Pequeno | Branco                           | Sabor suave, terroso                    | Cogumelo muito comum, encontrado em florestas temperadas. Utilizado em várias receitas.                                    |
-| **Shiitake Selvagem**  | Comum    | Médio   | Marrom                           | Sabor forte, terroso, amadeirado        | Cogumelo com sabor marcante, encontrado em áreas florestais. Sua textura é firme.                                          |
-| **Amanita Branca**     | Comum    | Pequeno | Branco puro                      | Sabor suave, mas requer preparo         | Um cogumelo delicado encontrado em bosques úmidos, necessita de preparo adequado para consumo seguro.                      |
-| **Fungo-da-Névoa**     | Comum    | Pequeno | Cinza pálido                     | Sabor neutro, com leve toque de umidade | Pequeno cogumelo comum em pântanos e áreas nebulosas, sua carne é utilizada em sopas leves.                                |
-| **Cogumelo-Pedra**     | Comum    | Médio   | Cinza escuro, com textura rígida | Sabor amargo e firme                    | Um cogumelo resistente, encontrado em áreas rochosas. Seu preparo exige cozimento prolongado para amaciar sua carne densa. |
-| **Cogumelo-do-Bosque** | Comum    | Pequeno | Marrom claro                     | Sabor amadeirado e suave                | Cogumelo típico de florestas, utilizado em diversos pratos rústicos. Fácil de encontrar em bosques densos.                 |
+| **Champignon Comum**   | Incomum  | Pequeno | Branco                           | Sabor suave, terroso                    | Cogumelo muito comum, encontrado em florestas temperadas. Utilizado em várias receitas.                                    |
+| **Shiitake Selvagem**  | Incomum  | Médio   | Marrom                           | Sabor forte, terroso, amadeirado        | Cogumelo com sabor marcante, encontrado em áreas florestais. Sua textura é firme.                                          |
+| **Amanita Branca**     | Incomum  | Pequeno | Branco puro                      | Sabor suave, mas requer preparo         | Um cogumelo delicado encontrado em bosques úmidos, necessita de preparo adequado para consumo seguro.                      |
+| **Fungo-da-Névoa**     | Incomum  | Pequeno | Cinza pálido                     | Sabor neutro, com leve toque de umidade | Pequeno cogumelo comum em pântanos e áreas nebulosas, sua carne é utilizada em sopas leves.                                |
+| **Cogumelo-Pedra**     | Incomum  | Médio   | Cinza escuro, com textura rígida | Sabor amargo e firme                    | Um cogumelo resistente, encontrado em áreas rochosas. Seu preparo exige cozimento prolongado para amaciar sua carne densa. |
+| **Cogumelo-do-Bosque** | Incomum  | Pequeno | Marrom claro                     | Sabor amadeirado e suave                | Cogumelo típico de florestas, utilizado em diversos pratos rústicos. Fácil de encontrar em bosques densos.                 |
 
 ##### Raro:
 
@@ -211,9 +223,9 @@ O valor dos cogumelos varia pela raridade:
 | **Cogumelo-Espectral** | Raro     | Médio   | Azul pálido, translúcido       | Sabor refrescante, com toque de ervas | Encontra-se em florestas mágicas e é conhecido por suas propriedades curativas leves.                                      |
 | **Morel Ancião**       | Raro     | Médio   | Marrom claro, formato estranho | Sabor rico e terroso                  | Raro e cobiçado, o Morel cresce em regiões específicas e tem um sabor profundo e único.                                    |
 | **Lágrima de Elfo**    | Raro     | Pequeno | Verde brilhante                | Sabor refrescante, mentolado          | Cogumelo raro que brilha levemente no escuro, com propriedades curativas mágicas moderadas.                                |
-| **Véu-da-Sombra**      | Raro     | Pequeno | Preto com bordas cinzentas     | Sabor levemente amargo                | Encontrado em áreas sombrias, este cogumelo é utilizado para criar poções que aumentam a furtividade por um curto período. |
+| **Véu-da-Sombra**      | Raro     | Pequeno | Branco cromático brilhante     | Sabor levemente amargo                | Encontrado em áreas sombrias, este cogumelo é utilizado para criar poções que aumentam a furtividade por um curto período. |
 | **Cálice Dourado**     | Raro     | Médio   | Amarelo brilhante              | Sabor doce e terroso                  | Cogumelo raro que cresce em clareiras iluminadas pelo sol. Seus esporos são altamente valiosos para poções de vitalidade.  |
-| **Olho-de-Corvo**      | Raro     | Pequeno | Preto profundo                 | Sabor ácido                           | Um cogumelo que floresce em noites de lua nova, com propriedades que aumentam a percepção durante a noite.                 |
+| **Olho-de-Corvo**      | Raro     | Pequeno | Branco cromático brilhante     | Sabor ácido                           | Um cogumelo que floresce em noites de lua nova, com propriedades que aumentam a percepção durante a noite.                 |
 
 ##### Épico:
 

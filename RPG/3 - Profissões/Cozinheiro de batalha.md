@@ -4,11 +4,11 @@ Alguns mestres-cucas permanecem fazendo confeitos e doces nos castelos dos nobre
 
 ### Ingredientes
 
->Os ingredientes do cozinheiro de batalha existem em 3 categorias, carboidratos, proteínas e vegetais/legumes/Frutas.
+>Os ingredientes do cozinheiro de batalha existem em 3 categorias, carboidratos, proteínas e vegetais/cogumelos/Frutas.
 >
 >	**-Carboidratos**: Batata, Arroz, massas em geral (a exemplos de pão, macarrão, bolos, etc)
 >	-**Proteínas**: Restringidos a todos os tipos de carnes. Literalmente qualquer coisa que seja carne, a exemplos de: Carne de boi, Carne de ovelha, Carne de **humanoides**, Carne de monstros do véu.
->	-**Vegetais/Legumes/Frutas**: Basicamente tudo o que cresce no chão ou dá em árvores, com exceção da batata e do arroz. A exemplos de raízes em geral, brócolis, alface, maçãs, etc.  
+>	-**Vegetais/Cogumelos/Frutas**: Basicamente tudo o que cresce no chão ou dá em árvores, com exceção da batata e do arroz. A exemplos de raízes em geral, brócolis, alface, maçãs, etc.  
 
 > Os ingredientes também tem níveis de exotismo, ou seja, o quão exóticos e raros eles são. O mestre de jogo deve definir o ingrediente nessas categorias:
 > 
@@ -20,6 +20,8 @@ Alguns mestres-cucas permanecem fazendo confeitos e doces nos castelos dos nobre
 #### **Level 1:**
 
 >**Pau pra toda obra**: Recebe +2 em atributos a sua escolha, além disso você pode escolher um atributo para ter seu limite aumentado a 22.
+
+>**Cozinheiro Inspirado:** Caso você esteja a um tempo cozinhando um mesmo tipo de alimento (por exemplo de pratos com proteína sempre usar o peixe) você recebe um ponto de inspiração caso varie o ingrediente em um de outro tipo, mas que seja de alta qualidade.
 
 >**Mestre da Mesa**: Substitua a Reação pela Astúcia para determinar a iniciativa. Suas habilidades engenhosas te permitem manter a calma sob pressão garante que você possa responder rapidamente a emergências em combate, como preparar pratos de cura ou misturas defensivas. 
 

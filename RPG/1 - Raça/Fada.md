@@ -16,14 +16,14 @@ Um foragido se esconde dentro de uma carroça que transporta palha. O motivo? o 
 
 -----------------------------------------
 
-Caso você seja da classe Xamã e se torne um Xamã Profano, ou caso faça algo muito ruim a Árvore, você perde todas essas habilidades e as substitui pelas seguintes:
+Caso você seja da classe Campeão da Anciã e se torne um Campeão Oceânico, ou caso faça algo muito ruim a Árvore, você perde todas essas habilidades e as substitui pelas seguintes:
 
-- **Absorver Mortalidade:** Absorve a energia de um indivíduo incapacitado. Recupera 1 de sanidade e 1 ponto Aegis. Demora um turno para absorver a energia. Pode usar essa habilidade até 5 vezes por dia.
-	
- - **Marca Amaldiçoada**: Anjos e outras Fadas sentem sua presença por causa da marca mesmo que a distância, você não consegue se esconder deles mesmo quando ela estiver em seu corpo mesmo com invisibilidade. 
-	
-**Magia Profana:** Você tem 8 pontos Aegis no nível 1, ganha mais 1 ponto por nível. Além disso recebe as seguintes habilidades:
-	
-- **Esconder Marca:** Pode tentar selar as tatuagens que te marcam por 10 minutos, assim parecendo um humano comum até mesmo para anjos. Contudo todos que te vejam podem fazer um teste de Percepção para notar que as marcas estão seladas.
-	
-- **Ataque Louco e Maldito:** Durante 4 turnos seus ataques causam dano adicional igual a metade da sua sanidade perdida (até no máximo 30). Efeito não cumulativo.
+**Absorver Mortalidade:** Absorve a energia de um indivíduo incapacitado. Recupera 1 de sanidade e 1 ponto Aegis. Demora um turno para absorver a energia. Pode usar essa habilidade até 5 vezes por dia.
+
+**Marca Amaldiçoada**: Anjos e outras Fadas sentem sua presença por causa da marca mesmo que a distância, você não consegue se esconder deles mesmo quando ela estiver em seu corpo mesmo com invisibilidade. 
+
+**Magia Profana:** Você tem 8 pontos Aegis no nível 1, ganha mais 1 ponto por nível.
+
+**Esconder Marca:** Pode tentar selar as tatuagens que te marcam por 10 minutos, assim parecendo um humano comum até mesmo para anjos. Contudo todos que te vejam podem fazer um teste de Percepção para notar que as marcas estão seladas.
+
+**Ataque Louco e Maldito:** Em troca de 10 pontos de Aegis, durante 2 turnos seus ataques causam dano adicional igual a metade da sua sanidade perdida (até no máximo 30). Efeito não cumulativo. 

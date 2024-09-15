@@ -1,11 +1,12 @@
 Níveis de Dificuldade para Testes:
-- Muito Fácil: 1
-- Fácil: 2
-- Médio: 4
+- Fácil: 3
+- Médio: 5
 - Complicado: 8
 - Difícil: 12
 - Impossível: 16
 - Divino: 20
+
+**Teste de Perícia:** 1d10 + Perícia (caso tenha proficiência nela).
 
 Observação: Caso o indivíduo não tenha a perícia do teste em questão ele deve rodar apenas o 1d10 e caso a dificuldade seja complicado ou superior ele deve fazer o teste 2x e passar em ambas.
 
