@@ -78,13 +78,13 @@ Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer
 
 #### *Level 1:* O Senhor da Loucura
 	
-- **Tentáculos Implacáveis:** Pode transformar um de seus membros em um longo tentáculo que podem ser usados para escalar superfícies, grudar em paredes ou atacar causando 2d10 + Força como dano. No níveis 3 pode transformar seus 2 membros permitindo atacar duas vezes por turno com eles.
+- **Tentáculos Implacáveis:** Pode transformar um de seus membros em um longo tentáculo que podem ser usados para escalar superfícies, grudar em paredes ou atacar causando 2d10 + Força como dano e fazendo ele perder 1d8 de sanidade. No níveis 3 pode transformar seus 2 membros permitindo atacar duas vezes por turno com eles.
 	
 - **Controle Mental:** Pode influenciar um indivíduo a até 6m de você mentalmente por 2 horas. Pode influenciar apenas um alvo por vez. O indivíduo pode fazer um teste de Inalterabilidade todo turno para escapar. Ele joga 1d8 + Inalterabilidade, devendo superar o valor de 4 + Mod. de Influência do bruxo, contudo caso o Bruxo dê uma ordem nociva para o próprio alvo ou aliados dele ele tem vantagem e +3 no teste. No nível 6 você pode influenciar até 2 alvos.
 	
 - **Insanidade Pura:** Reduz a Inteligência de um alvo a até 6m de você para 0 durante 2 turnos. Ele vai ficar parado e não pode sofrer influência mental. Para resistir a isso, o alvo deve jogar 2 + 1d10 + Inalterabilidade devendo superar 10, só pode resistir no momento que a habilidade for conjurada contra ele.
 	
-- **Está no meu Sangue, ELE fala comigo HAHAHAH:** Sua sanidade reduz automaticamente para 50, contudo sempre que você for perder sanidade agora reduz a quantidade perdida em 10 *(exceto* em *Paraíso do Delírio, da Demência e da Insanidade*). Dormir ou realizar um descanso longo te faz recuperar 20 de sanidade.
+- **Está no meu Sangue, ELE fala comigo HAHAHAH:** Sua sanidade reduz automaticamente para 50, contudo sempre que você for perder sanidade agora reduz a quantidade perdida em 10 *(exceto* em *Paraíso do Delírio, da Demência e da Insanidade*). Dormir ou realizar um descanso longo te faz recuperar 20 de sanidade. Além disso, você não recebe dano psíquico.
 	
 - **Não Entendo Vocês Mortais:** Recebe -3 em Raciocínio e Moderação.
 	
@@ -102,13 +102,13 @@ Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer
 	- 1 - Você perde 10 de sanidade.
 	- 2 - Você perde 5 de sanidade.
 	- 3 - Não acontece nada.
-	- 4 - Você recebe 5d10 de dano psíquico.
-	- 5 - Você recebe 3d10 de dano psíquico.
+	- 4 - Você recebe 5d10 de dano psíquico. Você não recebe esse dano.
+	- 5 - Você recebe 3d10 de dano psíquico. Você não recebe esse dano.
 	- 6 - Você perde 3 de Inalterabilidade até seu próximo descanso longo.
 	- 7 - Você perde 10 de sanidade.
 	- 8 - Não acontece nada.
 	- 9 - Você perde 5 de sanidade.
-	- 10 - Você recebe 8d10 de dano psíquico.
+	- 10 - Você recebe 8d10 de dano psíquico. Você não recebe esse dano.
 	
 - **ECOLHA LENDÁRIA**:
 	
@@ -187,4 +187,4 @@ Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer
 	
 
 
-### ***Malditos:***
+## ***Malditos:***

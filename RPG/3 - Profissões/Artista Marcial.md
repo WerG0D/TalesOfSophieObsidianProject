@@ -1,4 +1,4 @@
-```
+ ```
 Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada, lança, ou seus próprios punhos, você luta sempre com sua mente e coração sintonizados. 
 ```
 
