@@ -1,35 +1,19 @@
 {
   "main": {
-    "id": "2814190bb2cee52c",
+    "id": "19e7bde070a4f3c2",
     "type": "split",
     "children": [
       {
-        "id": "46578fd2b1f10ef7",
+        "id": "1e35f691b80585a9",
         "type": "tabs",
         "children": [
           {
-            "id": "28d95a0825dcf8cc",
+            "id": "6175fe337c47c91c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "RPG/4 - Itens/Poções.md",
-=======
-                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "703113fbb49b5999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RPG/3 - Profissões/Cozinheiro de batalha.md",
->>>>>>> 9d2293d5e2329e18b3e90de6f6822aafc0f403ca
+                "file": "RPG/3 - Profissões/Campeão da Anciã.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "36a0bebfc0e85c49",
+    "id": "da22ad4de6bde1b6",
     "type": "split",
     "children": [
       {
-        "id": "a247ebb300283cc5",
+        "id": "7f92c8b32f39d8d4",
         "type": "tabs",
         "children": [
           {
-            "id": "eb45bebb065f2252",
+            "id": "7634633fcc5a0763",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +43,7 @@
             }
           },
           {
-            "id": "7f7ffacc4683a7cb",
+            "id": "809f7c3093a5b389",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +58,7 @@
             }
           },
           {
-            "id": "f78c7b8a94d6c23b",
+            "id": "9bbaeed94e7f4e22",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,27 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 300
   },
   "right": {
-    "id": "6f070939e06f5422",
+    "id": "f005bcd4a5f6b84f",
     "type": "split",
     "children": [
       {
-        "id": "1afc5e64103cf2b5",
+        "id": "ada7cf1dc612c174",
         "type": "tabs",
         "children": [
           {
-            "id": "45223a2ba365987d",
+            "id": "4da6f95cc56d15b8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "RPG/4 - Itens/Poções.md",
-=======
-                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
->>>>>>> 9d2293d5e2329e18b3e90de6f6822aafc0f403ca
+                "file": "RPG/3 - Profissões/Campeão da Anciã.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,23 +97,19 @@
             }
           },
           {
-            "id": "6d43e0329c7bcdd3",
+            "id": "bb31403a63dcd4b1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "RPG/4 - Itens/Poções.md",
-=======
-                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
->>>>>>> 9d2293d5e2329e18b3e90de6f6822aafc0f403ca
+                "file": "RPG/3 - Profissões/Campeão da Anciã.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3308b4a7c90d2bba",
+            "id": "da7b4acc260fca89",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,16 +120,12 @@
             }
           },
           {
-            "id": "a677048dff929db3",
+            "id": "b3a41768dcf4704f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "RPG/4 - Itens/Poções.md"
-=======
-                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md"
->>>>>>> 9d2293d5e2329e18b3e90de6f6822aafc0f403ca
+                "file": "RPG/3 - Profissões/Campeão da Anciã.md"
               }
             }
           }
@@ -174,92 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28d95a0825dcf8cc",
+  "active": "6175fe337c47c91c",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
     "RPG/3 - Profissões/Cozinheiro de batalha.md",
-    "RPG/1 - Raça/Inumano.md",
-    "RPG/3 - Profissões/Artista Marcial.md",
-    "RPG/1 - Raça/Humano.md",
-    "RPG/1 - Raça/Meio-Sereia.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
-    "RPG/6 - Sistema/Perícias.md",
     "RPG/3 - Profissões/Bruxo.md",
-    "RPG/3 - Profissões/Pesquisador de Batalha.md",
-    "RPG/3 - Profissões/Campeão da Anciã.md",
-    "RPG/1 - Raça/Zytherin.md",
-=======
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
-    "RPG/1 - Raça/Inumano.md",
-    "RPG/1 - Raça/Meio-Sereia.md",
-    "RPG/1 - Raça/Zytherin.md",
-    "RPG/3 - Profissões/Artista Marcial.md",
->>>>>>> 9d2293d5e2329e18b3e90de6f6822aafc0f403ca
-    "RPG/3 - Profissões/Assassino.md",
-    "RPG/3 - Profissões/Atirador.md",
-    "RPG/3 - Profissões/Bruxo.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
-    "RPG/6 - Sistema/Talentos.md",
-    "RPG/6 - Sistema/Criação de Personagem.md",
-    "RPG/1 - Raça/Fada.md",
-<<<<<<< HEAD
-    "RPG/4 - Itens/Armas a Distância.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes/Mecarnes.md",
-    "RPG/4 - Itens/Poções.md",
-    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
-    "RPG/4 - Itens/Armaduras.md",
-    "RPG/3 - Profissões/Pirata.md",
-    "RPG/6 - Sistema/Atributos.md",
-    "RPG/4 - Itens/Anéis, Pulseiras e Colares.md",
-    "RPG/3 - Profissões/Guerreiro.md",
-    "RPG/2 - Ancestralidades/Thalassano.md",
-    "RPG/2 - Ancestralidades/Sem Pátria.md",
-=======
-    "RPG/3 - Profissões/Cozinheiro de batalha.md",
-    "RPG/1 - Raça/Humano.md",
-    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
-    "RPG/4 - Itens/Poções.md",
-    "RPG/6 - Sistema/Subindo de Grau.md",
-    "RPG/6 - Sistema/Testes de Resistência.md",
-    "RPG/3 - Profissões/Pirata.md",
-    "RPG/3 - Profissões/Pesquisador de Batalha.md",
-    "RPG/3 - Profissões/Guerreiro.md",
-    "RPG/3 - Profissões/Campeão da Anciã.md",
-    "RPG/2 - Ancestralidades/Cracano.md",
-    "RPG/2 - Ancestralidades/Radilhante.md",
-    "Eldoria/Eldoria - Time Line.canvas",
-    "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
-    "Images/Misc/golden ether.jpg",
->>>>>>> 9d2293d5e2329e18b3e90de6f6822aafc0f403ca
-    "Images/Misc/Zytherin_image.png",
-    "RPG/6 - Sistema/Sistema de cansaço.md",
-    "Images/Misc/Pasted image 20240914015241.png",
-    "Images/Game Map/sophie_movement_behavior.png",
-    "Images/Misc/Pasted image 20240914015750.png",
-    "Images/Misc/Pasted image 20240914015610.png",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas",
-    "RPG/3 - Profissões",
-    "RPG/6 - Sistema",
-    "RPG/5 - Aegis",
-    "Panteão/Deuses",
-    "Panteão/A Guerra dos Divinos",
-    "Eldoria/Planos de existência",
-    "Eldoria/Aegis",
-    "Eldoria/Eldoria - Visão Geral.canvas",
-    "Árvore Anciã/Raças/Raças visão geral.canvas",
-    "Images/Filhos do céu/cc326d3bd4ebefa7b04aad147dafdfa7.jpg",
-    "Images/Filhos do céu/bc573c10618beeb9ad5dd17df4cd532f.jpg",
-    "Images/Filhos do céu/2be7f59214051c6fe6854058bc1748ea.jpg",
-    "Images/Filhos do céu/4c9e6fb554c8168764254cda2da35500.jpg",
-    "Tales of Sophie/Mechanics/RPG MECHANICS.canvas",
-    "Tales of Sophie/Mechanics/Weather System.canvas",
-    "Tales of Sophie/Mechanics/Core Mechanics.canvas",
-    "Tales of Sophie/Mechanics/Combat Mechanics.canvas",
-    "Tales of Sophie/Mechanics/Chains - Hook.canvas",
-    "Tales of Sophie/Level & Map Design/Ancient Tree level design.canvas",
-    "Tales of Sophie/Weather System.canvas"
+    "RPG/1 - Raça/Meio-Sereia.md"
   ]
 }

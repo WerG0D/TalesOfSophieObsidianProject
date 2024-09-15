@@ -1,18 +1,34 @@
 ## Lore e características: 
 
->Meio-Sereias são 
+A raça das **Meio-Sereias** é envolta em mistério e fascínio, nascida do cruzamento entre sereias e humanos. Vivendo à beira do mundo aquático e terrestre, essas criaturas vagam entre as ondas do oceano e as costas desertas, sempre à espreita, buscando interações com as civilizações humanas enquanto mantêm sua verdadeira natureza oculta. 
 
-- Características
-	- Possuem aparência de 
+Sua existência é marcada por uma dualidade constante: o desejo de viver entre os humanos, utilizando seus dons sedutores, e a necessidade de retornar ao oceano para manter sua vitalidade e conexão espiritual com o mar. 
 
+Entretanto, a vida dessas criaturas é curta e marcada pela urgência da sobrevivência. Elas precisam absorver a vitalidade de outros seres através de encontros íntimos, um processo que prolonga suas vidas à custa de suas vítimas. Aqueles que falham em manter essa prática inevitavelmente sucumbem à exaustão e, eventualmente, à morte. Por isso, as Meio-Sereias caminham sempre em uma linha tênue entre a necessidade de alimentar-se e o desejo de viver entre os humanos sem serem descobertas.
 
+### Características Físicas:
+
+- **Metade Superior Humanoide:**  
+    A metade superior das Meio-Sereias é, à primeira vista, indistinguível da de um humano comum. Elas têm uma beleza inegável, seus traços são hipnotizantes, com olhos que parecem conter o brilho de mil luas refletidas no mar, e vozes tão suaves e encantadoras quanto o som das ondas. No entanto, com seu poder de **Visitante Transmorfo**, elas podem modificar essa aparência, adaptando-se para atrair ou se esconder entre diferentes povos.
+    
+- **Metade Inferior Monstruosa:**  
+    Enquanto a parte superior de seu corpo é deslumbrante, a parte inferior revela a verdadeira natureza monstruosa das Meio-Sereias. Seu corpo abaixo da cintura é coberto por escamas grossas e escuras, semelhantes às de um predador marinho, e, em vez de pernas, elas possuem uma cauda forte e sinuosa, com barbatanas afiadas que cortam a água com facilidade. Aqueles que veem essa parte de seu corpo sentem uma repulsa visceral, fruto de séculos de mitos e medos sobre criaturas abissais.
+    
+- **Olhos do Oceano:**  
+    Seus olhos, independentemente da forma que tomem, sempre têm um brilho intenso que reflete a luz do mar. Essa característica única é tanto uma bênção quanto uma maldição, já que aqueles que olham profundamente em seus olhos podem se sentir atraídos para um abismo de mistério e sedução.
+    
+- **Cabelos Fluídos:**  
+    Seus cabelos, frequentemente longos e ondulados, parecem sempre estar em movimento, como se estivessem flutuando em água, mesmo quando em terra. Eles podem ter tons que variam do negro profundo ao azul-esverdeado, sempre com um brilho úmido.
+    
+- **Aroma Salgado:**  
+    As Meio-Sereias exalam um leve aroma de sal e maresia. Este cheiro pode ser sedutor para alguns, despertando memórias de aventuras no mar, ou perturbador para outros, trazendo à tona medos do desconhecido e das criaturas que habitam o fundo dos oceanos.
 ## Jogabilidade:
 
 Seu dado de vida é um 3d10, você +2 pontos de atributo para cada nível que subir para distribuir como quiser. Você não pode usar Mestrelas, mas pode usar Aegis.
 
 >**Visitante Transmorfo**: Tem a capacidade de alterar a própria aparência física da metade superior do corpo durante 1 hora. 
 
->**Canto da Sereia:** Pode encantar um alvo que tenha caído em um teste de Sedução seu. Esse alvo vai obedecer suas ordens desde que elas não soem muito ofensivas a ele. Além disso, ele não conseguira ver sua parte inferior do corpo mesmo que ela esteja descoberta ele a enxerga como algo normal.
+>**Canto da Sereia:** Pode encantar um alvo que tenha caído em um teste de Sedução seu. Esse alvo vai obedecer suas ordens desde que elas não soem muito ofensivas a ele. Além disso, ele não conseguira ver sua parte inferior do corpo, mesmo que ela esteja descoberta ele a enxerga como algo normal.
 
 >**Tempo de Vida Curto:** Pelo seu breve tempo de vida você deve se envolver sexualmente com outras criaturas para absorver o tempo de vida delas. Deve fazer isso pelo menos uma vez por semana, caso não faça sofra um ponto de exaustão.
 
