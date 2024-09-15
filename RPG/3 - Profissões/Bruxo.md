@@ -6,7 +6,7 @@ Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Bruxos sã
 
 >Você era apenas um Inumano comum, mas algo no seu sangue despertou e veio até você, você viu uma oportunidade: Você tem em seu sangue algo profano, mas poderoso, então pode firmar um pacto com seu antigo pai, se tornando um filho assumido dele e assim se torna capaz de usar um pouco de sua Aegis, mesmo que outrora não conseguisse.
 
-### ***Onis:*** 
+## ***Onis:*** 
 
 Você descendeu de um dos 7 Demônios conhecidos como 7 Cores. Escolha qual dos 7 você descendeu: _Vermelho, a Ira; Azul, a Morte; Roxo, a Tentação; Amarelo, a Desistência; Branco, a Enganação; Preto, o Caos; ou Verde, a Alma_.
 
@@ -66,11 +66,11 @@ Você descendeu de um dos 7 Demônios conhecidos como 7 Cores. Escolha qual dos 
 ------------------------------------------
 -------------------------------------------------
 
-### ***Calamidades:***
+## ***Calamidades:***
 
 Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer o fim dos tempos. Escolha qual das 3 você descendeu: 
 
-#### **_Kraken_**:
+### **_Kraken_**:
 
 ![[Pasted image 20240914015750.png]]
 
@@ -117,7 +117,7 @@ Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer
 	- **Culto Sangrento:** Inicie um culto em nome de seu pai, adquirindo 2d100 seguidores. Seu culto te dá influencia em várias partes da Árvore anciã.
 	
 
-#### **_Leviatã_**:
+### **_Leviatã_**:
 
 ![[Pasted image 20240914015241.png]]
 
@@ -154,7 +154,7 @@ Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer
 	- **Culto Sangrento:** Inicie um culto em nome de seu pai, adquirindo 2d100 seguidores. Seu culto te dá influencia em várias partes da Árvore anciã.
 	
 
-#### **_Caríbdis_**:
+### **_Caríbdis_**:
 
 ![[Pasted image 20240914015610.png]]
 
@@ -162,21 +162,29 @@ Você descendeu de uma das 3 Calamidades conhecidos como aquelas que vão trazer
 
 #### *Grau Inexperiente: Dependendo da sua escolha suas habilidades vão ser:
 	
-- **Core
+- **Devorador de Civilizações:** Sua habilidade de raça *Devorar* é feita com vantagem.
+	
+- **Tremores Abissais**: Você pode ativar tremores abaixo de você, assim indivíduos a até 10m de distância tem o seu movimento cortado pela metade e recebe -2 em Reação.
+	
+- **Submergir:** Com uma ação bônus você é capaz de perfurar o solo ou água abaixo de você desaparecendo por 1 turno e saindo logo em seguindo em um local da sua escolha a até 10m. Pode usar essa habilidade um número de vezes igual seu Mod. Vigor.
+	
+- **Tsunami:** Com uma ação você pode invocar um pequeno tsunami (caso tenha água o suficiente perto, até com água do mar). Esse pequeno tsunami tem 8m de altura e pode percorrer até 10 de distância, quando se chocar com alvos ele causa 1d8 * Mod. Vigor. Pode invocar esse tsunami até 2 vezes por dia. A cada nível que passar seu tsunami aumenta 3m de altura e percorre 4m a mais.
+	
+- **Bocarra do Monstro:** Sua mandíbula aumenta colossalmente de tamanho, sendo capaz de engolir um ser de até 3m de altura. Com essa bocarra você é capaz de morder um alvo causando 1d8 * Mod. Força como dano. Contudo, caso o alvo tenha uma quantidade de vida atual inferior a 5 * Mod. Força você usa *Devorar* nele. Pode essa habilidade um número de vezes igual seu Mod. Vigor. 
 	
 #### Grau Experiente: 
 	
-- **Man
-
- - **ESCOLHA LENDÁRIA**: Ao chegar no nivel 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nivel 6, escolha entre as opções disponiveis para ganhar um item ou conhecimento de classificação lendária.
+ - **ESCOLHA LENDÁRIA**: Ao chegar no nível 5 o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao nível 6. Não é possível chegar ao nível 6 de outras maneira. No nível 6, escolha entre as opções disponíveis para ganhar um item ou conhecimento de classificação lendária.
 	
 #### Grau Mestre: 
 	
-- **T
+- **Deus dos Monstros:** Com uma ação você pode se transformar em uma aberração de 20m de comprimento por 4 de espessura em formato de minhoca e uma bocarra gigante cheia de dentes. Nessa forma você recebe +80 de vida, +15m de movimento, +6 de acerto, e +10 de Força, contudo você perde -8 de Reação. Recebe desvantagem para testes de esquiva e vantagem para acertar. Além disso, todos seus atributos de Intelecto são reduzidos para 8.
 	
 - **ECOLHA LENDÁRIA**:
-	- Açoite das Almas Perdidas: Invoque uma arma mística de seu pai. Em base ela causa 4d10 de dano + um efeito baseado na cor de seu Oni, decidido entre você e o mestre
-	- Culto Sangrento: Inicie um culto em nome de seu pai, adquirindo 2d100 seguidores. Seu culto te dá influencia em várias partes da Árvore anciã.
+	- **Pulseiras de Caríbdis:** Você recebe 2 Pulseiras que lhe concedem +2 em um atributo da sua escolha cada uma. Além disso, quando usa as duas ao mesmo tempo você não precisa mais respirar e recebe perícia em Nadar e +8 nela.
+		
+	- **Culto Sangrento:** Inicie um culto em nome de seu pai, adquirindo 2d100 seguidores. Seu culto te dá influencia em várias partes da Árvore anciã.
+	
 
 
 ### ***Malditos:***

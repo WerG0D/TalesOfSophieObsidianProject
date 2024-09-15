@@ -7,13 +7,13 @@ Um vagabundo anda sem rumo pela Árvore, usando uma capa que cobre todo seu corp
 
 > Independente da classe seu dado de vida é um 4d10 + 10. Recebe +2 pontos de atributo no nível 1, após isso, para cada nível que subir receba +2 pontos para distribuir em Intelecto ou Psique.
 
->Capaz de usar mecarnes e mestrelas, mas não Aegis.
+>Capaz de usar mecarnes, mas não Aegis.
 
 #### **Fagoevolução**: Ganhe habilidades a medida que consome monstros. 
 
 - **Devorar**: Recebe a habilidade de devorar outras criaturas e Mecarnes depois de mortas. Recupera 4d8 de vida perdida. Caso o alvo seja um monstro você faz um rolagem de 1d20 + Nível (classe), caso o resultado seja 6 ou superior, role um 1d10 e veja o resultado:
-	- 1 ~ 4: Adquire 2 pontos do atributo mais forte.
-	- 5 ~ 7: Adquire uma característica física da criatura.
+	- 1 ~ 3: Adquire uma característica física da criatura.
+	- 4 ~ 7: Adquire 2 pontos do atributo mais forte.
 	- 8 ~ 9: Adquire uma habilidade dela.
 	- 10: Adquire os 3.
 	- **Obs:** Para cada criatura consumida o nível de dificuldade aumenta +2. Não pode nunca tentar consumir o mesmo espécie de criatura 2x, independente se já teve sua habilidade antes e usou o Involução, ou se acabou de tentar usar o Devorar e falhou no teste. Sempre que usar o devora rode um 1d10, caso o resultado seja maior que o Seu Nível + 2 então perca 1d4 de sanidade.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/4 - Itens/Anéis, Pulseiras e Colares.md",
+                "file": "RPG/3 - Profissões/Bruxo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/4 - Itens/Anéis, Pulseiras e Colares.md",
+                "file": "RPG/3 - Profissões/Bruxo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/4 - Itens/Anéis, Pulseiras e Colares.md",
+                "file": "RPG/3 - Profissões/Bruxo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/4 - Itens/Anéis, Pulseiras e Colares.md"
+                "file": "RPG/3 - Profissões/Bruxo.md"
               }
             }
           }
@@ -148,14 +148,18 @@
   },
   "active": "695592b02d13b5bf",
   "lastOpenFiles": [
-    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
+    "RPG/1 - Raça/Inumano.md",
+    "RPG/3 - Profissões/Bruxo.md",
+    "RPG/6 - Sistema/Atributos.md",
+    "RPG/3 - Profissões/Atirador.md",
+    "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
+    "RPG/4 - Itens/Armaduras.md",
     "RPG/4 - Itens/Anéis, Pulseiras e Colares.md",
     "RPG/1 - Raça/Meio-Sereia.md",
+    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
     "RPG/1 - Raça/Fada.md",
     "RPG/1 - Raça/Humano.md",
-    "RPG/1 - Raça/Inumano.md",
     "RPG/4 - Itens/Poções.md",
-    "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
     "RPG/3 - Profissões/Guerreiro.md",
     "RPG/1 - Raça/Zytherin.md",
     "RPG/3 - Profissões/Assassino.md",
@@ -163,7 +167,6 @@
     "RPG/2 - Ancestralidades/Sem Pátria.md",
     "RPG/6 - Sistema/Morrendo.md",
     "RPG/4 - Itens/Armas a Distância.md",
-    "RPG/4 - Itens/Armaduras.md",
     "RPG/2 - Ancestralidades/Radilhante.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas/Mestrelas.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes/Mecarnes.md",
@@ -171,9 +174,6 @@
     "RPG/3 - Profissões/Pesquisador de Batalha.md",
     "RPG/6 - Sistema/Testes de Resistência.md",
     "RPG/6 - Sistema/Perícias.md",
-    "RPG/6 - Sistema/Sanidade.md",
-    "RPG/6 - Sistema/Talentos.md",
-    "RPG/3 - Profissões/Artista Marcial.md",
     "Images/Misc/Zytherin_image.png",
     "Images/Misc/Pasted image 20240914015750.png",
     "Images/Misc/Pasted image 20240914015610.png",
