@@ -151,7 +151,7 @@ Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A 
 
 ---
 
-**Coletando Cogumelos**: Uma vez encontrado um local adequado, jogue 1d10 + **Encontrar Cogumelos** + Mod. Percepção para determinar o resultado:
+**Coletando Cogumelos**: Uma vez encontrado um local adequado, jogue 1d6 + **Encontrar Cogumelos** + Mod. Percepção para determinar o resultado:
 
 - **- 13 ~ - 4**: Encontra um **Ente Adormecido** que acorda por sua causa.
 - **- 3 ~ 1**: Encontra Cogumelo Venenoso.

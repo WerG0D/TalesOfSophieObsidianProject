@@ -12,6 +12,8 @@ Seu dado de vida é um 3d10, você +2 pontos de atributo para cada nível que su
 
 >**Visitante Transmorfo**: Tem a capacidade de alterar a própria aparência física da metade superior do corpo durante 1 hora. 
 
+>**Canto da Sereia:** Pode encantar um alvo que tenha caído em um teste de Sedução seu. Esse alvo vai obedecer suas ordens desde que elas não soem muito ofensivas a ele. Além disso, ele não conseguira ver sua parte inferior do corpo mesmo que ela esteja descoberta ele a enxerga como algo normal.
+
 >**Tempo de Vida Curto:** Pelo seu breve tempo de vida você deve se envolver sexualmente com outras criaturas para absorver o tempo de vida delas. Deve fazer isso pelo menos uma vez por semana, caso não faça sofra um ponto de exaustão.
 
 >**Voz Sedutora**: Tem perícia e vantagem em testes de Sedução. Além disso, recebe +2 em Influência.
