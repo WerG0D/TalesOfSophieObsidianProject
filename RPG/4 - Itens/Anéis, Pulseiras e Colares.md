@@ -2,7 +2,7 @@ Pode usar até 4 anéis em cada mão, uma pulseira por braço e apenas um colar 
 ### Conjunto 1: Monstros Oceânicos
 
 #### Nível Raro:
-✹70 ~ 100 (Florim Áureos)
+✹25 ~ 50 (Florim Áureos)
 - **Pulseira Dos Chifres Sagrados**: 
 	 _Efeito:_ Aumenta a Defesa em +1, melhorando sua resistência. 
      _Descrição:_ Uma pulseira com pequeno pedaço de chifre de uma criatura, ela coloca uma pequena proteção energética ao redor do seu corpo.
@@ -48,7 +48,7 @@ Pode usar até 4 anéis em cada mão, uma pulseira por braço e apenas um colar 
      _Descrição:_ Um colar de jade, que emite uma aura calmante e ajuda o portador a manter a mente e o corpo em perfeita harmonia.
 
 #### Nível Épico:
-✹170 ~ 230 (Florim Áureos)
+✹75 ~ 110 (Florim Áureos)
 - **Pulseira Carcaça Monstruosa**: 
 	 _Efeito:_ Aumenta a Defesa em +3, melhorando sua resistência. 
      _Descrição:_ Uma pulseira com diversas presas de criatura, ela coloca uma pequena proteção energética ao redor do seu corpo.
