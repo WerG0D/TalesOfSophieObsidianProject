@@ -61,7 +61,7 @@ Os valores abaixo são rodados todos pelo Mestre que deve esconde-los do jogador
 - Enormes CD 15
 #### **Tabela de Peixes**:
 
-Peixes de peso pequeno rendem meia porção, peixes médios rendem uma, peixes grandes rendem 2 porções, peixes enormes rendem 4 porções e peixes enormes rendem 10 porções.
+Peixes de peso pequeno rendem meia porção, peixes médios rendem uma, peixes grandes rendem 2 porções, peixes gigante rendem 4 porções e peixes enormes rendem 10 porções.
 
 O valor dos peixes varia pela raridade:
 - 1 Porção de Peixe Incomum: ✹1 ~ 3 (Florim Áureos)
@@ -134,7 +134,7 @@ Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A 
 - **5 ~ 8**: Recebe -2 para **Encontrar Cogumelos**.
 - **9 ~ 11**: Recebe 0 para **Encontrar Cogumelos**.
 - **12 ~ 14**: Recebe +2 para **Encontrar Cogumelos**.
-- **16 ~ 18**: Recebe +4 para **Encontrar Cogumelos**.
+- **16 ~ 18**:  Recebe +4 para **Encontrar Cogumelos**.
 - **19+**: Recebe +8 para **Encontrar Cogumelos**.
  
 ---

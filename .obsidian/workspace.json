@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/3 - Profissões/Bruxo.md",
+                "file": "RPG/4 - Itens/Poções.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/3 - Profissões/Bruxo.md",
+                "file": "RPG/4 - Itens/Poções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/3 - Profissões/Bruxo.md",
+                "file": "RPG/4 - Itens/Poções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/3 - Profissões/Bruxo.md"
+                "file": "RPG/4 - Itens/Poções.md"
               }
             }
           }
@@ -148,15 +148,19 @@
   },
   "active": "695592b02d13b5bf",
   "lastOpenFiles": [
+    "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
+    "RPG/3 - Profissões/Cozinheiro de batalha.md",
+    "RPG/1 - Raça/Inumano.md",
+    "RPG/3 - Profissões/Artista Marcial.md",
+    "RPG/1 - Raça/Humano.md",
+    "RPG/1 - Raça/Meio-Sereia.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
+    "RPG/6 - Sistema/Perícias.md",
+    "RPG/3 - Profissões/Bruxo.md",
     "RPG/3 - Profissões/Pesquisador de Batalha.md",
     "RPG/3 - Profissões/Campeão da Anciã.md",
-    "RPG/3 - Profissões/Cozinheiro de batalha.md",
     "RPG/1 - Raça/Zytherin.md",
-    "RPG/1 - Raça/Inumano.md",
-    "RPG/1 - Raça/Meio-Sereia.md",
     "RPG/3 - Profissões/Assassino.md",
-    "RPG/3 - Profissões/Artista Marcial.md",
-    "RPG/3 - Profissões/Bruxo.md",
     "RPG/3 - Profissões/Atirador.md",
     "RPG/1 - Raça/Fada.md",
     "RPG/4 - Itens/Armas a Distância.md",
@@ -166,14 +170,10 @@
     "RPG/4 - Itens/Armaduras.md",
     "RPG/3 - Profissões/Pirata.md",
     "RPG/6 - Sistema/Atributos.md",
-    "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
     "RPG/4 - Itens/Anéis, Pulseiras e Colares.md",
-    "RPG/1 - Raça/Humano.md",
     "RPG/3 - Profissões/Guerreiro.md",
     "RPG/2 - Ancestralidades/Thalassano.md",
     "RPG/2 - Ancestralidades/Sem Pátria.md",
-    "RPG/6 - Sistema/Morrendo.md",
-    "RPG/2 - Ancestralidades/Radilhante.md",
     "Images/Misc/Zytherin_image.png",
     "Images/Misc/Pasted image 20240914015750.png",
     "Images/Misc/Pasted image 20240914015610.png",
