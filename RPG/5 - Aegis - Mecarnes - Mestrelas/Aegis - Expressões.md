@@ -136,7 +136,7 @@ Via de regra, condições servem para ser possível usar expressões da Aegis de
 
 >**A estrutura dos Golpes de assinatura:** Golpes de assinatura possuem os seguintes componentes: Nome do golpe, Classe de dificuldade, Dano do Golpe, Descrição do golpe, Condições e pactos necessários
 >	-**Nome do golpe**: autoexplicativo, opcional. 
->	-**Classe de dificuldade**: Sempre será o mesmo do tipo de sua expressão + modificador estipulado pelo mestre
+>	-**Classe de dificuldade**: Sempre será o mesmo do tipo de sua expressão - 2
 >	-**Dano do golpe**: Sempre será o mesmo dano do tipo da sua expressão (mundana, básica, avançada, lendária) + pactos ou modificadores relevantes. Dependendo do golpe, condições podem ser especificadas aqui, como causa terreno difícil ou causa cegueira.
 >	-**Descrição do golpe**: Uma descrição detalhada de como o golpe funciona e seus usos.
 >	-**Condições e Pactos**: Caso o golpe necessite de algum pacto ou condição específica para funcionar, cite ele aqui. 
