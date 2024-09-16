@@ -22,6 +22,10 @@ Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada
 - **Domine Seu Chi não Aegis:** Você tem dificuldade para controlar o Aegis. O nível de dificuldade para toda suas expressões aumenta em 2. Além disso, você tem dificuldade para notar o Aegis recebendo desvantagem em testes da pericia expressão.
 	
 #### Grau Experiente: 
+- **Caminho Marcial Evoluído:** Você evoluiu ainda mais no seu caminho marcial, ganhe as seguintes habilidades dependendo da sua escolha:
+	- **Corte Que Divide o Mundo (Caminho da Espada)**: Executa um ataque com um corte vertical limpo, você recebe +3 para acertar esse golpe e o oponente não pode usar reação. Além disso, esse seu ataque atinge diretamente na própria energia do oponente (não ignora Defesa base), dessa forma não é possível anular ou redirecionar o dano dele. Pode usar uma vez por combate.
+	- **Corpo como Rocha, Alma como Rio (Caminho dos Punhos):** Com uma ação bônus você pode escolher não esquivar e reduzir todo dano recebido em 4 * Mod. Vigor até seu próximo turno. Pode usar essa habilidade um número de vezes igual seu Mod. Vigor.
+	- **Rajadas Fulminante Divina (Caminho do Bastão):** Com uma ação você pode efetuar uma sequência de estocadas com seu bastão causando dano igual a metade do dano da sua arma * Mod. Reação. O oponente deve fazer um teste de Reação CD 14 para reduzir o dano pela metade. Pode usar 2x por combate.
 	
 - **ESCOLHA LENDÁRIA**: Ao chegar aqui o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao Grau Mestre.
 	
@@ -37,14 +41,16 @@ Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada
 		- **Última dança:** Seus ataque causam dano adicional igual a 2 x Mod. Moderação. Além disso, você ataca com vantagem.
 		
 	- **Mestre Wushu:** Agora sua habilidade Contra-Ataque pode ser usada sem gastar sua ação bônus, você pode utilizar ela um número de vezes igual ao seu Mod. Reação por dia.
-		- **Sora No Ten (Acima dos Céus):** Caso você seja alvos de ataque entre seus turnos e alguns deles te acertem, no seu próximo turno você pode escolher atacar um alvo com um ataque poderoso que revida todo o dano recebido por você com o triplo da força. Pode usar isso apenas uma vez por dia.
+		- **Sora No Ten (Acima dos Céus):** Caso você seja alvos de ataque entre seus turnos e alguns deles te acertem, no seu próximo turno você pode escolher atacar um alvo com um ataque poderoso que revida todo o dano recebido por você com o triplo da força e aplica **Fraturado** no alvo caso acerte. Pode usar isso apenas uma vez por dia.
 		
-	- **Senhor da Bastão, Gae Bolg:** Você se tornou um mestre com a lança incomparável. Qualquer inimigo que use ação de movimento em raio de 2m de distância seu, vc pode realizar um ataque contra ele de oportunidade.
-		- **Musaboro Mono Ten (Devoradora de Céus):** Você usa sua ação e ação bõnus para realizar um ataque rotacionando sua Lança com o máximo de velocidade a sua volta, acertando com precisão todos os inimigos a 2m de você, mas você ainda pode rodar o dado para tentar um crítico em cada um. Esse golpe causa 2d8 de dano adicional, além disso inimigos que receberem acerto crítico perdem seu próximo turno.
+	- **Gae Bolg:** Você se tornou um mestre com a lança incomparável. Qualquer inimigo que use ação de movimento em raio de 3m de distância seu, vc pode realizar um ataque contra ele de oportunidade.
+		- **Musaboro Mono Ten (Devoradora de Céus):** Você usa sua ação e ação bônus para realizar um ataque rotacionando seu Bastão com o máximo de velocidade a sua volta, acertando com precisão todos os inimigos a 2m de você, mas você ainda pode rodar o dado para tentar um crítico em cada um. Esse golpe causa 2d8 de dano adicional, além disso inimigos que receberem acerto crítico perdem seu próximo turno.
 		
 	  
   - **ESCOLHA LENDÁRIA**:
 	  - ***Muramasa:*** Encontre a lendária Katana Muramasa. A espada causa 3d10 + 12 + Mod. Força de dano e ignora 18 de Defesa do alvo. Além disso, ao desembainhar a espada ela libera um poderosa aura que aterroriza todos que possam vê-la por 6 turnos. Inimigos devem realizar um teste de Inalterabilidade CD 20 para não sofrer os efeitos do terror. Essa espada possui também a habilidade de usar a habilidade **Repelir** contra Aegis e outras habilidades mágicas de projéteis, anulando a habilidade caso passe no teste.
-	  - **Bastão Divino Kukulkhan**: Encontre o Bastão Divina Kukulkhan. Esse bastão causa 6d10 de dano e ignora 10 de Defesa do alvo. Além disso, o bastão pode fazer um pequeno redemoinho abaixo de você e te fazer voar, o que te permite fazer ataques aéreos recebendo vantagem na rolagem.
+	  - **Bastão Divino Kukulkhan**: Encontre o Bastão Divina Kukulkhan. Esse bastão causa 6d10 de dano e ignora 10 de Defesa do alvo. Além disso, o bastão pode fazer um pequeno redemoinho abaixo de você e te fazer voar, o que te permite fazer ataques aéreos recebendo vantagem na rolagem. Esse redemoinho também pode disparar cargas elétricas causando 4d8 + 10 de dano elétrico.
 	  - **Socos Féricos Místicos:** Você recebe lendários socos féricos feitos de alguma besta lendária. Seus ataque físicos causam 1d8 de dano adicional, além disso ao acertam você marca o alvo com um **Marca Férica** que faz com que seus ataques naqueles alvo causem 1d8 de dano adicional, pode acumular até 3 marcas. Caso você erre um golpe a Marca some.
 	  - **Amuleto de Proteção Sagrado**: Quando receber um golpe fatal o amuleto se parte recuperando imediatamente do dano recebido e fazendo com que seja imediatamente o seu turno. O amuleto demora 24h para se recuperar.
+
+2d12 + 16 + 3 + 1d8 + 2d8 + 6 + 3d10 + 12 + 6 + 10 + 8
