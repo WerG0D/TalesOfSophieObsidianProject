@@ -53,4 +53,3 @@ Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada
 	  - **Socos Féricos Místicos:** Você recebe lendários socos féricos feitos de alguma besta lendária. Seus ataque físicos causam 1d8 de dano adicional, além disso ao acertam você marca o alvo com um **Marca Férica** que faz com que seus ataques naqueles alvo causem 1d8 de dano adicional, pode acumular até 3 marcas. Caso você erre um golpe a Marca some.
 	  - **Amuleto de Proteção Sagrado**: Quando receber um golpe fatal o amuleto se parte recuperando imediatamente do dano recebido e fazendo com que seja imediatamente o seu turno. O amuleto demora 24h para se recuperar.
 
-2d12 + 16 + 3 + 1d8 + 2d8 + 6 + 3d10 + 12 + 6 + 10 + 8

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
+                "file": "RPG/3 - Profissões/Artista Marcial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
+                "file": "RPG/3 - Profissões/Artista Marcial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
+                "file": "RPG/3 - Profissões/Artista Marcial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/4 - Itens/Armas Corpo-a-Corpo.md"
+                "file": "RPG/3 - Profissões/Artista Marcial.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "6175fe337c47c91c",
   "lastOpenFiles": [
+    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
     "RPG/4 - Itens/Armaduras.md",
     "RPG/3 - Profissões/Artista Marcial.md",
     "RPG/3 - Profissões/Campeão da Anciã.md",
