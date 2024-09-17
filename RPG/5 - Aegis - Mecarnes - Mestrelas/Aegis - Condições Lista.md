@@ -59,5 +59,5 @@ Condições que geralmente envolvem: Essa condição deve exprimir certo desconf
 2. Seu alvo(s) deve aceitar ser acertado pela habilidade mesmo tendo consciência dela (sem influência mental). Você fica incapacitado após usar a habilidade por 24h.
 3. Você perde 99 de sanidade.
 4. Você e seus aliados (que devem consentir) recebem 16d10 + 80 de dano ignorando resistência e defesas.
-5. Seu alvo deve lhe contar sobre a Aegis/expressão dele, qual o ofício dele, a idade, o nome completo e repetir um cântico curto com você (ele não pode estar sob influência mental).
+5. Seu alvo deve lhe contar sobre a Aegis/expressão dele, qual o ofício dele, a idade, o nome completo e repetir um cântico curto com você (ele não pode estar sob influência mental, somente válido para Ações ofensivas).
 6. Você deve rodar 1d10 duas vezes e tirar 10 nelas. Deve rodar apenas 2x e não existe crítico nessa rolagem. 
