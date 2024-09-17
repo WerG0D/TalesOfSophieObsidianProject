@@ -9,4 +9,6 @@
 - 10: Perdeu um pé. Perde 1 de reação e tem desvantagem em Corrida.
 - Caso não tenha caído no 1 ~ 3 você cai inconsciente. O número que caiu da tabela também se torna um extensão de MORTE para sua próxima rolagem da Tabela da Morte.
 
-**Sacrifício para Defender:** Antes de receber um golpe você pode fazer de tudo para se defender. Ao usar **Sacrifício para Defender** você pode sacrificar um dos seus membros, ou dois se o mestre pedir, para receber o golpe. A vida dele é igual 1/4 da sua vida atual, caso os pontos de vida dele zerem você deve rodar o 1d6, caso caia 1 você perde esse membro, além disso essa habilidade lhe causa 2 pontos de exaustão e vc se torna incapaz de continuar lutando até alguém curar sua vida perdida. Só pode isso uma vez por dia.
+**Sacrifício para Defender:** Antes de receber um golpe você pode fazer de tudo para se defender. Ao usar **Sacrifício para Defender** você pode sacrificar um dos seus membros, ou dois se o mestre pedir, para receber o golpe (se isso for possível). A vida dele é igual 1/4 da sua vida atual, caso os pontos de vida dele zerem você deve rodar o 1d6, caso caia 1 você perde esse membro, além disso essa habilidade lhe causa 2 pontos de exaustão e vc se torna incapaz de continuar lutando até alguém curar sua vida perdida. Só pode isso uma vez por dia.
+
+**Danos Demais:** Caso sua vida seja reduzida abaixo de zero a um valor superior ao módulo de metade da sua vida, você morre sem direito a Tabela da Morte.

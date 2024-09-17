@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/3 - Profissões/Artista Marcial.md",
+                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3af6fcf541253c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/1 - Raça/Zytherin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/3 - Profissões/Artista Marcial.md",
+                "file": "RPG/1 - Raça/Zytherin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/3 - Profissões/Artista Marcial.md",
+                "file": "RPG/1 - Raça/Zytherin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/3 - Profissões/Artista Marcial.md"
+                "file": "RPG/1 - Raça/Zytherin.md"
               }
             }
           }
@@ -146,15 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6175fe337c47c91c",
+  "active": "3af6fcf541253c30",
   "lastOpenFiles": [
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Condições Lista.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
+    "RPG/6 - Sistema/Morrendo.md",
+    "RPG/3 - Profissões/Artista Marcial.md",
     "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
     "RPG/4 - Itens/Armaduras.md",
-    "RPG/3 - Profissões/Artista Marcial.md",
     "RPG/3 - Profissões/Campeão da Anciã.md",
     "RPG/6 - Sistema/Condições.md",
     "RPG/6 - Sistema/Sanidade.md",
-    "RPG/6 - Sistema/Morrendo.md",
     "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
     "RPG/6 - Sistema/Criação de Personagem.md",
     "RPG/6 - Sistema/Inimigos.md",

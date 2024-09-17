@@ -35,8 +35,7 @@ Você +2 pontos de atributo para cada nível que subir para distribuir como quis
 
 >**Criatura Milenar**: Zytherins são criaturas longevas e de grande experiência, você recebe +1 Talento e +4 Perícias no começo do jogo. 
 
->**Sintonizado espiritualmente:** Zytherins são extremamente ligados ao Véu, sentindo alterações nele facilmente. Desde Grandes eventos no mundo, como a queda de uma ditadura, a pequenos eventos, como o assassinato de uma criança, pode ser sentido pelos Zytherin. Eles não sabem 
->como aconteceu, quem realizou o ato, mas sentem a alteração no mundo espiritual. Frequentemente, os Zytherins tem episódios depressivos por conta das sensações de tristeza bombardeadas em suas mentes.
+>**Sintonizado espiritualmente:** Zytherins são extremamente ligados ao Véu, sentindo alterações nele facilmente. Desde Grandes eventos no mundo, como a queda de uma ditadura, a pequenos eventos, como o assassinato de uma criança, pode ser sentido pelos Zytherin. Eles não sabem como aconteceu, quem realizou o ato, mas sentem a alteração no mundo espiritual. Frequentemente, os Zytherins tem episódios depressivos por conta das sensações de tristeza bombardeadas em suas mentes.
 
 >**Segunda casa**: Com uma ação, você pode invocar um portal para o Véu, o mundo dos espíritos e desaparecer durante 1 turno. Pode usar essa habilidade a cada 2 turnos.
 
@@ -59,6 +58,7 @@ Você +2 pontos de atributo para cada nível que subir para distribuir como quis
 
 >**Morte a esses macacos pelados**: Na corrupção, Zytherins decidem buscar vingança, se tornando proficientes com um tipo de arma e armadura a sua escolha.     
 
+Perde as seguintes habilidades: Pacifista absoluto, Segunda Casa, Criança Inocente e Sintonizado espiritualmente.
 
 
 
