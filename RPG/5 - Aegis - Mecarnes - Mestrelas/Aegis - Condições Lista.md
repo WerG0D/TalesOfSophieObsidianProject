@@ -5,7 +5,12 @@ Condições que geralmente envolvem: Essa condição deve exprimir certo desconf
 2. Você deve avisar ao alvo que vai o atacar (alvo tem +2 para Esquivar da técnica)
 3. Você deve fazer um cântico curto antes da técnica (você tem -2 para acertar)
 4. Você deve usar uma de suas mãos para fazer gestos enquanto usa a técnica (você tem -1 para acertar).
-5. 
+5. Você deve fazer alguma pose antes da técnica (inimigos recebe 2d8 de dano reduzido dessa skill).
+6. O alvo deve estar a menos de 2m de você.
+7. O alvo deve estar a mais de 10m de você.
+8. O alvo não pode estar te vendo.
+9. O alvo deve sentir por você um sentimento que seja: Ódio, Amor, Pena, Nojo ou Medo. Escolha previamente não pode mudar e funciona para qualquer alvo.
+10. Você deve escolher entre um sentimento obrigatório para com o alvo: Ódio, Amor, Pena, Nojo ou Medo. Escolha previamente não pode mudar e funciona para qualquer alvo.
 
 ### **Condições Avançadas**: -2
 **Condições avançadas:** Condições que geralmente envolvem riscos ao usuário, não apenas um incomodo. Para cada condição avançada adicionada, o valor necessário para expressar a Aegis cai em dois pontos.
@@ -18,7 +23,13 @@ Condições que geralmente envolvem: Essa condição deve exprimir certo desconf
 6. Você deve irritar alvo e ele deve se sentir insultado por você, ou pode amedronta-lo(sem influência mental).
 7. O alvo deve te causar dano e você não pode ataca-lo de volta por 2 turnos. 
 8. Deve fazer algum hobby ou trabalho (ler, pescar, caçar, cantar ou dançar) que você goste até 1 hora do combate. Deve fazer isso sem que ninguém esteja te vendo.
-9. 
+9. Sacrifica 3 pontos do seu maior atributo depois de usar a skill por 24 horas.
+10. Você deve estar segurando o alvo a 1 turno para usar a skill.
+11. Você só pode usar essa skill após ter perdido 50% da sua vida máxima.
+12. Você deve provar sangue do alvo contra sua vontade.
+13. Você deve explicar toda sua habilidade ao alvo do golpe, funciona mesmo caso ele esteja evitando escutar. Mas você deve falar claramente e alto.
+14. Ao começar um combate você deve ficar parado esperando o golpe de algum oponente.
+
 ### **Condições Mestrais:** -3
 **Condições Mestrais:** Condições que envolvem riscos ao usuário. Para cada condição avançada adicionada, o valor necessário para expressar a Aegis cai em três pontos.
 
@@ -32,8 +43,10 @@ Condições que geralmente envolvem: Essa condição deve exprimir certo desconf
 8. Não pode ser mexer durante 6 turnos seus no começo do combate (desvantagem em esquivar).
 9. Você deve esperar 10 turnos seus de combate.
 10. Você perde sua visão durante ou audição durante 24h (recebe desvantagem e -2 em testes de ataque e esquiva).
-11. Você deve provar sangue do alvo contra sua vontade.
+11. Após usar essa habilidade você não pode mais atacar nada durante 1 hora (tem der uma skill ofensiva). Deve fazer com sua arma preferida também.
 12. Deve fazer um jogo com o adversário que seja justo, você deve ganhar dele.
+13. Você só pode usar essa habilidade durante o combate e só atacar desarmado até perder 50% da sua vida máxima.
+14. Você recebe todos os efeitos e dano da habilidade também (deve ser uma ação 100% ofensiva).
 
 
 ### **Condições Lendárias:** -5
@@ -45,19 +58,18 @@ Condições que geralmente envolvem: Essa condição deve exprimir certo desconf
 4. Você perde 1 sentido de maneira permanente e mágica (não é reversível de nenhuma maneira).
 5. Seu alvo nunca pode ter visto ou ouvido falar da sua técnica antes. Você deve escolher na sorte 2 atributos também que você seja superior a ele.
 6. Você recebe 16d10 + 80 de dano após usar a habilidade, ignorando resistência e defesas.
-7. Seu alvo deve lhe contar sobre a Aegis/expressão dele, qual o ofício e o nome completo (sem influência mental, válido para Ações ofensivas).
+7. Seu alvo deve lhe contar sobre a Aegis/expressão dele, qual o ofício e o nome compl  eto (sem influência mental, válido para Ações ofensivas).
 8. Você perde 50 de sanidade.
 9. Acerte o que o alvo está pensando (ele deve rodar 1d6 e você também e tirar o mesmo valor dele).
-10. Conte para seu alvo todas as condições da sua habilidade antes de cumpri-la, escolha uma condição Mestral.
+10. Conte para seu alvo sua habilidade e todas as suas condições antes de cumpri-la, escolha uma condição Mestral.
 11. Seu alvo(s) deve ter todos os atributos inferiores ao seu. Além disso, ele deve temer você. 
 12. Se o seu alvo não morrer de maneira definitiva após a habilidade, você morre de maneira definitiva, sem direito a *Tabela da Morte*.
 13. Você deve escolher um objeto *Sacraty*, que é um objeto no qual vai ter um cântico longo (um livro, pergaminho ou caderno), você deve recitar o que está escrito no objeto, segurando ele aberto antes de usar a habilidade. Demora-se um mês para trocar de objeto *Sacraty*. Recebe desvantagem e -2 em testes de Reação. Caso algum alvo te ataque enquanto segura ele deve fazer um teste de Reação CD 15 para não fechar o objeto, se o golpe acertar o CD é 18.
 ### **Condições Fatais:** -9
-
+**Condições Lendárias:** Condições que envolvem riscos mortais e dificuldade profunda ao usuário. Para cada condição lendária adicionada, o valor necessário para expressar a Aegis cai em 9 pontos.
 
 1. Você morre, sem direito a *Tabela da Morte*, após usar a técnica.
-2. Seu alvo(s) deve aceitar ser acertado pela habilidade mesmo tendo consciência dela (sem influência mental). Você fica incapacitado após usar a habilidade por 24h.
-3. Você perde 99 de sanidade.
-4. Você e seus aliados (que devem consentir) recebem 16d10 + 80 de dano ignorando resistência e defesas.
-5. Seu alvo deve lhe contar sobre a Aegis/expressão dele, qual o ofício dele, a idade, o nome completo e repetir um cântico curto com você (ele não pode estar sob influência mental, somente válido para Ações ofensivas).
-6. Você deve rodar 1d10 duas vezes e tirar 10 nelas. Deve rodar apenas 2x e não existe crítico nessa rolagem. 
+2. Você perde 99 de sanidade.
+3. Você e seus aliados (que devem consentir) recebem 16d10 + 80 de dano ignorando resistência e defesas.
+4. Seu alvo deve lhe contar sobre a Aegis/expressão dele, qual o ofício dele, a idade, o nome completo e repetir um cântico curto com você (ele não pode estar sob influência mental, somente válido para Ações ofensivas).
+5. Você deve rodar 1d10 duas vezes e tirar 10 nelas. Deve rodar apenas 2x e não existe crítico nessa rolagem. 
