@@ -45,7 +45,7 @@ Condições que geralmente envolvem: Essa condição deve exprimir certo desconf
 4. Você perde 1 sentido de maneira permanente e mágica (não é reversível de nenhuma maneira).
 5. Seu alvo nunca pode ter visto ou ouvido falar da sua técnica antes. Você deve escolher na sorte 2 atributos também que você seja superior a ele.
 6. Você recebe 16d10 + 80 de dano após usar a habilidade, ignorando resistência e defesas.
-7. Seu alvo deve lhe contar sobre a Aegis/expressão dele, qual o ofício e o nome completo (sem influência mental).
+7. Seu alvo deve lhe contar sobre a Aegis/expressão dele, qual o ofício e o nome completo (sem influência mental, válido para Ações ofensivas).
 8. Você perde 50 de sanidade.
 9. Acerte o que o alvo está pensando (ele deve rodar 1d6 e você também e tirar o mesmo valor dele).
 10. Conte para seu alvo todas as condições da sua habilidade antes de cumpri-la, escolha uma condição Mestral.
