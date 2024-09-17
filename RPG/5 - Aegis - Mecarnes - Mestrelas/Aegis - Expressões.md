@@ -16,64 +16,6 @@ As expressões da Aegis são normalmente extremamente dificeis para os mortais, 
 Entretanto, as vezes surgem individuos extraordinários capazes de usar expressões avançadas usando poucas ou quase nenhuma condição. Esses indivíduos são os habitantes do Véu.  
 ```
 
-## Como funcionam as expressões: 
-
->No geral, as expressões seguem um fluxo de canalização simples: Idealização > Condições e Pactos > Canalização. A idealização é imaginar, pensar, em como você quer usar sua expressão naquele momento. Qual é o objetivo deste ataque?. Condições e Pactos são ações estipuladas para facilitar a difícil tarefa de canalizar a Aegis ou fortalecer sua expressão, pagando um preço variável. Os pactos e condições são realizados, seguindo para a fase de Canalização, que é onde a expressão realmente ocorre. 
-
->Os testes de expressão são resumidos no seguinte: **1d10 + Modificador de Canalização + bônus aplicáveis VS.  VD (Valor de dificuldade)**
-
->**Tipos de expressões:** Existem 4 tipos de expressões, a mundana, a básica, a avançada e a lendária, cada uma delas com seus requisitos mínimos e custos de pontos Aegis.  
->
->	- **Expressão mundana:** Essa expressão normalmente não altera muito o mundo físico, sendo limitada a invocar objetos de raridade comum, espíritos do além-véu de nível 1, ou trazer pequenas mudanças no corpo de um usuário e manifestar pequenas energias. Exemplos: Invocar um pequeno brinquedo de madeira, Invocar um pequeno rato espiritual , Mudar o sabor de seu suor, Sair faíscas de seus dedos. 
->	- **Expressão básica**: Essa expressão altera minimamente o mundo físico, podendo invocar pequenos espíritos do além-véu de nível 2 (esses podem exigir pactos), invocar objetos de raridade rara, modificar de forma parcial corpos alvo ou manifestar energias. Exemplos: Invocar o espírito de um cachorro, invocar uma espada com propriedades especiais, mudar o tamanho de seus órgãos, disparar um pequeno feixe de eletricidade de seus dedos. 
->	- **Expressão avançada**: Essa expressão altera de forma significativa a realidade e o mundo físico, podendo trazer espíritos do além-véu de nível 3 (Esses exigem pactos próprios), invocar objetos de raridade épica, e modificar completamente um alvo. Exemplos: Invocar demônios do véu, Invocar uma espada capaz de cortar qualquer coisa, Mudar o formato, cor, cheiro, textura de todo o seu corpo. Disparar uma grande rajada de fogo de seus punhos.
->	- **Expressão lendária**: Essa expressão altera de forma bizarra a realidade e o mundo físico, podendo trazer espíritos do além-véu de nível 4 (Esses exigem pactos próprios), invocar objetos de raridade lendária, e modificar completamente um alvo incluindo sua alma, além de permitir energias sobrenaturais. Exemplos: Invocar a Excaliburn, espada lendária, Invocar o Oni Azul, Destruir a alma de uma criatura com um toque, Disparar um feixe de energia equivalente a uma bomba de alta magnitude.
->	- **Expressão Mítica:** Essa expressão comparar-se a semi-divindades, podendo trazer espíritos do além-véu de nível 5 (Esses exigem pactos próprios), invocar objetos de raridade mítica, e modificar completamente um alvo incluindo sua alma e Aegis, além de permitir energias sobrenaturais. 
-
->**Quantidade de Condições mínimas, dano base e custo de Pontos Aegis:** 
->	- Expressão mundana:  **Necessita de pelo menos 12 em Canalização**. Dano / Modificador base: 1d8 + 6 + Bônus de Canalização.  Consome: 2 ponto Aegis
->	- Expressão básica: **Necessita de pelo menos 16 em Canalização**. Dano / Modificador base: 1d12 + 10 + Bônus de Canalização. Consome: 4 ponto Aegis
->	- Expressão avançada:  **Necessita de pelo menos 20 em Canalização**.  Dano / Modificador base: 2d12 + 16 + Bônus de Canalização. Consome: 6 ponto Aegis
->	- Expressão lendária: **Necessita de pelo menos 24 em Canalização** . Dano / Modificador base: 4d12 + 24 + Bônus de Canalização. Consome: 10 ponto Aegis
->	- Expressão Mítica: **Necessita de pelo menos 30 em Canalização** . Dano / Modificador base: 6d12 + 36 + Bônus de Canalização. Consome: 15 ponto Aegis
-
-## Condições e Pactos
-
-```
-Via de regra, condições servem para ser possível usar expressões da Aegis de tipos mais avançados. Já os pactos servem para melhorar as expressões que já podem ser canalizadas.  
-```
-
->**Condições:** Ações baseados na troca equivalente. Ao entregar algo a Aegis, você consegue ter mais domínio e controle de uma expressão. Normalmente condições servem para tornar possível a canalização de seu poder. Ao desrespeitar uma condição, normalmente a técnica se encerra. **As condições reduzem a quantidade mínima necessária de pontos de Canalização para expressar uma Aegis. Ou seja, caso a quantidade mínima seja 14 e você adicione uma condição que reduza em 1 o valor necessário, a quantidade mínima para expressar aquela Aegis se torna 13**.
-
->**Condições são tratadas como ações livres. (a não ser que seu mestre de jogo estipule que ela gaste uma ação bônus ou ação completa para ser concluída) Contudo, ao realizar 3 condições em um turno, sua ação bônus é consumida.
-
-
->Existem três tipos de condições, as simples, avançadas e as mestrais.
-
-- **Condições simples**: Condições que geralmente envolvem: Uso de Componentes somáticos (gestos de mão, cânticos, e outros), Gritar o nome da técnica antes, Avisar ao alvo que vai focar ele ou etc. Elas limitam alguma ação do ser que está expressando a Aegis. Essa condição deve exprimir certo desconforto ao usuário, causando empecilhos ao jogador. **Não necessariamente precisam dar modificadores negativos em rolagens, mas podem atrapalhar a comunicação do ser ou afins.** Condições simples reduzem o nível de dificuldade da expressão em 1 ponto. **Exemplos de condições simples:** Cantar um som durante o decorrer da técnica, fazer selos de mão complexos em uma ordem especifica. 
-
-- **Condições avançadas:** Condições que geralmente envolvem riscos ao usuário, não apenas um incomodo. **Elas efetivamente causam sempre desvantagens em rolagens ou modificadores negativos de -2. Para cada condição avançada adicionada, o valor necessário para expressar a Aegis cai em dois pontos**.  **Exemplos de condições avançadas**: Impedimento de usar uma das mãos por vários turnos, explicar toda sua expressão ao alvo, não usar sua arma por vários turnos, perda de visão de um dos olhos temporariamente, perda de audição completa, apostas complexas, prometer algo para um oponente que vai ser muito desvantajoso para você em combate.
-
-- **Condições Mestrais:** Condições que envolvem riscos ao usuário. **Elas efetivamente causam sempre desvantagens em rolagens ou modificadores negativos de -3. Para cada condição avançada adicionada, o valor necessário para expressar a Aegis cai em três pontos**.  **Exemplos de condições avançadas**: Pode usar a habilidade quando ficar com um valor específico de vida, perder alguma parte do corpo de maneira irreversível, perder um tempo de vida significativo, não pode usar a habilidade duas vezes contra quem já a viu antes ou sabe dela, não pode atacar durante todo um combate apenas usar essa habilidade uma vez, ao usar a habilidade você tem risco de morrer.
-
-
->**Pactos:** Contratos realizados consigo mesmo ou com outros seres que resultam em vantagens e efeitos imediatos em algum aspecto de sua expressão. A desvantagem deles pode variar muito, sendo as vezes somente para aquele combate ou até mesmo para a vida toda. Ao quebrar um pacto a punição pode ser a perda da vantagem adquirida com o contrato, ou algo mais grave que pode escalar até mesmo a morte do personagem.
-
->**Pactos são tratados sempre como ação bônus. É possível fazer quantos pactos forem necessários usando apenas uma ação bônus**
-
-> Existem dois tipos de pactos, os simples e os avançados.
-
-- **Pactos simples**: Pactos que geralmente envolvem limitações em seu próprio poder ou ações de seu corpo. Normalmente essas restrições se estendem por curtos períodos de tempo. **Para cada pacto simples adicionado, coloque +1d8 no valor de dano / modificador base**. Veja alguns exemplos:
-
-	- Limitação de poder: Eu limito o alcance de minha expressão para aumentar seu dano até o fim do combate. Caso eu quebre o pacto, a punição é uma enorme dor em meu braço direito, causando 6d10 de dano ignorando todas as resistências.  
-	- Limitação de locomoção: Eu me proíbo de me mexer, para aumentar o alcance de minha expressão. Caso eu quebre o pacto, a punição é a perda da vantagem que adquiri e uma perda de 15 pontos de sanidade. 
-	- Limitação de Área de efeito: Eu limito o número de alvos que posso acertar, para receber um aumento de alcance da expressão. Caso eu quebre o pacto, não posso usar essa Aegis por 1 mês.
-	
-- **Pactos avançados**: Pactos que geralmente tem efeitos permanentes, usados apenas em condições extremas. Eles fornecem um grande aumento de poder, mas tem consequências graves. **Para cada pacto avançado adicionado, coloque +3d8 no valor de dano / modificador base**. Veja alguns exemplos:
-
-	- Limitação de rotina: Eu cedo algo muito, muito importante para mim, como um objeto de valor inestimável ou até mesmo uma pessoa que eu amo em troca de usar minha ação lendária da minha expressão. Minha sanidade desce em 1d4 + 6 pontos cada vez que sinto saudades da pessoa (devo realizar um teste de Inalterabilidade todos os dias), e caso eu fracasse e quebre o pacto minha sanidade desce em 50 pontos.
-	- Limitação da ultima dança: Eu limito o uso da minha técnica um número 5 de vezes, e nunca mais consigo usar alguma expressão desse nível (seja lendária, avançada, mundana ou básica) após esse número de usos for batido. Em troca meu dano, alcance e área de efeito recebem melhorias.
-
 
 ### Usando expressões:
 

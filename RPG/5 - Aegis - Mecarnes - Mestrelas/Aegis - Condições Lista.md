@@ -1,3 +1,18 @@
+```
+Via de regra, condições servem para ser possível usar expressões da Aegis de tipos mais avançados. Já os pactos servem para melhorar as expressões que já podem ser canalizadas.  
+```
+
+>**Condições:** Ações baseados na troca equivalente. Ao entregar algo a Aegis, você consegue ter mais domínio e controle de uma expressão. Normalmente condições servem para tornar possível a canalização de seu poder. Ao desrespeitar uma condição, normalmente a técnica se encerra. **As condições reduzem a quantidade mínima necessária de pontos de Canalização para expressar uma Aegis. Ou seja, caso a quantidade mínima seja 14 e você adicione uma condição que reduza em 1 o valor necessário, a quantidade mínima para expressar aquela Aegis se torna 13**.
+
+>**Condições são tratadas como ações livres.**
+
+>Pode ter até 2 de um mesmo tipo de Condição para uma ação (exemplo até 2 simples).
+
+>Existem 5 tipos de condições, as simples, avançadas, mestrais, lendárias e míticas.
+
+>Uma habilidade por ter até 5 condições.
+
+
 ### **Condições Simples:** -1
 Condições que geralmente envolvem: Essa condição deve exprimir certo desconforto ao usuário, causando empecilhos ao jogador. **Não necessariamente precisam dar modificadores negativos em rolagens, mas podem atrapalhar a comunicação do ser ou afins.** Condições simples reduzem o nível de dificuldade da expressão em 1 ponto. 
 
@@ -65,6 +80,7 @@ Condições que geralmente envolvem: Essa condição deve exprimir certo desconf
 11. Seu alvo(s) deve ter todos os atributos inferiores ao seu. Além disso, ele deve temer você. 
 12. Se o seu alvo não morrer de maneira definitiva após a habilidade, você morre de maneira definitiva, sem direito a *Tabela da Morte*.
 13. Você deve escolher um objeto *Sacraty*, que é um objeto no qual vai ter um cântico longo (um livro, pergaminho ou caderno), você deve recitar o que está escrito no objeto, segurando ele aberto antes de usar a habilidade. Demora-se um mês para trocar de objeto *Sacraty*. Recebe desvantagem e -2 em testes de Reação. Caso algum alvo te ataque enquanto segura ele deve fazer um teste de Reação CD 15 para não fechar o objeto, se o golpe acertar o CD é 18.
+
 ### **Condições Fatais:** -9
 **Condições Lendárias:** Condições que envolvem riscos mortais e dificuldade profunda ao usuário. Para cada condição lendária adicionada, o valor necessário para expressar a Aegis cai em 9 pontos.
 
