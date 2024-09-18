@@ -1,4 +1,4 @@
-```
+ ```
 Via de regra, condições servem para ser possível usar expressões da Aegis de tipos mais avançados. Já os pactos servem para melhorar as expressões que já podem ser canalizadas.  
 ```
 
