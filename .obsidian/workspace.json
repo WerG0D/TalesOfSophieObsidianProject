@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
+                "file": "RPG/6 - Sistema/Karma.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
+                "file": "RPG/6 - Sistema/Karma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
+                "file": "RPG/6 - Sistema/Karma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md"
+                "file": "RPG/6 - Sistema/Karma.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "3af6fcf541253c30",
   "lastOpenFiles": [
+    "RPG/6 - Sistema/Atributos.md",
+    "RPG/6 - Sistema/Karma.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Condições Lista.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Conceito.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pactos.md",
     "RPG/6 - Sistema/Inimigos.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Ações das Expressões.md",
@@ -171,8 +173,6 @@
     "RPG/6 - Sistema/Sanidade.md",
     "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
     "RPG/6 - Sistema/Criação de Personagem.md",
-    "RPG/6 - Sistema/Talentos.md",
-    "RPG/6 - Sistema/Perícias.md",
-    "RPG/6 - Sistema/Atributos.md"
+    "RPG/6 - Sistema/Talentos.md"
   ]
 }
