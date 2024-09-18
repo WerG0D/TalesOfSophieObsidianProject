@@ -1,4 +1,4 @@
-Você começa com 0 de Karma, a cada ação boa ou má que você cometa segundo o mestre você recebe mais ou menos Karma. Veja a lista:
+Você começa com 0 de Karma, a cada ação boa ou má que você cometa segundo o mestre você recebe mais ou menos Karma. Depois dos 50 pontos positivos ou negativos você recebe metade dos pontos de Karma. Veja a lista:
 
 - Ações Horrendas e Abomináveis (abusar, torturar e matar inocentes por pura vilania): - 40 de Karma.
 - Ações Horríveis (torturar e matar, principalmente inocentes): -25 de Karma.
