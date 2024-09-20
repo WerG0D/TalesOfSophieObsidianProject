@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/6 - Sistema/Karma.md",
+                "file": "RPG/4 - Itens/Armus Mortis Armas a Distância.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/6 - Sistema/Karma.md",
+                "file": "RPG/4 - Itens/Armus Mortis Armas a Distância.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/6 - Sistema/Karma.md",
+                "file": "RPG/4 - Itens/Armus Mortis Armas a Distância.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/6 - Sistema/Karma.md"
+                "file": "RPG/4 - Itens/Armus Mortis Armas a Distância.md"
               }
             }
           }
@@ -148,8 +148,19 @@
   },
   "active": "3af6fcf541253c30",
   "lastOpenFiles": [
-    "RPG/6 - Sistema/Relacionamento.md",
+    "RPG/4 - Itens/Armus Mortis Corpo-a-Corpo.md",
+    "RPG/4 - Itens/Armus Mortis Armas a Distância.md",
+    "RPG/4 - Itens/Armus e Defendus Mortis.md",
+    "RPG/4 - Itens/Defendus Mortis Armaduras.md",
+    "RPG/6 - Sistema/Condições.md",
+    "RPG/1 - Raça/Meio-Sereia.md",
+    "RPG/1 - Raça/Inumano.md",
+    "RPG/1 - Raça/Fada.md",
+    "RPG/1 - Raça/Humano.md",
+    "RPG/1 - Raça/Zytherin.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes/Mecarnes.md",
     "RPG/6 - Sistema/Karma.md",
+    "RPG/6 - Sistema/Relacionamento.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
     "RPG/6 - Sistema/Atributos.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Condições Lista.md",
@@ -161,18 +172,7 @@
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Troca equivalente.md",
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Pontos Aegis.md",
     "RPG/6 - Sistema/Sistema de cansaço.md",
-    "RPG/1 - Raça/Humano.md",
     "RPG/3 - Profissões/Artista Marcial.md",
-    "RPG/1 - Raça/Zytherin.md",
-    "RPG/1 - Raça/Meio-Sereia.md",
-    "RPG/1 - Raça/Inumano.md",
-    "RPG/6 - Sistema/Morrendo.md",
-    "RPG/4 - Itens/Armas Corpo-a-Corpo.md",
-    "RPG/4 - Itens/Armaduras.md",
-    "RPG/3 - Profissões/Campeão da Anciã.md",
-    "RPG/6 - Sistema/Condições.md",
-    "RPG/6 - Sistema/Sanidade.md",
-    "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
-    "RPG/6 - Sistema/Criação de Personagem.md"
+    "RPG/6 - Sistema/Morrendo.md"
   ]
 }

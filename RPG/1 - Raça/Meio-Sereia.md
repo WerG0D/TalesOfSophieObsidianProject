@@ -24,7 +24,7 @@ Entretanto, a vida dessas criaturas é curta e marcada pela urgência da sobrevi
     As Meio-Sereias exalam um leve aroma de sal e maresia. Este cheiro pode ser sedutor para alguns, despertando memórias de aventuras no mar, ou perturbador para outros, trazendo à tona medos do desconhecido e das criaturas que habitam o fundo dos oceanos.
 ## Jogabilidade:
 
-Seu dado de vida é um 3d10, você +2 pontos de atributo para cada nível que subir para distribuir como quiser. Você não pode usar Mestrelas, mas pode usar Aegis.
+Seu dado de vida é um 3d10 + 10, você +2 pontos de atributo para cada nível que subir para distribuir em Intelecto e Psiqué. Você não pode usar Mestrelas, mas pode usar Aegis.
 
 >**Visitante Transmorfo**: Tem a capacidade de alterar a própria aparência física da metade superior do corpo durante 1 hora. 
 

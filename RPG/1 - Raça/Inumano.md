@@ -5,7 +5,7 @@ Um vagabundo anda sem rumo pela Árvore, usando uma capa que cobre todo seu corp
 
 >Inumanos são híbridos de humanos e demônios do Véu, sendo criaturas humanoides da pele acinzentada. Inumanos, no decorrer de sua vida, sentem uma fome descomunal que os impele a devorar criaturas de todos os tipos, incluindo outros humanos e inumanos. Ao devorar essas criaturas, o inumano passa por um processo de *"fagoevolução"* onde ele incorpora o DNA da criatura em seu corpo, sendo capaz de usar habilidades das criaturas ingeridas. 
 
-> Independente da classe seu dado de vida é um 4d10 + 10. Recebe +2 pontos de atributo no nível 1, após isso, para cada nível que subir receba +2 pontos para distribuir em Intelecto ou Psique.
+> Independente da classe seu dado de vida é um 4d10 + 20. Recebe +2 pontos de atributo no nível 1, após isso, para cada nível que subir receba +2 pontos para distribuir em Intelecto ou Psique.
 
 >Capaz de usar mecarnes, mas não Aegis.
 

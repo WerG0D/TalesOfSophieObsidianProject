@@ -5,3 +5,5 @@
 **Encantado**: Você está encantado por alguma coisa, tem tendência a obedecer o que aquilo fala e vai evitar ao máximo ser hostil a ela.
 
 **Fraturado**: Você quebrou ou machucou algum osso seu. Recebe -3 em jogadas de ataque e esquiva.
+
+**Sangramento:** Você recebe dano por turno igual a um dado de dano da arma que o atingiu (caso não seja arma segue a descrição da habilidade ou como o Mestre desejar).
