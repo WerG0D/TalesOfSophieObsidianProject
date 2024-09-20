@@ -53,9 +53,9 @@ Atacar com um objeto que não tenha sido feito para lutar (cadeiras, canecas, ga
 | **Nível** | **Item**                      | **Peso** | **Preço (Florim Áureos)** | **Efeito**                       | **Dano**      | **Tipo de Dano**         | **Penetração de Defesa** |
 | --------- | ----------------------------- | -------- | ------------------------- | -------------------------------- | ------------- | ------------------------ | ------------------------ |
 | **Comum** | Bastão de Carvalho            | Médio    | 10 ~ 20                   | Recebe +2 de Força e 1 de Reação | 1d8 + 6 + F   | Dano Contundente         | 6 de Defesa              |
-| **Comum** | Lança de Caçador              | Médio    | 12 ~ 18                   | Recebe +1 de Força e 2 de Reação | 1d10 + 8 + F  | Dano Perfurante          | 3 de Defesa              |
-| **Comum** | Machado de Guerra Enferrujado | Pesado   | 18 ~ 22                   | Recebe +3 de Força.              | 1d12 + 10 + F | Dano Cortante            | 6 de Defesa              |
-| **Comum** | Alabarda de Soldado           | Médio    | 15 ~ 20                   | Recebe +1 de Força e 2 de Reação | 1d6 + 8 + F   | Dano Cortante/Perfurante | 3 de Defesa              |
+| **Comum** | Lança de Caçador              | Médio    | 12 ~ 18                   | Recebe +1 de Força e 2 de Reação | 1d10 + 8 + F  | Dano Perfurante          | 6 de Defesa              |
+| **Comum** | Machado de Guerra Enferrujado | Pesado   | 18 ~ 22                   | Recebe +3 de Força.              | 1d12 + 10 + F | Dano Cortante            | 3 de Defesa              |
+| **Comum** | Alabarda de Soldado           | Médio    | 15 ~ 20                   | Recebe +1 de Força e 2 de Reação | 1d6 + 8 + F   | Dano Cortante/Perfurante | 6 de Defesa              |
 | **Comum** | Machadinha de Madeira         | Leve     | 10 ~ 15                   | Recebe +1 de Força e 2 de Reação | 1d6 + 6 + F   | Dano Cortante            | 3 de Defesa              |
 | **Comum** | Martelo de Guerra Rachado     | Pesado   | 15 ~ 25                   | Recebe +3 de Força.              | 1d12 + 10 + F | Dano Contundente         | 10 de Defesa             |
 | **Comum** | Adaga de Peixe-Serra          | Leve     | 8 ~ 12                    | Recebe +1 de Força e 2 de Reação | 1d6 + 6 + F   | Dano Perfurante/Cortante | 10 de Defesa             |
@@ -68,9 +68,9 @@ Atacar com um objeto que não tenha sido feito para lutar (cadeiras, canecas, ga
 | **Nível** | **Item**                           | **Peso** | **Preço (Florim Áureos)** | **Efeito**                        | **Dano**      | **Tipo de Dano**           | **Penetração de Defesa** |
 | --------- | ---------------------------------- | -------- | ------------------------- | --------------------------------- | ------------- | -------------------------- | ------------------------ |
 | **Raro**  | **Bastão de Espinhos Sombrios**    | Médio    | 30 ~ 45                   | Recebe +4 de Força e +3 de Reação | 2d6 + 8 + F   | Dano Contundente           | 10 de Defesa             |
-| **Raro**  | **Lança do Guerreiro das Areias**  | Médio    | 45 ~ 60                   | Recebe +4 de Força e +3 de Reação | 2d8 + 16 + F  | Dano Perfurante            | 6 de Defesa              |
-| **Raro**  | **Machado de Guerra de Sangue**    | Pesado   | 40 ~ 55                   | Recebe +6 de Força.               | 2d10 + 10 + F | Dano Cortante              | 10 de Defesa             |
-| **Raro**  | **Alabarda da Tempestade**         | Médio    | 50 ~ 65                   | Recebe +4 de Força e +3 de Reação | 2d6 + 8 + F   | Dano Cortante / Perfurante | 6 de Defesa              |
+| **Raro**  | **Lança do Guerreiro das Areias**  | Médio    | 45 ~ 60                   | Recebe +4 de Força e +3 de Reação | 2d8 + 16 + F  | Dano Perfurante            | 10 de Defesa             |
+| **Raro**  | **Machado de Guerra de Sangue**    | Pesado   | 40 ~ 55                   | Recebe +6 de Força.               | 2d10 + 10 + F | Dano Cortante              | 6 de Defesa              |
+| **Raro**  | **Alabarda da Tempestade**         | Médio    | 50 ~ 65                   | Recebe +4 de Força e +3 de Reação | 2d6 + 8 + F   | Dano Cortante / Perfurante | 10 de Defesa             |
 | **Raro**  | **Machadinha do Caçador de Feras** | Leve     | 30 ~ 40                   | Recebe +3 de Força e +4 de Reação | 1d10 + 8 + F  | Dano Cortante              | 6 de Defesa              |
 | **Raro**  | **Martelo de Guerra dos Titãs**    | Pesado   | 50 ~ 65                   | Recebe +6 de Força                | 2d6 + 10 + F  | Dano Contundente           | 15 de Defesa             |
 | **Raro**  | **Adaga das Sombras**              | Leve     | 30 ~ 40                   | Recebe +3 de Força e +4 de Reação | 1d10 + 8 + F  | Dano Perfurante / Cortante | 15 de Defesa             |
@@ -86,9 +86,9 @@ Atacar com um objeto que não tenha sido feito para lutar (cadeiras, canecas, ga
 | **Nível** | **Item**                            | **Peso** | **Preço (Florim Áureos)** | **Efeito**                         | **Dano**      | **Tipo de Dano**           | **Penetração de Defesa** |
 | --------- | ----------------------------------- | -------- | ------------------------- | ---------------------------------- | ------------- | -------------------------- | ------------------------ |
 | **Épico** | **Bastão de Raízes Ancestrais**     | Médio    | 100 ~ 150                 | Recebe +6 de Força e +4 de Reação. | 2d10 + 8 + F  | Dano Contundente           | 15                       |
-| **Épico** | **Lança do Guardião Celestial**     | Médio    | 120 ~ 170                 | Recebe +4 de Força e +6 de Reação. | 2d12 + 16 + F | Dano Perfurante            | 9                        |
-| **Épico** | **Machado de Guerra dos Espíritos** | Pesado   | 150 ~ 200                 | Recebe +9 de Força.                | 2d16 + 12 + F | Dano Cortante              | 15                       |
-| **Épico** | **Alabarda do Trovão**              | Médio    | 130 ~ 180                 | Recebe +6 de Força e +4 de Reação. | 2d10 + 8 + F  | Dano Cortante / Perfurante | 9                        |
+| **Épico** | **Lança do Guardião Celestial**     | Médio    | 120 ~ 170                 | Recebe +4 de Força e +6 de Reação. | 2d12 + 16 + F | Dano Perfurante            | 15                       |
+| **Épico** | **Machado de Guerra dos Espíritos** | Pesado   | 150 ~ 200                 | Recebe +9 de Força.                | 2d16 + 12 + F | Dano Cortante              | 9                        |
+| **Épico** | **Alabarda do Trovão**              | Médio    | 130 ~ 180                 | Recebe +6 de Força e +4 de Reação. | 2d10 + 8 + F  | Dano Cortante / Perfurante | 15                       |
 | **Épico** | **Machadinha do Lobo Selvagem**     | Leve     | 110 ~ 160                 | Recebe +4 de Força e +6 de Reação. | 2d8 + 16 + F  | Dano Cortante              | 9                        |
 | **Épico** | **Martelo de Guerra da Montanha**   | Pesado   | 150 ~ 200                 | Recebe +9 de Força                 | 2d10 + 12 + F | Dano Contundente           | 20                       |
 | **Épico** | **Espada do Fogo Eterno**           | Médio    | 130 ~ 180                 | Recebe +6 de Força e +4 de Reação. | 2d10 + 16 + F | Dano Cortante              | 9                        |
@@ -102,13 +102,13 @@ Atacar com um objeto que não tenha sido feito para lutar (cadeiras, canecas, ga
 
 | **Nível**    | **Item**                                | **Peso** | **Preço (Florim Áureos)** | **Efeito**                          | **Dano**      | **Tipo de Dano**           | **Penetração de Defesa** |
 | ------------ | --------------------------------------- | -------- | ------------------------- | ----------------------------------- | ------------- | -------------------------- | ------------------------ |
-| **Lendário** | **Bastão do Arcanjo Sagrado**           | Leve     | 550 ~ 700                 | Recebe +10 de Força e +4 de Reação. | 2d12 + 10 + F | Dano Contundente           | 20                       |
-| **Lendário** | **Lança do Guardião Solar**             | Médio    | 900 ~ 1200                | Recebe +4 de Força e +10 de Reação. | 2d12 + 22 + F | Dano Perfurante            | 15                       |
-| **Lendário** | **Machado de Guerra do Senhor do Caos** | Pesado   | 650 ~ 1050                | Recebe +14 de Força                 | 2d20 + 12 + F | Dano Cortante              | 20                       |
-| **Lendário** | **Alabarda do Dragão do Trovão**        | Médio    | 700 ~ 900                 | Recebe +10 de Força e +4 de Reação. | 2d12 + 10 + F | Dano Cortante / Perfurante | 15                       |
+| **Lendário** | **Bastão do Arcanjo Sagrado**           | Leve     | 550 ~ 700                 | Recebe +10 de Força e +4 de Reação. | 2d12 + 10 + F | Dano Contundente           | 25                       |
+| **Lendário** | **Lança do Guardião Solar**             | Médio    | 900 ~ 1200                | Recebe +4 de Força e +10 de Reação. | 2d12 + 22 + F | Dano Perfurante            | 20                       |
+| **Lendário** | **Machado de Guerra do Senhor do Caos** | Pesado   | 650 ~ 1050                | Recebe +14 de Força                 | 2d20 + 12 + F | Dano Cortante              | 15                       |
+| **Lendário** | **Alabarda do Dragão do Trovão**        | Médio    | 700 ~ 900                 | Recebe +10 de Força e +4 de Reação. | 2d12 + 10 + F | Dano Cortante / Perfurante | 20                       |
 | **Lendário** | **Machadinha do Fúria do Caçador**      | Leve     | 550 ~ 750                 | Recebe +4 de Força e +10 de Reação. | 2d10 + 18 + F | Dano Cortante              | 15                       |
 | **Lendário** | **Martelo de Guerra do Gigante Antigo** | Pesado   | 950 ~ 1250                | Recebe +14 de Força                 | 2d12 + 14 + F | Dano Contundente           | 25                       |
 | **Lendário** | **Espada do Inferno Flamejante**        | Médio    | 800 ~ 1000                | Recebe +10 de Força e +4 de Reação. | 2d12 + 18 + F | Dano Cortante              | 15                       |
 | **Lendário** | **Adaga das Sombras Eternas**           | Leve     | 500 ~ 750                 | Recebe +4 de Força e +10 de Reação. | 2d10 + 12 + F | Dano Perfurante / Cortante | 25                       |
 | **Lendário** | **Rapieira do Mestre Imortal**          | Leve     | 650 ~ 900                 | Recebe +4 de Força e +10 de Reação. | 2d10 + 18 + F | Dano Perfurante            | 20                       |
-| **Lendário** | **Montante do Guardião das Almas**      | Pesado   | 900 ~ 1250                | Recebe +14 de Força                 | 2d16 + 16 + F | Dano Cortante              | 20                       |
+| **Lendário** | **Montante do Guardião das Almas**      | Pesado   | 900 ~ 1250                | Recebe +14 de Força                 | 2d16 + 18 + F | Dano Cortante              | 15                       |

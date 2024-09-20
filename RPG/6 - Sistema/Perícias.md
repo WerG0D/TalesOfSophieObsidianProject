@@ -124,6 +124,10 @@ Os valores bases da perícia é o modificador do atributo referenciado nela.
     - **Descrição**: Capacidade de suportar danos físicos e continuar a funcionar apesar da dor ou do cansaço.
     - **Exemplo de Uso**: Resistir aos efeitos de ferimentos graves ou continuar lutando apesar da exaustão.
     - **Atributo**: Força.
+- **11 - Resiliência**
+	- **Descrição**: Capacidade de suportar efeitos adversos com envenenamento, congelamento e etc.
+    - **Exemplo de Uso**: Resistir aos efeitos e continuar lutando.
+    - **Atributo**: Vigor.
 	
 ### Testes do Carisma: 9
 - **1 - Empata**
