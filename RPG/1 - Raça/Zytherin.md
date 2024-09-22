@@ -41,7 +41,7 @@ Você +2 pontos de atributo para cada nível que subir para distribuir como quis
 
 >**Um com a Aegis**: Zytherins respiram Aegis, vivem Aegis. Além de possuírem anos de treinamento, Zytherins possuem dom natural para o controle de Aegis e suas expressões, assim o nível de dificuldade para as **Ações** de suas expressões é reduzido em 2. Se torne especialista na perícia de Expressão e Ganhe +3 pontos de Canalização no nível 1, 3 e 6. Além disso, seus testes para entender Aegis sempre são rolados com vantagem.
 
->**Resiliência mágica:** Recupera 2d4 + 1 pontos de Aegis com apenas um descanso curto. Além disso, ao receber um ataque, você pode usar sua reação, após o oponente rolar o dano, para consumir seus pontos Aegis para aumentar sua Defesa em +6 para cada ponto consumido durante um turno. 
+>**Resiliência mágica:** Recupera 2d4 + 1 pontos de Aegis com apenas um descanso curto. Além disso, ao receber um ataque, você pode usar sua reação, após o oponente rolar o dano, para consumir seus pontos Aegis para aumentar sua Defesa em +2 para cada ponto consumido durante um turno. 
 
 >**Pacifista absoluto**: Zytherins não são proficientes com nenhum tipo de arma, incluindo Mecarnes ou Mestrelas, se recusando a usar qualquer arma além de seus próprios punhos. Contudo, você pode consumir seus pontos Aegis para aumentar seu dano no próximo ataque em 1d8 + 2, pode acumular até 3x.
 

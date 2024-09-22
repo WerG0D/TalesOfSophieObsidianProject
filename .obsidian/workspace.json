@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/1 - Raça/Humano.md",
+                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Condições Lista.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/1 - Raça/Humano.md",
+                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Condições Lista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/1 - Raça/Humano.md",
+                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Condições Lista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/1 - Raça/Humano.md"
+                "file": "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Condições Lista.md"
               }
             }
           }
@@ -148,14 +148,24 @@
   },
   "active": "3af6fcf541253c30",
   "lastOpenFiles": [
-    "RPG/6 - Sistema/Perícias.md",
-    "RPG/1 - Raça/Humano.md",
-    "RPG/6 - Sistema/Talentos.md",
-    "RPG/4 - Itens/Armus Mortis Corpo-a-Corpo.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Ações das Expressões.md",
+    "RPG/1 - Raça/Zytherin.md",
+    "RPG/3 - Profissões/Artista Marcial.md",
+    "RPG/6 - Sistema/Sobrevivendo.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Expressões.md",
+    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Conceito.md",
+    "RPG/6 - Sistema/Sistema de cansaço.md",
     "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
+    "RPG/6 - Sistema/Talentos.md",
+    "RPG/6 - Sistema/Perícias.md",
+    "RPG/6 - Sistema/Atributos.md",
+    "RPG/2 - Ancestralidades/Thalassano.md",
+    "RPG/2 - Ancestralidades/Sussurrador.md",
+    "RPG/4 - Itens/Armus Mortis Corpo-a-Corpo.md",
+    "RPG/3 - Profissões/Assassino.md",
+    "RPG/1 - Raça/Humano.md",
     "RPG/6 - Sistema/Recompensas.md",
     "RPG/6 - Sistema/Relacionamento.md",
-    "RPG/6 - Sistema/Sobrevivendo.md",
     "RPG/4 - Itens/Anéis, Pulseiras e Colares.md",
     "RPG/4 - Itens/Armus e Defendus Mortis.md",
     "RPG/4 - Itens/Armus Mortis Armas a Distância.md",
@@ -163,16 +173,6 @@
     "RPG/5 - Aegis - Mecarnes - Mestrelas/Mestrelas/Mestrelas.md",
     "RPG/6 - Sistema/Morrendo.md",
     "RPG/4 - Itens/Poções.md",
-    "RPG/6 - Sistema/Condições.md",
-    "RPG/1 - Raça/Meio-Sereia.md",
-    "RPG/1 - Raça/Inumano.md",
-    "RPG/1 - Raça/Fada.md",
-    "RPG/1 - Raça/Zytherin.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Mecarnes/Mecarnes.md",
-    "RPG/6 - Sistema/Karma.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Categorias.md",
-    "RPG/6 - Sistema/Atributos.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Condições Lista.md",
-    "RPG/5 - Aegis - Mecarnes - Mestrelas/Aegis - Conceito.md"
+    "RPG/6 - Sistema/Condições.md"
   ]
 }
