@@ -11,4 +11,4 @@ Um artesão martela o metal posto em sua bigorna. O suor em seu nariz escorre e 
 
 >Escolha entre uma Mecarne, Mestrela, ou expressão Aegis.
 
- >**Adaptação sobrenatural:** Caso escolha uma profissão você recebe +2 Perícias adicionalmente no Grau Inexperiente e pode escolher uma Perícia para se tornar Especialista (Recebe adicionalmente +4 nas jogadas daquela Perícia). Além disso, ao chegar no Grau Experiente você recebe +1 Talento.
+ >**Adaptação sobrenatural:** Caso escolha uma profissão você recebe +2 Perícias adicionalmente no Grau Inexperiente e pode escolher uma Perícia para se tornar Especialista. Além disso, ao chegar no Grau Experiente você recebe +1 Talento.

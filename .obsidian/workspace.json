@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/6 - Sistema/Perícias.md",
+                "file": "RPG/1 - Raça/Humano.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/6 - Sistema/Perícias.md",
+                "file": "RPG/1 - Raça/Humano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/6 - Sistema/Perícias.md",
+                "file": "RPG/1 - Raça/Humano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/6 - Sistema/Perícias.md"
+                "file": "RPG/1 - Raça/Humano.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "3af6fcf541253c30",
   "lastOpenFiles": [
+    "RPG/6 - Sistema/Perícias.md",
     "RPG/1 - Raça/Humano.md",
     "RPG/6 - Sistema/Talentos.md",
-    "RPG/6 - Sistema/Perícias.md",
     "RPG/4 - Itens/Armus Mortis Corpo-a-Corpo.md",
     "RPG/6 - Sistema/Maneiras de Ganhar Dinheiro.md",
     "RPG/6 - Sistema/Recompensas.md",
