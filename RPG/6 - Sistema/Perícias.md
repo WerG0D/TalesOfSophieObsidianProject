@@ -12,6 +12,8 @@ Observação: Caso o indivíduo não tenha a perícia do teste em questão ele d
 
 Os valores bases da perícia é o modificador do atributo referenciado nela.
 
+**Habilidade com Armas:** O personagem pode escolher ao invés de uma perícia nova, uma arma nova para ser proficiente.
+
 ### Testes Mentais: 12
 - **Compostura**
 	- **Descrição**: Capacidade de manter a postura e expressões diante situações que podem te constranger ou enfurecer.
@@ -120,10 +122,11 @@ Os valores bases da perícia é o modificador do atributo referenciado nela.
     - **Exemplo de Uso**: Saltar sobre um abismo ou por cima de um obstáculo alto.
     - **Atributo**: Força.
 	
-- **10 - Resiliência**
+- **10 - Resistência Corporal**
     - **Descrição**: Capacidade de suportar danos físicos e continuar a funcionar apesar da dor ou do cansaço.
     - **Exemplo de Uso**: Resistir aos efeitos de ferimentos graves ou continuar lutando apesar da exaustão.
     - **Atributo**: Força.
+	
 - **11 - Resiliência**
 	- **Descrição**: Capacidade de suportar efeitos adversos com envenenamento, congelamento e etc.
     - **Exemplo de Uso**: Resistir aos efeitos e continuar lutando.
@@ -140,8 +143,8 @@ Os valores bases da perícia é o modificador do atributo referenciado nela.
     - **Exemplo de Uso**: Resistir à tentação de consumir álcool ou drogas em uma festa, mantendo a sobriedade e o julgamento claro.
     - **Atributo**: Moderação.
 	
-- **3 - Atuação**
-    - **Descrição**: Habilidade de representar papéis ou personagens de forma convincente, seja no teatro, em negociações ou enganos.
+- **3 - Artes Gerais**
+    - **Descrição**: Habilidade de representar papéis ou personagens de forma convincente, seja no teatro, em negociações ou enganos, também habilidade de cantar e dançar.
     - **Exemplo de Uso**: Interpretar um personagem em uma peça teatral ou fingir ser outra pessoa para obter informações.
     - **Atributo**: Astúcia.
 	
@@ -174,6 +177,9 @@ Os valores bases da perícia é o modificador do atributo referenciado nela.
     - **Descrição**: Habilidade de treinar e controlar animais, entendendo seus comportamentos e necessidades.
     - **Exemplo de Uso**: Treinar um cão de guarda para proteger uma propriedade ou ensinar truques a um cavalo.
     - **Atributo**: Influência.
+	
+- **Manha**: Esta é a habilidade de descubrir onde qualquer tipo de “ato” ilegal está ocorrendo, quais policiais ou burocratas locais podem ser comprados; como contatar o submundo local, etc.
+
 ### Testes de Canalização
 
 - 1 - **Expressão**: 

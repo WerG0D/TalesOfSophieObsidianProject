@@ -18,7 +18,7 @@ Você recebe um Talento de sua escolha no nível 1, esse Talento começa com 1 p
 	
 - **Alerta:** É possível usar pontos desse talento para somar +2 a sua jogada de iniciativa ou de algum aliado. Recebe +2 em Percepção, além disso você não pode receber ataques de oportunidade.
 	
-- **Habilidoso:** Você adquiri mais +4 perícias de sua escolha.
+- **Habilidoso:** Você adquiri mais +5 perícias de sua escolha.
 	
 - **Talento para Aegis:** Recebe +1 pontos em Canalização, além disso o nível de dificuldade de todas as expressões é reduzido em 2.
 	
@@ -33,3 +33,22 @@ Você recebe um Talento de sua escolha no nível 1, esse Talento começa com 1 p
 - **Lutador Bom de Braço:** Seus ataques desarmados causam 1d4 + 2 x Mod. Força como dano, além disso eles atingem pontos fracos do alvo ignorando 12 de Defesa. Sua chance de crítico é aumentada em 2.
 	
 - **Imunidade:** Talento exclusivo para Inumanos. Receba imunidade a algum tipo de dano elemental e resistência a um dano físico (cortante, contusão ou perfurante).
+	
+- **Guardião de Mil Armas:** Você tem 8 **Espaços de Armas**, além disso quando você está utilizando deles não tem mais debuff em Reação.
+	
+- **Concentração Absoluta**: Esta é a habilidade de deixar a mente relaxada mas ao mesmo tempo pronta para agir imediatamente. É necessária uma Ação Completa para o teste de Concentração. Uma Concentração bem sucedida garante alguns benefícios, porém um novo teste de Concentração deve ser feito após o efeito ter sido "gasto" com algum deles: 
+	- **Manter a consciência:** Mesmo se o personagem receba um ataque que reduza seus PVs reduzam a 0, ele ficará com 1 Ponto de Vida, evitando perder os sentidos (mas sem poder fazer ações fora falar). 
+	- **Força de vontade:** O personagem recebe um bônus de +1 para resistir a qualquer ataque mental (mágico ou não) ou ao efeito indesejado de qualquer Desvantagem (como Insano, Fúria, etc.). 
+	- **Bônus de ataque:** O personagem recebe um bônus de +1 em sua próxima jogada de ataque final devido ao preparo do golpe. 
+	- **Bônus de defesa:** O personagem recebe um bônus de +1 em sua próxima Esquiva por ter estudado a forma de combate de seu adversário enquanto se concentrava, prevendo assim o tipo de ataque que poderia receber. 
+	- **Bônus de manobra:** o personagem recebe +1 em uma jogada para qualquer tipo de manobra (acrobacia) depois de ter se concentrado. 
+	- **Bônus de tarefa:** o personagem recebe um bônus de +1 antes de realizar um teste de Perícia (exceto, obviamente, em outro teste de Concentração).
+	
+- **Sentidos Especiais**: Você tem sentidos muito mais aguçados que os humanos normais, recebendo +4 em Testes de Percepção que envolvam esse sentido (pode gastar um ponto para rolar novamente um teste que falhou com esse sentido). A lista a seguir apresenta os Sentidos Especiais possíveis, escolha um deles para cada ponto que tiver nesse talento (ganha 2 ao subir de classe / pode escolher o mesmo sentido):
+	
+	- Audição Aguçada: você pode ouvir sons muito baixos ou muito distantes.
+	- Faro Aguçado: você tem sensores químicos capazes de farejar tão bem quanto um perdigueiro.
+	- Tato Aguçado: o sentido pelo qual o seu personagem tem conhecimento da forma, temperatura, consistência, pressão, estado da superfície e peso dos objetos é amplamente aprimorado.
+	- Visão Aguçada: você é equipado com visão a curta e longa distância.
+	
+- **Perito:** Escolha 3 perícias suas e dobre o valor do modificador delas em suas jogadas com as mesmas.

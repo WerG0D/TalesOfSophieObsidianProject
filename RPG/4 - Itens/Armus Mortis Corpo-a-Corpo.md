@@ -19,6 +19,8 @@ Atacar com um objeto que não tenha sido feito para lutar (cadeiras, canecas, ga
 - Médio: Segura-se com duas mãos. Pode atacar apenas uma vez.
 - Pesado: Segura-se com duas mãos. Pode atacar apenas uma vez. Recebe -2 de Reação, mas com uma ação bônus pode aumentar o dano do seu próximo ataque em mais um dado.
 
+**Guardar Armas**: Você pode tem 4 **Espaços de Arma**. Armas de peso pesadas gastam 3 de Espaço, Armas peso médio gastam 2 espaços e Armas leves gastam 1 espaço. Cada **Espaço de Arma** ativo te concede -1 de Reação.
+
 **Tipo de dano:**
 - Dano perfurante: O dano crítico é 3x ao invés de 2x. Ao ferir aplica **Sangramento** no alvo durante 3 turnos.
 - Dano cortante: Caso a arma tenha mais do que alcance 0, quando você acertar um crítico na sua jogada de acerto, o inimigo deve jogar um teste de Reação, Vigor ou Força de CD 10. No caso dele falhar você decepa um membro (aplica **Sangramento** até o alvo se curar). Ao ferir aplica **Sangramento** no alvo durante 3 turnos.
