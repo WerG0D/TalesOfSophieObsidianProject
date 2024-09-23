@@ -27,6 +27,6 @@ Você é o olho que tudo vê. Nada escapa de sua mira, nada escapa do seu gatilh
 	
 - **ESCOLHA LENDÁRIA**:
 	
-- **Oração de Ártemis:** Antes de um combate você pode fazer uma preparação com uma oração a Deusa do Arco. No próximo combate você com -2 pontos de Exaustão, além disso, com uma benção que lhe protege você ignora metade do dano do primeiro golpe físico que te acertar.
+- **Oração de Ártemis:** Antes de um combate você pode fazer uma preparação com uma oração a Deusa do Arco. No próximo combate você começa com -2 pontos de Exaustão, além disso, com uma benção que lhe protege você ignora metade do dano do primeiro golpe físico que te acertar.
 	
-- **Chuva de Apolo:** Ganha a arma lendária Chuva de Apolo (atirar e rezar). Essa arma é capaz de atirar 4 vezes em um turno, causando 2d10 + 12 de dano por disparo e ignorando 12 de Defesa. Depois de realizar os 4 disparos, a Chuva de Apolo adormece para se resfriar, podendo ser utilizada apenas no próximo dia 
+- **Chuva de Apolo:** Capaz de invocar o arco lendário Chuva de Apolo. Essa arma é capaz de atirar 4 vezes em um turno, causando 2d10 + 20 de dano por disparo e ignorando 20 de Defesa. Depois de realizar os 4 disparos, a Chuva de Apolo adormece para se resfriar, podendo ser utilizada apenas no próximo dia. Caso acerte mais de um tiro em um mesmo alvo no mesmo turno some as rolagens de dano.

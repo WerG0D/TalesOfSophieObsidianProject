@@ -18,7 +18,7 @@ Você recebe um Talento de sua escolha no nível 1, esse Talento começa com 1 p
 	
 - **Alerta:** É possível usar pontos desse talento para somar +2 a sua jogada de iniciativa ou de algum aliado. Recebe +2 em Percepção, além disso você não pode receber ataques de oportunidade.
 	
-- **Habilidoso:** Você adquiri mais +5 perícias de sua escolha.
+- **Multi Habilidoso:** Você adquiri mais +6 perícias de sua escolha.
 	
 - **Talento para Aegis:** Recebe +1 pontos em Canalização, além disso o nível de dificuldade de todas as expressões é reduzido em 2.
 	
@@ -51,4 +51,12 @@ Você recebe um Talento de sua escolha no nível 1, esse Talento começa com 1 p
 	- Tato Aguçado: o sentido pelo qual o seu personagem tem conhecimento da forma, temperatura, consistência, pressão, estado da superfície e peso dos objetos é amplamente aprimorado.
 	- Visão Aguçada: você é equipado com visão a curta e longa distância.
 	
-- **Perito:** Escolha 3 perícias suas e dobre o valor do modificador delas em suas jogadas com as mesmas.
+- **Perito:** Escolha 3 perícias suas e você se torna Perito nelas.
+	
+- **Arena Preferida:** Escolha um tipo especial de lugar de combate abaixo, nesse local você receberá benefícios:
+	- **Senhor Aquático:** Ao lutar em ambientes sobre a água (barcos navegando, debaixo de chuvas fortes, submerso em água ou em água rasa) você recebe +4 em jogadas de Esquiva e Ataque.
+	- **Mestre do Ambiente Seco:** Ao lutar em ambientes rochosos, de fortes ventanias, de pedregulho ou de areia você recebe +4 em jogadas de Esquiva e Ataque.
+	- **Atração Principal:** Ao lutar em ambientes populacionais urbanos/rurais em público (público é fora inimigos e aliados, além disso mais de 3 pessoas devem estar assistindo) você recebe +4 em jogadas de Esquiva e Ataque.
+	- **Rei Rato:** Ao lutar em ambientes lamacentos, de esgoto ou alguma forma repugnantes/nojentos você recebe +4 em jogadas de Esquiva e Ataque.
+	
+- **Mestre de Combos:** Ao acertar 2 ataques em um alvo o seu terceiro ataque é considerado *especial* nele você causa 2 dados de dano adicional. Além disso, o ataque *especial* tem +4 para acertar, caso acerte fecha um *combo*. Caso já tenha acertado um *combo* no alvo seu próximos ataques nele são todos considerados um ataque *especial* até você errar um ataque ou atacar outro alvo.

@@ -10,7 +10,7 @@
 #### Grau Inexperiente:
 - **Sangue e Bebida**: Ao consumir bebida ou comida, você restaura sua vida até a metade se estiver abaixo dela. Se sua Força for 17 ou mais, você também reduz o dano recebido nos próximos 2 turnos pela metade. Essa habilidade reflete seu vigor e a capacidade de continuar lutando mesmo em situações adversas.
     
--  **Aleijar**: Caso consiga um acerto crítico em combate, acerte automaticamente e determine uma lesão específica (olhos, ouvidos, pernas, braços ou boca). O alvo deve passar em um teste de Constituição para evitar a incapacidade temporária. Com Reação 17 ou mais, o crítico é estendido para 9-10, aumentando suas chances de infligir danos debilitantes.
+- **Aleijar**: Caso consiga um acerto crítico em combate, acerte automaticamente e determine uma lesão específica (olhos, ouvidos, pernas, braços ou boca). O alvo deve passar em um teste de Força para evitar a incapacidade temporária. Com Reação 17 ou mais, o crítico é estendido para 9-10, aumentando suas chances de infligir danos debilitantes.
     
 - **Traiçoeiro**: Você tem vantagem em testes para mentir e detectar mentiras, demonstrando sua astúcia e habilidades sociais afiadas. Essa capacidade de manipular a verdade torna você um adversário formidável em situações de engano e intriga. Recebe +2 em Influência.
     

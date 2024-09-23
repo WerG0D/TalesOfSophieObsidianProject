@@ -11,9 +11,9 @@ Você é um com sua arma, um com o campo de batalha. Independente do que aconte�
 	
 - **Treinamento Pesado**: Aumenta sua força, defesa e reação em 2. Seu limite nesses atributos passa a ser 25.
 	
--  **Ataque Preciso:** "Encontre a falha na armadura." Aumenta sua precisão de ataque em +4, ignorando 8 pontos de Defesa do inimigo no próximo golpe.
+- **Ataque Preciso:** "Encontre a falha na armadura." Aumenta sua precisão de ataque em +4, ignorando 8 pontos de Defesa do inimigo no próximo golpe. Pode usar um número de vezes igual seu Mod. Vigor.
 	
-- Ataque Potente: Seus ataques corpo-a-corpo dão 1d4 de dano adicional. Aumentando em mais 1d4 no nível 4, e aumentando novamente 1d4 no nível 6.
+- **Ataque Potente:** Seus ataques corpo-a-corpo dão 1d4 de dano adicional. Aumentando em mais 1d4 no nível 4, e aumentando novamente 1d4 no nível 6.
 
 #### Grau Experiente: 
 
