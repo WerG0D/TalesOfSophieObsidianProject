@@ -8,15 +8,18 @@
 >Recebe uma tripulação de 1 navio de pequeno porte e 5 marujos companheiros de nível 1. Os status dos marujos são 10 em todas as categorias, mas eles não entram em combate com você a não ser em momentos específicos determinados pelo seu mestre.  A cada nível sua tripulação aumenta a frota. 
 ### Pirata:
 #### Grau Inexperiente:
-- **Sangue e Bebida**: Ao consumir bebida ou comida, você restaura sua vida até a metade se estiver abaixo dela. Se sua Força for 17 ou mais, você também reduz o dano recebido nos próximos 2 turnos pela metade. Essa habilidade reflete seu vigor e a capacidade de continuar lutando mesmo em situações adversas.
+- **Sangue e Bebida**: Ao consumir bebida ou comida, você restaura sua vida até a metade se estiver abaixo dela. Se seu Vigor for 17 ou mais, você também reduz o dano recebido nos próximos 2 turnos pela metade. Essa habilidade reflete seu vigor e a capacidade de continuar lutando mesmo em situações adversas.
     
-- **Aleijar**: Caso consiga um acerto crítico em combate, acerte automaticamente e determine uma lesão específica (olhos, ouvidos, pernas, braços ou boca). O alvo deve passar em um teste de Força para evitar a incapacidade temporária. Com Reação 17 ou mais, o crítico é estendido para 9-10, aumentando suas chances de infligir danos debilitantes.
+- **Aleijar**: Caso consiga um acerto crítico em combate, acerte automaticamente e determine uma lesão específica (olhos, ouvidos, pernas, braços ou boca). O alvo deve passar em um teste de Força para evitar a incapacidade temporária. Com Força 17 ou mais, o crítico é estendido para 9-10, aumentando suas chances de infligir danos debilitantes.
     
 - **Traiçoeiro**: Você tem vantagem em testes para mentir e detectar mentiras, demonstrando sua astúcia e habilidades sociais afiadas. Essa capacidade de manipular a verdade torna você um adversário formidável em situações de engano e intriga. Recebe +2 em Influência.
     
 - **Êxtase da Batalha**: Se sua vida cair a 0 ou menos devido a uma lesão não fatal, retorne à batalha instantaneamente, recuperando pontos de vida igual à sua Força e seu próximo ataque é um crítico automático. Essa habilidade reflete seu espírito indomável, permitindo continuar lutando quando outros desistiriam. Tempo de recarga é 1 dia.
 	
-- **Pagamento Pesado**: Aumente em 25% todos os seus ganhos em dinheiro, ouro e joias. Sua perspicácia em negócios e trocas garante recompensas financeiras maiores, refletindo sua habilidade em prosperar nas adversidades.
+- **Pagamento Pesado**: Aumente em 25% todos os seus ganhos em dinheiro, ouro e joias. Sua perspicácia em negócios e trocas garante recompensas financeiras maiores, refletindo sua habilidade nas adversidades. Recebe +2 em Astúcia.
+	
+- **Chuva de Balas**: Com uma arma sua de média ou curta distância execute 1d4 + 2 disparos aleatoriamente contra todos os alvos em uma área de 10m. Caso você tenha 17 ou mais de Reação dobra a quantidades de disparos rolada. Caso tenha apenas um ou dois alvos na área você erra metade dos disparos.
+
 #### Grau Experiente: 
 - **ESCOLHA LENDÁRIA**: Ao chegar aqui o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao Grau Mestre.
 
