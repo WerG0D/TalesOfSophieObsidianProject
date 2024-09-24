@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/1 - Raça/Humano.md",
+                "file": "RPG/6 - Sistema/Talentos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/1 - Raça/Humano.md",
+                "file": "RPG/6 - Sistema/Talentos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/1 - Raça/Humano.md",
+                "file": "RPG/6 - Sistema/Talentos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/1 - Raça/Humano.md"
+                "file": "RPG/6 - Sistema/Talentos.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "3af6fcf541253c30",
   "lastOpenFiles": [
+    "RPG/1 - Raça/Humano.md",
     "RPG/6 - Sistema/Talentos.md",
     "RPG/4 - Itens/Armus Mortis Corpo-a-Corpo.md",
     "RPG/6 - Sistema/Perícias.md",
@@ -169,7 +170,6 @@
     "RPG/6 - Sistema/Atributos.md",
     "RPG/2 - Ancestralidades/Thalassano.md",
     "RPG/2 - Ancestralidades/Sussurrador.md",
-    "RPG/1 - Raça/Humano.md",
     "RPG/6 - Sistema/Recompensas.md",
     "RPG/6 - Sistema/Relacionamento.md",
     "RPG/4 - Itens/Anéis, Pulseiras e Colares.md",
