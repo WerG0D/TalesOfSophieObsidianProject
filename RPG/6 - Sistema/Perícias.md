@@ -178,7 +178,16 @@ Os valores bases da perícia é o modificador do atributo referenciado nela.
     - **Exemplo de Uso**: Treinar um cão de guarda para proteger uma propriedade ou ensinar truques a um cavalo.
     - **Atributo**: Influência.
 	
-- **Manha**: Esta é a habilidade de descubrir onde qualquer tipo de “ato” ilegal está ocorrendo, quais policiais ou burocratas locais podem ser comprados; como contatar o submundo local, etc.
+- **10 - Manha**: 
+	- **Descrição**:Esta é a habilidade de descobrir onde qualquer tipo de “ato” ilegal está ocorrendo, quais policiais ou burocratas locais podem ser comprados; como contatar o submundo local, etc.
+	- **Exemplo de Uso**: Ver se um policial a sua frente é corrupto e pode acertar subornos.
+    - **Atributo**: Astúcia.
+    
+- **11 - Disfarce:** 
+	- **Descrição**:Esta é a habilidade de se disfarçar para parecer algum tipo de pessoa.
+	- **Exemplo de Uso**: Disfarçar-se de um político importante (pode ser um que ninguém conhece, mas acreditam que você seja pela sua forma de agir).
+    - **Atributo**: Astúcia.
+    
 
 ### Testes de Canalização
 

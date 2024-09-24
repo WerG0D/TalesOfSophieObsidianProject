@@ -44,7 +44,7 @@ Você recebe um Talento de sua escolha no nível 1, esse Talento começa com 1 p
 	- **Bônus de manobra:** o personagem recebe +1 em uma jogada para qualquer tipo de manobra (acrobacia) depois de ter se concentrado. 
 	- **Bônus de tarefa:** o personagem recebe um bônus de +1 antes de realizar um teste de Perícia (exceto, obviamente, em outro teste de Concentração).
 	
-- **Sentidos Especiais**: Você tem sentidos muito mais aguçados que os humanos normais, recebendo +4 em Testes de Percepção que envolvam esse sentido (pode gastar um ponto para rolar novamente um teste que falhou com esse sentido). A lista a seguir apresenta os Sentidos Especiais possíveis, escolha um deles para cada ponto que tiver nesse talento (ganha 2 ao subir de classe / pode escolher o mesmo sentido):
+- **Sentidos Especiais**: Você tem sentidos muito mais aguçados que os humanos normais, recebendo +4 em Testes de Percepção que envolvam esse sentido (pode gastar um ponto para rolar novamente um teste que falhou com esse sentido). A lista a seguir apresenta os Sentidos Especiais possíveis, escolha um deles para cada ponto que tiver nesse talento (ganha 2 pontos ao subir de Classe / pode escolher o mesmo sentido):
 	
 	- Audição Aguçada: você pode ouvir sons muito baixos ou muito distantes.
 	- Faro Aguçado: você tem sensores químicos capazes de farejar tão bem quanto um perdigueiro.
@@ -59,4 +59,9 @@ Você recebe um Talento de sua escolha no nível 1, esse Talento começa com 1 p
 	- **Atração Principal:** Ao lutar em ambientes populacionais urbanos/rurais em público (público é fora inimigos e aliados, além disso mais de 3 pessoas devem estar assistindo) você recebe +4 em jogadas de Esquiva e Ataque.
 	- **Rei Rato:** Ao lutar em ambientes lamacentos, de esgoto ou alguma forma repugnantes/nojentos você recebe +4 em jogadas de Esquiva e Ataque.
 	
-- **Mestre de Combos:** Ao acertar 2 ataques em um alvo o seu terceiro ataque é considerado *especial* nele você causa 2 dados de dano adicional. Além disso, o ataque *especial* tem +4 para acertar, caso acerte fecha um *combo*. Caso já tenha acertado um *combo* no alvo seu próximos ataques nele são todos considerados um ataque *especial* até você errar um ataque ou atacar outro alvo.
+- **Mestre de Combos:** Ao acertar 2 ataques em um alvo o seu terceiro ataque é considerado *especial*, caso acerte o golpe você fecha um *combo*. Caso já tenha acertado um *combo* no alvo seu próximos ataques nele são todos considerados um ataque *especial*, terminando apenas se você errar um ataque, não ataca-lo por um turno ou atacar outro alvo.
+	- *Ataque Especial:* Você causa 2 dados de dano adicional da arma e tem +2 para acertar.
+	
+- **Juggernaut:** Sua Força massiva e excessiva permite que você cause danos até mesmo quando não acerta o alvo. Ao invés de usar sua Reação você pode efetuar ataques utilizando sua Força no lugar (1d10 + Mod. F). Caso o resultado da sua jogada de acerto seja superior a 2 pontos da jogada do oponente você acerta o golpe perfeitamente. Contudo, caso o resultado da sua jogada de acerto seja inferior à = Jogada do oponente + 1, você libera um onda de ar que causa metade do dano ao alvo caso ele esteja ainda próximo. Caso sua jogada seja inferior a 4 pontos da jogada do oponente você erra totalmente o golpe. Você causa o triplo de dano a estruturas. **Esse talento exige que você tenha ao menos 16 de Força e também que você ataque com armas corpo a corpo PESADAS ou com seus punhos.**
+	
+- 
