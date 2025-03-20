@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"5f4ce86b03196297","type":"file","file":"2. Escudo do Mestre/Tabelas de Objetivos do Mestre Proativo.md","x":480,"y":-304,"width":640,"height":844},
+		{"id":"7a3c81f1b86cad3a","type":"file","file":"2. Escudo do Mestre/Tabelas de Nomes.md","x":40,"y":-304,"width":400,"height":200},
+		{"id":"050d53896a02605d","type":"file","file":"2. Escudo do Mestre/Maneiras de Ganhar Dinheiro.md","x":-417,"y":-20,"width":400,"height":400},
+		{"id":"1ce0878ecc88635d","type":"file","file":"2. Escudo do Mestre/Cenas de Ambientação.md","x":40,"y":-20,"width":400,"height":400},
+		{"id":"1a5568a238cb13bd","type":"file","file":"2. Escudo do Mestre/Combate em Eldoria RPG.md","x":-417,"y":440,"width":400,"height":400},
+		{"id":"748eee6a5d6d1ef0","type":"file","file":"2. Escudo do Mestre/Perguntas de Desenvolvimento de Personagem.md","x":40,"y":440,"width":400,"height":400}
+	],
+	"edges":[]
+}

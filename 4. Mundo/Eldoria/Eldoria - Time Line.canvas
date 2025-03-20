@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"a37727af693f3b79","type":"text","text":"## Morte dos Deuses\n\nA morte dos deuses Aerathys e Oathwert culminou na reencarnação de ambos. Aerathys como a Árvore Anciã, e Oathwert como o Mar.","x":-360,"y":-400,"width":280,"height":640},
+		{"id":"9f35bfb9f3580c5e","type":"file","file":"4. Mundo/Eldoria/Primeiro reino humano/O reino primordial.md","x":0,"y":-400,"width":460,"height":720},
+		{"id":"8d9816bc56c96a22","type":"file","file":"4. Mundo/Eldoria/O Pecado Capital.md","x":500,"y":-400,"width":680,"height":900},
+		{"id":"19a2a12b00fba864","type":"text","text":"# ERA PRÉ DILUVIO","x":-820,"y":-500,"width":2000,"height":60,"color":"1"},
+		{"id":"c8923297598642fe","type":"text","text":"# ERA DO DILUVIO","x":1200,"y":-500,"width":2260,"height":60,"color":"5"},
+		{"id":"2df3230ace556912","type":"file","file":"4. Mundo/Eldoria/Personagens/Semideuses/Aerion, o Soberano dos Céus.md","x":1200,"y":-400,"width":640,"height":900},
+		{"id":"bced9f26ec0e888d","type":"file","file":"4. Mundo/Eldoria/Panteão/A Guerra dos Divinos/O sacrifício do herdeiro do mar.md","x":2920,"y":-400,"width":540,"height":580},
+		{"id":"c593e837776854ea","type":"file","file":"4. Mundo/Eldoria/Árvore Anciã/Os Sussurradores/Os Sussurradores.md","x":2345,"y":-400,"width":540,"height":900},
+		{"id":"9c76993d61a542a8","type":"text","text":"# ERA PÓS DILUVIO","x":3500,"y":-500,"width":4660,"height":60,"color":"4"},
+		{"id":"9e425bf4aaebaa1b","type":"text","text":"# **Fim do diluvio e diminuição do nível do mar**\n\nCom o inicio do ritual secular do herdeiro do mar, o diluvio chegou ao fim e o nível do mar diminuiu, permitindo a humanidade viver em locais fora da Árvore anciã e revelando ruínas que durante muitos anos permaneceram subaquáticas.","x":3500,"y":-400,"width":640,"height":580},
+		{"id":"a9130774d3ff88f6","type":"file","file":"4. Mundo/Eldoria/Árvore Anciã/Os Cracanos/Os Cracanos.md","x":4200,"y":-400,"width":720,"height":1026},
+		{"id":"3b4a7c5a0c267e0e","type":"file","file":"4. Mundo/Eldoria/Árvore Anciã/Os Radilhantes/Os Radilhantes.md","x":4980,"y":-400,"width":620,"height":1026},
+		{"id":"86c70c12d21b377e","type":"text","text":"# **Nascimento e sacrifício de Sophie**\n\nSophie nasce, sendo a 5° herdeira do mar.","x":5620,"y":-400,"width":480,"height":240},
+		{"id":"85d805d0cb011e25","type":"file","file":"4. Mundo/Eldoria/Árvore Anciã/Thalassar/A revolta dos desesperados.md","x":6120,"y":-400,"width":760,"height":900},
+		{"id":"72da0a8b6381094c","type":"file","file":"4. Mundo/Eldoria/Árvore Anciã/Thalassar/Éter Dourado.md","x":6920,"y":-400,"width":1240,"height":900},
+		{"id":"46c2356615c0e829","type":"file","file":"4. Mundo/Eldoria/Árvore Anciã/Thalassar/Thalassar.md","x":1880,"y":-400,"width":410,"height":900},
+		{"id":"6a903d677eae2a16","x":-880,"y":-400,"width":400,"height":780,"type":"file","file":"4. Mundo/Eldoria/Panteão/A Guerra dos Divinos/A Guerra dos Divinos.md"}
+	],
+	"edges":[
+		{"id":"11ada54720090799","fromNode":"a37727af693f3b79","fromSide":"right","toNode":"9f35bfb9f3580c5e","toSide":"left"},
+		{"id":"7b22bb59b0d92057","fromNode":"9f35bfb9f3580c5e","fromSide":"right","toNode":"8d9816bc56c96a22","toSide":"left"},
+		{"id":"473716ea1edea8e8","fromNode":"2df3230ace556912","fromSide":"right","toNode":"46c2356615c0e829","toSide":"left"},
+		{"id":"96faf0994221a052","fromNode":"46c2356615c0e829","fromSide":"right","toNode":"c593e837776854ea","toSide":"left"},
+		{"id":"67a4869201abb93d","fromNode":"46c2356615c0e829","fromSide":"right","toNode":"bced9f26ec0e888d","toSide":"bottom"},
+		{"id":"69fbdee8c38e5ffa","fromNode":"9e425bf4aaebaa1b","fromSide":"right","toNode":"a9130774d3ff88f6","toSide":"left"},
+		{"id":"cd1f5cb2acec59b6","fromNode":"a9130774d3ff88f6","fromSide":"right","toNode":"3b4a7c5a0c267e0e","toSide":"left"},
+		{"id":"f2be531e552b491c","fromNode":"9e425bf4aaebaa1b","fromSide":"right","toNode":"86c70c12d21b377e","toSide":"bottom"},
+		{"id":"180c3c8422c45900","fromNode":"9e425bf4aaebaa1b","fromSide":"bottom","toNode":"85d805d0cb011e25","toSide":"left"},
+		{"id":"eca3ee5f137b7e8c","fromNode":"85d805d0cb011e25","fromSide":"right","toNode":"72da0a8b6381094c","toSide":"left"},
+		{"id":"af80993149a994c4","fromNode":"6a903d677eae2a16","fromSide":"right","toNode":"a37727af693f3b79","toSide":"left"}
+	]
+}

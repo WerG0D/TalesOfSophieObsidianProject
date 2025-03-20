@@ -75,7 +75,7 @@ _Técnicas Avançadas_: Eleve sua culinária a um nível superior.
 
 - **Pratos Mágicos Especiais do Chef**: Prepare pratos aprimorados que concedem efeitos específicos como recuperação de vida, ou aumentos significativos de atributos. Os pratos necessitam de ingredientes exóticos, e sua classe de dificuldade para preparar é sempre 16.  Falhar no preparo dos pratos supremos nunca remove os ingredientes. O tempo de preparo dos pratos mágicos especiais é de 5 horas, contudo caso o Cozinheiro tente preparar mais de 2 Pratos Mágicos por dia ele recebe 2 pontos de Exaustão. Além disso, um aliado não pode receber um efeito de um mesmo Prato Mágico novamente em menos de 3 dias. 
 
-    - **Banquete da Cura Total**:
+    - **Banquete dos Heróis**:
         - **Descrição**: Um prato lendário cura um aliado e remove todas as condições adversas.
         - Requisitos: 3 ingredientes exóticos de cada tipo.
         - **Efeito**: Restaura 5d10 + 10 dos Pontos de Vida de um aliado e remove efeitos de controle.

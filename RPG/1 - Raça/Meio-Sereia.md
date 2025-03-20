@@ -1,3 +1,10 @@
+```
+Fome. Fome Extrema. Fome por se encaixar entre os humanos, fome de humanos. Metade encantadora, metade mortal, Chara nunca se encaixou como ser vivo. Ao mesmo tempo que era apaixonada pelos humanos, ela sentia uma constante necessidade de se alimentar deles, nunca se integrando a sociedade de fato. Com seus 4 braços e parte inferior monstruosos, Chara só conseguia fazer parte da sociedade humana por meio de ilusões e transformismos.
+```
+
+
+![[Pasted image 20250310173921.png]]
+
 ## Lore e características: 
 
 A raça das **Meio-Sereias** é envolta em mistério e fascínio, nascida do cruzamento entre sereias e humanos. Vivendo à beira do mundo aquático e terrestre, essas criaturas vagam entre as ondas do oceano e as costas desertas, sempre à espreita, buscando interações com as civilizações humanas enquanto mantêm sua verdadeira natureza oculta. 

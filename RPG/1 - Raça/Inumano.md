@@ -1,7 +1,9 @@
 
 ```
-Um vagabundo anda sem rumo pela Árvore, usando uma capa que cobre todo seu corpo. Ele prefere ficar em anonimato, enquanto sente sua fome aumentando. Sua fisionomia é fora do comum, portando braços com escamas, uma cauda repitiliana, asas de demônio... portanto, ele precisa agir em segredo e não revelar sua aparência caso queira encontrar sua próxima refeição.
+Um som perturbador de garras ecoa na mente de Eleonora, ela entrou em um estágio de não retorno após continuar ignorando os avisos sobre as consequências da Fagoevolução. Depois de comer um monstro Louva-Deus gigantesco, ela adquirou garras e comportamentos deste ser, junto com todos os outros monstros que ela previamente ingeriu. Eleonora não é mais ela mesma, ela é algo completamente Inumano. 
 ```
+![[Pasted image 20250310174946.png]]
+
 
 >Inumanos são híbridos de humanos e demônios do Véu, sendo criaturas humanoides da pele acinzentada. Inumanos, no decorrer de sua vida, sentem uma fome descomunal que os impele a devorar criaturas de todos os tipos, incluindo outros humanos e inumanos. Ao devorar essas criaturas, o inumano passa por um processo de *"fagoevolução"* onde ele incorpora o DNA da criatura em seu corpo, sendo capaz de usar habilidades das criaturas ingeridas. 
 

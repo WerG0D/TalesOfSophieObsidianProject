@@ -1,1 +1,0 @@
-guilda de xamãs malignos e fadas revoltadas 
