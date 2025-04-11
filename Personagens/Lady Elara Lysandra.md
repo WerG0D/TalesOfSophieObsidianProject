@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 Elara é uma figura proeminente no Parlamento de Thalassar e uma respeitada juíza no sistema judicial do reino. Sua história é marcada por uma dedicação incansável à justiça e à defesa dos direitos dos cidadãos comuns.
 
 Elara nasceu em uma família modesta, mas sempre foi uma estudiosa ávida e apaixonada por questões de justiça e igualdade. Ela dedicou sua juventude ao estudo do direito e à defesa dos menos privilegiados em Thalassar, ganhando uma reputação como advogada habilidosa e defensora incansável dos direitos humanos.

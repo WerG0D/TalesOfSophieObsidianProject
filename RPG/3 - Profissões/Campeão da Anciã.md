@@ -1,9 +1,17 @@
+---
+dg-publish: true
+---
+
 ```
-Fadas que usam de seus poderes da árvore. Quando usa muita Magia Proibida se torna Xamã Profano ganhando a Marca Maldita e sendo caçado agora por monstros e anjos. Além disso suas Magia passam a ter chance de falhar 20%. Proficiência com 2 armas de sua escolha. 
+"A Árvore observa, a Árvore fala, a Árvore escolhe. O Campeão da Anciã não é apenas um guerreiro – ele é sua extensão, um guardião de sua vontade e um arauto de seu poder. Cada golpe seu é abençoado pela essência da vida, mas aquele que ousa ultrapassar os limites de sua dádiva pode se perder nas sombras da profanação."
 ```
 
 >Classe exclusiva das fadas. 
 
+![](https://i.imgur.com/dejzoNl.png)
+
+
+>Os Campeões da Anciã são fadas agraciadas com a força primordial da Árvore Anciã, canalizando sua energia para proteger, curar ou destruir. Vinculados ao equilíbrio natural, eles empunham armas esculpidas dos galhos sagrados e dominam feitiços que conectam o mundo físico ao espiritual. No entanto, aqueles que abusam de seu poder flertam com a perdição, atraindo a atenção de forças caóticas que caçam os que ousam desafiar a ordem do cosmos.
 #### Grau Inexperiente:
 
 - **O Escolhido:** Você foi escolhido pela Árvore Anciã, agora como seu escolhido você recebeu algumas habilidades:

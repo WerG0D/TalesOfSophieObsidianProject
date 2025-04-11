@@ -1,55 +1,72 @@
+---
+dg-publish: true
+---
+
+
  ```
-Você dominou a si mesmo e aperfeiçoou sua técnica de combate. Seja com espada, lança, ou seus próprios punhos, você luta sempre com sua mente e coração sintonizados. 
+"O corpo é a arma, a mente é o escudo, e a alma é o caminho. O Artista Marcial não apenas luta – ele dança entre os golpes, flui como a água e ataca como o trovão. Cada movimento é uma extensão de sua vontade, cada respiração, um passo mais perto da perfeição."
 ```
+
+![](https://i.imgur.com/44DCQri.png)
+
+
+>Os Artistas Marciais são combatentes que atingiram a maestria do corpo e da mente através de treinamento disciplinado e controle interior. Lutando sem armaduras e longe da magia tradicional, eles canalizam sua energia vital – o chi – para realizar façanhas físicas e mentais que ultrapassam os limites humanos. Seja com espadas, bastões ou os próprios punhos, eles se adaptam a qualquer estilo com fluidez, precisão e impacto, como um rio que esculpe a montanha com paciência e poder.
 
 ### Marcial:
 
 #### Grau Inexperiente:
   
-- **Caminho Marcial**: Aumenta sua Inalterabilidade, Moderação e Reação em 2. Além disso escolha qual o caminho marcial você vai trilhar:
-	- Caminho da Espada: Seus ataques com espada quando causam dano também somam o seu modificador de Reação. 
-	- Caminho dos Punhos: Seus ataques desarmados ou com armas de punho causam 1d8 + Mod. Inalterabilidade + Mod. Moderação, além disso eles acertam diretamente nos pontos energéticos do oponente, ignorando sua Defesa. Pode atacar 2 vezes mais 1 com ação bônus.
-	- Caminho do Bastão: Seus ataques com o Bastão tem a chance de crítico adicionada em 2.
-	
--  **Fortificar a Mente:** Quando falha em um teste mental nocivo e entra sobre algum efeito mental inimigo, purifique sua mente e saia imediatamente do controle mental. Pode ser usado uma vez por combate, caso use mais de uma vez por combate receba um ponto de exaustão.
-	
-- **Repelir**: Pode usar sua ação bônus do próximo turno para aparar um ataque você tenha recebido. Você deve fazer um teste de Reação contra Reação do oponente.
-	
-- **Renove o Corpo / Tranquilize o Espírito:** Se você for humano recebe +10 de vida por nível. Além disso, pode usar uma ação bônus para recuperar 1d8 + Tot. Moderação de vida.
-	
-- **Treino Marcial:** Você não é treinado a usar armaduras. Contudo, quando está sem armadura pode adicionar seu modificador de Reação a sua Defesa. Caso use uma armadura mesmo assim, recebe -5 em todas suas jogadas. Você também tem resistência contra venenos e doenças.
-	
-- **Domine Seu Chi não Aegis:** Você tem dificuldade para controlar o Aegis. O nível de dificuldade para toda suas expressões aumenta em 2. Além disso, você tem dificuldade para notar o Aegis recebendo desvantagem em testes da pericia expressão.
-	
-#### Grau Experiente: 
-- **Caminho Marcial Evoluído:** Você evoluiu ainda mais no seu caminho marcial, ganhe as seguintes habilidades dependendo da sua escolha:
-	- **Corte Que Divide o Mundo (Caminho da Espada)**: Executa um ataque com um corte vertical limpo, você recebe +3 para acertar esse golpe e o oponente não pode usar reação. Além disso, esse seu ataque atinge diretamente na própria energia do oponente (não ignora Defesa base), dessa forma não é possível anular ou redirecionar o dano dele. Pode usar uma vez por combate.
-	- **Corpo como Rocha, Alma como Rio (Caminho dos Punhos):** Com uma ação bônus você pode escolher não esquivar e reduzir todo dano recebido em 4 * Mod. Vigor até seu próximo turno. Pode usar essa habilidade um número de vezes igual seu Mod. Vigor.
-	- **Rajadas Fulminante Divina (Caminho do Bastão):** Com uma ação você pode efetuar uma sequência de estocadas com seu bastão causando dano igual a metade do dano da sua arma * Mod. Reação. O oponente deve fazer um teste de Reação CD 14 para reduzir o dano pela metade. Pode usar 2x por combate.
-	
-- **ESCOLHA LENDÁRIA**: Ao chegar aqui o mestre deve entregar uma quest especifica para você, que ao ser completada te elevará imediatamente ao Grau Mestre.
-	
-#### Grau Mestre: 
-	
-- **Mestre de Si:** Você consegue dominar seu estado mental. Recebe +2 em Vigor e Moderação, além disso você só começa a sofrer efeitos de cansaço a partir do segundo Ponto de Exaustão.
-	
-- **Dominar Oponente**: Após 3 turnos consecutivos em combate com o mesmo oponente, recebe +2 em jogadas de ataque e esquiva contra ele.
+- ### **Grau Inexperiente**
+
+- **Caminho Marcial:** Você escolhe um estilo de combate que moldará sua jornada:
     
-- **Deus Marcial:** Você chegou ao pináculo do seu caminho Marcial. De acordo com o caminho escolhido receba: 
+    - **Espada:** Seus ataques com espada adicionam o modificador de Reação ao dano.
+        
+    - **Punhos:** Ataques desarmados ou com armas de punho causam 1d8 + Mod. Inalterabilidade + Mod. Moderação, ignorando a Defesa do alvo. Pode realizar 2 ataques por turno e mais 1 com ação bônus.
+        
+    - **Bastão:** Seus ataques com bastão aumentam sua chance de acerto crítico em +2.
+        
+- **Fortificar a Mente:** Ao falhar em um teste mental que resultaria em controle, você pode purificar sua mente e se libertar do efeito. Usável uma vez por combate; usos adicionais causam 1 ponto de exaustão.
+    
+- **Repelir:** Gaste sua próxima ação bônus para tentar aparar um ataque recém-recebido, realizando um teste de Reação contra Reação do atacante.
+    
+- **Renove o Corpo, Tranquilize o Espírito:** Pode usar uma ação bônus para curar 1d8 + Mod. Moderação. Se for humano, ganha +10 de vida por nível.
+    
+- **Treino Marcial:** Quando sem armadura, adicione seu Mod. de Reação à Defesa. Se usar armadura, recebe penalidade de -5 em todas as jogadas. Possui resistência contra venenos e doenças.
+
+### **Grau Experiente**
+
+- **Caminho Marcial Evoluído:** Você desenvolve técnicas mais refinadas conforme o estilo escolhido:
+    
+    - **Espada – Corte que Divide o Mundo:** Um corte preciso e inescapável que ignora reações e causa dano direto à essência do alvo. Usável 1x por combate.
+        
+    - **Punhos – Corpo como Rocha, Alma como Rio:** Use uma ação bônus para reduzir 4 × Mod. Vigor de dano até seu próximo turno. Usável um número de vezes igual a Mod. Vigor.
+        
+    - **Bastão – Rajadas Fulminantes Divinas:** Executa múltiplos ataques com o bastão, causando metade do dano da arma × Mod. Reação. Alvo pode fazer teste de Reação CD 14 para reduzir pela metade. Usável 2x por combate.
+        
+- **ESCOLHA LENDÁRIA:** Ao atingir este grau, o Mestre designa uma missão específica que, ao ser concluída, permite que você alcance o Grau Mestre.
 	
-	- **Arte de Desembainhar, Iaido**: Você aprendeu a arte do Iaido e se tornou um mestre dela. Agora o simples desembainhar da sua espada é extremamente mortal. Após desembainhar a espada seu primeiro ataque será um acerto crítico garantido (ainda necessário rolagem para acerto). Além disso, desembainhar sua espada conta como ação livre. Caso você esteja com menos de metade da sua vida você ativa **Ultima dança**, lembrando que colocar a espada na bainha ainda conta como uma ação completa. 
-		- **Última dança:** Seus ataque causam dano adicional igual a 2 x Mod. Moderação. Além disso, você ataca com vantagem.
-		
-	- **Mestre Wushu:** Agora sua habilidade Contra-Ataque pode ser usada sem gastar sua ação bônus, você pode utilizar ela um número de vezes igual ao seu Mod. Reação por dia.
-		- **Sora No Ten (Acima dos Céus):** Caso você seja alvos de ataque entre seus turnos e alguns deles te acertem, no seu próximo turno você pode escolher atacar um alvo com um ataque poderoso que revida todo o dano recebido por você com o triplo da força e aplica **Fraturado** no alvo caso acerte. Pode usar isso apenas uma vez por dia.
-		
-	- **Gae Bolg:** Você se tornou um mestre com a lança incomparável. Qualquer inimigo que use ação de movimento em raio de 3m de distância seu, vc pode realizar um ataque contra ele de oportunidade.
-		- **Musaboro Mono Ten (Devoradora de Céus):** Você usa sua ação e ação bônus para realizar um ataque rotacionando seu Bastão com o máximo de velocidade a sua volta, acertando com precisão todos os inimigos a 2m de você, mas você ainda pode rodar o dado para tentar um crítico em cada um. Esse golpe causa 2d8 de dano adicional, além disso inimigos que receberem acerto crítico perdem seu próximo turno.
-		
-	  
-  - **ESCOLHA LENDÁRIA**:
-	  - ***Muramasa:*** Encontre a lendária Katana Muramasa. A espada causa 3d10 + 12 + Mod. Força de dano e ignora 18 de Defesa do alvo. Além disso, ao desembainhar a espada ela libera um poderosa aura que aterroriza todos que possam vê-la por 6 turnos. Inimigos devem realizar um teste de Inalterabilidade CD 20 para não sofrer os efeitos do terror. Essa espada possui também a habilidade de usar a habilidade **Repelir** contra Aegis e outras habilidades mágicas de projéteis, anulando a habilidade caso passe no teste.
-	  - **Bastão Divino Kukulkhan**: Encontre o Bastão Divina Kukulkhan. Esse bastão causa 6d10 de dano e ignora 10 de Defesa do alvo. Além disso, o bastão pode fazer um pequeno redemoinho abaixo de você e te fazer voar, o que te permite fazer ataques aéreos recebendo vantagem na rolagem. Esse redemoinho também pode disparar cargas elétricas causando 4d8 + 10 de dano elétrico.
-	  - **Socos Féricos Místicos:** Você recebe lendários socos féricos feitos de alguma besta lendária. Seus ataque físicos causam 1d8 de dano adicional, além disso ao acertam você marca o alvo com um **Marca Férica** que faz com que seus ataques naqueles alvo causem 1d8 de dano adicional, pode acumular até 3 marcas. Caso você erre um golpe a Marca some.
-	  - **Amuleto de Proteção Sagrado**: Quando receber um golpe fatal o amuleto se parte recuperando imediatamente do dano recebido e fazendo com que seja imediatamente o seu turno. O amuleto demora 24h para se recuperar.
+### **Grau Mestre**
+
+- **Mestre de Si:** Você alcançou o domínio interior. Recebe +2 em Vigor e Moderação. Os efeitos de exaustão só começam a te afetar após o segundo ponto.
+    
+- **Dominar o Oponente:** Após 3 turnos seguidos enfrentando o mesmo oponente, recebe +2 em ataques e esquivas contra ele.
+    
+- **Deus Marcial:** Seu estilo atinge o ápice. Conforme seu caminho, você adquire uma técnica lendária:
+    
+    - **Espada – Iaido e Última Dança:** Desembainhar a espada garante um crítico no primeiro ataque. Com menos de metade da vida, ativa _Última Dança_, ganhando dano adicional (2 × Mod. Moderação) e vantagem nos ataques.
+        
+    - **Punhos – Sora No Ten:** Se for acertado entre seus turnos, você pode contra-atacar com o triplo do dano recebido e aplicar _Fraturado_. Usável 1x por dia.
+        
+    - **Bastão – Musaboro Mono Ten:** Executa um ataque giratório em 2m ao redor, causando 2d8 adicionais por inimigo e aplicando perda de turno caso acerte um crítico.
+        
+- **ESCOLHA LENDÁRIA:** Você alcança o auge absoluto do seu estilo e pode escolher uma relíquia mística:
+    
+    - **Muramasa:** Katana lendária que causa 3d10 + 12 + Mod. Força, ignora 18 de Defesa e pode anular Aegis e feitiços de projéteis.
+        
+    - **Bastão Divino Kukulkhan:** Bastão que causa 6d10 de dano, permite voo e ataques aéreos com vantagem. Pode disparar relâmpagos (4d8 + 10).
+        
+    - **Socos Féricos Místicos:** Ataques marcam alvos com _Marcas Féricas_ que aumentam o dano (1d8), acumulando até 3 vezes. A marca desaparece se o golpe for errado.
+        
+    - **Amuleto de Proteção Sagrado:** Ao receber um golpe fatal, o amuleto se quebra, curando instantaneamente e dando um turno extra. Recarga: 24h.
 

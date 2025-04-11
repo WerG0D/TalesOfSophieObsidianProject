@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 ## Como funcionam as ações: 
 
 >No geral, as Ações seguem um fluxo de canalização simples: Idealização > Condições e Pactos > Canalização. A idealização é imaginar, pensar, em como você quer usar sua expressão naquele momento. Qual é o objetivo deste ataque?. Condições e Pactos são ações estipuladas para facilitar a difícil tarefa de canalizar a Aegis ou fortalecer sua ação, pagando um preço variável. Os pactos e condições são realizados, seguindo para a fase de Canalização, que é onde a expressão realmente ocorre. 
@@ -11,10 +17,10 @@
 >	- **Ações Mítica:** Essa expressão comparar-se a semi-divindades, podendo trazer espíritos do além-véu de nível 5 (Esses exigem pactos próprios), invocar objetos de raridade mítica, e modificar completamente um alvo incluindo sua alma e Aegis, além de permitir energias sobrenaturais. 
 
 >**Quantidade de Condições mínimas, dano base e custo de Pontos Aegis:** 
->	- Ações mundana:  **Necessita de pelo menos 12 em Canalização**. Dano / Modificador base: 1d8 + 6 + Bônus de Canalização.  Consome: 2 ponto Aegis
->	- Ações básica: **Necessita de pelo menos 16 em Canalização**. Dano / Modificador base: 1d12 + 10 + Bônus de Canalização. Consome: 4 ponto Aegis
->	- Ações avançada:  **Necessita de pelo menos 20 em Canalização**.  Dano / Modificador base: 2d12 + 16 + Bônus de Canalização. Consome: 6 ponto Aegis
->	- Ações lendária: **Necessita de pelo menos 24 em Canalização** . Dano / Modificador base: 4d12 + 24 + Bônus de Canalização. Consome: 10 ponto Aegis
+>	- Ações mundana:  **Necessita de pelo menos 8 em Canalização**. Dano / Modificador base: 1d8 + 6 + Bônus de Canalização.  Consome: 2 ponto Aegis
+>	- Ações básica: **Necessita de pelo menos 12 em Canalização**. Dano / Modificador base: 1d8 + 10 + Bônus de Canalização. Consome: 4 ponto Aegis
+>	- Ações avançada:  **Necessita de pelo menos 16 em Canalização**.  Dano / Modificador base: 1d12 + 16 + Bônus de Canalização. Consome: 6 ponto Aegis
+>	- Ações lendária: **Necessita de pelo menos 20 em Canalização** . Dano / Modificador base: 2d12 + 24 + Bônus de Canalização. Consome: 10 ponto Aegis
 >	- Ações Mítica: **Necessita de pelo menos 30 em Canalização** . Dano / Modificador base: 6d12 + 36 + Bônus de Canalização. Consome: 16 ponto Aegis
 
 >Você só pode aprender ações de nível Lendário duas vezes e ações de nível mítico 1 vez por Aegis. 

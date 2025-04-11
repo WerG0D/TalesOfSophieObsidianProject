@@ -1,7 +1,17 @@
+---
+dg-publish: true
+---
+
+
 ```
--- Ahoy marujo, você é um cara durão que passou grande parte de sua vida no crime e contrabando marítmo, levando cargas perigosas e lutando contra outros piratas dentro das faixas fluviais da Árvore. Lute com espadas e Trabucos de maneira traiçoeira e precisa. 
+"O vento enche as velas, o mar esconde segredos, e a lâmina brilha sob a luz da lua. O Pirata não luta por reinos ou glórias – ele luta pelo saque, pela liberdade e pelo gosto inebriante da aventura. Para ele, cada onda é uma nova história e cada batalha, uma nova pilhagem."
 ```
 
+
+![](https://i.imgur.com/lfcwFJq.png)
+
+
+>Os Piratas são guerreiros das vias fluviais da Árvore Anciã, ladrões e mercenários que vivem pelo contrabando, pelo ouro e pelo combate sem regras. Seja empunhando um trabuco ou uma lâmina afiada, eles atacam com rapidez e imprevisibilidade, sempre um passo à frente daqueles que tentam prendê-los. Com uma tripulação leal e um navio pronto para a próxima navegação, o Pirata não precisa de terra firme – as vias fluviais são sua casa, e o caos é sua maior arma.
 
 >Recebe +1 ponto em Reação e Força no nível 2 e 5 (exceto se vc for Inumano ou Fada).
 

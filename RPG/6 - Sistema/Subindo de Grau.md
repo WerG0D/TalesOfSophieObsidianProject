@@ -1,6 +1,72 @@
+---
+dg-publish: true
+---
+# 🧬 Progressão de Grau
 
-No começo do jogo você começa sem nenhuma profissão. Cada uma das profissões tem 3 requisitos a serem alcançados, quando você alcançar ele você pode entrar na profissão no seu primeiro grau.
+---
 
-Quando estiver criando o personagem você ganha 4 perícias de sua escolha e um Talento, além disso você roda um dado 1d12 + 4 e coloca em seus atributos sendo no mínimo 7 e no máximo 13. Contudo, você pode descartar a rolagem em 2 atributos da sua escolha onde um vc deve colocar o valor 13 e o outro o valor 7. 
+## 🏗️ Criação de Personagem
 
-**Subir de Grau**: No **Grau Inexperiente** você ganha mais 2 perícias. Para subir para o **Grau Experiente** você deve cumprir 5 pré-requisitos, ao chegar nele você ganha mais 2 perícias. Agora para subir ao **Grau Mestre** você deve cumprir uma missão determinada pelo Mestre da Mesa e você ganha 1 Talento ao chegar nele.
+Todo personagem **deve começar com uma Profissão**, escolhida no momento da criação.
+
+---
+
+### 📜 Escolhas Iniciais
+
+| Elemento        | Quantidade                            |
+|------------------|----------------------------------------|
+| Profissão        | **1** (no Grau Inexperiente)           |
+| Perícias Livres  | **4** de sua escolha                   |
+| Talentos         | **1** inicial (de qualquer tipo liberado) |
+
+---
+
+### 🎲 Atributos Iniciais
+
+- Role `1d12 + 4` para cada um dos **atributos básicos**.
+- Os valores finais devem estar entre **7 (mínimo)** e **13 (máximo)**.
+
+> **Substituição Opcional:**  
+> Você pode **descartar 2 rolagens** e:
+> - Atribuir **13** em um atributo à sua escolha.
+> - Atribuir **7** em outro atributo à sua escolha.
+
+---
+
+## 🧑‍🏫 Progressão de Grau
+
+### 🎓 Grau Inexperiente
+
+| Benefícios                |
+|---------------------------|
+| Começa com **1 Profissão** |
+| +2 Perícias adicionais    |
+
+---
+
+### ⚔️ Grau Experiente
+
+| Requisitos                   | Benefícios           |
+|------------------------------|----------------------|
+| Cumprir **5 pré-requisitos** específicos da Profissão ou definidos pelo Mestre | +2 Perícias adicionais |
+
+---
+
+### 🧙 Grau Mestre
+
+| Requisitos                                                             | Benefícios |
+| ---------------------------------------------------------------------- | ---------- |
+| Concluir **uma missão especial** narrada, épica e aprovada pelo Mestre | +1 Talento |
+
+---
+
+## 🗂️ Sobre Profissões
+
+- Cada Profissão define **um conjunto único de habilidades, talentos e pré-requisitos** para subir de Grau.
+- Profissões influenciam:
+  - **Talentos únicos**
+  - **Acesso a equipamentos/mecânicas especiais**
+  - **Relacionamento com NPCs e facções**
+  - **Estilo de progressão do personagem**
+
+> O Mestre pode personalizar ou criar Profissões exclusivas para o cenário de campanha, vinculando-as à história, cultura ou origem dos personagens.

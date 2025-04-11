@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ## Resumo
 
@@ -19,7 +22,7 @@ O senso de união da tribo é forte, e é os que os mantém vivos.
 
 ## Estrutura política:
 
-Assim como sua historia, a estrutura politica dessa tribo não é complexa. Eles possuem um líder geral, que geralmente é escolhido por meio de um torneio amistoso entre candidatos apontados pelo povo. Esse líder é responsável por todos os membros da tribo, em todos os aspecto. ELe possui conselheiros e ajudantes de confiança para dar conta do serviço.
+Assim como sua historia, a estrutura politica dessa tribo não é complexa. Eles possuem um líder geral, que geralmente é escolhido por meio de um torneio amistoso entre candidatos apontados pelo povo. Esse líder é responsável por todos os membros da tribo, em todos os aspecto. Ele possui conselheiros e ajudantes de confiança para dar conta do serviço.
 
 ## Economia:
 

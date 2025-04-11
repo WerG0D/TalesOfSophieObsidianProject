@@ -1,10 +1,43 @@
-Você começa com 0 de Relacionamento, a cada ação boa ou má que você cometa contra indivíduo segundo o mestre você recebe mais ou menos Relacionamento. Depois dos 50 pontos positivos ou negativos você recebe metade dos pontos de Relacionamento. Veja a lista:
+---
+dg-publish: true
+---
+# 🤝 Sistema de Relacionamento
 
-- Ações Horrendas e Abomináveis (abusar, torturar e/ou tentar matar): -26 a -50 de Relacionamento.
-- Ações Horríveis (Machucar ou Fazer algo que ele Repugne): -15 a -25 de Relacionamento.
-- Ações Ruins (Xingar, discutir ou fazer algo que não gosta): -10 de Relacionamento.
-- Ações Más (não gostou muito de algo que você disse ou fez): -5 de Relacionamento.
-- Ações Boas (gostou de algo que você disse ou fez): +1d4 de Relacionamento.
-- Ações Muito Boas (ajudou ou disse algo que ele gostou muito): +1d8 de Relacionamento.
-- Ações Santas (o ajudou/salvou ne um momento precioso): +15 de Relacionamento.
-- Ações Sacrificiais (se sacrificou por ele ou fez algo que ele queria muito): +25 a +35 de Relacionamento.
+Você começa com **0 de Relacionamento** com qualquer indivíduo.
+
+- A cada ação positiva ou negativa **direcionada a uma pessoa**, o Mestre define um ganho ou perda de Relacionamento.
+- Após atingir **+50** ou **-50**, os valores ganhos ou perdidos passam a ser **reduzidos pela metade**.
+
+---
+
+## 📊 Tabela de Modificadores de Relacionamento
+
+| Tipo de Ação                    | Descrição                                                             | Alteração de Relacionamento        |
+|---------------------------------|------------------------------------------------------------------------|-------------------------------------|
+| **Ações Horrendas e Abomináveis** | Abusar, torturar, tentar matar.                                       | -26 a -50                           |
+| **Ações Horríveis**            | Machucar ou fazer algo que o alvo considera repugnante.               | -15 a -25                           |
+| **Ações Ruins**                | Xingar, humilhar, confrontar agressivamente.                          | -10                                 |
+| **Ações Más**                  | Fazer ou dizer algo que o desagrade.                                  | -5                                  |
+| **Ações Boas**                 | Dizer ou fazer algo agradável.                                        | +1d4                                |
+| **Ações Muito Boas**           | Ajudá-lo ou agradá-lo significativamente.                             | +1d8                                |
+| **Ações Santas**               | Salvá-lo ou ajudá-lo em momento decisivo.                             | +15                                 |
+| **Ações Sacrificiais**         | Sacrificar-se por ele ou realizar algo de enorme valor pessoal.       | +25 a +35                           |
+
+---
+
+## 🧭 Regras Avançadas
+
+- Após alcançar **+50** ou **-50**, **todos os ganhos e perdas são reduzidos à metade**.
+- O Mestre pode atribuir modificadores extras dependendo da **personalidade do alvo**, contexto, ou relação anterior com o jogador.
+
+---
+
+## 🎯 Dica Narrativa
+
+O Relacionamento influencia:
+- Reações sociais (amizade, medo, ódio, lealdade).
+- Disponibilidade de ajuda, favores ou segredos.
+- Evolução de laços amorosos, familiares ou alianças políticas.
+- Possíveis traições, sacrifícios ou vínculos duradouros.
+
+> Relacionamento é uma moeda emocional e social — poderosa, mas instável.

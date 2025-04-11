@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 ### Munições:
 
 Tipos de munições existentes disponíveis para as armas:

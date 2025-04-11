@@ -1,4 +1,9 @@
-	Sendo original da tribo dos Sussurradores, você aprendeu a se locomover pela árvore, sempre em um estilo de vida nômade. Independente de seu clã, você é livre. 
+---
+dg-publish: true
+---
+
+
+>Sendo original da tribo dos Sussurradores, você aprendeu a se locomover pela árvore, sempre em um estilo de vida nômade. Independente de seu clã, você é livre. 
 
 >Clã Raio-de-sol: Receba as seguintes perícias
 Medicina: Erudição

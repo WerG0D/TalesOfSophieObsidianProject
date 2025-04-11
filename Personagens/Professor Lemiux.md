@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 ### História 
 
 Professor Lemiux é um acadêmico e historiador dedicado, apaixonado pela investigação e preservação da história de Thalassar e de Eldoria. Desde tenra idade, ele demonstrou um interesse profundo pelas antigas lendas e mitos do reino, buscando constantemente desvendar os segredos do passado.

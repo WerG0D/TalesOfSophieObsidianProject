@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 "Logo após o [[O Pecado Capital]]. um estudante de magia chamado Aerion e um grupo de sobreviventes do reino primordial buscaram refugio do diluvio na [[Árvore Anciã]].  Aerion ficou fascinado com a beleza da Árvore, mesmo estando abalado pelo diluvio. Mesmo tendo perdido sua família durante o cataclisma, Aerion se inspirou a sobreviver da melhor maneira possível. De inicio, não fazia sentido escalar a Árvore, porém algo o chamava até o topo, talvez ambição, talvez os próprios deuses"
 
 "Aerion, movido por forças que não conseguimos compreender, embarcou em uma jornada de décadas para escalar a árvore, abandonando o grupo de sobreviventes que optaram por permanecer em certos locais da Árvore. Enfrentando perigos inimagináveis, sempre que ele pensava em desistir, algo o chamava até o topo. Ele passou fome, sede, sempre sobrevivendo por pouco"

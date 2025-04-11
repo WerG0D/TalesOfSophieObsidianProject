@@ -1,7 +1,15 @@
+---
+dg-publish: true
+---
+
+
  ```
-Você é um com sua arma, um com o campo de batalha. Independente do que aconteça, sua fúria e garra o fazem avançar sobre os corpos de seus inimigos mortos, sendo a vanguarda da batalha. 
+"O clangor do aço, o cheiro de sangue no ar e o peso da lâmina em suas mãos. O Guerreiro não luta por glória ou fama, mas porque é a única vida que conhece. No coração da batalha, ele é a muralha que protege, a tempestade que avança, a força que não cede." 
 ```
 
+![[Pasted image 20250320103821.png]]
+
+Os Guerreiros são combatentes ferozes que se destacam pela resistência e poder bruto. Mestres das armas e da disciplina marcial, eles treinam incansavelmente para se tornarem uma força imparável no campo de batalha. Seja vestindo armaduras pesadas e defendendo aliados ou avançando como uma lâmina cortando o caos, eles são a encarnação da guerra. Determinados, implacáveis e resilientes, os Guerreiros são aqueles que permanecem de pé quando todos os outros caem.
 
 ### Guerreiro:
 

@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 Lord Valerian Mustawind, irmão de [[Edgar Mustawind, o perdedor]] uma figura imponente e carismática, conhecida por sua inteligência afiada e sua habilidade política astuta. Valarian é um homem de meia-idade, com cabelos negros que começam a mostrar sinais de prata, e olhos penetrantes que parecem capturar a essência das pessoas com quem ele fala.
 
 A história de Valarian é marcada por sua ascensão meteórica dentro do Consórcio Nobre. Ele nasceu em uma família nobre, mas relativamente menos proeminente, e desde cedo demonstrou uma ambição feroz e uma habilidade notável para manipular as relações políticas em seu benefício. Utilizando uma combinação de charme, persuasão e intriga, Valarian rapidamente ganhou influência entre os nobres e conquistou uma posição de destaque no Consórcio.

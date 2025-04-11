@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 > Aegis (ou Égide) é uma energia palpável exalada durante a fotossíntese realizada pela Árvore Anciã. Essa energia tem propriedades especiais, podendo ser utilizada para divinamente alterar a realidade de algumas formas específicas. Ela não é diferente do ar respirável, sendo completamente invisível ao olho nu. 
 
 >Os seres capazes de controlar a Aegis tem diversos nomes dependendo da região da Árvore, mas o mais comum dentre eles é "Canalizadores", termo utilizado pela tribo dos Radilhantes. 

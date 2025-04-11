@@ -1,12 +1,17 @@
+---
+dg-publish: true
+---
 
-Tabela de níveis de dificuldade:
-Fácil: 3
-Simples: 5
-Médio: 8
-Complicado: 11
-Difícil: 14
-Impossível: 18
-Divino: 20
+
+| Nível de Dificuldade | Valor Alvo |
+|----------------------|------------|
+| Fácil                | 3          |
+| Simples              | 5          |
+| Médio                | 8          |
+| Complicado           | 11         |
+| Difícil              | 14         |
+| Impossível           | 18         |
+| Divino               | 20         |
 
 **Teste de Resistência:** 1d10 + modificador do Atributo.
  

@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 Poções vendidas por Alquimistas elas são itens mais raros de serem encontrados, principalmente as de raridade superior a Comum. 
 
 Elas são feitas a base de **Cogumelos** e quem vende elas costuma comprar esses mesmos **Cogumelos** e até as vezes fazer permutas. Nem todos os alquimistas são capazes de criar **Poções Fantásticas** além disso essas tem alto risco de falha e perca de material.

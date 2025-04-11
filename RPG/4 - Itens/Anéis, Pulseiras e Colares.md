@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 Pode usar até 4 anéis em cada mão, uma pulseira por braço e apenas um colar no pescoço. 
 ### Conjunto 1: Monstros Oceânicos
 

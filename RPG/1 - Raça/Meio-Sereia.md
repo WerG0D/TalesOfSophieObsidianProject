@@ -1,3 +1,15 @@
+---
+dg-publish: true
+---
+
+
+```
+Fome. Fome Extrema. Fome por se encaixar entre os humanos, fome de humanos. Metade encantadora, metade mortal, Chara nunca se encaixou como ser vivo. Ao mesmo tempo que era apaixonada pelos humanos, ela sentia uma constante necessidade de se alimentar deles, nunca se integrando a sociedade de fato. Com seus 4 braços e parte inferior monstruosos, Chara só conseguia fazer parte da sociedade humana por meio de ilusões e transformismos.
+```
+
+
+![[Pasted image 20250310173921.png]]
+
 ## Lore e características: 
 
 A raça das **Meio-Sereias** é envolta em mistério e fascínio, nascida do cruzamento entre sereias e humanos. Vivendo à beira do mundo aquático e terrestre, essas criaturas vagam entre as ondas do oceano e as costas desertas, sempre à espreita, buscando interações com as civilizações humanas enquanto mantêm sua verdadeira natureza oculta. 
@@ -12,7 +24,7 @@ Entretanto, a vida dessas criaturas é curta e marcada pela urgência da sobrevi
     A metade superior das Meio-Sereias é, à primeira vista, indistinguível da de um humano comum. Elas têm uma beleza inegável, seus traços são hipnotizantes, com olhos que parecem conter o brilho de mil luas refletidas no mar, e vozes tão suaves e encantadoras quanto o som das ondas. No entanto, com seu poder de **Visitante Transmorfo**, elas podem modificar essa aparência, adaptando-se para atrair ou se esconder entre diferentes povos.
     
 - **Metade Inferior Monstruosa:**  
-    Enquanto a parte superior de seu corpo é deslumbrante, a parte inferior revela a verdadeira natureza monstruosa das Meio-Sereias. Seu corpo abaixo da cintura é coberto por escamas grossas e escuras, semelhantes às de um predador marinho, e, em vez de pernas, elas possuem uma cauda forte e sinuosa, com barbatanas afiadas que cortam a água com facilidade. Aqueles que veem essa parte de seu corpo sentem uma repulsa visceral, fruto de séculos de mitos e medos sobre criaturas abissais.
+    Enquanto a parte superior de seu corpo é deslumbrante, a parte inferior revela a verdadeira natureza monstruosa das Meio-Sereias. Seu corpo abaixo da cintura é coberto por escamas grossas e escuras, semelhantes às de um predador marinho, e, em vez de pernas, elas possuem uma cauda forte e sinuosa, com barbatanas afiadas que cortam a água com facilidade.  Em sua cintura, um meio-sereia possui um par adicional de braços Aqueles que veem essa parte de seu corpo sentem uma repulsa visceral, fruto de séculos de mitos e medos sobre criaturas abissais.
     
 - **Olhos do Oceano:**  
     Seus olhos, independentemente da forma que tomem, sempre têm um brilho intenso que reflete a luz do mar. Essa característica única é tanto uma bênção quanto uma maldição, já que aqueles que olham profundamente em seus olhos podem se sentir atraídos para um abismo de mistério e sedução.
@@ -42,6 +54,7 @@ Seu dado de vida é um 3d10 + 10, você +2 pontos de atributo para cada nível q
 
 >**Ritual Vital**: Você deve ter um ritual de submergir todos os dias em água salgada por pelo menos 30 minutos. Caso passe mais de um dia sem fazer isso, vc recebe pontos de exaustão por cada dia que passar sem fazer o seu ritual. Ao fazer ele todos seus pontos de exaustão somem. Fazer o ritual também recupera 2d8 de vida e 2d4 de sanidade no final.
 
+>**Precisa de uma mãozinha?:** Em terra, sua espécie é capaz de manifestar um par extra de braços na região da cintura, recebendo +2 de bonus em testes de força. 
 
 
 

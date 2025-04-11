@@ -1,10 +1,72 @@
-**Sanidade:** O que te mantem um indivíduo funcional. Perde sanidade ao ver e vivenciar determinadas situações, a perca de sanidade varia, mas por padrão o sistema de perca de sanidade funciona para eventos: Aterrorizantemente Incompreensíveis (perde 40 ou mais de sanidade), Traumáticos (perde 25 de sanidade), Medonhos (perde 10 de sanidade) ou Pesados (perde 5 de sanidade). Dormir recupera 1d4 de sanidade, além disso você pode recuperar também fazendo alguma atividade relaxante e calma que te conforte. Indivíduos com 50 de sanidade ou menos, perdem metade do valor de sanidade proposto anteriormente.  
-- 100: Normal
-- 75: Recebe um trauma.
-- 60: Recebe um trauma.
-- 50: Recebe uma doença neurodivergente (TDAH, Esquizofrenia, Depressão, Tourette, Discalculia, Disgrafia, Dislexia)
-- 30: Recebe uma doença neurodegenerativa (Alzheimer, Parkinson, Esclerose Múltipla, Esclerose Lateral Amiotrófica (ELA), Doença de Huntington)
-- 10: Piora os sintomas de todos seus traumas e doenças.
-- 0: Insanidade completa.
+---
+dg-publish: true
+---
+# 🧠 Sistema de Sanidade
 
-**Não tem mais Volta:** Você só pode recuperar sanidade até um teto máximo que depende da sua sanidade atual, por exemplo alguém com 55 de sanidade só pode recuperar até 60 ou alguém com 10 só pode recuperar até 30.
+A **Sanidade** representa o que te mantém funcional, emocional e mentalmente estável no mundo de Eldoria.  
+Você começa com **100 de sanidade**, mas pode perdê-la ao vivenciar eventos traumáticos, sobrenaturais ou incompreensíveis.
+
+---
+
+## 📉 Perda de Sanidade
+
+| Tipo de Evento                          | Perda de Sanidade (padrão) |
+|-----------------------------------------|-----------------------------|
+| Aterrorizantemente Incompreensível     | -40 ou mais                 |
+| Traumático                              | -25                         |
+| Medonho                                 | -10                         |
+| Pesado                                  | -5                          |
+
+> 🔻 **Se sua sanidade estiver ≤ 50**, você perde **metade** do valor normalmente atribuído.
+
+---
+
+## 🛌 Recuperação de Sanidade
+
+| Método                          | Recuperação de Sanidade       |
+|--------------------------------|-------------------------------|
+| Dormir                         | 1d4                           |
+| Atividades relaxantes          | A critério do mestre (1d4 ~ 1d8) |
+| Magias e rituais mentais       | (Opcional, definido pelo cenário) |
+
+---
+
+## 🧩 Efeitos por Níveis de Sanidade
+
+| Nível Atual | Efeito                                                                 |
+|-------------|------------------------------------------------------------------------|
+| 100         | Estado mental normal                                                   |
+| 75          | Recebe **1 trauma psicológico leve**                                   |
+| 60          | Recebe **1 trauma adicional**                                          |
+| 50          | Desenvolve uma **doença neurodivergente** (TDAH, Depressão, etc.)      |
+| 30          | Desenvolve uma **doença neurodegenerativa** (Alzheimer, ELA, etc.)     |
+| 10          | **Todos os traumas e doenças pioram**                                  |
+| 0           | **Insanidade completa. Perda total da racionalidade.**                 |
+
+---
+
+## ⛔ Não Tem Mais Volta
+
+- A sanidade possui um **teto de recuperação** baseado na sua sanidade atual.
+- Você só pode recuperar sanidade até o **nível seguinte mais próximo**.
+  
+| Sanidade Atual | Teto Máximo de Recuperação |
+|----------------|-----------------------------|
+| 55             | 60                          |
+| 30             | 30                          |
+| 10             | 30                          |
+| 0              | Sem retorno                 |
+
+> 🔒 Exemplo: Se você estiver com 55 de sanidade, pode recuperar até 60. Se estiver com 10, só pode chegar até 30 (sem ajuda mágica ou intervenção divina).
+
+---
+
+## 🧠 Exemplos de Doenças e Traumas
+
+### Neurodivergentes:
+- TDAH, Esquizofrenia, Depressão, Tourette, Discalculia, Disgrafia, Dislexia.
+
+### Neurodegenerativas:
+- Alzheimer, Parkinson, Esclerose Múltipla, ELA (Esclerose Lateral Amiotrófica), Doença de Huntington.
+
+> O mestre pode descrever sintomas leves e agravá-los com a progressão da perda de sanidade.

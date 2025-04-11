@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 ### História:
 
 Edgar Mustawind, conhecido entre os rebeldes como "O Perdedor", era um nobre que inicialmente viveu uma vida de luxo e privilégio na corte de Thalassar. No entanto, ao testemunhar em primeira mão a miséria e a opressão que assolavam o povo de seu reino, Edgar foi despertado para a realidade cruel que se escondia por trás das paredes douradas do palácio real.

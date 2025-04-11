@@ -1,73 +1,124 @@
+---
+dg-publish: true
+---
+
 ### Itens E.P.T.S (equipamentos para trabalho e segurança):
 
-**Varas de Pesca Adaptada:**
-- Incomum: Você recebe +1 em **Encontra Peixe.** Preço ✹8 ~ 12 (Florim Áureos)
-- Rara: Você recebe +2 em **Encontra Peixe**.  Preço ✹40 ~ 50 (Florim Áureos)
-- Épica: Você recebe +4 em **Encontra Peixe**.  Preço ✹100 ~ 120 (Florim Áureos)
-- Lendária: Você recebe +6 em **Encontra Peixe** e os peixes que você pega são sempre Épicos ou Fantásticos.  Não pode ser achado para comprar
+#### Varas de Pesca Adaptadas
 
-**Máscara de Gás:**
-- Comum: Você pode pegar até 1 Cogumelo com Veneno do tipo Gás.  Preço ✹2 ~ 5 (Florim Áureos)
-- Rara: Você pode pegar até 3 Cogumelo com Veneno do tipo Gás.  Preço ✹4 ~ 10 (Florim Áureos)
-- Épica: Você pode pegar até 15 Cogumelos com Veneno do tipo Gás.  Preço ✹25 ~ 45 (Florim Áureos)
-- Lendária: Você pode pegar até infinitos Cogumelos com Veneno do tipo Gás. Não pode ser achado para comprar.
+| Raridade  | Bônus em Encontra Peixe                            | Preço (Florins Áureos)           |
+|-----------|-----------------------------------------------------|----------------------------------|
+| Incomum   | +1                                                  | ✹8 ~ 12                          |
+| Rara      | +2                                                  | ✹40 ~ 50                         |
+| Épica     | +4                                                  | ✹100 ~ 120                       |
+| Lendária  | +6 e peixes sempre Épicos ou Fantásticos           | Não disponível para compra       |
 
-**Luvas Adaptadas:**
-- Comum: Você pode pegar até 1 Cogumelo com Veneno do tipo Toque.  Preço ✹1 (Florim Áureos)
+
+#### Máscaras de Gás
+
+| Raridade | Capacidade de Coleta (Cogumelo - Gás) | Preço (Florins Áureos)     |
+| -------- | ------------------------------------- | -------------------------- |
+| Comum    | 1                                     | ✹2 ~ 5                     |
+| Rara     | 3                                     | ✹4 ~ 10                    |
+| Épica    | 15                                    | ✹25 ~ 45                   |
+| Lendária | Infinito                              | Não disponível para compra |
+
+
+#### Luvas Adaptadas
+
+| Raridade | Capacidade de Coleta (Cogumelo - Toque) | Preço (Florins Áureos) |
+| -------- | --------------------------------------- | ---------------------- |
+| Comum    | 1                                       | ✹1                     |
+
 
 ### **Pescaria:**
 
 Os valores abaixo são rodados todos pelo Mestre que deve esconde-los do jogador. A cada 10 minutos o jogador tem a oportunidade de pedir o mestre para rolar novamente **Preparar Local** ou **Pescando**:
 
 **Preparar Local**: Caso encontre alguma veia da Árvore Anciã aberta ou encontre algum corpo d'água você pode tentar pescar uma criatura aquática. Jogue 1d10 + Astúcia para jogar o anzol em um bom local na água para encontra o peixe. Siga a Tabela:
-- 1 ~ 4: Recebe -4 para **Encontra Peixe**.
-- 5 ~ 8: Recebe -2 para **Encontrar Peixe**.
-- 9 ~ 11: Recebe 0 para **Encontrar Peixe**.
-- 12 ~ 14: Recebe +2 para **Encontrar Peixe**.
-- 16 ~ 18: Recebe +4 para **Encontrar Peixe**.
-- 19 ~ 19+: Recebe +8 para **Encontrar Peixe**.
+
+#### 🎣 Preparar Local (1d10 + Astúcia)
+
+| Resultado       | Modificador para "Encontrar Peixe" |
+|-----------------|-------------------------------------|
+| 1 ~ 4           | -4                                  |
+| 5 ~ 8           | -2                                  |
+| 9 ~ 11          | 0                                   |
+| 12 ~ 14         | +2                                  |
+| 16 ~ 18         | +4                                  |
+| 19+             | +8                                  |
+
 
 **Região da Pesca:** Encontrar peixe é um valor encontrado ao somar o valor encontrado anteriormente na tabela + o valor da seguinte tabela que é referente ao local em que você vai pescar, quem determina o nível de qualidade é o Mestre:
-- Local Amaldiçoado: Recebe -8 para **Encontrar Peixe**. 
-- Local Péssimo: Recebe -4 para **Encontra Peixe**.
-- Local Ruim: Recebe -2 para **Encontra Peixe**.
-- Local Mediano: Recebe 0 para **Encontra Peixe**.
-- Local Ótimo: Recebe +2 para **Encontra Peixe**.
-- Local Perfeito: Recebe +4 para **Encontra Peixe**.
-- Local Mágico: Recebe +8 para **Encontra Peixe**.
+
+#### 🌍 Região da Pesca
+
+| Qualidade do Local    | Modificador para "Encontrar Peixe" |
+|------------------------|------------------------------------|
+| Local Amaldiçoado      | -8                                 |
+| Local Péssimo          | -4                                 |
+| Local Ruim             | -2                                 |
+| Local Mediano          | 0                                  |
+| Local Ótimo            | +2                                 |
+| Local Perfeito         | +4                                 |
+| Local Mágico           | +8                                 |
+
 
 **Pescando**: Após jogar em um bom local jogue 1d10 + **Encontrar Peixe** e siga a seguinte tabela:
-- - 13 ~ - 3: Encontra uma Monstro Extremamente Poderoso.
-- - 2 ~ 0: Encontra um Monstro.
-- 1 ~ 5: não encontra nada.
-- 6 ~ 10: Peixe Incomum.
-- 11 ~ 15: Peixe Raro.
-- 16: Que azar mais um Monstro Forte.
-- 17 ~ 19: Peixe Épico.
-- 20 ~ 25: Peixe Fantástico.
-- 26: Peixe comum com um Tesouro Perdido dentro dele.
+
+#### 🐟 Pescando (1d10 + Encontrar Peixe)
+
+| Resultado       | Ocorrência                                     |
+|-----------------|------------------------------------------------|
+| -13 ~ -3        | Monstro Extremamente Poderoso                 |
+| -2 ~ 0          | Monstro                                       |
+| 1 ~ 5           | Nada                                          |
+| 6 ~ 10          | Peixe Incomum                                 |
+| 11 ~ 15         | Peixe Raro                                    |
+| 16              | Monstro Forte                                 |
+| 17 ~ 19         | Peixe Épico                                   |
+| 20 ~ 25         | Peixe Fantástico                              |
+| 26              | Peixe comum com um Tesouro Perdido dentro     |
+
 
 **Estoque Esgotado:** Após o jogador conseguir achar 1 peixe rode o 1d10. Para cada peixe a mais que jogadores encontrarem adicione um modificador de -1 a esse 1d10.
-- 1 ~ 3: Peixes fugiram.
-- 4 ~ 10: Peixes continuam. 
+
+#### 🐠 Estoque Esgotado (1d10, com -1 por peixe extra)
+
+| Resultado | Situação       |
+|-----------|----------------|
+| 1 ~ 3     | Peixes fugiram |
+| 4 ~ 10    | Peixes continuam |
+
 
 **Escolhendo Peixe:** O mestre deve escolher ou pegar um peixe aleatoriamente na tabela ao final desse tópico referente a raridade do peixe encontrada anteriormente. Para raridade comum e raro se joga 1d10, raridade épico e fantástico se joga 1d6.
 
 **Puxando Peixe**: A dificuldade para puxar um peixe vai depender de 2 fatores: a sua Força e a Vara de Pesca. Quando conseguir pegar um peixe faça um teste de Reação CD 10, caso falhe no teste recebe -3 no teste *Puxando Peixe*, mas se você tirar um acerto crítico no 1d10 receba +3 para *Puxando Peixe* se tirar um erro crítico você perde o peixe. Para puxar o peixe você deve jogar um teste de **Puxando Peixe** que é feito com 1d6 + Mod. Força + Mod. V.P, nesse teste você deve tirar um valor superior ao CD do peso do peixe. Você deve passar 3 vezes no teste, caso fracasse 3 vezes você perde o peixe. O CD do peso do peixes está abaixo:
-- Pequenos CD 3
-- Médio CD 6
-- Grande CD 10
-- Gigante CD 12
-- Enormes CD 15
+
+#### 🎯 Puxando Peixe — Dificuldade por Tamanho
+
+| Tamanho do Peixe | CD para Puxar |
+|------------------|---------------|
+| Pequeno          | 3             |
+| Médio            | 6             |
+| Grande           | 10            |
+| Gigante          | 12            |
+| Enorme           | 15            |
+
+  
 #### **Tabela de Peixes**:
 
 Peixes de peso pequeno rendem meia porção, peixes médios rendem uma, peixes grandes rendem 2 porções, peixes gigante rendem 4 porções e peixes enormes rendem 10 porções.
 
-O valor dos peixes varia pela raridade:
-- 1 Porção de Peixe Incomum: ✹1 ~ 3 (Florim Áureos)
-- 1 Porção de Peixe Raro ✹8 ~ 12  (Florim Áureos)
-- 1 Porção de Peixe Épico ✹15 ~ 25 (Florim Áureos)
-- 1 Porção de Peixe Fantástico ✹75 ~ 150 (Florim Áureos)
+##### Valor dos Peixes por Raridade
+
+| Raridade     | Valor por Porção (Florins Áureos) |
+|--------------|-----------------------------------|
+| Incomum      | ✹1 ~ 3                            |
+| Raro         | ✹8 ~ 12                           |
+| Épico        | ✹15 ~ 25                          |
+| Fantástico   | ✹75 ~ 150                         |
+
 ##### Comuns:
 
 | NOME                     | RARIDADE | PESO    | COR                                | SABOR                                   | DESCRIÇÃO                                                                                                                                  |
@@ -122,7 +173,7 @@ O valor dos peixes varia pela raridade:
 
 
 
-### **Coleta de Cogumelos:**
+### **🍄 Coleta de Cogumelos:**
 
 Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A cada 10 minutos o jogador tem a oportunidade de pedir ao mestre para rolar novamente **Explorar o Bosque** ou **Coletando Cogumelos**.
 
@@ -130,45 +181,65 @@ Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A 
 
 **Explorar o Bosque**: Para encontrar cogumelos, o jogador precisa explorar uma floresta, caverna ou um local com vegetação úmida e rica. Jogue 1d10 + Erudição para ver se você consegue encontrar algum lugar propenso a ter cogumelos. Siga a tabela:
 
-- **1 ~ 4**: Recebe -4 para **Encontrar Cogumelos**.
-- **5 ~ 8**: Recebe -2 para **Encontrar Cogumelos**.
-- **9 ~ 11**: Recebe 0 para **Encontrar Cogumelos**.
-- **12 ~ 14**: Recebe +2 para **Encontrar Cogumelos**.
-- **16 ~ 18**:  Recebe +4 para **Encontrar Cogumelos**.
-- **19+**: Recebe +8 para **Encontrar Cogumelos**.
+#### 🍄 Explorar o Bosque
+
+| Resultado     | Modificador para "Encontrar Cogumelos" |
+|---------------|-----------------------------------------|
+| 1 ~ 4         | -4                                      |
+| 5 ~ 8         | -2                                      |
+| 9 ~ 11        | 0                                       |
+| 12 ~ 14       | +2                                      |
+| 16 ~ 18       | +4                                      |
+| 19+           | +8                                      |
+
  
 ---
 
 **Região de Coleta:** A qualidade do local de coleta influencia as chances de sucesso. O Mestre define a qualidade da região e se existe uma região para coleta:
 
-- **Solo Amaldiçoado**: Recebe -8 para **Encontrar Cogumelos**.
-- **Solo Péssimo**: Recebe -4 para **Encontrar Cogumelos**.
-- **Solo Ruim**: Recebe -2 para **Encontrar Cogumelos**.
-- **Solo Mediano**: Recebe 0 para **Encontrar Cogumelos**.
-- **Solo Rico**: Recebe +2 para **Encontrar Cogumelos**.
-- **Solo Próspero**: Recebe +4 para **Encontrar Cogumelos**.
-- **Solo Mágico**: Recebe +8 para **Encontrar Cogumelos**.
+#### 🌱 Região de Coleta
+
+| Tipo de Solo      | Modificador para "Encontrar Cogumelos" |
+|-------------------|-----------------------------------------|
+| Solo Amaldiçoado  | -8                                      |
+| Solo Péssimo      | -4                                      |
+| Solo Ruim         | -2                                      |
+| Solo Mediano      | 0                                       |
+| Solo Rico         | +2                                      |
+| Solo Próspero     | +4                                      |
+| Solo Mágico       | +8                                      |
+
 
 ---
 
 **Coletando Cogumelos**: Uma vez encontrado um local adequado, jogue 1d6 + **Encontrar Cogumelos** + Mod. Percepção para determinar o resultado:
 
-- **- 13 ~ - 4**: Encontra um **Ente Adormecido** que acorda por sua causa.
-- **- 3 ~ 1**: Encontra Cogumelo Venenoso.
-- **2 ~ 6**: Não encontra nada.
-- **7 ~ 10**: Cogumelo Incomum.
-- **11 ~ 14**: Cogumelo Raro.
-- **15 ~ 16**: Cogumelo Venenoso.
-- **17 ~ 19**: Cogumelo Épico.
-- **20 ~ 25**: Cogumelo Fantástico.
-- **26+**: Encontra 4 cogumelos (jogue um 1d4, quatro vezes, para determinar as raridades (1- Comum, 2- Raro, 3 - Épico e 4 - Fantástico), sendo que o de menor raridade automaticamente se torna Fantástico).
+#### 🧺 Coletando Cogumelos
+
+| Resultado | Ocorrência                                                            |
+| --------- | --------------------------------------------------------------------- |
+| -13 ~ -4  | Encontra um Ente Adormecido que acorda                                |
+| -3 ~ 1    | Encontra Cogumelo Venenoso                                            |
+| 2 ~ 6     | Não encontra nada                                                     |
+| 7 ~ 10    | Cogumelo Incomum                                                      |
+| 11 ~ 14   | Cogumelo Raro                                                         |
+| 15 ~ 16   | Cogumelo Venenoso                                                     |
+| 17 ~ 19   | Cogumelo Épico                                                        |
+| 20 ~ 25   | Cogumelo Fantástico                                                   |
+| 26+       | Encontra 4 cogumelos (1d4 para raridade, o menor se torna Fantástico) |
+
 
 ---
 
 **Estoque Esgotado**: Após coletar 1 cogumelo, jogue 1d10. Para cada cogumelo adicional, adicione um modificador de -1 a este dado:
 
-- **1 ~ 3**: Cogumelos esgotados.
-- **4 ~ 10**: Cogumelos continuam disponíveis.
+#### 🌾 Estoque Esgotado
+
+| Resultado (1d10) | Efeito                     |
+|------------------|----------------------------|
+| 1 ~ 3            | Cogumelos esgotados        |
+| 4 ~ 10           | Cogumelos continuam        |
+
 
 ---
 
@@ -178,21 +249,33 @@ Os valores abaixo são rodados pelo Mestre, que deve escondê-los do jogador. A 
 
 **Testando a Segurança**: Ao tentar coletar um cogumelo (tem uma chance de ter outros por perto), o jogador deve fazer um teste de **Erudição** para identificar se o cogumelo é seguro. Jogue 1d10 + Erudição :
 
-- **1 ~ 8**: O jogador não consegue distinguir nenhum dos cogumelos que está pegando se é venenoso ou não.
-- **9 ~ 13**: O jogador consegue distinguir com segurança entre cogumelos venenosos e comestíveis.
-- **14+**: O jogador é capaz de identificar as propriedades dos cogumelos que está pegando e a raridade.
+#### 🧪 Testando a Segurança
+
+| Resultado     | Capacidade de Identificação                                  |
+|---------------|--------------------------------------------------------------|
+| 1 ~ 8         | Não distingue se é venenoso                                  |
+| 9 ~ 13        | Consegue distinguir venenosos dos comestíveis                |
+| 14+           | Identifica propriedades e raridade dos cogumelos             |
+
 
 -----------------------------------
 
 #### **Tabela de Cogumelos**:
 
 O valor dos cogumelos varia pela raridade, lembrando que cogumelos pequenos são meia porção, os médios uma porção inteira e os grandes 2 porções:
-- 1 Porção de Cogumelo Incomum: ✹2 ~ 3 (Florim Áureos)
-- 1 Porção de Cogumelo Raro ✹12 ~ 16  (Florim Áureos)
-- 1 Porção de Cogumelo Épico ✹20 ~ 25 (Florim Áureos)
-- 1 Porção de Cogumelo Fantástico ✹85 ~ 100 (Florim Áureos)
+
+#### 💰 Tabela de Valor dos Cogumelos
+
+| Raridade   | Valor por Porção (Florins Áureos) |
+| ---------- | --------------------------------- |
+| Incomum    | ✹2 ~ 3                            |
+| Raro       | ✹12 ~ 16                          |
+| Épico      | ✹20 ~ 25                          |
+| Fantástico | ✹85 ~ 100                         |
+
 
 O jogador pode tentar retirar um cogumelo diretamente do solo caso fique com suspeitas dele ser venenoso, uma tarefa que exige ir com cuidado, demanda um processo de 10 a 30 minutos dependendo do seu *Tamanho*. Contudo, caso o cogumelo tenha Raízes Grandes e seja do tipo gás ou explosivo tentar cortar sua raízes ativara seu mecanismo de defesa.
+
 ##### Venenosos:
 
 | NOME                            | RARIDADE   | TAMANHO                   | COR                         | TIPO      | DESCRIÇÃO                                                                                                                                                      |

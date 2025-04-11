@@ -1,6 +1,16 @@
+---
+dg-publish: true
+---
+
+
 ```
 Um foragido se esconde dentro de uma carroça que transporta palha. O motivo? o fato do foragido ter quase 3 metros de altura e uma marca em seu rosto que o separa das demais raças humanoides. O Fugitivo é uma Fada, um campeão da Árvore, e seu corpo tem alto valor.
+
 ```
+
+
+![[Pasted image 20250310172620.png]]
+
 
 > Fadas são seres imortais escolhidos como vassalos da Árvore, sendo representantes de sua vontade. Fadas são essencialmente arautos divinos, nascendo com um propósito específico e morrendo definitivamente após o cumprir. Grandes em estatura, chegando até 4 metros de altura, e com uma pele sempre da tonalidade parda, as fadas são seres altamente cotadas no mercado negro por suas propriedades mágicas. Possuindo enorme conexão com a Árvore
 

@@ -1,1 +1,0 @@
-guilda de ladroes e assassinos 

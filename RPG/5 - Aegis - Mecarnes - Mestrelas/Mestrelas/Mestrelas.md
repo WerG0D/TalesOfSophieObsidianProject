@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 ```
 Um Arco na cor de branco-gelo, com sua corda feita de metal, emite um brilho azul escuro singular. É possível ver que o arco não é feito de madeira... mas de outra coisa, uma pedra, um cometa? Esse arco... Aegis emana dele!
 ```

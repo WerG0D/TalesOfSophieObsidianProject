@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 A guerra dos divinos ocorreu muito antes da chegada dos seres humanos a terra. Essa guerra envolveu [[Aerathys, a antiga]] e [[Oathwert, O profundo]], ambos com seus exércitos de seres espirituais e monstros. 
 
 O motivo da guerra foi que Oathwert roubou o bem mais precioso de Aerathys, a semente primordial. 

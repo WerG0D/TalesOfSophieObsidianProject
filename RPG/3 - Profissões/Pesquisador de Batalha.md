@@ -1,7 +1,17 @@
+---
+dg-publish: true
+---
+
+
 ```
-Alguns pesquisadores só ficam em um laboratório sem conhecer o mundo real, mas você não. Você entende que uma refeição preparada no momento certo pode mudar o rumo de uma batalha. Suas habilidades culinárias transformam ingredientes simples em pratos poderosos que curam, energizam e restauram a moral. Enquanto outros lutam com armas, você luta com panelas, facas e especiarias, garantindo que seus aliados estejam sempre prontos para enfrentar o próximo desafio. 
+"A pólvora, o aço e a magia colidem no campo de batalha – mas o verdadeiro poder vem do conhecimento. O Pesquisador de Batalha não apenas estuda a guerra, ele a molda, combinando estratégia, invenção e experimentação para mudar o destino de cada confronto."
 ```
 
+
+![](https://i.imgur.com/LdhC7kQ.png)
+
+
+>Os Pesquisadores de Batalha são mestres da inovação, cientistas e engenheiros que preferem a adrenalina do combate à segurança de um laboratório. Enquanto outros confiam apenas em lâminas e feitiços, eles trazem engenhocas imprevisíveis, estratégias engenhosas e descobertas alquímicas que podem virar a maré de uma luta. Seja aprimorando equipamentos, criando armas experimentais ou desvendando as fraquezas dos inimigos, um Pesquisador de Batalha é a mente brilhante que transforma cada combate em um teste – e cada vitória, em um avanço revolucionário.
 
 #### **Grau Inexperiente:** _Inovação nas Fronteiras_: Crie dispositivos únicos.
 

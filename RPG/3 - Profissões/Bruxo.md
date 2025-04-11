@@ -1,10 +1,17 @@
+---
+dg-publish: true
+---
+
 ```
-Aceite e aprimore sua hereditariedade, mas não deixe ela te dominar. Bruxos são inumanos que conseguem usar a Aegis de seus ancestrais através de um pacto de sangue. Escolha entre os Onis, Calamidades ou os Malditos:
+"O sangue chama, as vozes sussurram, os pactos exigem. O Bruxo não apenas herda o poder de seus ancestrais – ele o carrega como uma maldição, como um fardo que precisa ser dominado. A cada feitiço, uma dívida; a cada vitória, um preço a pagar."
 ```
+
+![](https://i.imgur.com/vMHWZmt.png)
+
 
 > Classe exclusiva da raça Inumano 
 
->Você era apenas um Inumano comum, mas algo no seu sangue despertou e veio até você, você viu uma oportunidade: Você tem em seu sangue algo profano, mas poderoso, então pode firmar um pacto com seu antigo pai, se tornando um filho assumido dele e assim se torna capaz de usar um pouco de sua Aegis, mesmo que outrora não conseguisse.
+>Os Bruxos são Inumanos que abraçaram sua linhagem, forjando pactos com os espíritos e entidades que habitam seu próprio sangue. Dotados da Aegis ancestral, eles canalizam forças antigas para moldar o mundo ao seu redor, mas nunca sem um custo. Oscilando entre a sabedoria e a insanidade, entre a servidão e o poder absoluto, eles caminham uma linha tênue entre controle e destruição, temidos por aqueles que não compreendem os horrores que os acompanham.
 
 ## ***Onis:*** 
 

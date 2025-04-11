@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 ### História:
 
 Terron era um xamã da tribo [[As raizes profundas]] conhecido por ser impiedoso com seus inimigos e implacável em batalha. Terron sempre quis se tornar um semideus, lutando e se aperfeiçoando em magia para impressionar a Árvore. Depois de anos de tentativas frustradas de se tornar um [[Semideuses]], Terron decidiu tomar por si só o poder da Árvore. Engajando-se em descobrir uma forma de usar a energia vital da Árvore para si, Terron aprendeu a usar as raízes da Árvore como fonte para potencializar magias e sua própria vida, se tornando o primeiro Xamã Profano. Roubando a força uma quantidade absurda da energia da Árvore, e ingerindo uma das Raízes profanadas, Terron se tornou o primeiro semideus a força. 

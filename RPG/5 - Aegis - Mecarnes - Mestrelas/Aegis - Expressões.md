@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 - **Jogadores e Expressões:** Jogadores podem criar uma Expressão de qualquer raridade exceto lendário no nível 1. No nível 6 o jogador é capaz de **Despertar** a sua expressão, para isso ele precisa estar em um momento de necessidade em combate ou ter treinado para isso anteriormente. O **Despertar** nada mais é do que uma transformação temporária do player, nessa transformação sua aparência física é alterada e o jogador aumenta os poderes da sua Canalização, reduzindo a dificuldade para lançar todas as ações em 4. Essa transformação sempre dura no máximo 4 turnos.
 	- **Despertar:** Pré-requisito: O jogador também só pode conjurar sua ação do Despertar em um combate após conjurar anteriormente pelo menos outras 3 ações, além disso o jogador deve sempre gritar o nome da sua transformação.
 

@@ -1,4 +1,9 @@
-Ao nascer, um usuário de Aegis tem sua categoria definida pela pura sorte. Role 1d6 para decidir sua categoria, ela é imutável por meios normais. 
+---
+dg-publish: true
+---
+
+
+Ao nascer, um usuário de Aegis tem sua categoria definida pela pura sorte. Role 1d5 para decidir sua categoria, ela é imutável por meios normais. 
 
 - **1 - Ciclo:** Os ***Mong's*** como são chamados dominadores do Ciclo. Dominam elementos da Natureza, podendo buscar encontrar a *eucrasia* (equilíbrio) ou a *discrasia* (desequilíbrio).
 	- Discrasia: A cada 3 pontos em Inalterabilidade acima de 10, o seu elemento escolhido causa 1d4 de dano/cura adicional em todas suas ações ou aumenta em 1 turno a duração.
@@ -11,8 +16,6 @@ Ao nascer, um usuário de Aegis tem sua categoria definida pela pura sorte. Role
 - **4 - Shinkigamis:** Aqueles que tem o **Aegis Shinkigamis** são chamados de ***Shinkis***, eles tem a capacidade de atravessar o Véu, conseguindo ter contato com espíritos e criaturas poderosas, assim como mais percepção do mundo ao seu redor. É possível firmar um pacto com as criaturas do Véu, trazendo-as como aliados ao plano terreno, utilizar de seus poderes em si mesmo ou em objetos, além disso **Shinkis** podem banir criaturas para o Véu também. A cada 25 pontos de Relacionamento acima de 0 você recebe +1d4 de dano/cura ou +1 turno de duração de suas ações.
 	
 - **5 - Chaos** Os possuintes do **Aegis Chaos**, chamados também de **Caóticos** são indivíduos no qual a habilidade pode ser pertencente a qualquer outro Aegis ou ser algo diferente de qualquer um deles. Exemplos de habilidade são: poderes da luz, escuridão, controle de energia, manipular o som, manipular vetores, manipular probabilidades, manipular pessoas, etc. Escolha 1 atributo de base relacionado ao seu Aegis, em Intelecto, Corpo e Psique, a cada 3 pontos nele você recebe +1d4 de dano/cura ou +1 turno de duração de suas ações.
-	
-- **6 - Trama:** Aqueles ligados a *Trama* são chamados de ***Bárions***, eles são indivíduos que tem o poder de manipular o tempo e/ou espaço. Podem possuir habilidades como por exemplo o teleporte, manipulação temporal, controle gravitacional, criação de portais, etc. Escolha 1 atributo de base, relacionado ao seu Aegis, em Intelecto, a cada 3 pontos nele você recebe +1d4 de dano/cura ou +1 turno de duração de suas ações.
 
 
  >Exemplos de habilidades nas categorias da Aegis
@@ -28,7 +31,3 @@ Ao nascer, um usuário de Aegis tem sua categoria definida pela pura sorte. Role
 - Shinkigamis: Ash Ketchum usava sua expressão da Aegis para atravessar o véu e trazer um espírito muito poderoso com poderes de Água chamado Greninja. Greninja auxiliava Ash em combate, assim como fornecia armas especiais como shurikens de água para Ash. O Pacto: Todo o dano que Greninja recebe durante a batalha na verdade é direcionado a Ash em dobro. Nome da habilidade: Gotta catch em all
 
 - Chaos: Arthur Fleck usava sua expressão da Aegis para invocar um revólver espiritual, que tinha chances de 50% de chance atirar um projétil que causava dano absurdo, ou 50% de chances de sair uma bandeira escrito "Bang!" do cano da arma. Cada vez que Arthur puxava o gatilho reduzia a sanidade do alvo. Além disso, Arthur após cumprir algumas condições poderia convidar o alvo para o Talkshow, um ambiente conjurado por Aegis, onde o alvo não conseguia usar suas técnicas ou ferir fisicamente Arthur. No Talkshow, Arthur é obrigado a fazer uma roleta russa com alvo, começando sempre por Arthur. Pacto: Para invocar esse revólver Arthur Fleck entrega boa parte de sua sanidade, se tornando um completo psicopata durante o uso da habilidade. Nome da Habilidade: Who's laughing now Murray?
-
-- Trama: Funestus, ao utilizar sua expressão da _Trama_, invoca _Jargal, o Tomo dos Mortos_, um tomo sombrio que lhe concede vislumbres sobre o futuro de vida e morte dos seres. Ao abrir o livro, ele pode ver a expectativa de vida de qualquer indivíduo dentro de seu campo de visão, conectado pelos fios invisíveis da _Trama_. Antes de abrir o livro, Funestus deve estabelecer uma aposta arriscada: ele estipula um número específico de anos como valor de referência. Se a expectativa de vida do alvo for maior que o valor estipulado, o uso do _Jargal_ se encerra sem efeitos, e Funestus não pode tentar a aposta com o mesmo alvo por 24 horas. Caso a expectativa de vida seja menor ou igual ao valor estipulado, Funestus ganha uma poderosa vantagem sobre o destino do alvo:
-1. **Drenar Expectativa de Vida:** Funestus pode reduzir a expectativa de vida do alvo em até 10 anos. Cada ano retirado enfraquece o destino do alvo, encurtando seu fio no tecido da _Trama_.
-2. **Escrever a Morte:** Quanto menos Funestus interferir na expectativa de vida, mais controle ele terá sobre os detalhes da morte do alvo. Se Funestus drenar poucos ou nenhum ano de vida, ele pode inserir descrições detalhadas e precisas sobre como o alvo morrerá, tecendo um cenário complexo e inevitável. Se ele reduzir ao máximo a expectativa de vida, o controle será mais limitado e a morte acontecerá de maneira abrupta, sem espaço para detalhes elaborados.

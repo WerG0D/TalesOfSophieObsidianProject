@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 ```
 Uma lâmina de odor pútrido é desembainhada pelo espadachim. É possível ver a lâmina pulsando, como se tivesse um coração ou órgãos internos... essa arma está viva!
 ```

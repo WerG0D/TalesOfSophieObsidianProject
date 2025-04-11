@@ -1,3 +1,16 @@
+---
+dg-home: true
+dg-publish: true
+---
+
+
+
+![](https://i.imgur.com/zNOh9J9.png)
+
+
+
+![](https://i.imgur.com/k1WGnxS.png)
+
 
 Há muito tempo, em um solitário planeta oceânico vagando pelo frio cosmos, surgiu o continente de Eldoria. Ao longo das eras, Eldoria tornou-se um lugar inóspito, com pouca vida em geral. A paisagem de Eldoria é marcada por diversas formações rochosas em locais surpreendentes, algumas vezes proporcionando vistas magníficas. Em algum momento durante o Pecado Capital, Eldoria foi atingida por um dilúvio, o qual prejudicou significativamente a vida no continente, destruindo tudo em seu caminho e transformando paisagens inteiras. Ainda hoje, é comum encontrar enormes lagos onde antes havia vales com diferentes tipos de arquitetura humana.
 
@@ -11,8 +24,6 @@ Cada pedra e cada ruína conta uma parte da história de Eldoria, uma história 
 
 Apesar de sua solidão e desolação, Eldoria exala uma beleza melancólica, uma aura de mistério que envolve quem se aventura por suas terras ancestrais. E enquanto o tempo continua seu inexorável avanço, Eldoria permanece como um testemunho silencioso do passado, aguardando aqueles que buscam desvendar seus segredos ocultos.
 
-No centro de Eldoria, A anciã ergue-se com esplendor vitorioso. A [[Árvore Anciã]] é uma árvore gigantesca com sua copa além das nuvens, que sobreviveu ao diluvio. Hoje ela abriga diversos povos que vivem nela, seja nas raízes, em plataformas no tronco, em Cracas deixado pelo diluvio, dentro da própria Anciã, e em sua copa, nas folhas e galhos. 
+No centro de Eldoria, A anciã ergue-se com esplendor vitorioso. A Árvore Anciã é uma árvore gigantesca com sua copa além das nuvens, que sobreviveu ao diluvio. Hoje ela abriga diversos povos que vivem nela, seja nas raízes, em plataformas no tronco, em Cracas deixado pelo diluvio, dentro da própria Anciã, e em sua copa, nas folhas e galhos. 
 
 Essa árvore é a base da civilização de Eldoria, e possui seu próprio ecossistema assim como povos que moram nela.
-
-#tales-of-sophie #eldoria #ancienttree 

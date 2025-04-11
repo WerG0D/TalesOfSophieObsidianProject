@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 Cada personagem pode vestir um total de 4 peças do conjunto de armadura.
 ### Conjunto 1: Monstros Oceânicos
 

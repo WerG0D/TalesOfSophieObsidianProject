@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 ### História: 
 Aelius Marwen era um alquimista talentoso e dedicado que servia ao rei de Thalassar com lealdade e devoção. Ele passou anos estudando os segredos da alquimia, buscando descobrir novas formas de magia e poder que pudessem beneficiar seu reino. Foi durante uma de suas pesquisas mais ambiciosas que ele descobriu a fórmula para criar o Éter Dourado.
 

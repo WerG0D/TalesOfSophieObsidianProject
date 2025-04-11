@@ -1,89 +1,137 @@
+---
+dg-publish: true
+---
 
--------------- IDENTIFICAÇÃO ---------------------
+# 📜 Ficha de Personagem - Eldoria RPG
 
-Nome do Jogador: 
-Nome do Personagem:
-Raça:
-Ancestralidade: 
-Profissão:
-Nível: 
+---
 
--------------- LIFE PATH ---------------------------
+## 🆔 IDENTIFICAÇÃO
 
-**História completa de seu personagem**: Escreva a história completa de seu personagem, pode ser aqui ou em um arquivo separado, seja longo se precisar, dê detalhes, construa um personagem no qual você queira jogar.
+- **Nome do Jogador**:  
+- **Nome do Personagem**:  
+- **Raça**:  
+- **Ancestralidade**:  
+- **Profissão**:  
+- **Grau**:  
 
-**Traços de personalidade**: pelo menos 3 características marcantes e dois defeitos (características marcantes são aspectos da personalidade que chamam atenção, como "raivoso" ou "sarcástico" e defeitos são desvios de caráter, como "mentiroso"
+---
 
-•**Aparência**; Como seu personagem se veste e suas feições físicas.
+## 🧬 LIFE PATH
 
-•**Afeição**: Qual é tua vibe? como você se porta nos ambientes? o que normalmente faz em um grupo de pessoas?
+### 🖋 História do Personagem
+> Escreva aqui a história completa do personagem. Seja longo se precisar, adicione detalhes, motivações, eventos marcantes.
 
-•**O que você mais valoriza?**: dinheiro? amor? glória?
+### 🧠 Traços de Personalidade
+Características marcantes:
+  - 
+  - 
+  - 
 
-•**Sentimentos sobre as pessoas**: Como você se sente sobre as pessoas? as odeia ? tem medo delas? Ama todas elas ou apenas os que se encaixarem no seu senso?
+Defeitos:
+  - 
+  - 
 
-•**Pessoa mais valorizada**: Você tem um melhor amigo? companheira ? familiar que mais goste? Ou é completamente sozinho?
+### 👤 Aparência
+> Descreva feições físicas, vestimentas e marcas únicas.
 
-•**Objeto mais valioso**: Uma flecha quebrada de sua primeira caça, um lenço do amor da sua vida, etc
+### 😎 Afeição
+> Como você se porta em ambientes? Seu comportamento com grupos?
 
-•**Background de sua família:** Você tem uma família importante? de onde eles vieram? 
+### 💎 O que você mais valoriza?
+> Dinheiro, amor, glória, conhecimento…?
 
-**•Ambiente de infância**: Onde você passou sua infância e como ela foi?
+###  ❤️ Sentimentos sobre as pessoas
+> Você ama, odeia, teme ou é indiferente às pessoas?
 
-•**Crise Familiar:** Você teve alguma crise familiar ou com seus amigos/gangue/banda? 
+### 👤 Pessoa mais valorizada
+> Melhor amigo, companheiro, parente favorito ou ninguém?
 
-•**Vícios e doenças**:  vícios e doenças como "alcoólatra" ou "esquizofrênico" (opcional)
+### 🗝️ Objeto mais valioso
+> Um item com valor sentimental.
 
-•**Objetivo de vida:** O que seu personagem almeja? Grandeza? Vingança?
+### 🧬 Background Familiar
+> História da sua família e sua origem.
 
-•**Evento trágico:** (opcional) Um evento que marcou seu personagem para sempre.
+### 🧒 Ambiente de infância
+> Onde cresceu? Como foi sua infância?
 
+### 💔 Crise Familiar
+> Algum trauma ou conflito importante com familiares ou amigos?
 
+### 🍷 Vícios e Doenças (opcional)
+> Ex: alcoólatra, insônia, esquizofrenia.
 
--------------- ATRIBUTOS BÁSICOS ---------------
+### 🏹 Objetivo de Vida
+> Vingança, glória, amor, equilíbrio, sabedoria…
 
-* HitPoints (HP):
-- Pontos Aegis:
-- Defesa: 7 
-* Sanidade: 100
-* Percepção: 7 
+### ☠️ Evento Trágico (opcional)
+> Algo que mudou sua vida para sempre.
 
-* Intelecto:
-> Erudição: 7
-> **Inalterabilidade:  7
-> Raciocínio: 7
+---
 
-* Fisico:
->Reação: 7
->Força: 7
->Vigor: 7
+## 📊 ATRIBUTOS BÁSICOS
 
-* Psique:
->Influência: 7 
->**Astúcia: 7 
->Moderação: 7 
+- **HitPoints (HP)**:  
+- **Pontos Aegis**:  
+- **Defesa**: 7  
+- **Sanidade**: 100  
+- **Percepção**: 7  
 
-- Aegis
->Canalização: 7
+### 🧠 Intelecto
+- Erudição: 7  
+- Inalterabilidade: 7  
+- Raciocínio: 7  
 
---------------PERÍCIAS ----------------------------
+### 💪 Físico
+- Reação: 7  
+- Força: 7  
+- Vigor: 7  
 
---------------TALENTOS ---------------------------
+### 🌀 Psique
+- Influência: 7  
+- Astúcia: 7  
+- Moderação: 7  
 
--------------- ITENS -------------------------------
+### ✨ Aegis
+- Canalização: 7  
 
--------------- ATAQUES ----------------------------
+---
 
--------------- MECARNES / MESTRELAS ----------
-Nome da arma:
-Aegis da arma:
-Condições e Pactos:
-Ações da arma:
+## 🎯 PERÍCIAS
+> Liste aqui as perícias aprendidas e os níveis das mesmas 
 
+---
 
--------------- AEGIS -----------------------------
-Nome da Expressão:
-Descrição da Expressão:
-Condições e pactos:
-Ações da expressão:
+## 🧬 TALENTOS
+> Liste aqui os talentos especiais e habilidades únicas.
 
+---
+
+## 🎒 ITENS
+> Descreva todos os itens importantes que o personagem possui.
+
+---
+
+## ⚔️ ATAQUES
+> Detalhe aqui os ataques básicos, mágicos ou corpo a corpo.
+
+---
+
+## ⚙️ MECARNES / MESTRELAS
+> Detalhe aqui suas mecarnes ou mestrelas, com suas aegis, pactos e ações da arma 
+- **Nome da Arma**:  
+- **Aegis da Arma**:  
+- **Condições e Pactos**:  
+- **Ações da Arma**:  
+
+---
+
+## 🌌 EXPRESSÕES DE AEGIS
+> Detalhe aqui suas expressões da Aegis, assim como seus pactos e ações. 
+- **Nome da Expressão**:  
+- **Descrição da Expressão**:  
+- **Condições e Pactos**:  
+- **Ações da Expressão**:  
+
+---

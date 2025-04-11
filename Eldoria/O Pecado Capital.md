@@ -1,4 +1,9 @@
+---
+dg-publish: true
+---
 #ancienttree #eldoria 
+
+
 
 O Pecado Capital foi o um grande acontecimento na história de [[Eldoria]]. 
 

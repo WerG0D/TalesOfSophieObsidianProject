@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 ## Resumo
 
 Radilhantes podem ser encontrados em vários locais da [[Árvore Anciã]], mas eles ficam sobretudo no pé da Árvore, próximos ao solo. É normalmente a primeira tribo que se tem contato ao chegar na Árvore. 

@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 ```
 A taverna se transformou em uma zona de combate. Bebidas voam de um lado para o outro, enquanto socos são trocados sem interrupção. No meio da peleja, um pequeno roedor humanóide espera pacientemente sua bebida no balcão, enquanto conversa com espíritos do outro lado do Véu. Enquanto os sons da luta se esvanecem no fundo, o Zytherin entra em um profundo estado de paz, sendo como uma calmaria no meio da tempestade.
 ```

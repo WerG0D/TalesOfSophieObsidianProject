@@ -1,6 +1,15 @@
+---
+dg-publish: true
+---
+
+
 ```
-Alguns mestres-cucas permanecem fazendo confeitos e doces nos castelos dos nobres, não você. Sua paixão pela culinária, ou o desejo de comer com qualidade, o levou a buscar por ingredientes novos e receitas extraordinárias, que podem ajudar seus aliados e a si mesmo.
+"Entre o caos do campo de batalha e a fome dos guerreiros, há aquele que transforma ingredientes em força, pratos em cura e especiarias em poder. O Cozinheiro de Batalha não é apenas um mestre da gastronomia, mas um alquimista de sabores, um estrategista que cozinha não apenas para nutrir, mas para vencer."
 ```
+
+![[Pasted image 20250320103408.png]]
+
+>Os Cozinheiros de Batalha são guerreiros culinários que combinam astúcia e habilidade gastronômica para fortalecer seus aliados e enfraquecer seus inimigos. Munidos de facas afiadas tanto para cortar carne quanto para cortar ameaças, eles extraem o potencial máximo dos ingredientes mais exóticos, preparando pratos que restauram, impulsionam e até mesmo concedem habilidades temporárias. São combatentes engenhosos que caminham entre o suporte e o reforço ofensivo, garantindo que a fome nunca seja um obstáculo – e que a comida sempre seja uma arma.
 
 ### Ingredientes
 
@@ -17,7 +26,7 @@ Alguns mestres-cucas permanecem fazendo confeitos e doces nos castelos dos nobre
 > 	- Fantástico: Em geral, carnes de monstros e humanoides quase sempre são fantásticas e difíceis de preparar. **Alimentos fantásticos adicionam +3 no valor nutricional do prato. O modificador de dificuldade é +3.**
 > 	- Lendário: São ingredientes totalmente únicos e inusitados, aqui entra carnes de monstros lendários, bestas lendárias e etc. **Alimentos lendários adicionam +4 no valor nutricional do prato. O modificador de dificuldade é +2.**
 > 	
-#### **Level 1:**
+#### **Grau Inexperiente:**
 
 >**Pau pra toda obra**: Recebe +2 em atributos a sua escolha, além disso você pode escolher um atributo para ter seu limite aumentado a 22.
 
@@ -75,7 +84,7 @@ _Técnicas Avançadas_: Eleve sua culinária a um nível superior.
 
 - **Pratos Mágicos Especiais do Chef**: Prepare pratos aprimorados que concedem efeitos específicos como recuperação de vida, ou aumentos significativos de atributos. Os pratos necessitam de ingredientes exóticos, e sua classe de dificuldade para preparar é sempre 16.  Falhar no preparo dos pratos supremos nunca remove os ingredientes. O tempo de preparo dos pratos mágicos especiais é de 5 horas, contudo caso o Cozinheiro tente preparar mais de 2 Pratos Mágicos por dia ele recebe 2 pontos de Exaustão. Além disso, um aliado não pode receber um efeito de um mesmo Prato Mágico novamente em menos de 3 dias. 
 
-    - **Banquete da Cura Total**:
+    - **Banquete dos Heróis**:
         - **Descrição**: Um prato lendário cura um aliado e remove todas as condições adversas.
         - Requisitos: 3 ingredientes exóticos de cada tipo.
         - **Efeito**: Restaura 5d10 + 10 dos Pontos de Vida de um aliado e remove efeitos de controle.

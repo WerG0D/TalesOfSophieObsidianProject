@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 ```
 Aqui sua aventura começa, meu compatriota. Invoque sua criatividade, seja alguem diferente de si mesmo por alguns momentos. Encarne o roleplay, conect-se ao mundo.
 ```
@@ -24,7 +30,7 @@ Aqui sua aventura começa, meu compatriota. Invoque sua criatividade, seja algue
 
 - **Sentimentos sobre as pessoas**: Como você se sente sobre as pessoas? as odeia ? tem medo delas? Ama todas elas ou apenas os que se encaixarem no seu senso?
 
-- Pessoa mais valorizada: Você tem um melhor amigo? companheira ? familiar que mais goste? Ou é completamente sozinho?
+- **Pessoa mais valorizada**: Você tem um melhor amigo? companheira ? familiar que mais goste? Ou é completamente sozinho?
 
 - **Objeto mais valioso**: Uma flecha quebrada de sua primeira caça, um lenço do amor da sua vida, etc.
 
@@ -46,7 +52,7 @@ Aqui sua aventura começa, meu compatriota. Invoque sua criatividade, seja algue
 
 >Veja tudo sobre atributos na sessão de atributos. 
 
->Todos os personagens começam com um total de 1d12 + 4 + (valor adicional da raça) pontos de atributo para distribuir entre todos os atributos. Lembre-se, os atributos tem no mínimo 7 pontos e no máximo 20. Distribua seus pontos da maneira mais sábia o possível. 
+>Todos os personagens começam com um total de 40 + (valor adicional da raça) pontos de atributo para distribuir entre todos os atributos. Lembre-se, os atributos tem no mínimo 7 pontos e no máximo 20. Distribua seus pontos da maneira mais sábia o possível. 
 
 # Passo 3: Itens iniciais:
 
@@ -58,12 +64,12 @@ Aqui sua aventura começa, meu compatriota. Invoque sua criatividade, seja algue
 
 # Passo 5: Mecarnes e Mestrelas
 
-> Veja a sessão de Aegis, mercanes e mestrelas para entender mais 
+> Veja a sessão de Aegis, [[Mecarnes]] e [[Mestrelas]] para entender mais 
 
 > Caso seu personagem faça uso de mecarnes ou mestrelas, anote a Aegis da arma, seus pactos e condições e dela.
 
 # Passo 6: Aegis
 
-> Veja a sessão de Aegis, crie a Aegis de seu personagem e anote na ficha as informações pertinentes. 
+> Veja a sessão de [[Aegis - Expressões]], crie a Aegis de seu personagem e anote na ficha as informações pertinentes. 
 
 

@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 ### Resumo:
 
 A tribo dos Sussurradores é um povo que habita dentro de cavernas na [[Árvore Anciã]]. O povo vive uma cultura relativamente tribal, com uma politica simples mas efetiva. Eles vivem em prol da seiva da árvore anciã, conhecida com Eldorsap.  Pode-se encontrar Sussurradores por todo o perimetro da árvore, normalmente escondidos, já que não gostam de contato com outras tribos.

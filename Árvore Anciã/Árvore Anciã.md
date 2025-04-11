@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 Á árvore Anciã, uma belíssima árvore que se estende acima das nuvens, chegando até a exosfera do planeta, é na verdade o que restou do corpo da deusa [[Aerathys, a antiga]].  deusa do [[Panteão]] de Eldoria. Após [[A Guerra dos Divinos]] Aerathys perdeu seu corpo original, reencarnando como a  Árvore anciã;
 
 Essa enorme Árvore viu civilizações inteiras serem extintas e novas recomeçarem, sempre estando lá, presente. Durante o [[O Pecado Capital]], a Árvore serviu de refugio para humanos e animais que queriam se abrigar do dilúvio. 

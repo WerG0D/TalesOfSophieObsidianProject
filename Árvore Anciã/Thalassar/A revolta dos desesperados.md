@@ -1,10 +1,15 @@
+---
+dg-publish: true
+---
+
+
 Durante o reinado de Doug Abdul, O povo de [[Árvore Anciã/Thalassar/Thalassar]] começou a se fartar dos malefícios causados pela evolução da sociedade. O trabalho era abusivo, e a jornada de trabalho era tão árdua que muitos esqueciam como era antes da evolução tecnológica e da mineração. 
 
 Os habitantes de Thalassar todos os dias perdiam horas de vida a troco de moedas, para poder comprar água e comida. Depois de alguns anos dessa maneira, o povo se cansou. Não fazia sentido perder a liberdade por alguns trocados.
 
 O Lord [[Edgar Mustawind, o perdedor]] sentindo a dor do povo, os chamou a luta. Seu plano era fazer uma marcha pacifica na [[Cidade Alta Frondosa]], capital do reino. Se o rei não acatasse os desejos do povo, a revolta se tornaria violenta. 
 
-Edgar, confiando seus planos a seu irmão, [[Lord Valerian, o Dourado]], reuniu também outros rostos da revolução, como o [[Professor Lemiux]] e o [[Lord Bardolph Festejador]]
+Edgar, confiando seus planos a seu irmão, [[Lord Valerian, o Dourado]], reuniu também outros rostos da revolução, como o [[Professor Lemiux]] e o [[Lord Rodolph Festejador]]
 
 Lemiux foi encarregado de educar o povo a respeito de outras maneiras de governo, assim como de espalhar a informação da Revolta de maneira discreta.
 

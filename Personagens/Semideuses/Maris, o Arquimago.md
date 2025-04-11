@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 ### História:
 
 Maris era um mago e estudioso dos [[Os Radilhantes]], conhecido por sua paixão pela exploração da magia e pela busca de conhecimento além da compreensão. Ele foi abençoado por Aerathys por sua devoção à compreensão dos mistérios do universo, tornando-se um dos magos mais poderosos da tribo, chegando ao titulo de Arquimago e [[Semideuses]] após concluir sua jornada imortal, consumindo a fruta do conhecimento, que só nasce na Árvore Anciã uma vez a cada 1000 anos.

@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 
 #### Resumo:
 Semideuses são humanos ascendidos a divindade por terem chamado atenção dos deuses do [[Panteão]] de Eldoria, recebendo a oportunidade de fazer a [[A jornada dos imortais]], consumindo partes do corpo dos deuses e adquirindo porcentagens do poder deles. 

@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 
 Oathwert, O profundo, sempre existiu em conjunto de sua irmã, [[Aerathys, a antiga]]. 
 

@@ -1,4 +1,9 @@
- ## Resumo
+---
+dg-publish: true
+---
+
+ 
+## Resumo
 
 O reino de Thalassar é sem dúvidas a maior estrutura social humana que habita a Árvore anciã, sendo uma oligarquia monárquica hereditária, Thalassar é composta por inúmeros tipos de povos, sendo vários de outras tribos ao redor da Árvore anciã;
 
@@ -63,7 +68,7 @@ No topo da árvore anciã, os minerais são processados e refinados em metais pr
 Thalassar é conhecida por sua arquitetura majestosa, que combina elementos naturais e mágicos em construções impressionantes. Pode haver grandes palácios, templos ornamentados e monumentos esculturais que refletem a história e os valores do reino. Além disso, a arte visual, como pintura e escultura, pode ser altamente valorizada, retratando paisagens deslumbrantes, figuras lendárias e temas mitológicos.
 
 #### Música e dança: 
-A música desempenha um papel importante na vida cotidiana de Thalassar, com uma rica tradição de canções folclóricas, melodias instrumentais e danças vibrantes. Festivais sazonais podem ser marcados por apresentações musicais e competições de dança, onde os artistas demonstram suas habilidades e celebram a cultura do reino. Um artista muito conhecido é [[Lord Bardolph Festejador]]
+A música desempenha um papel importante na vida cotidiana de Thalassar, com uma rica tradição de canções folclóricas, melodias instrumentais e danças vibrantes. Festivais sazonais podem ser marcados por apresentações musicais e competições de dança, onde os artistas demonstram suas habilidades e celebram a cultura do reino. Um artista muito conhecido é [[Lord Rodolph Festejador]]
 
 #### Literatura e Histórias:
 

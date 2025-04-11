@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 Alguns anos depois de Aerion e o Reino de Thalassar, um plebeu de Thalassar decidiu que estava farto de viver em condições precárias, decidindo contrariar o monarca de Thalassar. Foi então que por seus atos rebeldes, Kael teve sua língua cortada para que "nunca mais ousasse sequer sussurrar o nome do rei em vão"
 
 Após isso, Kael foi banido de Thalassar, sendo forçado descer a Árvore anciã. 

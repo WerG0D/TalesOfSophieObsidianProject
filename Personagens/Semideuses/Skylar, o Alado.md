@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 ### História: 
 
 Skylar é um [[Semideuses]] e um explorador intrépido da tribo dos [[Os Cracanos]], conhecido por sua coragem em desbravar as ruínas antigas e descobrir segredos perdidos. Ele foi abençoado por Aerathys por sua determinação em explorar os mistérios do céu. Skylar sempre gostou de explorar as ruínas que os primeiros homens deixaram em suas ilhas voadoras, usando seus aparatos e tudo mais.

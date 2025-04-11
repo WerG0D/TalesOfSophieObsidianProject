@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 O Éter Dourado é uma substância mágica e misteriosa que desempenha um papel central na economia e na sociedade de Thalassar. O uso do Éter deixa quem o utilizou em um estado de êxtase extremo, fazendo o usuário perder a noção do tempo e até mesmo esquecer suas preocupações durante o tempo de utilização.
 
 ### Produção do Éter Dourado: 

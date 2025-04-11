@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 ### **Armas mundanas:**
 
 Não são Armus Mortis, são apenas itens comuns com ingredientes mundanos.

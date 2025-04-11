@@ -1,3 +1,9 @@
+---
+dg-publish: true
+---
+
+
+
 ### Resumo:
 
 Radagarst, o sombrio, é um antagonista poderoso em Eldoria, cuja jornada sombria foi moldada por tragédias pessoais e a busca por poder e vingança. Órfão após a morte brutal de seus pais em uma conspiração de nobres corruptos da época do reinado dos primeiros homens, Radagarst jurou vingança contra aqueles que o traíram. Sua busca por poder o levou a descobrir o "Tomo das Ondas negras", um livro proibido de magia oceânica. Esse livro o levou a entrar em contato com a magia oceânica, entendendo muito sobre os poderes do oceano e de seu deus. Determinado a obter justiça e poder, Radagarst fez um pacto sombrio com [[Oathwert, O profundo]], comprometendo sua alma em troca de poderes sobrenaturais e vingança contra seus inimigos. Essa aliança sinistra mergulhou Radagarst em um abismo de escuridão e corrupção, transformando-o em um agente da escuridão determinado a semear o caos e a destruição em Eldoria. Desistindo de todas as suas posses terrenas, Radagarst juntou os piores homens da época em uma tripulação pirata, e durante anos assolaram os reinos dos primeiros homens, trazendo o sangue dos que ousavam explorar o mar até a atenção de Oathwert. Um dia, Oathwert decidiu transformar Radagarst em seu avatar, um semideus completo. Para isso, ele deveria rumar até os confins do oceano e enfrentar um dos filhos mais fortes de Oathwert, o gigantesco Kraken. Após uma batalha que custou seu olho, Radagarst ingeriu os  6 corações do Kraken, finalizando sua jornada imortal. 

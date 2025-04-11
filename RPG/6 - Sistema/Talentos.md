@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 **Você pode escolher um Talento no começo do Jogo, esse Talento começa com 2 pontos.**
 
 >Você recebe +3 pontos de Talento no Grau Inexperiente e mais +3 ponto no Grau Experientes, depois novamente +4 pontos no Grau Mestre. Deve usar os pontos imediatamente ao ganhar.
